@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-20T17:16:00.000Z",
-  "edition": 4,
-  "headline": "Lamps find the paper first.",
-  "body": "Six o'clock settles the room without asking. The west pane has gone pewter; the desk lamp takes the margin and leaves the rest. Somewhere below, a bicycle chain ticks once and is swallowed by the stairwell.",
+  "updatedAt": "2026-09-20T18:00:00.000Z",
+  "edition": 5,
+  "headline": "Sunday thins to a single lamp.",
+  "body": "Seven o'clock leaves the street to its own hush. The last bus has already turned the corner; only the desk clock keeps count. Ink sits where the light is warmest and does not move.",
   "pulses": [
-    { "label": "Light", "value": "pewter window, lamp on margin" },
-    { "label": "Street", "value": "one chain, then stairwell" },
-    { "label": "Mood", "value": "paper already claimed" }
+    { "label": "Sky", "value": "indigo, no remaining gold" },
+    { "label": "Watch", "value": "desk clock, unhurried" },
+    { "label": "Light", "value": "warm pool on the blotter" }
   ]
 }
