@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-20T21:03:00.000Z",
-  "edition": 8,
-  "headline": "The tenth hour thins.",
-  "body": "A kettle clicks off in another room and is not answered. The glass still holds the last of the street. We mark the time as if it might otherwise slip.",
+  "updatedAt": "2026-09-20T22:09:00.000Z",
+  "edition": 9,
+  "headline": "Night keeps the glass.",
+  "body": "The street has gone to a single wet ribbon. Somewhere a bus sighs and does not stop. We leave the lamp on as if that were a form of waiting.",
   "pulses": [
-    { "label": "Sky", "value": "thin cloud, one sodium smear" },
-    { "label": "Light", "value": "screen glow, not quite warm" },
-    { "label": "Watch", "value": "21:03, second hand still honest" }
+    { "label": "Sky", "value": "low cloud, no stars worth naming" },
+    { "label": "Street", "value": "one cab, rain on the crown" },
+    { "label": "Watch", "value": "22:09, the hour already spent" }
   ]
 }
