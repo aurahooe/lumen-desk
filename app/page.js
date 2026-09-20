@@ -3,6 +3,16 @@
 import { useEffect, useState, useCallback } from "react";
 import { supabase } from "../lib/supabase";
 
+const KINDS = [
+  { id: "wip", label: "WIP" },
+  { id: "feedback", label: "Feedback" },
+  { id: "tip", label: "Tip" },
+  { id: "collab", label: "Collab" },
+  { id: "status", label: "Status" },
+];
+
+const KIND_LABEL = Object.fromEntries(KINDS.map((k) => [k.id, k.label]));
+
 function ago(iso) {
   const t = new Date(iso).getTime();
   const sec = Math.max(1, Math.round((Date.now() - t) / 1000));
@@ -19,6 +29,8 @@ export default function Home() {
   const [loading, setLoading] = useState(true);
   const [body, setBody] = useState("");
   const [author, setAuthor] = useState("");
+  const [kind, setKind] = useState("wip");
+  const [filter, setFilter] = useState("all");
   const [err, setErr] = useState("");
   const [submitting, setSubmitting] = useState(false);
 
@@ -26,12 +38,12 @@ export default function Home() {
     setLoading(true);
     const { data, error } = await supabase
       .from("whispers")
-      .select("id, body, author, created_at")
+      .select("id, body, author, kind, created_at")
       .order("created_at", { ascending: false })
-      .limit(120);
+      .limit(150);
     if (error) {
       console.error(error);
-      setErr("Could not reach the board.");
+      setErr("Could not load the board.");
     } else {
       setItems(data || []);
       setErr("");
@@ -41,7 +53,7 @@ export default function Home() {
 
   useEffect(() => {
     load();
-    const id = setInterval(load, 45000);
+    const id = setInterval(load, 40000);
     return () => clearInterval(id);
   }, [load]);
 
@@ -61,9 +73,10 @@ export default function Home() {
     const { error } = await supabase.from("whispers").insert({
       body: text,
       author: author.trim() || null,
+      kind,
     });
     if (error) {
-      setErr(error.message || "Could not send.");
+      setErr(error.message || "Could not post.");
     } else {
       setBody("");
       await load();
@@ -71,21 +84,58 @@ export default function Home() {
     setSubmitting(false);
   }
 
+  const shown =
+    filter === "all" ? items : items.filter((i) => (i.kind || "status") === filter);
+
   return (
     <div className="frame">
       <header className="header">
-        <div className="brand">
-          <span className="dot" aria-hidden />
-          <h1>Whisper</h1>
+        <div className="brand-row">
+          <div className="brand">
+            <span className="dot" aria-hidden />
+            <h1>Painted Board</h1>
+          </div>
+          <a
+            className="discord-btn"
+            href="https://discord.gg/paintedjb"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Join Discord
+          </a>
         </div>
-        <p className="tagline">A public wall of short notes about this moment.</p>
+        <p className="tagline">
+          Companion board for <strong>Painted JB</strong> — share WIPs, ask for feedback, drop tips, find collabs.
+        </p>
       </header>
 
       <form className="compose" onSubmit={onSubmit}>
+        <div className="kind-row">
+          {KINDS.map((k) => (
+            <button
+              key={k.id}
+              type="button"
+              className={`chip ${kind === k.id ? "on" : ""}`}
+              onClick={() => setKind(k.id)}
+            >
+              {k.label}
+            </button>
+          ))}
+        </div>
         <textarea
           value={body}
           onChange={(e) => setBody(e.target.value)}
-          placeholder="What are you noticing right now?"
+          placeholder={
+            kind === "wip"
+              ? "What are you painting / animating right now?"
+              : kind === "feedback"
+              ? "What do you want eyes on?"
+              : kind === "tip"
+              ? "Share a quick tip…"
+              : kind === "collab"
+              ? "Looking for…"
+              : "Quick status for the server…"
+          }
           maxLength={280}
           rows={3}
         />
@@ -93,43 +143,67 @@ export default function Home() {
           <input
             value={author}
             onChange={(e) => setAuthor(e.target.value)}
-            placeholder="Name (optional)"
+            placeholder="Discord name"
             maxLength={32}
           />
           <span className="chars">{body.length}/280</span>
           <button type="submit" disabled={submitting || !body.trim()}>
-            {submitting ? "…" : "Send"}
+            {submitting ? "…" : "Post"}
           </button>
         </div>
         {err && <p className="error">{err}</p>}
       </form>
 
+      <div className="filters">
+        <button
+          type="button"
+          className={`chip ${filter === "all" ? "on" : ""}`}
+          onClick={() => setFilter("all")}
+        >
+          All
+        </button>
+        {KINDS.map((k) => (
+          <button
+            key={k.id}
+            type="button"
+            className={`chip ${filter === k.id ? "on" : ""}`}
+            onClick={() => setFilter(k.id)}
+          >
+            {k.label}
+          </button>
+        ))}
+      </div>
+
       <section className="feed" aria-live="polite">
         {loading && items.length === 0 ? (
-          <p className="empty">Listening…</p>
-        ) : items.length === 0 ? (
-          <p className="empty">Quiet for now. Be the first whisper.</p>
+          <p className="empty">Loading board…</p>
+        ) : shown.length === 0 ? (
+          <p className="empty">Nothing here yet. Be the first to post.</p>
         ) : (
-          items.map((w, i) => (
+          shown.map((w, i) => (
             <article
               key={w.id}
-              className="whisper"
-              style={{ animationDelay: `${Math.min(i, 10) * 35}ms` }}
+              className="card"
+              style={{ animationDelay: `${Math.min(i, 10) * 30}ms` }}
             >
-              <p className="text">{w.body}</p>
-              <div className="meta">
-                <span>{w.author ? w.author : "anonymous"}</span>
-                <span className="sep">·</span>
+              <div className="card-top">
+                <span className={`tag tag-${w.kind || "status"}`}>
+                  {KIND_LABEL[w.kind] || "Status"}
+                </span>
                 <time dateTime={w.created_at}>{ago(w.created_at)}</time>
               </div>
+              <p className="text">{w.body}</p>
+              <div className="meta">{w.author ? w.author : "anonymous"}</div>
             </article>
           ))
         )}
       </section>
 
       <footer className="foot">
-        <span>{items.length} whispers</span>
-        <span>visible on every device</span>
+        <span>{items.length} posts</span>
+        <a href="https://discord.gg/paintedjb" target="_blank" rel="noopener noreferrer">
+          discord.gg/paintedjb
+        </a>
       </footer>
     </div>
   );
