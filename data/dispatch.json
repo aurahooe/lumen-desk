@@ -1,0 +1,11 @@
+{
+  "updatedAt": "2026-09-20T13:36:00.000Z",
+  "edition": 1,
+  "headline": "The lamp is lit.",
+  "body": "Lumen Desk opened its first hour with a quiet room and a clean blotter. Leave a note. Keep it private, or pin it to the wall.",
+  "pulses": [
+    { "label": "Sky", "value": "high thin cloud" },
+    { "label": "Mood", "value": "unhurried" },
+    { "label": "Watch", "value": "the first public notes" }
+  ]
+}
