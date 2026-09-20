@@ -3,46 +3,37 @@
 import { useEffect, useState, useCallback } from "react";
 import { supabase } from "../lib/supabase";
 
-function hostFromUrl(url) {
-  try {
-    return new URL(url).hostname.replace(/^www\./, "");
-  } catch {
-    return "link";
-  }
-}
-
 function ago(iso) {
   const t = new Date(iso).getTime();
-  const m = Math.max(1, Math.round((Date.now() - t) / 60000));
-  if (m < 60) return `${m}m ago`;
+  const sec = Math.max(1, Math.round((Date.now() - t) / 1000));
+  if (sec < 60) return `${sec}s`;
+  const m = Math.round(sec / 60);
+  if (m < 60) return `${m}m`;
   const h = Math.round(m / 60);
-  if (h < 48) return `${h}h ago`;
-  return new Date(iso).toLocaleDateString();
+  if (h < 48) return `${h}h`;
+  return new Date(iso).toLocaleDateString(undefined, { month: "short", day: "numeric" });
 }
 
 export default function Home() {
-  const [links, setLinks] = useState([]);
+  const [items, setItems] = useState([]);
   const [loading, setLoading] = useState(true);
-  const [search, setSearch] = useState("");
-  const [url, setUrl] = useState("");
-  const [note, setNote] = useState("");
+  const [body, setBody] = useState("");
   const [author, setAuthor] = useState("");
   const [err, setErr] = useState("");
-  const [ok, setOk] = useState("");
   const [submitting, setSubmitting] = useState(false);
 
   const load = useCallback(async () => {
     setLoading(true);
     const { data, error } = await supabase
-      .from("links")
-      .select("id, url, note, author, created_at")
+      .from("whispers")
+      .select("id, body, author, created_at")
       .order("created_at", { ascending: false })
-      .limit(200);
+      .limit(120);
     if (error) {
       console.error(error);
-      setErr("Could not load the shelf. Check Supabase setup.");
+      setErr("Could not reach the board.");
     } else {
-      setLinks(data || []);
+      setItems(data || []);
       setErr("");
     }
     setLoading(false);
@@ -50,150 +41,96 @@ export default function Home() {
 
   useEffect(() => {
     load();
+    const id = setInterval(load, 45000);
+    return () => clearInterval(id);
   }, [load]);
 
   async function onSubmit(e) {
     e.preventDefault();
     setErr("");
-    setOk("");
+    const text = body.trim();
+    if (!text) {
+      setErr("Write something first.");
+      return;
+    }
+    if (text.length > 280) {
+      setErr("Keep it under 280 characters.");
+      return;
+    }
     setSubmitting(true);
-
-    let finalUrl = url.trim();
-    if (!finalUrl) {
-      setErr("Paste a link first.");
-      setSubmitting(false);
-      return;
-    }
-    if (!/^https?:\/\//i.test(finalUrl)) {
-      finalUrl = "https://" + finalUrl;
-    }
-
-    try {
-      new URL(finalUrl);
-    } catch {
-      setErr("That does not look like a valid URL.");
-      setSubmitting(false);
-      return;
-    }
-
-    const payload = {
-      url: finalUrl,
-      note: note.trim() || null,
+    const { error } = await supabase.from("whispers").insert({
+      body: text,
       author: author.trim() || null,
-    };
-
-    const { error } = await supabase.from("links").insert(payload);
+    });
     if (error) {
-      setErr(error.message || "Could not save the link.");
+      setErr(error.message || "Could not send.");
     } else {
-      setOk("Added to the shelf.");
-      setUrl("");
-      setNote("");
+      setBody("");
       await load();
     }
     setSubmitting(false);
   }
 
-  const q = search.trim().toLowerCase();
-  const filtered = q
-    ? links.filter(
-        (l) =>
-          (l.note || "").toLowerCase().includes(q) ||
-          (l.author || "").toLowerCase().includes(q) ||
-          (l.url || "").toLowerCase().includes(q) ||
-          hostFromUrl(l.url).includes(q)
-      )
-    : links;
-
   return (
-    <div className="shell">
-      <header className="topbar">
-        <div className="mark">
-          <b>Lumen Shelf</b>
-          <span>shared links</span>
+    <div className="frame">
+      <header className="header">
+        <div className="brand">
+          <span className="dot" aria-hidden />
+          <h1>Whisper</h1>
         </div>
-        <div className="nav">
-          <span className="count">{links.length} on the shelf</span>
-        </div>
+        <p className="tagline">A public wall of short notes about this moment.</p>
       </header>
 
-      <section className="hero">
-        <div>
-          <p className="kicker">Public resource dump</p>
-          <h1>Drop useful links. Find them later on any device.</h1>
-          <p className="lede">
-            A simple shared shelf. Paste a URL, add a short note if you want, and it appears for everyone — phone, laptop, or tablet.
-          </p>
-        </div>
-
-        <form className="panel submit" onSubmit={onSubmit}>
-          <p className="kicker">Add to the shelf</p>
-          <label>Link</label>
-          <input
-            value={url}
-            onChange={(e) => setUrl(e.target.value)}
-            placeholder="https://…"
-            inputMode="url"
-            autoComplete="url"
-          />
-          <label>Note (optional)</label>
-          <input
-            value={note}
-            onChange={(e) => setNote(e.target.value)}
-            placeholder="Why is this useful?"
-            maxLength={280}
-          />
-          <label>Your name (optional)</label>
+      <form className="compose" onSubmit={onSubmit}>
+        <textarea
+          value={body}
+          onChange={(e) => setBody(e.target.value)}
+          placeholder="What are you noticing right now?"
+          maxLength={280}
+          rows={3}
+        />
+        <div className="compose-bar">
           <input
             value={author}
             onChange={(e) => setAuthor(e.target.value)}
-            placeholder="Anonymous is fine"
-            maxLength={40}
+            placeholder="Name (optional)"
+            maxLength={32}
           />
-          {err && <p className="error">{err}</p>}
-          {ok && <p className="ok">{ok}</p>}
-          <div className="row">
-            <button className="solid" type="submit" disabled={submitting}>
-              {submitting ? "Saving…" : "Put on shelf"}
-            </button>
-          </div>
-        </form>
-      </section>
-
-      <section className="wall">
-        <div className="wall-head">
-          <h3>The shelf</h3>
-          <input
-            className="search"
-            value={search}
-            onChange={(e) => setSearch(e.target.value)}
-            placeholder="Search notes, sites, or names…"
-          />
+          <span className="chars">{body.length}/280</span>
+          <button type="submit" disabled={submitting || !body.trim()}>
+            {submitting ? "…" : "Send"}
+          </button>
         </div>
+        {err && <p className="error">{err}</p>}
+      </form>
 
-        {loading ? (
-          <p className="empty">Loading the shelf…</p>
-        ) : filtered.length === 0 ? (
-          <p className="empty">
-            {q ? "No matches." : "Shelf is empty. Be the first to add something useful."}
-          </p>
+      <section className="feed" aria-live="polite">
+        {loading && items.length === 0 ? (
+          <p className="empty">Listening…</p>
+        ) : items.length === 0 ? (
+          <p className="empty">Quiet for now. Be the first whisper.</p>
         ) : (
-          <div className="grid">
-            {filtered.map((l, i) => (
-              <article className="card" key={l.id} style={{ animationDelay: `${Math.min(i, 12) * 40}ms` }}>
-                <a className="url" href={l.url} target="_blank" rel="noopener noreferrer">
-                  {hostFromUrl(l.url)}
-                </a>
-                {l.note && <div className="body">{l.note}</div>}
-                <div className="meta">
-                  <span className="who">{l.author ? `@${l.author}` : "anonymous"}</span>
-                  <span className="when">{ago(l.created_at)}</span>
-                </div>
-              </article>
-            ))}
-          </div>
+          items.map((w, i) => (
+            <article
+              key={w.id}
+              className="whisper"
+              style={{ animationDelay: `${Math.min(i, 10) * 35}ms` }}
+            >
+              <p className="text">{w.body}</p>
+              <div className="meta">
+                <span>{w.author ? w.author : "anonymous"}</span>
+                <span className="sep">·</span>
+                <time dateTime={w.created_at}>{ago(w.created_at)}</time>
+              </div>
+            </article>
+          ))
         )}
       </section>
+
+      <footer className="foot">
+        <span>{items.length} whispers</span>
+        <span>visible on every device</span>
+      </footer>
     </div>
   );
 }
