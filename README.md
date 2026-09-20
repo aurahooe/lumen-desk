@@ -1,39 +1,24 @@
-# Whisper
+# Painted Board
 
-A public wall of short notes about this moment.
-Anyone can leave a whisper. They appear for everyone, on every device.
+Companion board for the **Painted JB** Discord ([discord.gg/paintedjb](https://discord.gg/paintedjb)).
+
+Members post:
+- **WIP** — what they’re painting / animating
+- **Feedback** — what they want eyes on
+- **Tip** — quick craft tips
+- **Collab** — looking for partners
+- **Status** — general updates
+
+Everything is public and syncs across devices via Supabase.
 
 ## Stack
 
-- Next.js 14 (App Router)
-- Supabase (Postgres)
-- Fully responsive
+- Next.js 14
+- Supabase (`whispers` table + `kind` column)
 
-## Database
-
-Table `whispers`:
-
-```sql
-create table public.whispers (
-  id uuid primary key default gen_random_uuid(),
-  body text not null check (char_length(body) between 1 and 280),
-  author text,
-  created_at timestamptz not null default now()
-);
-```
-
-Public read + insert via RLS.
-
-## Environment
+## Env
 
 ```
 NEXT_PUBLIC_SUPABASE_URL=
 NEXT_PUBLIC_SUPABASE_ANON_KEY=
-```
-
-## Local
-
-```bash
-npm install
-npm run dev
 ```
