@@ -1,20 +1,16 @@
-# Painted Board
+# Painted Drop
 
-Companion board for the **Painted JB** Discord ([discord.gg/paintedjb](https://discord.gg/paintedjb)).
+Gofile-style file drop for **Painted JB** ([discord.gg/paintedjb](https://discord.gg/paintedjb)).
 
-Members post:
-- **WIP** — what they’re painting / animating
-- **Feedback** — what they want eyes on
-- **Tip** — quick craft tips
-- **Collab** — looking for partners
-- **Status** — general updates
-
-Everything is public and syncs across devices via Supabase.
+- Drag & drop upload (max 50 MB)
+- Public share links (Supabase Storage)
+- Recent drops list with copy link
+- Optional Discord name on upload
 
 ## Stack
 
 - Next.js 14
-- Supabase (`whispers` table + `kind` column)
+- Supabase Storage bucket `drops` + table `public.drops`
 
 ## Env
 
