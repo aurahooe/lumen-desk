@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-20T22:09:00.000Z",
-  "edition": 9,
-  "headline": "Night keeps the glass.",
-  "body": "The street has gone to a single wet ribbon. Somewhere a bus sighs and does not stop. We leave the lamp on as if that were a form of waiting.",
+  "updatedAt": "2026-09-20T23:11:00.000Z",
+  "edition": 10,
+  "headline": "Midnight keeps the lamp.",
+  "body": "The street has emptied to a few wet tyres and a distant shutter. Tea has gone cold beside the keyboard. We stay because the hour has not yet decided what it is.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, no stars worth naming" },
-    { "label": "Street", "value": "one cab, rain on the crown" },
-    { "label": "Watch", "value": "22:09, the hour already spent" }
+    { "label": "Sky", "value": "thin moon, chimney in the way" },
+    { "label": "Street", "value": "two cabs, no one waving" },
+    { "label": "Watch", "value": "00:11 BST, the page still blank" }
   ]
 }
