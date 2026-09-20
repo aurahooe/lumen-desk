@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-20T19:13:00.000Z",
-  "edition": 6,
-  "headline": "Eight o'clock keeps the blinds half-drawn.",
-  "body": "The hour settles without announcement. A kettle clicks off in another room and the street below gives up its last footsteps. We leave the page open and do not turn it yet.",
+  "updatedAt": "2026-09-20T20:12:00.000Z",
+  "edition": 7,
+  "headline": "Nine keeps the lamp low.",
+  "body": "The window has gone from blue to black without asking. Somewhere a radio plays something old enough to know better. We mark the hour and leave the rest unsaid.",
   "pulses": [
-    { "label": "Sky", "value": "navy pressed against the glass" },
-    { "label": "Mood", "value": "late-room, unhurried" },
-    { "label": "Street", "value": "one car, then none" }
+    { "label": "Sky", "value": "black glass, one distant aircraft" },
+    { "label": "Light", "value": "desk lamp, warm and stubborn" },
+    { "label": "Street", "value": "empty pavement, wet from earlier" }
   ]
 }
