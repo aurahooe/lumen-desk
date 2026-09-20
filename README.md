@@ -1,63 +1,39 @@
-# Lumen Shelf
+# Whisper
 
-A public shared link & resource dump. Anyone can drop a useful link with an optional note. Everything lives in a real database, so it shows on every device (phone, laptop, tablet).
+A public wall of short notes about this moment.
+Anyone can leave a whisper. They appear for everyone, on every device.
 
 ## Stack
 
 - Next.js 14 (App Router)
-- Supabase (Postgres) for public links
+- Supabase (Postgres)
 - Fully responsive
 
-## Setup (required once)
+## Database
 
-### 1. Create a free Supabase project
-
-1. Go to [https://supabase.com](https://supabase.com) → New project
-2. Copy the **Project URL** and **anon public** key (Settings → API)
-
-### 2. Create the table
-
-In the Supabase SQL editor, run:
+Table `whispers`:
 
 ```sql
-create table public.links (
+create table public.whispers (
   id uuid primary key default gen_random_uuid(),
-  url text not null,
-  note text,
+  body text not null check (char_length(body) between 1 and 280),
   author text,
   created_at timestamptz not null default now()
 );
-
--- Allow anyone to read and insert (public shelf)
-alter table public.links enable row level security;
-
-create policy "Public read"
-  on public.links for select
-  using (true);
-
-create policy "Public insert"
-  on public.links for insert
-  with check (true);
 ```
 
-### 3. Environment variables
+Public read + insert via RLS.
 
-Copy `.env.example` → `.env.local` (local) and also add the same values in the **Vercel project → Settings → Environment Variables**:
+## Environment
 
 ```
-NEXT_PUBLIC_SUPABASE_URL=https://xxxx.supabase.co
-NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOi...
+NEXT_PUBLIC_SUPABASE_URL=
+NEXT_PUBLIC_SUPABASE_ANON_KEY=
 ```
 
-### 4. Run locally
+## Local
 
 ```bash
 npm install
 npm run dev
 ```
-
-Open [http://localhost:3000](http://localhost:3000).
-
-## Deploy
-
-Pushes to `main` auto-deploy on Vercel. Make sure the two `NEXT_PUBLIC_SUPABASE_*` env vars are set in the Vercel dashboard (Production + Preview).
