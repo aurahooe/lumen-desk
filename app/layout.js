@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Lumen Shelf",
-  description: "A public shelf of useful links. Drop a resource, find it later on any device.",
+  title: "Whisper",
+  description: "A public wall of short notes about this moment. Visible on every device.",
 };
 
 export default function RootLayout({ children }) {
@@ -10,6 +10,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="theme-color" content="#0f0e0c" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
         <link
