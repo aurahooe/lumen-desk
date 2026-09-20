@@ -244,7 +244,7 @@ export default function Home() {
         {err && <p className="msg msg-error">{err}</p>}
 
         {lastLink && (
-          <div className="share">
+          <div className="share" key={lastLink}>
             <div className="share-text">
               <span className="share-label">Ready to share</span>
               <code>{lastLink}</code>
@@ -273,11 +273,15 @@ export default function Home() {
             <p className="empty">No files yet. Yours can be the first.</p>
           ) : (
             <ul className="file-list">
-              {files.map((f) => {
+              {files.map((f, i) => {
                 const url = publicUrl(f.path);
                 const isImg = (f.mime || "").startsWith("image/");
                 return (
-                  <li key={f.id} className="file-card">
+                  <li
+                    key={f.id}
+                    className="file-card"
+                    style={{ "--i": Math.min(i, 16) }}
+                  >
                     <div className="file-thumb">
                       {isImg ? (
                         // eslint-disable-next-line @next/next/no-img-element
