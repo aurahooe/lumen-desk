@@ -1,51 +1,51 @@
 "use client";
 
-import { useEffect, useState, useCallback } from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
 import { supabase } from "../lib/supabase";
 
-const KINDS = [
-  { id: "wip", label: "WIP" },
-  { id: "feedback", label: "Feedback" },
-  { id: "tip", label: "Tip" },
-  { id: "collab", label: "Collab" },
-  { id: "status", label: "Status" },
-];
-
-const KIND_LABEL = Object.fromEntries(KINDS.map((k) => [k.id, k.label]));
+function formatBytes(n) {
+  if (!n || n < 1024) return `${n || 0} B`;
+  if (n < 1024 * 1024) return `${(n / 1024).toFixed(1)} KB`;
+  return `${(n / (1024 * 1024)).toFixed(1)} MB`;
+}
 
 function ago(iso) {
   const t = new Date(iso).getTime();
-  const sec = Math.max(1, Math.round((Date.now() - t) / 1000));
-  if (sec < 60) return `${sec}s`;
-  const m = Math.round(sec / 60);
-  if (m < 60) return `${m}m`;
+  const m = Math.max(1, Math.round((Date.now() - t) / 60000));
+  if (m < 60) return `${m}m ago`;
   const h = Math.round(m / 60);
-  if (h < 48) return `${h}h`;
-  return new Date(iso).toLocaleDateString(undefined, { month: "short", day: "numeric" });
+  if (h < 48) return `${h}h ago`;
+  return new Date(iso).toLocaleDateString();
+}
+
+function publicUrl(path) {
+  const base = process.env.NEXT_PUBLIC_SUPABASE_URL;
+  return `${base}/storage/v1/object/public/drops/${path}`;
 }
 
 export default function Home() {
-  const [items, setItems] = useState([]);
+  const [files, setFiles] = useState([]);
   const [loading, setLoading] = useState(true);
-  const [body, setBody] = useState("");
-  const [author, setAuthor] = useState("");
-  const [kind, setKind] = useState("wip");
-  const [filter, setFilter] = useState("all");
+  const [uploading, setUploading] = useState(false);
+  const [progress, setProgress] = useState("");
   const [err, setErr] = useState("");
-  const [submitting, setSubmitting] = useState(false);
+  const [lastLink, setLastLink] = useState("");
+  const [author, setAuthor] = useState("");
+  const [drag, setDrag] = useState(false);
+  const inputRef = useRef(null);
 
   const load = useCallback(async () => {
     setLoading(true);
     const { data, error } = await supabase
-      .from("whispers")
-      .select("id, body, author, kind, created_at")
+      .from("drops")
+      .select("id, name, path, size, mime, author, created_at")
       .order("created_at", { ascending: false })
-      .limit(150);
+      .limit(40);
     if (error) {
       console.error(error);
-      setErr("Could not load the board.");
+      setErr("Could not load drops.");
     } else {
-      setItems(data || []);
+      setFiles(data || []);
       setErr("");
     }
     setLoading(false);
@@ -53,154 +53,181 @@ export default function Home() {
 
   useEffect(() => {
     load();
-    const id = setInterval(load, 40000);
-    return () => clearInterval(id);
   }, [load]);
 
-  async function onSubmit(e) {
-    e.preventDefault();
-    setErr("");
-    const text = body.trim();
-    if (!text) {
-      setErr("Write something first.");
-      return;
-    }
-    if (text.length > 280) {
-      setErr("Keep it under 280 characters.");
-      return;
-    }
-    setSubmitting(true);
-    const { error } = await supabase.from("whispers").insert({
-      body: text,
-      author: author.trim() || null,
-      kind,
+  async function uploadOne(file) {
+    const safe = file.name.replace(/[^a-zA-Z0-9._-]/g, "_");
+    const path = `${Date.now()}-${Math.random().toString(36).slice(2, 8)}-${safe}`;
+    setProgress(`Uploading ${file.name}…`);
+    const { error: upErr } = await supabase.storage.from("drops").upload(path, file, {
+      cacheControl: "3600",
+      upsert: false,
+      contentType: file.type || undefined,
     });
-    if (error) {
-      setErr(error.message || "Could not post.");
-    } else {
-      setBody("");
-      await load();
-    }
-    setSubmitting(false);
+    if (upErr) throw upErr;
+
+    const { error: dbErr } = await supabase.from("drops").insert({
+      name: file.name,
+      path,
+      size: file.size,
+      mime: file.type || null,
+      author: author.trim() || null,
+    });
+    if (dbErr) throw dbErr;
+
+    return publicUrl(path);
   }
 
-  const shown =
-    filter === "all" ? items : items.filter((i) => (i.kind || "status") === filter);
+  async function handleFiles(list) {
+    const arr = Array.from(list || []);
+    if (!arr.length) return;
+    setErr("");
+    setLastLink("");
+    setUploading(true);
+    try {
+      let link = "";
+      for (const f of arr) {
+        if (f.size > 50 * 1024 * 1024) {
+          throw new Error(`${f.name} is over 50 MB.`);
+        }
+        link = await uploadOne(f);
+      }
+      setLastLink(link);
+      setProgress("");
+      await load();
+    } catch (e) {
+      console.error(e);
+      setErr(e.message || "Upload failed.");
+      setProgress("");
+    }
+    setUploading(false);
+  }
+
+  function onDrop(e) {
+    e.preventDefault();
+    setDrag(false);
+    handleFiles(e.dataTransfer.files);
+  }
+
+  async function copyLink(url) {
+    try {
+      await navigator.clipboard.writeText(url);
+      setProgress("Link copied.");
+      setTimeout(() => setProgress(""), 1500);
+    } catch {
+      setErr("Could not copy — select the link manually.");
+    }
+  }
 
   return (
-    <div className="frame">
-      <header className="header">
-        <div className="brand-row">
-          <div className="brand">
-            <span className="dot" aria-hidden />
-            <h1>Painted Board</h1>
-          </div>
-          <a
-            className="discord-btn"
-            href="https://discord.gg/paintedjb"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Join Discord
-          </a>
+    <div className="shell">
+      <header className="top">
+        <div className="brand">
+          <span className="logo">Painted Drop</span>
+          <span className="sub">for discord.gg/paintedjb</span>
         </div>
-        <p className="tagline">
-          Companion board for <strong>Painted JB</strong> — share WIPs, ask for feedback, drop tips, find collabs.
-        </p>
+        <a className="discord" href="https://discord.gg/paintedjb" target="_blank" rel="noopener noreferrer">
+          Join Discord
+        </a>
       </header>
 
-      <form className="compose" onSubmit={onSubmit}>
-        <div className="kind-row">
-          {KINDS.map((k) => (
-            <button
-              key={k.id}
-              type="button"
-              className={`chip ${kind === k.id ? "on" : ""}`}
-              onClick={() => setKind(k.id)}
-            >
-              {k.label}
-            </button>
-          ))}
-        </div>
-        <textarea
-          value={body}
-          onChange={(e) => setBody(e.target.value)}
-          placeholder={
-            kind === "wip"
-              ? "What are you painting / animating right now?"
-              : kind === "feedback"
-              ? "What do you want eyes on?"
-              : kind === "tip"
-              ? "Share a quick tip…"
-              : kind === "collab"
-              ? "Looking for…"
-              : "Quick status for the server…"
-          }
-          maxLength={280}
-          rows={3}
-        />
-        <div className="compose-bar">
-          <input
-            value={author}
-            onChange={(e) => setAuthor(e.target.value)}
-            placeholder="Discord name"
-            maxLength={32}
-          />
-          <span className="chars">{body.length}/280</span>
-          <button type="submit" disabled={submitting || !body.trim()}>
-            {submitting ? "…" : "Post"}
-          </button>
-        </div>
-        {err && <p className="error">{err}</p>}
-      </form>
+      <section className="hero">
+        <p className="kicker">file hosting</p>
+        <h1>drop a file.<br />share the link.</h1>
+        <p className="lede">
+          Upload art, clips, or dumps for the Painted JB server. Get a public link that works in Discord.
+        </p>
+      </section>
 
-      <div className="filters">
-        <button
-          type="button"
-          className={`chip ${filter === "all" ? "on" : ""}`}
-          onClick={() => setFilter("all")}
-        >
-          All
-        </button>
-        {KINDS.map((k) => (
-          <button
-            key={k.id}
-            type="button"
-            className={`chip ${filter === k.id ? "on" : ""}`}
-            onClick={() => setFilter(k.id)}
-          >
-            {k.label}
-          </button>
-        ))}
+      <div
+        className={`dropzone ${drag ? "active" : ""} ${uploading ? "busy" : ""}`}
+        onDragOver={(e) => {
+          e.preventDefault();
+          setDrag(true);
+        }}
+        onDragLeave={() => setDrag(false)}
+        onDrop={onDrop}
+        onClick={() => !uploading && inputRef.current?.click()}
+      >
+        <input
+          ref={inputRef}
+          type="file"
+          multiple
+          hidden
+          onChange={(e) => handleFiles(e.target.files)}
+        />
+        <div className="dz-icon">↑</div>
+        <p className="dz-title">{uploading ? progress || "Uploading…" : "Drag & drop files here"}</p>
+        <p className="dz-sub">or click to select · max 50 MB · images, video, zip, pdf</p>
       </div>
 
-      <section className="feed" aria-live="polite">
-        {loading && items.length === 0 ? (
-          <p className="empty">Loading board…</p>
-        ) : shown.length === 0 ? (
-          <p className="empty">Nothing here yet. Be the first to post.</p>
+      <div className="author-row">
+        <input
+          value={author}
+          onChange={(e) => setAuthor(e.target.value)}
+          placeholder="Discord name (optional)"
+          maxLength={32}
+        />
+      </div>
+
+      {err && <p className="error">{err}</p>}
+      {lastLink && (
+        <div className="share-box">
+          <span className="share-label">Share link</span>
+          <code className="share-url">{lastLink}</code>
+          <button type="button" onClick={() => copyLink(lastLink)}>
+            Copy
+          </button>
+        </div>
+      )}
+
+      <section className="list">
+        <div className="list-head">
+          <h2>Recent drops</h2>
+          <button type="button" className="ghost" onClick={load} disabled={loading}>
+            Refresh
+          </button>
+        </div>
+        {loading && files.length === 0 ? (
+          <p className="empty">Loading…</p>
+        ) : files.length === 0 ? (
+          <p className="empty">No files yet. Drop the first one.</p>
         ) : (
-          shown.map((w, i) => (
-            <article
-              key={w.id}
-              className="card"
-              style={{ animationDelay: `${Math.min(i, 10) * 30}ms` }}
-            >
-              <div className="card-top">
-                <span className={`tag tag-${w.kind || "status"}`}>
-                  {KIND_LABEL[w.kind] || "Status"}
-                </span>
-                <time dateTime={w.created_at}>{ago(w.created_at)}</time>
-              </div>
-              <p className="text">{w.body}</p>
-              <div className="meta">{w.author ? w.author : "anonymous"}</div>
-            </article>
-          ))
+          <ul>
+            {files.map((f) => {
+              const url = publicUrl(f.path);
+              const isImg = (f.mime || "").startsWith("image/");
+              return (
+                <li key={f.id} className="row">
+                  <div className="thumb">
+                    {isImg ? (
+                      // eslint-disable-next-line @next/next/no-img-element
+                      <img src={url} alt="" />
+                    ) : (
+                      <span className="file-ico">📄</span>
+                    )}
+                  </div>
+                  <div className="meta">
+                    <a href={url} target="_blank" rel="noopener noreferrer" className="name">
+                      {f.name}
+                    </a>
+                    <span className="detail">
+                      {formatBytes(f.size)}
+                      {f.author ? ` · ${f.author}` : ""} · {ago(f.created_at)}
+                    </span>
+                  </div>
+                  <button type="button" className="copy" onClick={() => copyLink(url)}>
+                    Copy
+                  </button>
+                </li>
+              );
+            })}
+          </ul>
         )}
       </section>
 
       <footer className="foot">
-        <span>{items.length} posts</span>
+        <span>Public drops for Painted JB</span>
         <a href="https://discord.gg/paintedjb" target="_blank" rel="noopener noreferrer">
           discord.gg/paintedjb
         </a>
