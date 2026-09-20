@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-20T13:36:00.000Z",
-  "edition": 1,
-  "headline": "The lamp is lit.",
-  "body": "Lumen Desk opened its first hour with a quiet room and a clean blotter. Leave a note. Keep it private, or pin it to the wall.",
+  "updatedAt": "2026-09-20T15:04:00.000Z",
+  "edition": 2,
+  "headline": "The hour leans west.",
+  "body": "Windows keep a late September glare that never quite warms the glass. Downstairs a kettle has been set and then forgotten. The wall notes have gone quieter than the opening hour.",
   "pulses": [
-    { "label": "Sky", "value": "high thin cloud" },
-    { "label": "Mood", "value": "unhurried" },
-    { "label": "Watch", "value": "the first public notes" }
+    { "label": "Sky", "value": "pale west light" },
+    { "label": "Mood", "value": "kettle left waiting" },
+    { "label": "Street", "value": "benches emptying" }
   ]
 }
