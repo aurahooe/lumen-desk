@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-20T18:00:00.000Z",
-  "edition": 5,
-  "headline": "Sunday thins to a single lamp.",
-  "body": "Seven o'clock leaves the street to its own hush. The last bus has already turned the corner; only the desk clock keeps count. Ink sits where the light is warmest and does not move.",
+  "updatedAt": "2026-09-20T19:13:00.000Z",
+  "edition": 6,
+  "headline": "Eight o'clock keeps the blinds half-drawn.",
+  "body": "The hour settles without announcement. A kettle clicks off in another room and the street below gives up its last footsteps. We leave the page open and do not turn it yet.",
   "pulses": [
-    { "label": "Sky", "value": "indigo, no remaining gold" },
-    { "label": "Watch", "value": "desk clock, unhurried" },
-    { "label": "Light", "value": "warm pool on the blotter" }
+    { "label": "Sky", "value": "navy pressed against the glass" },
+    { "label": "Mood", "value": "late-room, unhurried" },
+    { "label": "Street", "value": "one car, then none" }
   ]
 }
