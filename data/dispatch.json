@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-20T16:02:00.000Z",
-  "edition": 3,
-  "headline": "Evening takes the sills.",
-  "body": "Five o'clock has already thinned the west window to a cooler gold. A bus sighs at the corner and does not linger. On the desk the last notes of daylight sit without claiming the page.",
+  "updatedAt": "2026-09-20T17:16:00.000Z",
+  "edition": 4,
+  "headline": "Lamps find the paper first.",
+  "body": "Six o'clock settles the room without asking. The west pane has gone pewter; the desk lamp takes the margin and leaves the rest. Somewhere below, a bicycle chain ticks once and is swallowed by the stairwell.",
   "pulses": [
-    { "label": "Light", "value": "gold thinning on glass" },
-    { "label": "Street", "value": "bus holding, then gone" },
-    { "label": "Mood", "value": "desk not yet lamped" }
+    { "label": "Light", "value": "pewter window, lamp on margin" },
+    { "label": "Street", "value": "one chain, then stairwell" },
+    { "label": "Mood", "value": "paper already claimed" }
   ]
 }
