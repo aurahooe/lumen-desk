@@ -3,6 +3,15 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import { supabase } from "../lib/supabase";
 
+const THEMES = [
+  { id: "light", label: "Light" },
+  { id: "dark", label: "Dark" },
+  { id: "blue", label: "Blue" },
+  { id: "purple", label: "Purple" },
+  { id: "green", label: "Green" },
+  { id: "orange", label: "Orange" },
+];
+
 function formatBytes(n) {
   if (!n || n < 1024) return `${n || 0} B`;
   if (n < 1024 * 1024) return `${(n / 1024).toFixed(1)} KB`;
@@ -32,7 +41,21 @@ export default function Home() {
   const [lastLink, setLastLink] = useState("");
   const [author, setAuthor] = useState("");
   const [drag, setDrag] = useState(false);
+  const [theme, setTheme] = useState("dark");
+  const [copied, setCopied] = useState("");
   const inputRef = useRef(null);
+
+  useEffect(() => {
+    const saved = typeof window !== "undefined" ? localStorage.getItem("pd-theme") : null;
+    if (saved && THEMES.some((t) => t.id === saved)) setTheme(saved);
+  }, []);
+
+  useEffect(() => {
+    document.documentElement.setAttribute("data-theme", theme);
+    try {
+      localStorage.setItem("pd-theme", theme);
+    } catch {}
+  }, [theme]);
 
   const load = useCallback(async () => {
     setLoading(true);
@@ -112,122 +135,183 @@ export default function Home() {
   async function copyLink(url) {
     try {
       await navigator.clipboard.writeText(url);
-      setProgress("Link copied.");
-      setTimeout(() => setProgress(""), 1500);
+      setCopied(url);
+      setTimeout(() => setCopied(""), 1600);
     } catch {
       setErr("Could not copy — select the link manually.");
     }
   }
 
   return (
-    <div className="shell">
-      <header className="top">
-        <div className="brand">
-          <span className="logo">Painted Drop</span>
-          <span className="sub">for discord.gg/paintedjb</span>
+    <div className="page">
+      <nav className="nav">
+        <div className="nav-inner">
+          <a className="nav-brand" href="/">
+            <span className="nav-mark" />
+            Painted Drop
+          </a>
+          <div className="nav-actions">
+            <div className="theme-pills" role="group" aria-label="Color theme">
+              {THEMES.map((t) => (
+                <button
+                  key={t.id}
+                  type="button"
+                  className={`theme-pill ${theme === t.id ? "on" : ""}`}
+                  data-t={t.id}
+                  onClick={() => setTheme(t.id)}
+                  title={t.label}
+                  aria-label={t.label}
+                  aria-pressed={theme === t.id}
+                />
+              ))}
+            </div>
+            <a
+              className="btn btn-primary"
+              href="https://discord.gg/paintedjb"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Join Discord
+            </a>
+          </div>
         </div>
-        <a className="discord" href="https://discord.gg/paintedjb" target="_blank" rel="noopener noreferrer">
-          Join Discord
-        </a>
-      </header>
+      </nav>
 
-      <section className="hero">
-        <p className="kicker">file hosting</p>
-        <h1>drop a file.<br />share the link.</h1>
-        <p className="lede">
-          Upload art, clips, or dumps for the Painted JB server. Get a public link that works in Discord.
-        </p>
-      </section>
+      <main className="main">
+        <section className="hero">
+          <p className="eyebrow">File sharing</p>
+          <h1>
+            Drop a file.
+            <br />
+            <span className="hero-accent">Share the link.</span>
+          </h1>
+          <p className="subtitle">
+            A quiet place to host art, clips, and dumps for the Painted JB community.
+            Public links that work in Discord.
+          </p>
+        </section>
 
-      <div
-        className={`dropzone ${drag ? "active" : ""} ${uploading ? "busy" : ""}`}
-        onDragOver={(e) => {
-          e.preventDefault();
-          setDrag(true);
-        }}
-        onDragLeave={() => setDrag(false)}
-        onDrop={onDrop}
-        onClick={() => !uploading && inputRef.current?.click()}
-      >
-        <input
-          ref={inputRef}
-          type="file"
-          multiple
-          hidden
-          onChange={(e) => handleFiles(e.target.files)}
-        />
-        <div className="dz-icon">↑</div>
-        <p className="dz-title">{uploading ? progress || "Uploading…" : "Drag & drop files here"}</p>
-        <p className="dz-sub">or click to select · max 50 MB · images, video, zip, pdf</p>
-      </div>
+        <section
+          className={`drop ${drag ? "drag" : ""} ${uploading ? "busy" : ""}`}
+          onDragOver={(e) => {
+            e.preventDefault();
+            setDrag(true);
+          }}
+          onDragLeave={() => setDrag(false)}
+          onDrop={onDrop}
+          onClick={() => !uploading && inputRef.current?.click()}
+        >
+          <input
+            ref={inputRef}
+            type="file"
+            multiple
+            hidden
+            onChange={(e) => handleFiles(e.target.files)}
+          />
+          <div className="drop-icon" aria-hidden>
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none">
+              <path
+                d="M12 16V4m0 0L7 9m5-5l5 5"
+                stroke="currentColor"
+                strokeWidth="1.75"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              />
+              <path
+                d="M4 16v2a2 2 0 002 2h12a2 2 0 002-2v-2"
+                stroke="currentColor"
+                strokeWidth="1.75"
+                strokeLinecap="round"
+              />
+            </svg>
+          </div>
+          <p className="drop-title">
+            {uploading ? progress || "Uploading…" : "Drag and drop files here"}
+          </p>
+          <p className="drop-hint">or click to browse · up to 50 MB · images, video, zip, pdf</p>
+        </section>
 
-      <div className="author-row">
-        <input
-          value={author}
-          onChange={(e) => setAuthor(e.target.value)}
-          placeholder="Discord name (optional)"
-          maxLength={32}
-        />
-      </div>
-
-      {err && <p className="error">{err}</p>}
-      {lastLink && (
-        <div className="share-box">
-          <span className="share-label">Share link</span>
-          <code className="share-url">{lastLink}</code>
-          <button type="button" onClick={() => copyLink(lastLink)}>
-            Copy
-          </button>
+        <div className="field">
+          <input
+            value={author}
+            onChange={(e) => setAuthor(e.target.value)}
+            placeholder="Discord name (optional)"
+            maxLength={32}
+            aria-label="Discord name"
+          />
         </div>
-      )}
 
-      <section className="list">
-        <div className="list-head">
-          <h2>Recent drops</h2>
-          <button type="button" className="ghost" onClick={load} disabled={loading}>
-            Refresh
-          </button>
-        </div>
-        {loading && files.length === 0 ? (
-          <p className="empty">Loading…</p>
-        ) : files.length === 0 ? (
-          <p className="empty">No files yet. Drop the first one.</p>
-        ) : (
-          <ul>
-            {files.map((f) => {
-              const url = publicUrl(f.path);
-              const isImg = (f.mime || "").startsWith("image/");
-              return (
-                <li key={f.id} className="row">
-                  <div className="thumb">
-                    {isImg ? (
-                      // eslint-disable-next-line @next/next/no-img-element
-                      <img src={url} alt="" />
-                    ) : (
-                      <span className="file-ico">📄</span>
-                    )}
-                  </div>
-                  <div className="meta">
-                    <a href={url} target="_blank" rel="noopener noreferrer" className="name">
-                      {f.name}
-                    </a>
-                    <span className="detail">
-                      {formatBytes(f.size)}
-                      {f.author ? ` · ${f.author}` : ""} · {ago(f.created_at)}
-                    </span>
-                  </div>
-                  <button type="button" className="copy" onClick={() => copyLink(url)}>
-                    Copy
-                  </button>
-                </li>
-              );
-            })}
-          </ul>
+        {err && <p className="msg msg-error">{err}</p>}
+
+        {lastLink && (
+          <div className="share">
+            <div className="share-text">
+              <span className="share-label">Ready to share</span>
+              <code>{lastLink}</code>
+            </div>
+            <button
+              type="button"
+              className="btn btn-secondary"
+              onClick={() => copyLink(lastLink)}
+            >
+              {copied === lastLink ? "Copied" : "Copy link"}
+            </button>
+          </div>
         )}
-      </section>
 
-      <footer className="foot">
-        <span>Public drops for Painted JB</span>
+        <section className="files">
+          <div className="files-head">
+            <h2>Recent</h2>
+            <button type="button" className="btn-text" onClick={load} disabled={loading}>
+              Refresh
+            </button>
+          </div>
+
+          {loading && files.length === 0 ? (
+            <p className="empty">Loading…</p>
+          ) : files.length === 0 ? (
+            <p className="empty">No files yet. Yours can be the first.</p>
+          ) : (
+            <ul className="file-list">
+              {files.map((f) => {
+                const url = publicUrl(f.path);
+                const isImg = (f.mime || "").startsWith("image/");
+                return (
+                  <li key={f.id} className="file-card">
+                    <div className="file-thumb">
+                      {isImg ? (
+                        // eslint-disable-next-line @next/next/no-img-element
+                        <img src={url} alt="" />
+                      ) : (
+                        <span className="file-glyph">📄</span>
+                      )}
+                    </div>
+                    <div className="file-info">
+                      <a href={url} target="_blank" rel="noopener noreferrer" className="file-name">
+                        {f.name}
+                      </a>
+                      <span className="file-meta">
+                        {formatBytes(f.size)}
+                        {f.author ? ` · ${f.author}` : ""} · {ago(f.created_at)}
+                      </span>
+                    </div>
+                    <button
+                      type="button"
+                      className="btn btn-ghost"
+                      onClick={() => copyLink(url)}
+                    >
+                      {copied === url ? "Copied" : "Copy"}
+                    </button>
+                  </li>
+                );
+              })}
+            </ul>
+          )}
+        </section>
+      </main>
+
+      <footer className="footer">
+        <span>Painted Drop · for the community</span>
         <a href="https://discord.gg/paintedjb" target="_blank" rel="noopener noreferrer">
           discord.gg/paintedjb
         </a>
