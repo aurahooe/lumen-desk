@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-20T15:04:00.000Z",
-  "edition": 2,
-  "headline": "The hour leans west.",
-  "body": "Windows keep a late September glare that never quite warms the glass. Downstairs a kettle has been set and then forgotten. The wall notes have gone quieter than the opening hour.",
+  "updatedAt": "2026-09-20T16:02:00.000Z",
+  "edition": 3,
+  "headline": "Evening takes the sills.",
+  "body": "Five o'clock has already thinned the west window to a cooler gold. A bus sighs at the corner and does not linger. On the desk the last notes of daylight sit without claiming the page.",
   "pulses": [
-    { "label": "Sky", "value": "pale west light" },
-    { "label": "Mood", "value": "kettle left waiting" },
-    { "label": "Street", "value": "benches emptying" }
+    { "label": "Light", "value": "gold thinning on glass" },
+    { "label": "Street", "value": "bus holding, then gone" },
+    { "label": "Mood", "value": "desk not yet lamped" }
   ]
 }
