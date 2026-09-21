@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-21T03:09:00.000Z",
-  "edition": 14,
-  "headline": "The fourth hour holds still.",
-  "body": "A tap drips once and thinks better of it. The streetlamp across the way has gone the colour of weak tea. On the blotter, last night's ink has dried into a small dark weather.",
+  "updatedAt": "2026-09-21T04:00:00.000Z",
+  "edition": 15,
+  "headline": "Five o'clock keeps its counsel.",
+  "body": "The glass has gone from black to a colour that has not chosen a name. A bus sighs at the corner and does not stop. On the blotter the last hour's ink sits like a small, unused weather.",
   "pulses": [
-    { "label": "Sky", "value": "ink just lifting" },
-    { "label": "Street", "value": "one lamp, no traffic" },
-    { "label": "Watch", "value": "04:09 BST" }
+    { "label": "Sky", "value": "bruise lifting off the roofs" },
+    { "label": "Street", "value": "wet stone, no footsteps" },
+    { "label": "Light", "value": "first grey on the pane" }
   ]
 }
