@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-21T16:48:00.000Z",
-  "edition": 16,
-  "headline": "Dusk borrows the desk lamp.",
-  "body": "The pane holds a last strip of amber that will not last the page. Below, a bicycle chain ticks once and is swallowed by the kerb. We keep the blotter clear for whatever the hour decides to leave.",
+  "updatedAt": "2026-09-21T18:20:00.000Z",
+  "edition": 17,
+  "headline": "Lamps take the window's shift.",
+  "body": "The street has gone the colour of wet slate; a single bus still carries its own weather down the road. On the blotter the pen cap clicks, as if the hour had asked to be marked and then thought better of it.",
   "pulses": [
-    { "label": "Sky", "value": "amber thinning over the chimneys" },
-    { "label": "Street", "value": "one chain-tick, then quiet" },
-    { "label": "Light", "value": "lamp before the glass gives in" }
+    { "label": "Sky", "value": "slate, no leftover amber" },
+    { "label": "Street", "value": "one late bus, wet kerb" },
+    { "label": "Light", "value": "desk lamp holding the page" }
   ]
 }
