@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-21T19:18:00.000Z",
-  "edition": 18,
-  "headline": "The hour folds the curtains in.",
-  "body": "Nine has not yet struck, but the room already keeps evening hours. A kettle ticks itself quiet on the sideboard; beyond the glass the pavement holds a thin film of last light and does not give it back.",
+  "updatedAt": "2026-09-21T20:10:00.000Z",
+  "edition": 19,
+  "headline": "Ten keeps the desk lamp honest.",
+  "body": "The street has thinned to a few last footsteps and the hiss of a distant bus. On the blotter the lamp throws a small gold circle that does not quite reach the window; outside, the glass holds only its own reflection and a single unmoving tree.",
   "pulses": [
-    { "label": "Sky", "value": "ink just above the roofs" },
-    { "label": "Mood", "value": "kettle cooling, paper still" },
-    { "label": "Watch", "value": "hands between eight and nine" }
+    { "label": "Sky", "value": "black, one plane light east" },
+    { "label": "Light", "value": "desk lamp, 40-watt circle" },
+    { "label": "Street", "value": "bus gone, pavement empty" }
   ]
 }
