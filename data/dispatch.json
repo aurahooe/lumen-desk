@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-21T22:16:00.000Z",
-  "edition": 20,
-  "headline": "Eleven holds the last page still.",
-  "body": "The kettle has gone quiet; only the fridge ticks in the other room. Ink on the blotter has dried to a small dark weather, and the window now shows more lamp than street.",
+  "updatedAt": "2026-09-21T23:01:00.000Z",
+  "edition": 21,
+  "headline": "Midnight keeps the glass unlit.",
+  "body": "The date has changed in the corner of the page, though the room has not. A bus sighs once on the wet road and then the street is only reflections. The blotter holds yesterday's weather in a single dark ring.",
   "pulses": [
-    { "label": "Sky", "value": "clouded, no moon edge" },
-    { "label": "Mood", "value": "late, paper-cool" },
-    { "label": "Watch", "value": "11:16, second hand thin" }
+    { "label": "Sky", "value": "low cloud, no stars" },
+    { "label": "Street", "value": "one bus, wet kerb" },
+    { "label": "Light", "value": "desk lamp, small amber" }
   ]
 }
