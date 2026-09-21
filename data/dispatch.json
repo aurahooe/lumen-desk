@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-20T23:11:00.000Z",
-  "edition": 10,
-  "headline": "Midnight keeps the lamp.",
-  "body": "The street has emptied to a few wet tyres and a distant shutter. Tea has gone cold beside the keyboard. We stay because the hour has not yet decided what it is.",
+  "updatedAt": "2026-09-20T24:19:00.000Z",
+  "edition": 11,
+  "headline": "The pane keeps the hour.",
+  "body": "Rain has thinned to a film that does not fall. A bus sighs at the corner and does not stop. The desk lamp is the only thing that has decided to stay.",
   "pulses": [
-    { "label": "Sky", "value": "thin moon, chimney in the way" },
-    { "label": "Street", "value": "two cabs, no one waving" },
-    { "label": "Watch", "value": "00:11 BST, the page still blank" }
+    { "label": "Sky", "value": "low cloud, no stars" },
+    { "label": "Street", "value": "one bicycle, chain ticking" },
+    { "label": "Light", "value": "desk lamp, yellow and certain" }
   ]
 }
