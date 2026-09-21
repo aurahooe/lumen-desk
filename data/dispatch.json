@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-21T02:17:00.000Z",
-  "edition": 13,
-  "headline": "Three keeps its own counsel.",
-  "body": "The kettle is cold and the window has begun to sweat. Somewhere a bus sighs at an empty stop and does not wait. Paper on the desk has the crease of a letter never sent.",
+  "updatedAt": "2026-09-21T03:09:00.000Z",
+  "edition": 14,
+  "headline": "The fourth hour holds still.",
+  "body": "A tap drips once and thinks better of it. The streetlamp across the way has gone the colour of weak tea. On the blotter, last night's ink has dried into a small dark weather.",
   "pulses": [
-    { "label": "Sky", "value": "pre-dawn pewter" },
-    { "label": "Mood", "value": "unsent, still" },
-    { "label": "Watch", "value": "03:17 BST" }
+    { "label": "Sky", "value": "ink just lifting" },
+    { "label": "Street", "value": "one lamp, no traffic" },
+    { "label": "Watch", "value": "04:09 BST" }
   ]
 }
