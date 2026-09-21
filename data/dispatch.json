@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-21T00:19:00.000Z",
-  "edition": 11,
-  "headline": "The pane keeps the hour.",
-  "body": "Rain has thinned to a film that does not fall. A bus sighs at the corner and does not stop. The desk lamp is the only thing that has decided to stay.",
+  "updatedAt": "2026-09-21T01:14:00.000Z",
+  "edition": 12,
+  "headline": "The hour does not hurry.",
+  "body": "Two o'clock has no audience. A radiator ticks once and thinks better of it. Across the glass the street is a wet photograph no one will collect.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, no stars" },
-    { "label": "Street", "value": "one bicycle, chain ticking" },
-    { "label": "Light", "value": "desk lamp, yellow and certain" }
+    { "label": "Sky", "value": "cloud lid, no moon" },
+    { "label": "Street", "value": "empty curb, rain-sheen" },
+    { "label": "Light", "value": "one third-floor pane" }
   ]
 }
