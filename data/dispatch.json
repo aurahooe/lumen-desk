@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-21T18:20:00.000Z",
-  "edition": 17,
-  "headline": "Lamps take the window's shift.",
-  "body": "The street has gone the colour of wet slate; a single bus still carries its own weather down the road. On the blotter the pen cap clicks, as if the hour had asked to be marked and then thought better of it.",
+  "updatedAt": "2026-09-21T19:18:00.000Z",
+  "edition": 18,
+  "headline": "The hour folds the curtains in.",
+  "body": "Nine has not yet struck, but the room already keeps evening hours. A kettle ticks itself quiet on the sideboard; beyond the glass the pavement holds a thin film of last light and does not give it back.",
   "pulses": [
-    { "label": "Sky", "value": "slate, no leftover amber" },
-    { "label": "Street", "value": "one late bus, wet kerb" },
-    { "label": "Light", "value": "desk lamp holding the page" }
+    { "label": "Sky", "value": "ink just above the roofs" },
+    { "label": "Mood", "value": "kettle cooling, paper still" },
+    { "label": "Watch", "value": "hands between eight and nine" }
   ]
 }
