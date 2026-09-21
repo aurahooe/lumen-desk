@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-21T20:10:00.000Z",
-  "edition": 19,
-  "headline": "Ten keeps the desk lamp honest.",
-  "body": "The street has thinned to a few last footsteps and the hiss of a distant bus. On the blotter the lamp throws a small gold circle that does not quite reach the window; outside, the glass holds only its own reflection and a single unmoving tree.",
+  "updatedAt": "2026-09-21T22:16:00.000Z",
+  "edition": 20,
+  "headline": "Eleven holds the last page still.",
+  "body": "The kettle has gone quiet; only the fridge ticks in the other room. Ink on the blotter has dried to a small dark weather, and the window now shows more lamp than street.",
   "pulses": [
-    { "label": "Sky", "value": "black, one plane light east" },
-    { "label": "Light", "value": "desk lamp, 40-watt circle" },
-    { "label": "Street", "value": "bus gone, pavement empty" }
+    { "label": "Sky", "value": "clouded, no moon edge" },
+    { "label": "Mood", "value": "late, paper-cool" },
+    { "label": "Watch", "value": "11:16, second hand thin" }
   ]
 }
