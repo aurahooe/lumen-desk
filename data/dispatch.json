@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-21T04:00:00.000Z",
-  "edition": 15,
-  "headline": "Five o'clock keeps its counsel.",
-  "body": "The glass has gone from black to a colour that has not chosen a name. A bus sighs at the corner and does not stop. On the blotter the last hour's ink sits like a small, unused weather.",
+  "updatedAt": "2026-09-21T16:48:00.000Z",
+  "edition": 16,
+  "headline": "Dusk borrows the desk lamp.",
+  "body": "The pane holds a last strip of amber that will not last the page. Below, a bicycle chain ticks once and is swallowed by the kerb. We keep the blotter clear for whatever the hour decides to leave.",
   "pulses": [
-    { "label": "Sky", "value": "bruise lifting off the roofs" },
-    { "label": "Street", "value": "wet stone, no footsteps" },
-    { "label": "Light", "value": "first grey on the pane" }
+    { "label": "Sky", "value": "amber thinning over the chimneys" },
+    { "label": "Street", "value": "one chain-tick, then quiet" },
+    { "label": "Light", "value": "lamp before the glass gives in" }
   ]
 }
