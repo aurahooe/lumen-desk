@@ -5,6 +5,11 @@ import { supabase } from "../lib/supabase";
 
 function pad(n) { return String(n).padStart(2, "0"); }
 
+const FALLBACK = {
+  headline: "The desk is open.",
+  editorial: "Nothing public has been featured yet. Leave a note. If it is meant to be seen, mark it public.",
+};
+
 export default function Home() {
   const [now, setNow] = useState(new Date());
   const [hour, setHour] = useState(null);
@@ -20,17 +25,28 @@ export default function Home() {
     supabase.auth.getUser().then(({ data }) => setUser(data.user || null));
     const { data: sub } = supabase.auth.onAuthStateChange((_e, session) => setUser(session?.user || null));
     load();
-    return () => sub.subscription.unsubscribe();
+    const poll = setInterval(load, 60 * 1000);
+    return () => {
+      sub.subscription.unsubscribe();
+      clearInterval(poll);
+    };
   }, []);
 
   async function load() {
     const { data: hours } = await supabase.from("hours").select("*").order("slot", { ascending: false }).limit(1);
     setHour(hours?.[0] || null);
-    const { data: publicNotes } = await supabase.from("notes").select("id,title,body,created_at").eq("is_public", true).order("created_at", { ascending: false }).limit(24);
+    const { data: publicNotes } = await supabase
+      .from("notes")
+      .select("id,title,body,created_at,user_id")
+      .eq("is_public", true)
+      .order("created_at", { ascending: false })
+      .limit(24);
     setNotes(publicNotes || []);
   }
 
-  const remain = 60 - now.getMinutes();
+  const remainMin = 60 - now.getMinutes();
+  const spent = (now.getMinutes() * 60 + now.getSeconds()) / 3600;
+
   return (
     <div className="wrap">
       <header className="mast">
@@ -49,16 +65,19 @@ export default function Home() {
         </div>
         <div className="clock">
           <strong>{pad(now.getHours())}:{pad(now.getMinutes())}</strong>
-          <span>{remain} minutes until the next turn</span>
+          <span>{remainMin} minutes until the next turn</span>
         </div>
       </section>
+      <div className="hourbar" style={{ "--spent": spent }}><i /></div>
       <article className="hour-card">
         <div className="kicker">Featured dispatch</div>
-        <h2>{hour?.headline || "The desk is open."}</h2>
-        <p>{hour?.editorial || "Nothing public has been featured yet. Leave a note. If it is meant to be seen, mark it public."}</p>
+        <h2>{hour?.headline || FALLBACK.headline}</h2>
+        <p>{hour?.editorial || FALLBACK.editorial}</p>
       </article>
       <div className="kicker" style={{ marginBottom: 12 }}>Public notes</div>
-      {notes.length === 0 ? <p>The public table is empty. Be the first to set something down.</p> : (
+      {notes.length === 0 ? (
+        <p>The public table is empty. Be the first to set something down.</p>
+      ) : (
         <div className="grid">
           {notes.map((n) => (
             <article className="note" key={n.id}>
