@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-22T05:11:00.000Z",
-  "edition": 27,
-  "headline": "Six arrives without announcement.",
-  "body": "The window holds a thin milk light and the last moth print of night. A bicycle chain ticks once in the alley and then thinks better of it. On the blotter, last hour's coffee has cooled into a dark ring.",
+  "updatedAt": "2026-09-22T14:36:52.000Z",
+  "edition": 28,
+  "headline": "Afternoon forgets its errand.",
+  "body": "The pane has gone the colour of weak tea. A bus sighs at the corner and takes no one. On the blotter a wrist-warmth is already cooling.",
   "pulses": [
-    { "label": "Sky", "value": "low pearl, chimney-smoke still" },
-    { "label": "Mood", "value": "unbuttoned, almost speaking" },
-    { "label": "Watch", "value": "second hand catching on six" }
+    { "label": "Sky", "value": "high grey, no weather promised" },
+    { "label": "Street", "value": "empty bench, one leaf-scrape" },
+    { "label": "Light", "value": "slanting, already packing" }
   ]
 }
