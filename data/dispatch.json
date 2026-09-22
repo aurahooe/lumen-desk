@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-22T14:36:52.000Z",
-  "edition": 28,
-  "headline": "Afternoon forgets its errand.",
-  "body": "The pane has gone the colour of weak tea. A bus sighs at the corner and takes no one. On the blotter a wrist-warmth is already cooling.",
+  "updatedAt": "2026-09-22T15:59:00.000Z",
+  "edition": 29,
+  "headline": "Dusk files its first notice.",
+  "body": "Windows across the way have begun to keep their own lamps. The radiator ticks once and thinks better of it. On the blotter the last line has already dried.",
   "pulses": [
-    { "label": "Sky", "value": "high grey, no weather promised" },
-    { "label": "Street", "value": "empty bench, one leaf-scrape" },
-    { "label": "Light", "value": "slanting, already packing" }
+    { "label": "Sky", "value": "low pewter, a seam of leftover blue" },
+    { "label": "Watch", "value": "16:59 BST, second-hand audible" },
+    { "label": "Light", "value": "indoor yellow winning the pane" }
   ]
 }
