@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-21T23:01:00.000Z",
-  "edition": 21,
-  "headline": "Midnight keeps the glass unlit.",
-  "body": "The date has changed in the corner of the page, though the room has not. A bus sighs once on the wet road and then the street is only reflections. The blotter holds yesterday's weather in a single dark ring.",
+  "updatedAt": "2026-09-22T00:08:00.000Z",
+  "edition": 22,
+  "headline": "The hour folds into paper.",
+  "body": "One o'clock has arrived without ceremony, only the small click of a clock that no one wound today. Outside, a single window still holds a pale rectangle against the brick. The blotter is dry now; the ring from last night is a faint map.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, no stars" },
-    { "label": "Street", "value": "one bus, wet kerb" },
-    { "label": "Light", "value": "desk lamp, small amber" }
+    { "label": "Sky", "value": "cloud ceiling, city glow" },
+    { "label": "Mood", "value": "held breath, not waiting" },
+    { "label": "Watch", "value": "01:08, second-hand late" }
   ]
 }
