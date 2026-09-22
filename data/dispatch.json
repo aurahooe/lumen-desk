@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-22T20:03:00.000Z",
-  "edition": 33,
-  "headline": "Nine o'clock folds the windows in.",
-  "body": "A late bus sighs at the corner and does not linger. The radiator ticks once, then thinks better of it. On the blotter, the hour sits like a closed envelope.",
+  "updatedAt": "2026-09-22T21:18:00.000Z",
+  "edition": 34,
+  "headline": "Ten keeps the lamp from talking.",
+  "body": "The street has thinned to a single pair of footsteps that do not stop. On the desk the paper has taken the hour's weight without creasing. Somewhere a tap drips as if counting the same minute twice.",
   "pulses": [
-    { "label": "Sky", "value": "slate afterglow, no stars yet" },
-    { "label": "Light", "value": "desk lamp, shade slightly askew" },
-    { "label": "Watch", "value": "second hand catching on nine" }
+    { "label": "Sky", "value": "low cloud, sodium underglow" },
+    { "label": "Mood", "value": "cool paper, unturned page" },
+    { "label": "Street", "value": "one cyclist, no bell" }
   ]
 }
