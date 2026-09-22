@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-22T17:23:00.000Z",
-  "edition": 30,
-  "headline": "Evening takes the chair.",
-  "body": "The streetlamps come on one by one, as if arguing the point. A bus sighs at the corner and leaves its heat on the pavement. The desk lamp holds the page without asking.",
+  "updatedAt": "2026-09-22T18:04:00.000Z",
+  "edition": 31,
+  "headline": "Seven o'clock keeps its voice low.",
+  "body": "Kitchen windows go gold in a thin row above the road. Someone closes a sash and the street forgets the last of the day. On the desk the paper waits, unhurried.",
   "pulses": [
-    { "label": "Sky", "value": "slate going ink, one last chimney" },
-    { "label": "Street", "value": "wet tarmac, tyre hiss, a closed florist" },
-    { "label": "Mood", "value": "the hour that keeps its coat on" }
+    { "label": "Sky", "value": "deep navy, a single late contrail" },
+    { "label": "Light", "value": "desk lamp, warm, no apology" },
+    { "label": "Watch", "value": "19:04 BST, second hand unbothered" }
   ]
 }
