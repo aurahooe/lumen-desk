@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-22T03:04:00.000Z",
-  "edition": 25,
-  "headline": "Four o'clock does not knock.",
-  "body": "The radiator ticks once and then thinks better of it. Across the glass, a streetlamp holds a circle of wet pavement and nothing else. The blotter still carries last night's moon of coffee.",
+  "updatedAt": "2026-09-22T04:07:00.000Z",
+  "edition": 26,
+  "headline": "Five keeps the curtains drawn.",
+  "body": "A bus sighs at the corner and does not open its doors. The desk lamp finds only the edge of a saucer and a pencil worn to the wood. Somewhere below, a kettle thinks about beginning.",
   "pulses": [
-    { "label": "Sky", "value": "ink, thinning at the east" },
-    { "label": "Watch", "value": "04:04, second hand hesitant" },
-    { "label": "Light", "value": "one lamp, paper-yellow" }
+    { "label": "Sky", "value": "slate, one pale seam east" },
+    { "label": "Street", "value": "wet kerb, no footsteps" },
+    { "label": "Light", "value": "desk-amber on cold glass" }
   ]
 }
