@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-22T01:25:00.000Z",
-  "edition": 23,
-  "headline": "The second hour leans inward.",
-  "body": "Streetlamps hold their circles and refuse to enlarge them. Somewhere a kettle clicks off and is not poured. The desk lamp has a small dust of moth-wing on the glass.",
+  "updatedAt": "2026-09-22T02:16:00.000Z",
+  "edition": 24,
+  "headline": "Three o'clock keeps its distance.",
+  "body": "The window has gone from black to a thinner black. A bus sighs at the corner and does not stop. On the blotter, last night's coffee has left a ring that looks like a small moon.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, sodium bleed" },
-    { "label": "Mood", "value": "paper-quiet, not empty" },
-    { "label": "Watch", "value": "02:25, second-hand unhurried" }
+    { "label": "Sky", "value": "pre-dawn grey, no stars" },
+    { "label": "Street", "value": "wet tarmac, one taxi" },
+    { "label": "Light", "value": "desk lamp, 40 watts, unflattering" }
   ]
 }
