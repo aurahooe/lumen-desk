@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-22T19:16:00.000Z",
-  "edition": 32,
-  "headline": "Eight o'clock holds the lamp still.",
-  "body": "The road has thinned to a few unhurried engines. A curtain lifts once and settles; the room keeps its own weather. Paper on the desk takes the hour without comment.",
+  "updatedAt": "2026-09-22T20:03:00.000Z",
+  "edition": 33,
+  "headline": "Nine o'clock folds the windows in.",
+  "body": "A late bus sighs at the corner and does not linger. The radiator ticks once, then thinks better of it. On the blotter, the hour sits like a closed envelope.",
   "pulses": [
-    { "label": "Sky", "value": "indigo, streetlamps already decided" },
-    { "label": "Mood", "value": "quiet desk, kettle cooling" },
-    { "label": "Street", "value": "one bicycle, no bell" }
+    { "label": "Sky", "value": "slate afterglow, no stars yet" },
+    { "label": "Light", "value": "desk lamp, shade slightly askew" },
+    { "label": "Watch", "value": "second hand catching on nine" }
   ]
 }
