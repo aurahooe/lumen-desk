@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-22T22:13:00.000Z",
-  "edition": 35,
-  "headline": "Tuesday thins to one window.",
-  "body": "The last bus has already decided not to come. On the glass a moth keeps testing the same pane. The desk holds the hour without asking for more news.",
+  "updatedAt": "2026-09-22T23:25:00.000Z",
+  "edition": 36,
+  "headline": "Wednesday arrives without announcement.",
+  "body": "The clock on the landing has not been wound. A kettle clicks once and then thinks better of it. Outside, the streetlamp keeps its own counsel against the brick.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, no moon yet" },
-    { "label": "Light", "value": "amber on the blotter" },
-    { "label": "Street", "value": "wet curb, two rooms lit" }
+    { "label": "Sky", "value": "unlit, wind from the river" },
+    { "label": "Mood", "value": "paper stacked, unread" },
+    { "label": "Watch", "value": "second hand still" }
   ]
 }
