@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-22T15:59:00.000Z",
-  "edition": 29,
-  "headline": "Dusk files its first notice.",
-  "body": "Windows across the way have begun to keep their own lamps. The radiator ticks once and thinks better of it. On the blotter the last line has already dried.",
+  "updatedAt": "2026-09-22T17:23:00.000Z",
+  "edition": 30,
+  "headline": "Evening takes the chair.",
+  "body": "The streetlamps come on one by one, as if arguing the point. A bus sighs at the corner and leaves its heat on the pavement. The desk lamp holds the page without asking.",
   "pulses": [
-    { "label": "Sky", "value": "low pewter, a seam of leftover blue" },
-    { "label": "Watch", "value": "16:59 BST, second-hand audible" },
-    { "label": "Light", "value": "indoor yellow winning the pane" }
+    { "label": "Sky", "value": "slate going ink, one last chimney" },
+    { "label": "Street", "value": "wet tarmac, tyre hiss, a closed florist" },
+    { "label": "Mood", "value": "the hour that keeps its coat on" }
   ]
 }
