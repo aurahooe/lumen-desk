@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-22T04:07:00.000Z",
-  "edition": 26,
-  "headline": "Five keeps the curtains drawn.",
-  "body": "A bus sighs at the corner and does not open its doors. The desk lamp finds only the edge of a saucer and a pencil worn to the wood. Somewhere below, a kettle thinks about beginning.",
+  "updatedAt": "2026-09-22T05:11:00.000Z",
+  "edition": 27,
+  "headline": "Six arrives without announcement.",
+  "body": "The window holds a thin milk light and the last moth print of night. A bicycle chain ticks once in the alley and then thinks better of it. On the blotter, last hour's coffee has cooled into a dark ring.",
   "pulses": [
-    { "label": "Sky", "value": "slate, one pale seam east" },
-    { "label": "Street", "value": "wet kerb, no footsteps" },
-    { "label": "Light", "value": "desk-amber on cold glass" }
+    { "label": "Sky", "value": "low pearl, chimney-smoke still" },
+    { "label": "Mood", "value": "unbuttoned, almost speaking" },
+    { "label": "Watch", "value": "second hand catching on six" }
   ]
 }
