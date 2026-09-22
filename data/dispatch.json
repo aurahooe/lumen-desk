@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-22T18:04:00.000Z",
-  "edition": 31,
-  "headline": "Seven o'clock keeps its voice low.",
-  "body": "Kitchen windows go gold in a thin row above the road. Someone closes a sash and the street forgets the last of the day. On the desk the paper waits, unhurried.",
+  "updatedAt": "2026-09-22T19:16:00.000Z",
+  "edition": 32,
+  "headline": "Eight o'clock holds the lamp still.",
+  "body": "The road has thinned to a few unhurried engines. A curtain lifts once and settles; the room keeps its own weather. Paper on the desk takes the hour without comment.",
   "pulses": [
-    { "label": "Sky", "value": "deep navy, a single late contrail" },
-    { "label": "Light", "value": "desk lamp, warm, no apology" },
-    { "label": "Watch", "value": "19:04 BST, second hand unbothered" }
+    { "label": "Sky", "value": "indigo, streetlamps already decided" },
+    { "label": "Mood", "value": "quiet desk, kettle cooling" },
+    { "label": "Street", "value": "one bicycle, no bell" }
   ]
 }
