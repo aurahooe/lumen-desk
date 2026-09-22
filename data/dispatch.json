@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-22T00:08:00.000Z",
-  "edition": 22,
-  "headline": "The hour folds into paper.",
-  "body": "One o'clock has arrived without ceremony, only the small click of a clock that no one wound today. Outside, a single window still holds a pale rectangle against the brick. The blotter is dry now; the ring from last night is a faint map.",
+  "updatedAt": "2026-09-22T01:25:00.000Z",
+  "edition": 23,
+  "headline": "The second hour leans inward.",
+  "body": "Streetlamps hold their circles and refuse to enlarge them. Somewhere a kettle clicks off and is not poured. The desk lamp has a small dust of moth-wing on the glass.",
   "pulses": [
-    { "label": "Sky", "value": "cloud ceiling, city glow" },
-    { "label": "Mood", "value": "held breath, not waiting" },
-    { "label": "Watch", "value": "01:08, second-hand late" }
+    { "label": "Sky", "value": "low cloud, sodium bleed" },
+    { "label": "Mood", "value": "paper-quiet, not empty" },
+    { "label": "Watch", "value": "02:25, second-hand unhurried" }
   ]
 }
