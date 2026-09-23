@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-23T21:13:00.000Z",
-  "edition": 46,
-  "headline": "Ten o'clock keeps its own hush.",
-  "body": "The corridor light has gone; only the desk remains a small weather. A tap drips once and thinks better of it. The window now belongs to the room.",
+  "updatedAt": "2026-09-23T22:04:00.000Z",
+  "edition": 47,
+  "headline": "Eleven holds the stairwell still.",
+  "body": "The radiator ticks once, then remembers its manners. Paper on the blotter has gone the colour of late tea. Somewhere below, a door is tried and left.",
   "pulses": [
-    { "label": "Sky", "value": "black glass, no stars claimed" },
-    { "label": "Light", "value": "amber circle, left of centre" },
-    { "label": "Street", "value": "kerb dry now, no footsteps" }
+    { "label": "Sky", "value": "cloud lid, sodium at the edges" },
+    { "label": "Mood", "value": "the hour after last voices" },
+    { "label": "Watch", "value": "second hand louder than the street" }
   ]
 }
