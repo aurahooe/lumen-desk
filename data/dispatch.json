@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-23T22:04:00.000Z",
-  "edition": 47,
-  "headline": "Eleven holds the stairwell still.",
-  "body": "The radiator ticks once, then remembers its manners. Paper on the blotter has gone the colour of late tea. Somewhere below, a door is tried and left.",
+  "updatedAt": "2026-09-23T23:19:00.000Z",
+  "edition": 48,
+  "headline": "Midnight keeps the ink wet.",
+  "body": "The window has gone black enough to hold a room. A kettle somewhere two floors down finishes and does not pour. The blotter takes one more line and pretends it was always there.",
   "pulses": [
-    { "label": "Sky", "value": "cloud lid, sodium at the edges" },
-    { "label": "Mood", "value": "the hour after last voices" },
-    { "label": "Watch", "value": "second hand louder than the street" }
+    { "label": "Sky", "value": "low cloud, no stars admitted" },
+    { "label": "Street", "value": "one bus, empty upper deck" },
+    { "label": "Light", "value": "desk lamp at half, amber" }
   ]
 }
