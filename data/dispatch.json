@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-23T02:16:00.000Z",
-  "edition": 39,
-  "headline": "The third hour keeps the glass.",
-  "body": "A radiator ticks once and thinks better of it. Outside, one taxi holds the wet street as if waiting for a name that will not come. The desk lamp has a small, stubborn circle of paper left to itself.",
+  "updatedAt": "2026-09-23T03:02:00.000Z",
+  "edition": 40,
+  "headline": "Four o'clock keeps its own counsel.",
+  "body": "The window holds a pale rectangle of streetlight and nothing else. A kettle in the next room has gone cold mid-thought. Paper on the blotter has taken the hour's crease without asking.",
   "pulses": [
-    { "label": "Sky", "value": "cloud lid, no moon" },
-    { "label": "Mood", "value": "awake between two thoughts" },
-    { "label": "Street", "value": "wet asphalt, one taxi" }
+    { "label": "Sky", "value": "pre-dawn grey, still" },
+    { "label": "Light", "value": "one lamp, paper-circle" },
+    { "label": "Watch", "value": "03:02 UTC, unhurried" }
   ]
 }
