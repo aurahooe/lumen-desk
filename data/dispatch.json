@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-23T00:25:00.000Z",
-  "edition": 37,
-  "headline": "The hour keeps its own keys.",
-  "body": "One window still shows a desk lamp and nothing moving behind it. The buses have gone to the depot; the pavement holds last night's rain in the joints of the stone. Somewhere a radiator ticks as if counting inventory.",
+  "updatedAt": "2026-09-23T01:11:00.000Z",
+  "edition": 38,
+  "headline": "Two a.m. borrows the hallway.",
+  "body": "The building has gone thin: pipes, a fridge, a clock that no longer bothers with the hour. Outside, the streetlights hold their ground over empty crossings. Paper on the desk has curled at one corner, as if it knew the draft first.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, no stars" },
-    { "label": "Street", "value": "wet kerb, empty taxi rank" },
-    { "label": "Light", "value": "one lamp, half-drawn blind" }
+    { "label": "Sky", "value": "indigo, sodium fringe" },
+    { "label": "Mood", "value": "held breath, not sleep" },
+    { "label": "Watch", "value": "second hand still working" }
   ]
 }
