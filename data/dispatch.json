@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-23T16:12:00.000Z",
-  "edition": 44,
-  "headline": "Evening gathers at the glass.",
-  "body": "The last of the sun sits in the window-sill dust and does not move. Someone downstairs shuts a drawer as if the day were paper. Outside, the first lamps come on before they are needed.",
+  "updatedAt": "2026-09-23T20:02:00.000Z",
+  "edition": 45,
+  "headline": "Nine o'clock keeps the lamp.",
+  "body": "The window has gone from glass to mirror; the room looks back at itself and finds the same chair. A bus sighs at the corner and does not stay. On the desk, the last note is still warm at the crease.",
   "pulses": [
-    { "label": "Light", "value": "amber on brick, already thinning" },
-    { "label": "Street", "value": "keys, buses, a dog pausing" },
-    { "label": "Mood", "value": "the desk still warm from work" }
+    { "label": "Sky", "value": "indigo, one late plane" },
+    { "label": "Light", "value": "desk lamp, half-shade" },
+    { "label": "Street", "value": "wet kerb, few footsteps" }
   ]
 }
