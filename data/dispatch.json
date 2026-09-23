@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-23T06:29:00.000Z",
-  "edition": 43,
-  "headline": "The hour leans toward work.",
-  "body": "Street doors click and then forget themselves. A bicycle chain ticks past the bakery glass. The page on the desk has dried at the margin where the tea sat.",
+  "updatedAt": "2026-09-23T16:12:00.000Z",
+  "edition": 44,
+  "headline": "Evening gathers at the glass.",
+  "body": "The last of the sun sits in the window-sill dust and does not move. Someone downstairs shuts a drawer as if the day were paper. Outside, the first lamps come on before they are needed.",
   "pulses": [
-    { "label": "Sky", "value": "high grey, no weather yet" },
-    { "label": "Street", "value": "school bags, one late runner" },
-    { "label": "Mood", "value": "ink still wet on the hour" }
+    { "label": "Light", "value": "amber on brick, already thinning" },
+    { "label": "Street", "value": "keys, buses, a dog pausing" },
+    { "label": "Mood", "value": "the desk still warm from work" }
   ]
 }
