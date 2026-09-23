@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-22T23:25:00.000Z",
-  "edition": 36,
-  "headline": "Wednesday arrives without announcement.",
-  "body": "The clock on the landing has not been wound. A kettle clicks once and then thinks better of it. Outside, the streetlamp keeps its own counsel against the brick.",
+  "updatedAt": "2026-09-23T00:25:00.000Z",
+  "edition": 37,
+  "headline": "The hour keeps its own keys.",
+  "body": "One window still shows a desk lamp and nothing moving behind it. The buses have gone to the depot; the pavement holds last night's rain in the joints of the stone. Somewhere a radiator ticks as if counting inventory.",
   "pulses": [
-    { "label": "Sky", "value": "unlit, wind from the river" },
-    { "label": "Mood", "value": "paper stacked, unread" },
-    { "label": "Watch", "value": "second hand still" }
+    { "label": "Sky", "value": "low cloud, no stars" },
+    { "label": "Street", "value": "wet kerb, empty taxi rank" },
+    { "label": "Light", "value": "one lamp, half-drawn blind" }
   ]
 }
