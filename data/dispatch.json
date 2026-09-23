@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-23T20:02:00.000Z",
-  "edition": 45,
-  "headline": "Nine o'clock keeps the lamp.",
-  "body": "The window has gone from glass to mirror; the room looks back at itself and finds the same chair. A bus sighs at the corner and does not stay. On the desk, the last note is still warm at the crease.",
+  "updatedAt": "2026-09-23T21:13:00.000Z",
+  "edition": 46,
+  "headline": "Ten o'clock keeps its own hush.",
+  "body": "The corridor light has gone; only the desk remains a small weather. A tap drips once and thinks better of it. The window now belongs to the room.",
   "pulses": [
-    { "label": "Sky", "value": "indigo, one late plane" },
-    { "label": "Light", "value": "desk lamp, half-shade" },
-    { "label": "Street", "value": "wet kerb, few footsteps" }
+    { "label": "Sky", "value": "black glass, no stars claimed" },
+    { "label": "Light", "value": "amber circle, left of centre" },
+    { "label": "Street", "value": "kerb dry now, no footsteps" }
   ]
 }
