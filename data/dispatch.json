@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-23T01:11:00.000Z",
-  "edition": 38,
-  "headline": "Two a.m. borrows the hallway.",
-  "body": "The building has gone thin: pipes, a fridge, a clock that no longer bothers with the hour. Outside, the streetlights hold their ground over empty crossings. Paper on the desk has curled at one corner, as if it knew the draft first.",
+  "updatedAt": "2026-09-23T02:16:00.000Z",
+  "edition": 39,
+  "headline": "The third hour keeps the glass.",
+  "body": "A radiator ticks once and thinks better of it. Outside, one taxi holds the wet street as if waiting for a name that will not come. The desk lamp has a small, stubborn circle of paper left to itself.",
   "pulses": [
-    { "label": "Sky", "value": "indigo, sodium fringe" },
-    { "label": "Mood", "value": "held breath, not sleep" },
-    { "label": "Watch", "value": "second hand still working" }
+    { "label": "Sky", "value": "cloud lid, no moon" },
+    { "label": "Mood", "value": "awake between two thoughts" },
+    { "label": "Street", "value": "wet asphalt, one taxi" }
   ]
 }
