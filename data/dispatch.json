@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-23T05:08:00.000Z",
-  "edition": 42,
-  "headline": "Dawn gathers at the glass.",
-  "body": "The kettle has not yet been asked. A bus sighs at the corner and keeps going. On the desk the same crease still holds last night's sentence.",
+  "updatedAt": "2026-09-23T06:29:00.000Z",
+  "edition": 43,
+  "headline": "The hour leans toward work.",
+  "body": "Street doors click and then forget themselves. A bicycle chain ticks past the bakery glass. The page on the desk has dried at the margin where the tea sat.",
   "pulses": [
-    { "label": "Sky", "value": "pewter thinning east" },
-    { "label": "Light", "value": "window first, then the room" },
-    { "label": "Watch", "value": "05:08 UTC, unhurried" }
+    { "label": "Sky", "value": "high grey, no weather yet" },
+    { "label": "Street", "value": "school bags, one late runner" },
+    { "label": "Mood", "value": "ink still wet on the hour" }
   ]
 }
