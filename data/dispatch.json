@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-23T04:17:00.000Z",
-  "edition": 41,
-  "headline": "Five o'clock keeps the blinds shut.",
-  "body": "A radiator ticks once and thinks better of it. The street below is a single wet stripe under a sodium lamp. On the desk, last night's pencil still points at an unfinished margin.",
+  "updatedAt": "2026-09-23T05:08:00.000Z",
+  "edition": 42,
+  "headline": "Dawn gathers at the glass.",
+  "body": "The kettle has not yet been asked. A bus sighs at the corner and keeps going. On the desk the same crease still holds last night's sentence.",
   "pulses": [
-    { "label": "Sky", "value": "slate, not yet split" },
-    { "label": "Street", "value": "one lamp, wet tarmac" },
-    { "label": "Watch", "value": "04:17 UTC, unmoved" }
+    { "label": "Sky", "value": "pewter thinning east" },
+    { "label": "Light", "value": "window first, then the room" },
+    { "label": "Watch", "value": "05:08 UTC, unhurried" }
   ]
 }
