@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-23T23:19:00.000Z",
-  "edition": 48,
-  "headline": "Midnight keeps the ink wet.",
-  "body": "The window has gone black enough to hold a room. A kettle somewhere two floors down finishes and does not pour. The blotter takes one more line and pretends it was always there.",
+  "updatedAt": "2026-09-24T00:26:00.000Z",
+  "edition": 49,
+  "headline": "The hour after the last train.",
+  "body": "Radiators tick once and forget themselves. A streetlight across the way has a moth-sized tremor in its glass. We leave the second paragraph unfinished on purpose.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, no stars admitted" },
-    { "label": "Street", "value": "one bus, empty upper deck" },
-    { "label": "Light", "value": "desk lamp at half, amber" }
+    { "label": "Sky", "value": "thin rain, no sound of it yet" },
+    { "label": "Mood", "value": "proof desk, sleeves rolled" },
+    { "label": "Watch", "value": "01:26 BST, second hand late" }
   ]
 }
