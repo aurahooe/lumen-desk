@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-24T19:01:00.000Z",
-  "edition": 59,
-  "headline": "The hour leans toward quiet.",
-  "body": "Eight o'clock finds the room already decided: one lamp, one open notebook, the rest of the house holding its breath. Outside, a bus sighs at the corner and does not stay. We keep the window cracked so the night can find its own way in.",
+  "updatedAt": "2026-09-24T20:02:00.000Z",
+  "edition": 60,
+  "headline": "Nine keeps its own counsel.",
+  "body": "The kettle has gone quiet. Across the glass, windows stack like unsent letters. We leave the radio off and let the clock finish the sentence.",
   "pulses": [
-    { "label": "Sky", "value": "ink, streetlamps punching small holes" },
-    { "label": "Mood", "value": "the last cup gone lukewarm" },
-    { "label": "Street", "value": "wet pavement holding the neon" }
+    { "label": "Sky", "value": "navy thinning over chimney pots" },
+    { "label": "Mood", "value": "a page turned, not closed" },
+    { "label": "Light", "value": "one lamp pooling on the desk" }
   ]
 }
