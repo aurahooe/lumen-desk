@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-24T08:05:00.000Z",
-  "edition": 56,
-  "headline": "The corridor keeps yesterday's coat.",
-  "body": "A window is open half an inch and the curtain does not move. Someone has already wiped the table and left the cloth folded twice. The hour arrives without asking to sit.",
+  "updatedAt": "2026-09-24T17:10:00.000Z",
+  "edition": 57,
+  "headline": "Lamps learn the table first.",
+  "body": "The glass still holds a thumbprint from the afternoon. Outside, a bus sighs at the corner and does not linger. We keep the radio low enough that the kettle can finish its sentence.",
   "pulses": [
-    { "label": "Sky", "value": "high pale, cloud like unironed linen" },
-    { "label": "Street", "value": "two cyclists, one without a bell" },
-    { "label": "Watch", "value": "09:05 BST, second cup not yet poured" }
+    { "label": "Light", "value": "amber on the spine of a closed notebook" },
+    { "label": "Mood", "value": "the quiet after a long errand" },
+    { "label": "Street", "value": "wet kerb, one umbrella already folded" }
   ]
 }
