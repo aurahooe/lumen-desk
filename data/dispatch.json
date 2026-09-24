@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-24T20:07:00.000Z",
-  "edition": 61,
-  "headline": "Nine leans against the glass.",
-  "body": "Rain has already decided not to fall. The last bus turns the corner without looking back. We keep the window cracked for the smell of wet stone.",
+  "updatedAt": "2026-09-24T23:06:00.000Z",
+  "edition": 62,
+  "headline": "Midnight takes the stairs slowly.",
+  "body": "The kettle clicks off and nobody comes. Across the road a single window still holds its yellow. Friday arrives like a coat left on a chair.",
   "pulses": [
-    { "label": "Sky", "value": "bruised violet over chimney pots" },
-    { "label": "Mood", "value": "a letter left unsealed" },
-    { "label": "Street", "value": "empty benches holding their shine" }
+    { "label": "Light", "value": "kitchen bulb through thin curtains" },
+    { "label": "Mood", "value": "the hush after the last train" },
+    { "label": "Watch", "value": "12:06, second hand still climbing" }
   ]
 }
