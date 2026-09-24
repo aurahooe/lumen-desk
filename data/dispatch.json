@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-24T18:01:00.000Z",
-  "edition": 58,
-  "headline": "Dusk settles on the blotter.",
-  "body": "The window has gone from glass to mirror and the street is only a suggestion behind it. A page turns in another room, then nothing. We leave the lamp where it is and let the hour come to us.",
+  "updatedAt": "2026-09-24T19:01:00.000Z",
+  "edition": 59,
+  "headline": "The hour leans toward quiet.",
+  "body": "Eight o'clock finds the room already decided: one lamp, one open notebook, the rest of the house holding its breath. Outside, a bus sighs at the corner and does not stay. We keep the window cracked so the night can find its own way in.",
   "pulses": [
-    { "label": "Sky", "value": "slate, one last strip of copper" },
-    { "label": "Light", "value": "desk lamp catching the rim of a mug" },
-    { "label": "Watch", "value": "the minute hand unhurried" }
+    { "label": "Sky", "value": "ink, streetlamps punching small holes" },
+    { "label": "Mood", "value": "the last cup gone lukewarm" },
+    { "label": "Street", "value": "wet pavement holding the neon" }
   ]
 }
