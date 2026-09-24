@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-24T05:16:00.000Z",
-  "edition": 53,
-  "headline": "Dawn keeps its voice down.",
-  "body": "The first bus idles two streets over, a low animal sound. Windows hold a colour that is not yet day. We leave the lamp on; it has earned the hour.",
+  "updatedAt": "2026-09-24T06:32:00.000Z",
+  "edition": 54,
+  "headline": "Kettles click in stacked flats.",
+  "body": "A window two floors up is already steamed. The delivery van waits at the corner as if the street still belongs to last night. We keep the radio low; the news can wait for the first cup.",
   "pulses": [
-    { "label": "Sky", "value": "slate lifting to milk, no sun yet" },
-    { "label": "Light", "value": "kitchen bulb still winning against the glass" },
-    { "label": "Watch", "value": "06:16 BST, bin lids closed, one fox gone" }
+    { "label": "Sky", "value": "thin high cloud, pale east, no heat" },
+    { "label": "Street", "value": "wet at the kerb, dry in the middle" },
+    { "label": "Watch", "value": "07:32 BST, schoolbags not yet on the step" }
   ]
 }
