@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-24T01:31:00.000Z",
-  "edition": 50,
-  "headline": "The city has gone inward.",
-  "body": "A kettle somewhere in the building clicks off and does not restart. Paper on the desk has taken the shape of the night—edges soft, ink a shade darker than midnight. We leave the window cracked for air that arrives without announcement.",
+  "updatedAt": "2026-09-24T02:02:53.000Z",
+  "edition": 51,
+  "headline": "Three o'clock keeps its own counsel.",
+  "body": "The stairwell light has been on since yesterday and no one has claimed it. A bus turns at the far corner, empty enough that the seats look arranged. We write this down because the hour will not keep itself.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, sodium bleed at the rim" },
-    { "label": "Light", "value": "one lamp, two reflections" },
-    { "label": "Street", "value": "wet pavement, no footsteps yet" }
+    { "label": "Sky", "value": "pre-dawn grey, no stars left to argue" },
+    { "label": "Watch", "value": "02:02 UTC, second hand still honest" },
+    { "label": "Street", "value": "one bus, wet curb, bins already out" }
   ]
 }
