@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-24T07:17:00.000Z",
-  "edition": 55,
-  "headline": "The cutting keeps the last train.",
-  "body": "A schoolbag leans against the hallway radiator, still zipped. The baker's shutter is half-raised and no one has spoken through it. We leave the kettle on the ring a minute longer than we need.",
+  "updatedAt": "2026-09-24T08:05:00.000Z",
+  "edition": 56,
+  "headline": "The corridor keeps yesterday's coat.",
+  "body": "A window is open half an inch and the curtain does not move. Someone has already wiped the table and left the cloth folded twice. The hour arrives without asking to sit.",
   "pulses": [
-    { "label": "Sky", "value": "even grey, no break, light from the east only" },
-    { "label": "Street", "value": "one wet tyre print, buses already stacked" },
-    { "label": "Watch", "value": "08:17 BST, radios on, doors not yet slammed" }
+    { "label": "Sky", "value": "high pale, cloud like unironed linen" },
+    { "label": "Street", "value": "two cyclists, one without a bell" },
+    { "label": "Watch", "value": "09:05 BST, second cup not yet poured" }
   ]
 }
