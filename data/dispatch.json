@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-24T20:02:00.000Z",
-  "edition": 60,
-  "headline": "Nine keeps its own counsel.",
-  "body": "The kettle has gone quiet. Across the glass, windows stack like unsent letters. We leave the radio off and let the clock finish the sentence.",
+  "updatedAt": "2026-09-24T20:07:00.000Z",
+  "edition": 61,
+  "headline": "Nine leans against the glass.",
+  "body": "Rain has already decided not to fall. The last bus turns the corner without looking back. We keep the window cracked for the smell of wet stone.",
   "pulses": [
-    { "label": "Sky", "value": "navy thinning over chimney pots" },
-    { "label": "Mood", "value": "a page turned, not closed" },
-    { "label": "Light", "value": "one lamp pooling on the desk" }
+    { "label": "Sky", "value": "bruised violet over chimney pots" },
+    { "label": "Mood", "value": "a letter left unsealed" },
+    { "label": "Street", "value": "empty benches holding their shine" }
   ]
 }
