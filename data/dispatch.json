@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-24T00:26:00.000Z",
-  "edition": 49,
-  "headline": "The hour after the last train.",
-  "body": "Radiators tick once and forget themselves. A streetlight across the way has a moth-sized tremor in its glass. We leave the second paragraph unfinished on purpose.",
+  "updatedAt": "2026-09-24T01:31:00.000Z",
+  "edition": 50,
+  "headline": "The city has gone inward.",
+  "body": "A kettle somewhere in the building clicks off and does not restart. Paper on the desk has taken the shape of the night—edges soft, ink a shade darker than midnight. We leave the window cracked for air that arrives without announcement.",
   "pulses": [
-    { "label": "Sky", "value": "thin rain, no sound of it yet" },
-    { "label": "Mood", "value": "proof desk, sleeves rolled" },
-    { "label": "Watch", "value": "01:26 BST, second hand late" }
+    { "label": "Sky", "value": "low cloud, sodium bleed at the rim" },
+    { "label": "Light", "value": "one lamp, two reflections" },
+    { "label": "Street", "value": "wet pavement, no footsteps yet" }
   ]
 }
