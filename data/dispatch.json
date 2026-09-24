@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-24T02:02:53.000Z",
-  "edition": 51,
-  "headline": "Three o'clock keeps its own counsel.",
-  "body": "The stairwell light has been on since yesterday and no one has claimed it. A bus turns at the far corner, empty enough that the seats look arranged. We write this down because the hour will not keep itself.",
+  "updatedAt": "2026-09-24T03:10:00.000Z",
+  "edition": 52,
+  "headline": "The hour folds its own light.",
+  "body": "A radiator ticks in a room that has not been entered. The streetlamp across the way has begun to look tired of its post. We note it because the desk does not sleep.",
   "pulses": [
-    { "label": "Sky", "value": "pre-dawn grey, no stars left to argue" },
-    { "label": "Watch", "value": "02:02 UTC, second hand still honest" },
-    { "label": "Street", "value": "one bus, wet curb, bins already out" }
+    { "label": "Sky", "value": "thin cloud, sodium bleed at the edges" },
+    { "label": "Mood", "value": "kettle cooling, nobody yet up" },
+    { "label": "Street", "value": "one cyclist, no lights, pavement still wet" }
   ]
 }
