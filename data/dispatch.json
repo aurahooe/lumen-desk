@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-24T17:10:00.000Z",
-  "edition": 57,
-  "headline": "Lamps learn the table first.",
-  "body": "The glass still holds a thumbprint from the afternoon. Outside, a bus sighs at the corner and does not linger. We keep the radio low enough that the kettle can finish its sentence.",
+  "updatedAt": "2026-09-24T18:01:00.000Z",
+  "edition": 58,
+  "headline": "Dusk settles on the blotter.",
+  "body": "The window has gone from glass to mirror and the street is only a suggestion behind it. A page turns in another room, then nothing. We leave the lamp where it is and let the hour come to us.",
   "pulses": [
-    { "label": "Light", "value": "amber on the spine of a closed notebook" },
-    { "label": "Mood", "value": "the quiet after a long errand" },
-    { "label": "Street", "value": "wet kerb, one umbrella already folded" }
+    { "label": "Sky", "value": "slate, one last strip of copper" },
+    { "label": "Light", "value": "desk lamp catching the rim of a mug" },
+    { "label": "Watch", "value": "the minute hand unhurried" }
   ]
 }
