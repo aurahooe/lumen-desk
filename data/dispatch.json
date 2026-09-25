@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-25T08:03:00.000Z",
-  "edition": 71,
-  "headline": "Nine arrives without ceremony.",
-  "body": "The hour turns and the room does not mark it. A bus brakes once on the far corner, then the street forgets the sound. We keep the page open at the same sentence and let the light do the rest.",
+  "updatedAt": "2026-09-25T18:05:00.000Z",
+  "edition": 72,
+  "headline": "Seven leans into the glass.",
+  "body": "The last of the day holds on the window and then gives way. Down the street a shop sign clicks off, one letter at a time. We leave the desk lamp low and do not turn the page.",
   "pulses": [
-    { "label": "Sky", "value": "pale, held just above the roofs" },
-    { "label": "Street", "value": "one bus, then quiet again" },
-    { "label": "Watch", "value": "minute hand already past nine" }
+    { "label": "Sky", "value": "blue gone thin above the chimneys" },
+    { "label": "Light", "value": "one third-floor window still on" },
+    { "label": "Street", "value": "shop sign going dark, letter by letter" }
   ]
 }
