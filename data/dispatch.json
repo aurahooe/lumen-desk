@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-25T19:02:00.000Z",
-  "edition": 73,
-  "headline": "Lamps assume the remaining sky.",
-  "body": "The shop signs have finished going out. A bus sighs at the corner and does not stay. We keep the desk lamp lower still and watch the glass hold what blue is left.",
+  "updatedAt": "2026-09-25T20:04:00.000Z",
+  "edition": 74,
+  "headline": "Nine o'clock keeps its own hush.",
+  "body": "The last commuter coat has gone from the pavement. In the window the desk lamp finds only itself and a thin stripe of street. We leave the radio off and let the hour settle without commentary.",
   "pulses": [
-    { "label": "Sky", "value": "last blue caught in the west glass" },
-    { "label": "Watch", "value": "20:02, second hand unhurried" },
-    { "label": "Street", "value": "wet pavement taking the first reflections" }
+    { "label": "Sky", "value": "navy gone almost to ink" },
+    { "label": "Mood", "value": "pages cooling under the lamp" },
+    { "label": "Light", "value": "one cone of amber on the blotter" }
   ]
 }
