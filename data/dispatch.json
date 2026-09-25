@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-25T00:05:00.000Z",
-  "edition": 63,
-  "headline": "One a.m. keeps the lights on.",
-  "body": "The pavement still holds the day's heat. A bicycle chain ticks past the closed bakery and is gone. Friday has not yet decided what it is.",
+  "updatedAt": "2026-09-25T01:02:00.000Z",
+  "edition": 64,
+  "headline": "Two o'clock thins the city.",
+  "body": "A kettle clicks off in a window three floors up and nobody comes for it. The last bus has already pretended it will be back. Paper from a takeaway menu turns once in the gutter and settles.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, no moon to argue with" },
-    { "label": "Street", "value": "one taxi idling with its roof light off" },
-    { "label": "Light", "value": "the pharmacy sign still humming blue" }
+    { "label": "Sky", "value": "cloud stacked low, streetlamps doing the work" },
+    { "label": "Mood", "value": "rooms still lit, voices already gone" },
+    { "label": "Watch", "value": "the crossing beep delayed, then empty" }
   ]
 }
