@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-25T02:02:00.000Z",
-  "edition": 65,
-  "headline": "Three o'clock keeps the lamps.",
-  "body": "The river holds a single barge light and refuses the rest. A fox crosses the service road without looking up. Somewhere a printer in an empty office finishes a job no one asked for.",
+  "updatedAt": "2026-09-25T03:04:00.000Z",
+  "edition": 66,
+  "headline": "Four o'clock inventories the dark.",
+  "body": "The last bus has already been a rumour for an hour. Milk crates stack themselves in a loading bay that will not open until six. A clock in the station waiting room ticks as if it were being paid to.",
   "pulses": [
-    { "label": "Sky", "value": "indigo thinning at the edges, no stars worth naming" },
-    { "label": "Street", "value": "wet tarmac, one taxi idling with its meter dark" },
-    { "label": "Light", "value": "kitchen windows on the third floor, still deciding" }
+    { "label": "Sky", "value": "pre-dawn grey, one aircraft light moving south" },
+    { "label": "Street", "value": "gutter water still, a bicycle locked to nothing useful" },
+    { "label": "Watch", "value": "04:04 BST, the minute that refuses to hurry" }
   ]
 }
