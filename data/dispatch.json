@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-25T04:01:00.000Z",
-  "edition": 67,
-  "headline": "Five o'clock unseals the river.",
-  "body": "A bakery vent writes steam across a brick wall that has not yet decided to be warm. Somewhere a shutter chain complains once and then thinks better of it. The hour keeps its coat on.",
+  "updatedAt": "2026-09-25T05:02:00.000Z",
+  "edition": 68,
+  "headline": "Dawn keeps one sleeve rolled.",
+  "body": "A newsagent's shutter lifts two inches and thinks again. The river has the look of a desk that was not cleared. Somewhere a radio warms up without finding a voice.",
   "pulses": [
-    { "label": "Sky", "value": "thin pewter, Venus still arguing with the east" },
-    { "label": "Light", "value": "shopfront neon left on, pink against wet pavement" },
-    { "label": "Mood", "value": "the hush before kettles, not quite loneliness" }
+    { "label": "Sky", "value": "washed graphite, no edge yet" },
+    { "label": "Street", "value": "one taxi idling, heater fogging the glass" },
+    { "label": "Light", "value": "bakery oven glow through a side door" }
   ]
 }
