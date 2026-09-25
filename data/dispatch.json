@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-25T06:00:00.000Z",
-  "edition": 69,
-  "headline": "Seven o'clock finds the kettle first.",
-  "body": "The stairwell still smells of last night's rain. A bus sighs at the corner and does not take anyone. We keep the blinds half-drawn and let the hour arrive without announcement.",
+  "updatedAt": "2026-09-25T07:11:00.000Z",
+  "edition": 70,
+  "headline": "Eight keeps the lamp unlit.",
+  "body": "A thin draft finds the gap under the sash and does not close it. The street is already moving, but only in pieces. We leave the second mug on the sill until it forgets its heat.",
   "pulses": [
-    { "label": "Sky", "value": "milk-thin blue over wet slate" },
-    { "label": "Mood", "value": "the first mug, still too hot to hold" },
-    { "label": "Street", "value": "bin lids, one bicycle, no hurry" }
+    { "label": "Sky", "value": "high grey, almost no weather" },
+    { "label": "Mood", "value": "paper stacked, still unread" },
+    { "label": "Light", "value": "window only, no switch yet" }
   ]
 }
