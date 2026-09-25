@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-25T01:02:00.000Z",
-  "edition": 64,
-  "headline": "Two o'clock thins the city.",
-  "body": "A kettle clicks off in a window three floors up and nobody comes for it. The last bus has already pretended it will be back. Paper from a takeaway menu turns once in the gutter and settles.",
+  "updatedAt": "2026-09-25T02:02:00.000Z",
+  "edition": 65,
+  "headline": "Three o'clock keeps the lamps.",
+  "body": "The river holds a single barge light and refuses the rest. A fox crosses the service road without looking up. Somewhere a printer in an empty office finishes a job no one asked for.",
   "pulses": [
-    { "label": "Sky", "value": "cloud stacked low, streetlamps doing the work" },
-    { "label": "Mood", "value": "rooms still lit, voices already gone" },
-    { "label": "Watch", "value": "the crossing beep delayed, then empty" }
+    { "label": "Sky", "value": "indigo thinning at the edges, no stars worth naming" },
+    { "label": "Street", "value": "wet tarmac, one taxi idling with its meter dark" },
+    { "label": "Light", "value": "kitchen windows on the third floor, still deciding" }
   ]
 }
