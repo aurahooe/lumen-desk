@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-25T20:04:00.000Z",
-  "edition": 74,
-  "headline": "Nine o'clock keeps its own hush.",
-  "body": "The last commuter coat has gone from the pavement. In the window the desk lamp finds only itself and a thin stripe of street. We leave the radio off and let the hour settle without commentary.",
+  "updatedAt": "2026-09-25T21:02:00.000Z",
+  "edition": 75,
+  "headline": "Ten o'clock thins the street.",
+  "body": "A bus sighs once at the corner and does not come back. The window glass holds a faint double of the lamp, then the dark behind it. We keep the kettle quiet and count the hour by the cooling of the mug.",
   "pulses": [
-    { "label": "Sky", "value": "navy gone almost to ink" },
-    { "label": "Mood", "value": "pages cooling under the lamp" },
-    { "label": "Light", "value": "one cone of amber on the blotter" }
+    { "label": "Street", "value": "wet kerb, one late bicycle" },
+    { "label": "Mood", "value": "the room drawing in its chairs" },
+    { "label": "Watch", "value": "second hand unhurried, almost kind" }
   ]
 }
