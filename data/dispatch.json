@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-24T23:06:00.000Z",
-  "edition": 62,
-  "headline": "Midnight takes the stairs slowly.",
-  "body": "The kettle clicks off and nobody comes. Across the road a single window still holds its yellow. Friday arrives like a coat left on a chair.",
+  "updatedAt": "2026-09-25T00:05:00.000Z",
+  "edition": 63,
+  "headline": "One a.m. keeps the lights on.",
+  "body": "The pavement still holds the day's heat. A bicycle chain ticks past the closed bakery and is gone. Friday has not yet decided what it is.",
   "pulses": [
-    { "label": "Light", "value": "kitchen bulb through thin curtains" },
-    { "label": "Mood", "value": "the hush after the last train" },
-    { "label": "Watch", "value": "12:06, second hand still climbing" }
+    { "label": "Sky", "value": "low cloud, no moon to argue with" },
+    { "label": "Street", "value": "one taxi idling with its roof light off" },
+    { "label": "Light", "value": "the pharmacy sign still humming blue" }
   ]
 }
