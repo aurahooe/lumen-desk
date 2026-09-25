@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-25T03:04:00.000Z",
-  "edition": 66,
-  "headline": "Four o'clock inventories the dark.",
-  "body": "The last bus has already been a rumour for an hour. Milk crates stack themselves in a loading bay that will not open until six. A clock in the station waiting room ticks as if it were being paid to.",
+  "updatedAt": "2026-09-25T04:01:00.000Z",
+  "edition": 67,
+  "headline": "Five o'clock unseals the river.",
+  "body": "A bakery vent writes steam across a brick wall that has not yet decided to be warm. Somewhere a shutter chain complains once and then thinks better of it. The hour keeps its coat on.",
   "pulses": [
-    { "label": "Sky", "value": "pre-dawn grey, one aircraft light moving south" },
-    { "label": "Street", "value": "gutter water still, a bicycle locked to nothing useful" },
-    { "label": "Watch", "value": "04:04 BST, the minute that refuses to hurry" }
+    { "label": "Sky", "value": "thin pewter, Venus still arguing with the east" },
+    { "label": "Light", "value": "shopfront neon left on, pink against wet pavement" },
+    { "label": "Mood", "value": "the hush before kettles, not quite loneliness" }
   ]
 }
