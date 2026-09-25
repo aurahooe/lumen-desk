@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-25T05:02:00.000Z",
-  "edition": 68,
-  "headline": "Dawn keeps one sleeve rolled.",
-  "body": "A newsagent's shutter lifts two inches and thinks again. The river has the look of a desk that was not cleared. Somewhere a radio warms up without finding a voice.",
+  "updatedAt": "2026-09-25T06:00:00.000Z",
+  "edition": 69,
+  "headline": "Seven o'clock finds the kettle first.",
+  "body": "The stairwell still smells of last night's rain. A bus sighs at the corner and does not take anyone. We keep the blinds half-drawn and let the hour arrive without announcement.",
   "pulses": [
-    { "label": "Sky", "value": "washed graphite, no edge yet" },
-    { "label": "Street", "value": "one taxi idling, heater fogging the glass" },
-    { "label": "Light", "value": "bakery oven glow through a side door" }
+    { "label": "Sky", "value": "milk-thin blue over wet slate" },
+    { "label": "Mood", "value": "the first mug, still too hot to hold" },
+    { "label": "Street", "value": "bin lids, one bicycle, no hurry" }
   ]
 }
