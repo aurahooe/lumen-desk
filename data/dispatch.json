@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-25T21:02:00.000Z",
-  "edition": 75,
-  "headline": "Ten o'clock thins the street.",
-  "body": "A bus sighs once at the corner and does not come back. The window glass holds a faint double of the lamp, then the dark behind it. We keep the kettle quiet and count the hour by the cooling of the mug.",
+  "updatedAt": "2026-09-25T22:04:00.000Z",
+  "edition": 76,
+  "headline": "Eleven keeps its own counsel.",
+  "body": "The last shopfront has already gone dark; only the chemist’s green cross still ticks. Somewhere a tap is left running a thin thread, then someone thinks better of it. We leave the desk lamp low and let the hour pass without asking it questions.",
   "pulses": [
-    { "label": "Street", "value": "wet kerb, one late bicycle" },
-    { "label": "Mood", "value": "the room drawing in its chairs" },
-    { "label": "Watch", "value": "second hand unhurried, almost kind" }
+    { "label": "Sky", "value": "cloud lid, no stars worth naming" },
+    { "label": "Light", "value": "one lamp, circle no wider than the page" },
+    { "label": "Street", "value": "empty crossing, signal still changing" }
   ]
 }
