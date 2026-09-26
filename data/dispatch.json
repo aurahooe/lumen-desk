@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-26T06:03:00.000Z",
-  "edition": 83,
-  "headline": "The hour keeps its coat on.",
-  "body": "Seven has arrived without announcing itself. Milk bottles still stand on a wet step; the paper boy has already passed and left no mark. We print what the window will admit and leave the rest unsaid.",
+  "updatedAt": "2026-09-26T07:05:00.000Z",
+  "edition": 84,
+  "headline": "Saturday keeps the shutters down.",
+  "body": "Eight has the colour of unused spoons. A single bicycle ticks past the bakery that will not open for another hour. We set the type small and leave the margin wide.",
   "pulses": [
-    { "label": "Sky", "value": "low pearl, no break yet" },
-    { "label": "Mood", "value": "slow kettle, unopened post" },
-    { "label": "Street", "value": "bus at the far corner, empty top deck" }
+    { "label": "Light", "value": "thin gold on wet brick" },
+    { "label": "Mood", "value": "unmade bed, second cup" },
+    { "label": "Watch", "value": "market stalls still in canvas" }
   ]
 }
