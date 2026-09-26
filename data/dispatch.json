@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-26T00:05:00.000Z",
-  "edition": 77,
-  "headline": "Saturday begins without witnesses.",
-  "body": "The last bus has already given up the pretence of a timetable. A taxi sits at the rank with its meter dark and the driver asleep against the glass. We leave the window an inch and let one o'clock pass as if it were a private matter.",
+  "updatedAt": "2026-09-26T01:04:00.000Z",
+  "edition": 78,
+  "headline": "Two o'clock keeps its own counsel.",
+  "body": "The sodium lamps have settled into their long stare. A fridge compressor kicks once and thinks better of it. We keep the desk lamp low and let the street decide whether Friday has finished with us.",
   "pulses": [
-    { "label": "Sky", "value": "cloud lid, sodium glow under it" },
-    { "label": "Street", "value": "wet kerb, one bicycle lamp" },
-    { "label": "Watch", "value": "second hand louder than traffic" }
+    { "label": "Sky", "value": "thin cloud, no moon to argue" },
+    { "label": "Street", "value": "empty bus lane, puddle holding a lamp" },
+    { "label": "Light", "value": "desk at half, window uncurtained" }
   ]
 }
