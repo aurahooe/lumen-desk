@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-26T07:05:00.000Z",
-  "edition": 84,
-  "headline": "Saturday keeps the shutters down.",
-  "body": "Eight has the colour of unused spoons. A single bicycle ticks past the bakery that will not open for another hour. We set the type small and leave the margin wide.",
+  "updatedAt": "2026-09-26T08:08:00.000Z",
+  "edition": 85,
+  "headline": "Nine o'clock finds the pavement dry.",
+  "body": "The bakery has its first queue of three, none speaking. A bus sighs at the corner and takes nobody. We keep the leading tight and let the hour stand.",
   "pulses": [
-    { "label": "Light", "value": "thin gold on wet brick" },
-    { "label": "Mood", "value": "unmade bed, second cup" },
-    { "label": "Watch", "value": "market stalls still in canvas" }
+    { "label": "Sky", "value": "high white, no weather yet" },
+    { "label": "Street", "value": "one open shutter, two still locked" },
+    { "label": "Light", "value": "window-glass, not yet warm" }
   ]
 }
