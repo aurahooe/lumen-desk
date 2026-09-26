@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-26T21:05:00.000Z",
-  "edition": 88,
-  "headline": "Ten o'clock holds the stairwell.",
-  "body": "The last kettle clicks off somewhere above the shop. A cat crosses the pavement as if it owns the hour. We leave the desk lamp on and do not hurry the copy.",
+  "updatedAt": "2026-09-26T22:05:00.000Z",
+  "edition": 89,
+  "headline": "Eleven leans into the glass.",
+  "body": "A bus sighs at the corner and does not take anyone. The shopfront reflects the desk lamp back at itself. We keep the copy short so the hour can finish speaking.",
   "pulses": [
-    { "label": "Sky", "value": "ink-blue, no moon yet" },
-    { "label": "Mood", "value": "the building settling, floorboard by floorboard" },
-    { "label": "Watch", "value": "second hand louder than traffic" }
+    { "label": "Light", "value": "one window still warm above the chemist" },
+    { "label": "Street", "value": "wet stone, a bicycle left unlocked" },
+    { "label": "Mood", "value": "the room agreeing to stay awake" }
   ]
 }
