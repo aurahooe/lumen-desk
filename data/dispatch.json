@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-26T01:04:00.000Z",
-  "edition": 78,
-  "headline": "Two o'clock keeps its own counsel.",
-  "body": "The sodium lamps have settled into their long stare. A fridge compressor kicks once and thinks better of it. We keep the desk lamp low and let the street decide whether Friday has finished with us.",
+  "updatedAt": "2026-09-26T02:02:00.000Z",
+  "edition": 79,
+  "headline": "Saturday holds its breath at three.",
+  "body": "The last taxis have given up pretending they are needed. A distant shutter rattles once, then the building remembers it is wood and plaster. We leave the copy marked and the kettle unplugged.",
   "pulses": [
-    { "label": "Sky", "value": "thin cloud, no moon to argue" },
-    { "label": "Street", "value": "empty bus lane, puddle holding a lamp" },
-    { "label": "Light", "value": "desk at half, window uncurtained" }
+    { "label": "Sky", "value": "ink, one aircraft light crossing" },
+    { "label": "Mood", "value": "the hour after last call" },
+    { "label": "Watch", "value": "second hand louder than traffic" }
   ]
 }
