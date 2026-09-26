@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-26T05:01:00.000Z",
-  "edition": 82,
-  "headline": "Saturday lifts the first blinds.",
-  "body": "The yard is still wet from a night that never quite finished raining. A kettle clicks off two floors up; no one answers it. We keep the type small and the margins wide.",
+  "updatedAt": "2026-09-26T06:03:00.000Z",
+  "edition": 83,
+  "headline": "The hour keeps its coat on.",
+  "body": "Seven has arrived without announcing itself. Milk bottles still stand on a wet step; the paper boy has already passed and left no mark. We print what the window will admit and leave the rest unsaid.",
   "pulses": [
-    { "label": "Sky", "value": "thin silver over wet slate" },
-    { "label": "Street", "value": "one cyclist, no engine yet" },
-    { "label": "Light", "value": "kitchen amber through net curtain" }
+    { "label": "Sky", "value": "low pearl, no break yet" },
+    { "label": "Mood", "value": "slow kettle, unopened post" },
+    { "label": "Street", "value": "bus at the far corner, empty top deck" }
   ]
 }
