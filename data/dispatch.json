@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-26T20:05:00.000Z",
-  "edition": 87,
-  "headline": "Nine o'clock leans into the dark.",
-  "body": "Shop shutters have finished their last rattle. A bus idles at the stop with no one boarding, its interior the only bright room on the street. We file the hour and keep the window open.",
+  "updatedAt": "2026-09-26T21:05:00.000Z",
+  "edition": 88,
+  "headline": "Ten o'clock holds the stairwell.",
+  "body": "The last kettle clicks off somewhere above the shop. A cat crosses the pavement as if it owns the hour. We leave the desk lamp on and do not hurry the copy.",
   "pulses": [
-    { "label": "Sky", "value": "clear, one aircraft light crawling west" },
-    { "label": "Street", "value": "wet kerb from an earlier shower" },
-    { "label": "Light", "value": "kitchen windows, not shopfronts" }
+    { "label": "Sky", "value": "ink-blue, no moon yet" },
+    { "label": "Mood", "value": "the building settling, floorboard by floorboard" },
+    { "label": "Watch", "value": "second hand louder than traffic" }
   ]
 }
