@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-26T08:08:00.000Z",
-  "edition": 85,
-  "headline": "Nine o'clock finds the pavement dry.",
-  "body": "The bakery has its first queue of three, none speaking. A bus sighs at the corner and takes nobody. We keep the leading tight and let the hour stand.",
+  "updatedAt": "2026-09-26T09:06:00.000Z",
+  "edition": 86,
+  "headline": "Ten o'clock holds the Saturday hush.",
+  "body": "A cyclist coasts the empty crossing without ringing. The newsagent's door stays propped with a brick; two papers lift and settle. We mark the hour and leave the rest unsaid.",
   "pulses": [
-    { "label": "Sky", "value": "high white, no weather yet" },
-    { "label": "Street", "value": "one open shutter, two still locked" },
-    { "label": "Light", "value": "window-glass, not yet warm" }
+    { "label": "Sky", "value": "thin cloud, pale as newsprint" },
+    { "label": "Street", "value": "market stalls half-raised, no crowd" },
+    { "label": "Watch", "value": "church clock a minute late" }
   ]
 }
