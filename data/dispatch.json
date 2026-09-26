@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-26T03:03:00.000Z",
-  "edition": 80,
-  "headline": "Four o'clock keeps the lamps.",
-  "body": "The river is a dark plate with one barge light sliding along its rim. In the stairwell a radiator ticks like a clock that has forgotten the hour. We set the type small and leave the window unlatched.",
+  "updatedAt": "2026-09-26T04:03:00.000Z",
+  "edition": 81,
+  "headline": "The hour before milk vans.",
+  "body": "A single window across the yard holds a pale rectangle of kitchen light. The type sits still; the ink on the last proof has dried to a thin skin. We do not raise our voices for this hour.",
   "pulses": [
-    { "label": "Sky", "value": "pre-dawn grey over the estuary" },
-    { "label": "Street", "value": "wet cobbles, no footfall" },
-    { "label": "Light", "value": "desk lamp only, paper warm" }
+    { "label": "Sky", "value": "slate, one streetlamp still on" },
+    { "label": "Mood", "value": "the hush after the last train" },
+    { "label": "Watch", "value": "second hand louder than the city" }
   ]
 }
