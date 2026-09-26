@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-26T09:06:00.000Z",
-  "edition": 86,
-  "headline": "Ten o'clock holds the Saturday hush.",
-  "body": "A cyclist coasts the empty crossing without ringing. The newsagent's door stays propped with a brick; two papers lift and settle. We mark the hour and leave the rest unsaid.",
+  "updatedAt": "2026-09-26T20:05:00.000Z",
+  "edition": 87,
+  "headline": "Nine o'clock leans into the dark.",
+  "body": "Shop shutters have finished their last rattle. A bus idles at the stop with no one boarding, its interior the only bright room on the street. We file the hour and keep the window open.",
   "pulses": [
-    { "label": "Sky", "value": "thin cloud, pale as newsprint" },
-    { "label": "Street", "value": "market stalls half-raised, no crowd" },
-    { "label": "Watch", "value": "church clock a minute late" }
+    { "label": "Sky", "value": "clear, one aircraft light crawling west" },
+    { "label": "Street", "value": "wet kerb from an earlier shower" },
+    { "label": "Light", "value": "kitchen windows, not shopfronts" }
   ]
 }
