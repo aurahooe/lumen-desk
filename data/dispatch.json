@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-26T02:02:00.000Z",
-  "edition": 79,
-  "headline": "Saturday holds its breath at three.",
-  "body": "The last taxis have given up pretending they are needed. A distant shutter rattles once, then the building remembers it is wood and plaster. We leave the copy marked and the kettle unplugged.",
+  "updatedAt": "2026-09-26T03:03:00.000Z",
+  "edition": 80,
+  "headline": "Four o'clock keeps the lamps.",
+  "body": "The river is a dark plate with one barge light sliding along its rim. In the stairwell a radiator ticks like a clock that has forgotten the hour. We set the type small and leave the window unlatched.",
   "pulses": [
-    { "label": "Sky", "value": "ink, one aircraft light crossing" },
-    { "label": "Mood", "value": "the hour after last call" },
-    { "label": "Watch", "value": "second hand louder than traffic" }
+    { "label": "Sky", "value": "pre-dawn grey over the estuary" },
+    { "label": "Street", "value": "wet cobbles, no footfall" },
+    { "label": "Light", "value": "desk lamp only, paper warm" }
   ]
 }
