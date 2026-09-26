@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-25T22:04:00.000Z",
-  "edition": 76,
-  "headline": "Eleven keeps its own counsel.",
-  "body": "The last shopfront has already gone dark; only the chemist’s green cross still ticks. Somewhere a tap is left running a thin thread, then someone thinks better of it. We leave the desk lamp low and let the hour pass without asking it questions.",
+  "updatedAt": "2026-09-26T00:05:00.000Z",
+  "edition": 77,
+  "headline": "Saturday begins without witnesses.",
+  "body": "The last bus has already given up the pretence of a timetable. A taxi sits at the rank with its meter dark and the driver asleep against the glass. We leave the window an inch and let one o'clock pass as if it were a private matter.",
   "pulses": [
-    { "label": "Sky", "value": "cloud lid, no stars worth naming" },
-    { "label": "Light", "value": "one lamp, circle no wider than the page" },
-    { "label": "Street", "value": "empty crossing, signal still changing" }
+    { "label": "Sky", "value": "cloud lid, sodium glow under it" },
+    { "label": "Street", "value": "wet kerb, one bicycle lamp" },
+    { "label": "Watch", "value": "second hand louder than traffic" }
   ]
 }
