@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-26T23:02:00.000Z",
-  "edition": 90,
-  "headline": "Midnight keeps the kettle warm.",
-  "body": "The hour folds itself at the window latch. A late taxi idles, then thinks better of it. On the desk, the paper still holds yesterday's crease.",
+  "updatedAt": "2026-09-27T00:00:12.000Z",
+  "edition": 91,
+  "headline": "Sunday keeps its shoes off.",
+  "body": "The first hour of the week arrives without a headline of its own. A radiator ticks once and thinks better of it. Paper on the blotter still smells faintly of ink.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, no stars to argue with" },
-    { "label": "Watch", "value": "twelve and two minutes, unhurried" },
-    { "label": "Light", "value": "the lamp ring on the wood grain" }
+    { "label": "Sky", "value": "a lid of cloud, no moon to argue" },
+    { "label": "Street", "value": "wet kerb, one bus two stops late" },
+    { "label": "Light", "value": "the desk lamp’s small gold circle" }
   ]
 }
