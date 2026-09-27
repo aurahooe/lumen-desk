@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-27T22:02:00.000Z",
-  "edition": 102,
-  "headline": "Eleven arrives without ceremony.",
-  "body": "The radiator ticks once and then thinks better of it. A moth works the same pane it worked an hour ago. The oven clock is two minutes ahead and nobody has corrected it.",
+  "updatedAt": "2026-09-27T23:02:00.000Z",
+  "edition": 103,
+  "headline": "Midnight keeps the same chair.",
+  "body": "The kettle is cold and still on the ring. A bus sighs at the corner and does not stop. The second hand on the wall clock is the only thing that insists.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, sodium glow leaking up" },
-    { "label": "Street", "value": "a bicycle chain, then nothing" },
-    { "label": "Light", "value": "kitchen strip holding one flicker" }
+    { "label": "Sky", "value": "thin overcast, no stars claimed" },
+    { "label": "Street", "value": "wet kerb, one taxi idling" },
+    { "label": "Watch", "value": "00:02, the house not yet decided" }
   ]
 }
