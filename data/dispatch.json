@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-27T21:00:00.000Z",
-  "edition": 101,
-  "headline": "Night draws the curtains halfway.",
-  "body": "The last bus sighs at the corner and leaves the glass shaking. Someone two windows over is washing a cup as if the day still owed them something. The desk lamp holds a small, stubborn circle and will not share it.",
+  "updatedAt": "2026-09-27T22:02:00.000Z",
+  "edition": 102,
+  "headline": "Eleven arrives without ceremony.",
+  "body": "The radiator ticks once and then thinks better of it. A moth works the same pane it worked an hour ago. The oven clock is two minutes ahead and nobody has corrected it.",
   "pulses": [
-    { "label": "Sky", "value": "indigo, a few uncommitted stars" },
-    { "label": "Street", "value": "wet kerb, one taxi idling" },
-    { "label": "Light", "value": "lamp-circle on blotter paper" }
+    { "label": "Sky", "value": "low cloud, sodium glow leaking up" },
+    { "label": "Street", "value": "a bicycle chain, then nothing" },
+    { "label": "Light", "value": "kitchen strip holding one flicker" }
   ]
 }
