@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-27T02:03:00.000Z",
-  "edition": 93,
-  "headline": "The third hour arrives unannounced.",
-  "body": "Radiators tick once and then remember their manners. A bus two streets over lifts its whole bright body through the dark and is gone. The desk lamp holds a small, private weather.",
+  "updatedAt": "2026-09-27T03:00:00.000Z",
+  "edition": 94,
+  "headline": "Four o'clock keeps its own counsel.",
+  "body": "The city has thinned to pipes and distant tyres. A kettle in some other kitchen clicks off and the quiet rearranges itself. Paper on the desk has taken the lamp's colour and will not give it back.",
   "pulses": [
-    { "label": "Sky", "value": "indigo without a moon, roofs as silhouettes" },
-    { "label": "Light", "value": "one lamp, one screen, the rest of the room withheld" },
-    { "label": "Street", "value": "wet tarmac, a single late bus" }
+    { "label": "Sky", "value": "pre-dawn slate, no stars worth naming" },
+    { "label": "Mood", "value": "the last honest hour before the clocks insist" },
+    { "label": "Light", "value": "desk lamp only; windows still black" }
   ]
 }
