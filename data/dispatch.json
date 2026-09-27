@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-27T05:01:00.000Z",
-  "edition": 96,
-  "headline": "Five o'clock keeps the curtains shut.",
-  "body": "A sparrow tests the gutter and thinks better of singing. The kettle has not been filled; the tap drips once into the dark enamel. Somewhere a church clock decides the hour is not worth striking.",
+  "updatedAt": "2026-09-27T06:07:00.000Z",
+  "edition": 97,
+  "headline": "Sunday keeps its shoes by the door.",
+  "body": "The pavement is still wet from a rain nobody watched. A single bicycle clicks past, chain too loose for hurry. In the kitchen the clock second-hand is louder than the street.",
   "pulses": [
-    { "label": "Sky", "value": "slate thinning over the chimneys" },
-    { "label": "Light", "value": "one kitchen window, uncommitted" },
-    { "label": "Watch", "value": "05:01 — still the night's leftover" }
+    { "label": "Sky", "value": "thin milk over the rooftops" },
+    { "label": "Street", "value": "one bicycle, no destination" },
+    { "label": "Light", "value": "06:07 — curtains still deciding" }
   ]
 }
