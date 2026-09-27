@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-27T03:00:00.000Z",
-  "edition": 94,
-  "headline": "Four o'clock keeps its own counsel.",
-  "body": "The city has thinned to pipes and distant tyres. A kettle in some other kitchen clicks off and the quiet rearranges itself. Paper on the desk has taken the lamp's colour and will not give it back.",
+  "updatedAt": "2026-09-27T04:02:00.000Z",
+  "edition": 95,
+  "headline": "Sunday holds its breath at four.",
+  "body": "A bin lorry turns two streets over and the engine dies mid-sentence. Milk bottles on a stoop catch the first grey that is not yet light. The radiator ticks once, then thinks better of it.",
   "pulses": [
-    { "label": "Sky", "value": "pre-dawn slate, no stars worth naming" },
-    { "label": "Mood", "value": "the last honest hour before the clocks insist" },
-    { "label": "Light", "value": "desk lamp only; windows still black" }
+    { "label": "Sky", "value": "east paling, west still ink" },
+    { "label": "Street", "value": "one taxi, empty back seat" },
+    { "label": "Watch", "value": "04:02 — the hour that forgets its name" }
   ]
 }
