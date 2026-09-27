@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-27T10:00:00.000Z",
-  "edition": 100,
-  "headline": "Eleven keeps the parlour still.",
-  "body": "A kettle clicks off two floors down and is not answered. Church traffic has already drained from the high street; lunch has not yet claimed it. Light lies on the table like an unopened letter.",
+  "updatedAt": "2026-09-27T21:00:00.000Z",
+  "edition": 101,
+  "headline": "Night draws the curtains halfway.",
+  "body": "The last bus sighs at the corner and leaves the glass shaking. Someone two windows over is washing a cup as if the day still owed them something. The desk lamp holds a small, stubborn circle and will not share it.",
   "pulses": [
-    { "label": "Sky", "value": "high pale, almost unused" },
-    { "label": "Street", "value": "one bicycle, then nothing" },
-    { "label": "Light", "value": "a square on the tablecloth" }
+    { "label": "Sky", "value": "indigo, a few uncommitted stars" },
+    { "label": "Street", "value": "wet kerb, one taxi idling" },
+    { "label": "Light", "value": "lamp-circle on blotter paper" }
   ]
 }
