@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-27T07:05:00.000Z",
-  "edition": 98,
-  "headline": "Sunday leaves the kettle half-full.",
-  "body": "The baker's van idles two streets over, engine softer than the fridge. A curtain lifts and falls without a hand. The second cup is still too hot to lift.",
+  "updatedAt": "2026-09-27T09:00:00.000Z",
+  "edition": 99,
+  "headline": "Ten o'clock finds the stairs empty.",
+  "body": "Church bells have already spent themselves on the high street. A bicycle chain ticks past the railings and is gone. The window holds a square of pale brick and one unmoving leaf.",
   "pulses": [
-    { "label": "Sky", "value": "washed pewter, no wind yet" },
-    { "label": "Mood", "value": "the room before anyone speaks" },
-    { "label": "Light", "value": "08:05 on the radiator fins" }
+    { "label": "Sky", "value": "thin milk, a seam of blue" },
+    { "label": "Street", "value": "one door slammed, then quiet" },
+    { "label": "Watch", "value": "10:00, second hand sticking" }
   ]
 }
