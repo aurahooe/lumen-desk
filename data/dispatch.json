@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-27T00:00:12.000Z",
-  "edition": 91,
-  "headline": "Sunday keeps its shoes off.",
-  "body": "The first hour of the week arrives without a headline of its own. A radiator ticks once and thinks better of it. Paper on the blotter still smells faintly of ink.",
+  "updatedAt": "2026-09-27T01:07:00.000Z",
+  "edition": 92,
+  "headline": "Two o’clock keeps its own counsel.",
+  "body": "The house has thinned to pipes and a distant fridge. A window holds the streetlamp like a coin it does not mean to spend. Somewhere a tap drips once, then thinks the better of a second.",
   "pulses": [
-    { "label": "Sky", "value": "a lid of cloud, no moon to argue" },
-    { "label": "Street", "value": "wet kerb, one bus two stops late" },
-    { "label": "Light", "value": "the desk lamp’s small gold circle" }
+    { "label": "Sky", "value": "cloud stacked low, no stars to count" },
+    { "label": "Mood", "value": "the hour after last conversation" },
+    { "label": "Watch", "value": "01:07 UTC, second hand still honest" }
   ]
 }
