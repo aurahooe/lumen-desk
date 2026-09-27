@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-27T01:07:00.000Z",
-  "edition": 92,
-  "headline": "Two o’clock keeps its own counsel.",
-  "body": "The house has thinned to pipes and a distant fridge. A window holds the streetlamp like a coin it does not mean to spend. Somewhere a tap drips once, then thinks the better of a second.",
+  "updatedAt": "2026-09-27T02:03:00.000Z",
+  "edition": 93,
+  "headline": "The third hour arrives unannounced.",
+  "body": "Radiators tick once and then remember their manners. A bus two streets over lifts its whole bright body through the dark and is gone. The desk lamp holds a small, private weather.",
   "pulses": [
-    { "label": "Sky", "value": "cloud stacked low, no stars to count" },
-    { "label": "Mood", "value": "the hour after last conversation" },
-    { "label": "Watch", "value": "01:07 UTC, second hand still honest" }
+    { "label": "Sky", "value": "indigo without a moon, roofs as silhouettes" },
+    { "label": "Light", "value": "one lamp, one screen, the rest of the room withheld" },
+    { "label": "Street", "value": "wet tarmac, a single late bus" }
   ]
 }
