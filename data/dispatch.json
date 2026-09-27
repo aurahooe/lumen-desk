@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-27T06:07:00.000Z",
-  "edition": 97,
-  "headline": "Sunday keeps its shoes by the door.",
-  "body": "The pavement is still wet from a rain nobody watched. A single bicycle clicks past, chain too loose for hurry. In the kitchen the clock second-hand is louder than the street.",
+  "updatedAt": "2026-09-27T07:05:00.000Z",
+  "edition": 98,
+  "headline": "Sunday leaves the kettle half-full.",
+  "body": "The baker's van idles two streets over, engine softer than the fridge. A curtain lifts and falls without a hand. The second cup is still too hot to lift.",
   "pulses": [
-    { "label": "Sky", "value": "thin milk over the rooftops" },
-    { "label": "Street", "value": "one bicycle, no destination" },
-    { "label": "Light", "value": "06:07 — curtains still deciding" }
+    { "label": "Sky", "value": "washed pewter, no wind yet" },
+    { "label": "Mood", "value": "the room before anyone speaks" },
+    { "label": "Light", "value": "08:05 on the radiator fins" }
   ]
 }
