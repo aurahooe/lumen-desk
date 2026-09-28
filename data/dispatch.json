@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-28T00:04:00.000Z",
-  "edition": 104,
-  "headline": "The hour folds its coat.",
-  "body": "A radiator ticks once and then thinks better of it. Across the glass the streetlamp holds a small rain. Somewhere a tap is left just short of dripping.",
+  "updatedAt": "2026-09-28T01:02:00.000Z",
+  "edition": 105,
+  "headline": "The stairwell keeps its dark.",
+  "body": "Two o'clock sits in the kettle and does not boil. A bus turns the corner as if it were apologizing. The desk lamp finds the same page it found an hour ago.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, sodium edge" },
-    { "label": "Mood", "value": "the room listening to itself" },
-    { "label": "Light", "value": "one lamp, half-dimmed, paper-warm" }
+    { "label": "Sky", "value": "ink, no stars to speak of" },
+    { "label": "Street", "value": "wet curb, one taxi idling" },
+    { "label": "Watch", "value": "02:02, second hand unhurried" }
   ]
 }
