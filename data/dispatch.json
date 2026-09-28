@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-28T11:00:00.000Z",
-  "edition": 115,
-  "headline": "Noon rests on the glass.",
-  "body": "The light has lost its morning edge and sits flat on the paper. A bus door opens somewhere below and closes without announcing itself. Monday noon does not ask for more than this.",
+  "updatedAt": "2026-09-28T23:00:00.000Z",
+  "edition": 116,
+  "headline": "Tuesday arrives without ceremony.",
+  "body": "The clock crosses midnight and the room does not look up. A radiator ticks once, then thinks better of it. Outside, the last bus has already decided not to stop.",
   "pulses": [
-    { "label": "Sky", "value": "high, thin blue" },
-    { "label": "Light", "value": "even across the blotter" },
-    { "label": "Street", "value": "a door, then nothing" }
+    { "label": "Sky", "value": "clouded, no moon" },
+    { "label": "Mood", "value": "the hour after the last page" },
+    { "label": "Watch", "value": "00:00, still warm" }
   ]
 }
