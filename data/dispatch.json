@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-28T08:00:00.000Z",
-  "edition": 112,
-  "headline": "Nine keeps the blinds half-drawn.",
-  "body": "The hour has warmed a strip of floorboard and left the rest alone. A bus door hisses two streets over and does not come closer. We keep the pencil where it was, as if the page might still remember the last line.",
+  "updatedAt": "2026-09-28T09:00:00.000Z",
+  "edition": 113,
+  "headline": "Ten finds the kettle already warm.",
+  "body": "Sun sits on the windowsill like a paperweight and will not be hurried. Somewhere a delivery van idles, then thinks better of it. The desk keeps its small order: cup, notebook, the hour itself.",
   "pulses": [
-    { "label": "Sky", "value": "thin cloud, a held breath" },
-    { "label": "Mood", "value": "second cup, not yet decided" },
-    { "label": "Watch", "value": "the minute hand catching up" }
+    { "label": "Light", "value": "low gold on the sill" },
+    { "label": "Street", "value": "one van, then quiet" },
+    { "label": "Mood", "value": "the page still blank enough" }
   ]
 }
