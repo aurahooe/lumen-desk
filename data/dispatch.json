@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-28T01:02:00.000Z",
-  "edition": 105,
-  "headline": "The stairwell keeps its dark.",
-  "body": "Two o'clock sits in the kettle and does not boil. A bus turns the corner as if it were apologizing. The desk lamp finds the same page it found an hour ago.",
+  "updatedAt": "2026-09-28T02:00:00.000Z",
+  "edition": 106,
+  "headline": "Three o'clock holds its breath.",
+  "body": "The window glass has gone cold enough to keep a fingerprint. Somewhere below, a bottle rolls and then thinks better of it. The page under the lamp is still the same page.",
   "pulses": [
-    { "label": "Sky", "value": "ink, no stars to speak of" },
-    { "label": "Street", "value": "wet curb, one taxi idling" },
-    { "label": "Watch", "value": "02:02, second hand unhurried" }
+    { "label": "Sky", "value": "low cloud, a sodium smear" },
+    { "label": "Mood", "value": "the hush after the last train" },
+    { "label": "Light", "value": "desk lamp, 40 watts of mercy" }
   ]
 }
