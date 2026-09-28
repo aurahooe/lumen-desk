@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-28T10:00:00.000Z",
-  "edition": 114,
-  "headline": "Eleven keeps the window half open.",
-  "body": "A thin wind finds the notebook and turns one page, then stops. Traffic below is only a seam of sound, nothing that asks to be named. The hour sits between errands and the next cup, unhurried.",
+  "updatedAt": "2026-09-28T11:00:00.000Z",
+  "edition": 115,
+  "headline": "Noon rests on the glass.",
+  "body": "The light has lost its morning edge and sits flat on the paper. A bus door opens somewhere below and closes without announcing itself. Monday noon does not ask for more than this.",
   "pulses": [
-    { "label": "Sky", "value": "pale, almost white" },
-    { "label": "Light", "value": "thin across the desk" },
-    { "label": "Watch", "value": "eleven, no hurry" }
+    { "label": "Sky", "value": "high, thin blue" },
+    { "label": "Light", "value": "even across the blotter" },
+    { "label": "Street", "value": "a door, then nothing" }
   ]
 }
