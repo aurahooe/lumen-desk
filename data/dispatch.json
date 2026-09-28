@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-28T02:00:00.000Z",
-  "edition": 106,
-  "headline": "Three o'clock holds its breath.",
-  "body": "The window glass has gone cold enough to keep a fingerprint. Somewhere below, a bottle rolls and then thinks better of it. The page under the lamp is still the same page.",
+  "updatedAt": "2026-09-28T03:00:00.000Z",
+  "edition": 107,
+  "headline": "Four o'clock counts the stairs.",
+  "body": "The radiator ticks once, then pretends it never did. A moth works the lampshade as if there were still a season left in it. Outside, the street is only the idea of a street.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, a sodium smear" },
-    { "label": "Mood", "value": "the hush after the last train" },
-    { "label": "Light", "value": "desk lamp, 40 watts of mercy" }
+    { "label": "Sky", "value": "pre-dawn, no colour yet" },
+    { "label": "Street", "value": "wet kerb, one parked van" },
+    { "label": "Watch", "value": "the minute that refuses to turn" }
   ]
 }
