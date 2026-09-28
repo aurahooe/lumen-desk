@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-28T07:01:00.000Z",
-  "edition": 111,
-  "headline": "Eight does not announce itself.",
-  "body": "A kettle clicks off two floors below. The brick outside is still the colour of cold tea. We leave the window half-latched against a wind that has not yet chosen a direction.",
+  "updatedAt": "2026-09-28T08:00:00.000Z",
+  "edition": 112,
+  "headline": "Nine keeps the blinds half-drawn.",
+  "body": "The hour has warmed a strip of floorboard and left the rest alone. A bus door hisses two streets over and does not come closer. We keep the pencil where it was, as if the page might still remember the last line.",
   "pulses": [
-    { "label": "Sky", "value": "high pale, no weather yet" },
-    { "label": "Street", "value": "a van idling, then gone" },
-    { "label": "Light", "value": "desk lamp still arguing with the east" }
+    { "label": "Sky", "value": "thin cloud, a held breath" },
+    { "label": "Mood", "value": "second cup, not yet decided" },
+    { "label": "Watch", "value": "the minute hand catching up" }
   ]
 }
