@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-28T05:01:00.000Z",
-  "edition": 109,
-  "headline": "The street has not begun.",
-  "body": "Five o'clock has already spent itself; six is still deciding. A bus idles two blocks off and then thinks better of announcing the day. The lamp stays on as if courtesy were a kind of weather.",
+  "updatedAt": "2026-09-28T06:02:00.000Z",
+  "edition": 110,
+  "headline": "Seven arrives without ceremony.",
+  "body": "The hour turns like a page already read. Milk bottles still wait on a stoop two streets over; a window goes pale rather than bright. We keep the desk lamp on a little longer than the clock requires.",
   "pulses": [
-    { "label": "Sky", "value": "slate, not yet committing to blue" },
-    { "label": "Street", "value": "one wet kerb, no footsteps" },
-    { "label": "Light", "value": "desk lamp still outranking the window" }
+    { "label": "Sky", "value": "thin milk over slate roofs" },
+    { "label": "Street", "value": "first bicycle, no bell" },
+    { "label": "Mood", "value": "the room not yet surrendered to daylight" }
   ]
 }
