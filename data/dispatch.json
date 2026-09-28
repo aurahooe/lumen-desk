@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-28T03:00:00.000Z",
-  "edition": 107,
-  "headline": "Four o'clock counts the stairs.",
-  "body": "The radiator ticks once, then pretends it never did. A moth works the lampshade as if there were still a season left in it. Outside, the street is only the idea of a street.",
+  "updatedAt": "2026-09-28T04:00:59.000Z",
+  "edition": 108,
+  "headline": "Five o'clock keeps the lamp.",
+  "body": "The window has gone from black to a thinner black. Somewhere a bottle rolls and then thinks better of it. The desk lamp holds the room as if the hour still needed convincing.",
   "pulses": [
-    { "label": "Sky", "value": "pre-dawn, no colour yet" },
-    { "label": "Street", "value": "wet kerb, one parked van" },
-    { "label": "Watch", "value": "the minute that refuses to turn" }
+    { "label": "Sky", "value": "ink thinning at the east edge" },
+    { "label": "Light", "value": "one warm bulb, unapologetic" },
+    { "label": "Mood", "value": "awake, but not yet claimed" }
   ]
 }
