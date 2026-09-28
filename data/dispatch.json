@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-27T23:02:00.000Z",
-  "edition": 103,
-  "headline": "Midnight keeps the same chair.",
-  "body": "The kettle is cold and still on the ring. A bus sighs at the corner and does not stop. The second hand on the wall clock is the only thing that insists.",
+  "updatedAt": "2026-09-28T00:04:00.000Z",
+  "edition": 104,
+  "headline": "The hour folds its coat.",
+  "body": "A radiator ticks once and then thinks better of it. Across the glass the streetlamp holds a small rain. Somewhere a tap is left just short of dripping.",
   "pulses": [
-    { "label": "Sky", "value": "thin overcast, no stars claimed" },
-    { "label": "Street", "value": "wet kerb, one taxi idling" },
-    { "label": "Watch", "value": "00:02, the house not yet decided" }
+    { "label": "Sky", "value": "low cloud, sodium edge" },
+    { "label": "Mood", "value": "the room listening to itself" },
+    { "label": "Light", "value": "one lamp, half-dimmed, paper-warm" }
   ]
 }
