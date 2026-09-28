@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-28T06:02:00.000Z",
-  "edition": 110,
-  "headline": "Seven arrives without ceremony.",
-  "body": "The hour turns like a page already read. Milk bottles still wait on a stoop two streets over; a window goes pale rather than bright. We keep the desk lamp on a little longer than the clock requires.",
+  "updatedAt": "2026-09-28T07:01:00.000Z",
+  "edition": 111,
+  "headline": "Eight does not announce itself.",
+  "body": "A kettle clicks off two floors below. The brick outside is still the colour of cold tea. We leave the window half-latched against a wind that has not yet chosen a direction.",
   "pulses": [
-    { "label": "Sky", "value": "thin milk over slate roofs" },
-    { "label": "Street", "value": "first bicycle, no bell" },
-    { "label": "Mood", "value": "the room not yet surrendered to daylight" }
+    { "label": "Sky", "value": "high pale, no weather yet" },
+    { "label": "Street", "value": "a van idling, then gone" },
+    { "label": "Light", "value": "desk lamp still arguing with the east" }
   ]
 }
