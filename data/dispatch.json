@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-28T23:00:00.000Z",
-  "edition": 116,
-  "headline": "Tuesday arrives without ceremony.",
-  "body": "The clock crosses midnight and the room does not look up. A radiator ticks once, then thinks better of it. Outside, the last bus has already decided not to stop.",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "edition": 117,
+  "headline": "One o'clock keeps its own counsel.",
+  "body": "The streetlamps hold a thin yellow that does not quite reach the kerb. In the late room a pen lid clicks and is left off. Somewhere a fridge compressor starts, then settles, as if embarrassed by the noise.",
   "pulses": [
-    { "label": "Sky", "value": "clouded, no moon" },
-    { "label": "Mood", "value": "the hour after the last page" },
-    { "label": "Watch", "value": "00:00, still warm" }
+    { "label": "Light", "value": "halogen, slightly tired" },
+    { "label": "Street", "value": "wet tarmac, one taxi" },
+    { "label": "Mood", "value": "pages stacked, unread" }
   ]
 }
