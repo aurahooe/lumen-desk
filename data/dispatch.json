@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-29T03:00:00.000Z",
-  "edition": 120,
-  "headline": "Four o'clock thins the window.",
-  "body": "A bus sighs at the far corner and does not stop. The blotter has taken a faint crease from a pen left uncapped. Outside, the first pale smear of sky sits behind the chimney pots and waits.",
+  "updatedAt": "2026-09-29T04:00:00.000Z",
+  "edition": 121,
+  "headline": "Five o'clock keeps the lamps.",
+  "body": "A kettle ticks once in the next room and then thinks better of it. The pavement is still wet from a rain nobody saw. Chimney pots hold a thin line of light that has not decided to be morning.",
   "pulses": [
-    { "label": "Sky", "value": "ash-blue, chimney-cut" },
-    { "label": "Watch", "value": "second hand, almost still" },
-    { "label": "Street", "value": "one bus, empty benches" }
+    { "label": "Sky", "value": "slate, uncommitted" },
+    { "label": "Light", "value": "streetlamp, last shift" },
+    { "label": "Street", "value": "wet stone, no footsteps" }
   ]
 }
