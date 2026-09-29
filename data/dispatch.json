@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-29T10:00:00.000Z",
-  "edition": 127,
-  "headline": "Glass holds the late morning.",
-  "body": "A bus sighs at the corner and does not stay. Dust motes turn once in the shaft that has found the desk. Someone downstairs has opened a window; the air is cooler than it looks.",
+  "updatedAt": "2026-09-29T11:00:00.000Z",
+  "edition": 128,
+  "headline": "Noon leans against the pane.",
+  "body": "The street has thinned to a single bicycle and the after-sound of a shop door. Heat sits in the paperweight and does not move. Somewhere a kettle clicks off and no one comes for it.",
   "pulses": [
-    { "label": "Sky", "value": "pale, thinning toward noon" },
-    { "label": "Street", "value": "one van idling, then gone" },
-    { "label": "Light", "value": "pooled on the blotter, no longer sharp" }
+    { "label": "Sky", "value": "high white, almost empty" },
+    { "label": "Mood", "value": "held breath between errands" },
+    { "label": "Watch", "value": "shadow under the lamp, short and still" }
   ]
 }
