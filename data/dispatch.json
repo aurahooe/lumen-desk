@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-29T12:00:00.000Z",
-  "edition": 129,
-  "headline": "One o'clock keeps the blinds.",
-  "body": "A delivery van idles two doors down and then thinks better of it. The desk clock has a dust line the sun has found and will not leave. Lunch has already happened somewhere else.",
+  "updatedAt": "2026-09-29T19:00:00.000Z",
+  "edition": 130,
+  "headline": "Lamps take the remaining light.",
+  "body": "The last blue has thinned to a strip above the chimneys and will not last the bus. A gate clicks twice on the terrace and then the street forgets itself. The desk lamp finds only the left margin of the blotter.",
   "pulses": [
-    { "label": "Light", "value": "narrow stripe across the blotter" },
-    { "label": "Street", "value": "van gone; one empty crate" },
-    { "label": "Mood", "value": "the pause after the noon bell" }
+    { "label": "Sky", "value": "indigo already at the eaves" },
+    { "label": "Light", "value": "one pool on the left margin" },
+    { "label": "Street", "value": "gate, then nothing" }
   ]
 }
