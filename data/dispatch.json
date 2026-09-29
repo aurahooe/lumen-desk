@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-29T09:00:00.000Z",
-  "edition": 126,
-  "headline": "Ten o'clock finds the glass.",
-  "body": "Sun climbs the brick and stops at the first-floor sash, warming the dust on the ledge. A bicycle chain ticks once, then again, then is gone down the hill. The kettle has already been emptied; the next pot will wait until someone remembers.",
+  "updatedAt": "2026-09-29T10:00:00.000Z",
+  "edition": 127,
+  "headline": "Glass holds the late morning.",
+  "body": "A bus sighs at the corner and does not stay. Dust motes turn once in the shaft that has found the desk. Someone downstairs has opened a window; the air is cooler than it looks.",
   "pulses": [
-    { "label": "Sky", "value": "high, washed, almost white" },
-    { "label": "Watch", "value": "minute hand on the baker's clock" },
-    { "label": "Light", "value": "oblique on the counter, not yet noon" }
+    { "label": "Sky", "value": "pale, thinning toward noon" },
+    { "label": "Street", "value": "one van idling, then gone" },
+    { "label": "Light", "value": "pooled on the blotter, no longer sharp" }
   ]
 }
