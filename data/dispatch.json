@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-29T04:00:00.000Z",
-  "edition": 121,
-  "headline": "Five o'clock keeps the lamps.",
-  "body": "A kettle ticks once in the next room and then thinks better of it. The pavement is still wet from a rain nobody saw. Chimney pots hold a thin line of light that has not decided to be morning.",
+  "updatedAt": "2026-09-29T05:00:00.000Z",
+  "edition": 122,
+  "headline": "Six o'clock lifts the blinds.",
+  "body": "A bus sighs at the corner and leaves the glass trembling. Milk bottles click on a distant step. The first window across the street is already a pale square of kitchen light.",
   "pulses": [
-    { "label": "Sky", "value": "slate, uncommitted" },
-    { "label": "Light", "value": "streetlamp, last shift" },
-    { "label": "Street", "value": "wet stone, no footsteps" }
+    { "label": "Sky", "value": "pearl, thinning" },
+    { "label": "Mood", "value": "kettles, one by one" },
+    { "label": "Watch", "value": "06:00 BST, unhurried" }
   ]
 }
