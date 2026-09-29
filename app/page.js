@@ -30,7 +30,7 @@ export default function Home() {
       setUser(session?.user || null)
     );
     load();
-    const poll = setInterval(load, 45 * 1000);
+    const poll = setInterval(load, 40 * 1000);
     return () => {
       sub.subscription.unsubscribe();
       clearInterval(poll);
@@ -49,7 +49,7 @@ export default function Home() {
       .select("id,title,body,created_at,user_id")
       .eq("is_public", true)
       .order("created_at", { ascending: false })
-      .limit(36);
+      .limit(40);
     const rows = publicNotes || [];
     const ids = [...new Set(rows.map((n) => n.user_id).filter(Boolean))];
     let names = {};
@@ -94,10 +94,16 @@ export default function Home() {
           </p>
         </div>
         <div className="clock">
-          <strong>
-            {pad(now.getHours())}:{pad(now.getMinutes())}
-          </strong>
-          <span>{remainMin} minutes until the next turn</span>
+          <svg className="glass" viewBox="0 0 40 64" aria-hidden="true">
+            <path d="M6 4h28v8c0 8-8 12-14 20C14 24 6 20 6 12V4zM6 60h28v-8c0-8-8-12-14-20C14 40 6 44 6 52v8z" fill="none" stroke="currentColor" strokeWidth="1.6"/>
+            <path className="sand" d="M12 8h16v3c0 5-5 8-8 12-3-4-8-7-8-12V8z" fill="#8a2a16" opacity=".75"/>
+          </svg>
+          <div>
+            <strong>
+              {pad(now.getHours())}:{pad(now.getMinutes())}
+            </strong>
+            <span>{remainMin} minutes until the next turn</span>
+          </div>
         </div>
       </section>
       <div className="hourbar" style={{ "--spent": spent }}>
