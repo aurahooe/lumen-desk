@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-29T11:00:00.000Z",
-  "edition": 128,
-  "headline": "Noon leans against the pane.",
-  "body": "The street has thinned to a single bicycle and the after-sound of a shop door. Heat sits in the paperweight and does not move. Somewhere a kettle clicks off and no one comes for it.",
+  "updatedAt": "2026-09-29T12:00:00.000Z",
+  "edition": 129,
+  "headline": "One o'clock keeps the blinds.",
+  "body": "A delivery van idles two doors down and then thinks better of it. The desk clock has a dust line the sun has found and will not leave. Lunch has already happened somewhere else.",
   "pulses": [
-    { "label": "Sky", "value": "high white, almost empty" },
-    { "label": "Mood", "value": "held breath between errands" },
-    { "label": "Watch", "value": "shadow under the lamp, short and still" }
+    { "label": "Light", "value": "narrow stripe across the blotter" },
+    { "label": "Street", "value": "van gone; one empty crate" },
+    { "label": "Mood", "value": "the pause after the noon bell" }
   ]
 }
