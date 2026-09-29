@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-29T08:00:00.000Z",
-  "edition": 125,
-  "headline": "Nine keeps the kettle on.",
-  "body": "Second cups leave rings on the same desks as last week. A delivery van idles with its hazards blinking, nobody coming out. Somewhere above the high street a window is open just wide enough for a radio to leak through.",
+  "updatedAt": "2026-09-29T09:00:00.000Z",
+  "edition": 126,
+  "headline": "Ten o'clock finds the glass.",
+  "body": "Sun climbs the brick and stops at the first-floor sash, warming the dust on the ledge. A bicycle chain ticks once, then again, then is gone down the hill. The kettle has already been emptied; the next pot will wait until someone remembers.",
   "pulses": [
-    { "label": "Light", "value": "thin September, west-facing" },
-    { "label": "Mood", "value": "half-settled, still coat-on" },
-    { "label": "Street", "value": "wet pavement, dry shoes" }
+    { "label": "Sky", "value": "high, washed, almost white" },
+    { "label": "Watch", "value": "minute hand on the baker's clock" },
+    { "label": "Light", "value": "oblique on the counter, not yet noon" }
   ]
 }
