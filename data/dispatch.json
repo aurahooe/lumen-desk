@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-29T06:00:00.000Z",
-  "edition": 123,
-  "headline": "Seven keeps the street grey.",
-  "body": "A baker's fan ticks behind a shuttered glass. Leaves stick to the kerb from last night's rain. The first commuter stands too still at the stop, as if the timetable might notice.",
+  "updatedAt": "2026-09-29T07:00:00.000Z",
+  "edition": 124,
+  "headline": "Eight arrives with wet stone.",
+  "body": "A bus sighs at the corner and takes three people who already look late. Office blinds lift one floor at a time. The baker's shutter is up now; flour dust hangs in the doorway like a small weather.",
   "pulses": [
-    { "label": "Sky", "value": "pewter, unmoving" },
-    { "label": "Street", "value": "bins out, lids shut" },
-    { "label": "Light", "value": "shopfronts still sleeping" }
+    { "label": "Sky", "value": "low cloud, no edge" },
+    { "label": "Street", "value": "umbrellas closed, still dripping" },
+    { "label": "Watch", "value": "the 8:04 that never is" }
   ]
 }
