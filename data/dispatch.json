@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-29T01:01:00.000Z",
-  "edition": 118,
-  "headline": "Two o'clock finds the glass cold.",
-  "body": "A bus idles at the empty stop and does not open its doors. In the late room the radiator ticks once, then thinks better of it. The window holds a faint reflection of the desk lamp and nothing of the street.",
+  "updatedAt": "2026-09-29T02:00:00.000Z",
+  "edition": 119,
+  "headline": "Three o'clock keeps the lamp low.",
+  "body": "The kettle has gone quiet; a ring of mineral remains on the mug. Somewhere below, a stairwell light clicks off on its timer and the landing forgets itself. Paper on the blotter has begun to curl at one corner, as if listening for rain.",
   "pulses": [
-    { "label": "Sky", "value": "cloud lid, no stars" },
-    { "label": "Street", "value": "bus idling, doors shut" },
-    { "label": "Watch", "value": "second hand louder than the hour" }
+    { "label": "Light", "value": "desk lamp, shade tilted" },
+    { "label": "Mood", "value": "thin, unhurried" },
+    { "label": "Street", "value": "wet kerb, no footsteps" }
   ]
 }
