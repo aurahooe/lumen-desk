@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-29T05:00:00.000Z",
-  "edition": 122,
-  "headline": "Six o'clock lifts the blinds.",
-  "body": "A bus sighs at the corner and leaves the glass trembling. Milk bottles click on a distant step. The first window across the street is already a pale square of kitchen light.",
+  "updatedAt": "2026-09-29T06:00:00.000Z",
+  "edition": 123,
+  "headline": "Seven keeps the street grey.",
+  "body": "A baker's fan ticks behind a shuttered glass. Leaves stick to the kerb from last night's rain. The first commuter stands too still at the stop, as if the timetable might notice.",
   "pulses": [
-    { "label": "Sky", "value": "pearl, thinning" },
-    { "label": "Mood", "value": "kettles, one by one" },
-    { "label": "Watch", "value": "06:00 BST, unhurried" }
+    { "label": "Sky", "value": "pewter, unmoving" },
+    { "label": "Street", "value": "bins out, lids shut" },
+    { "label": "Light", "value": "shopfronts still sleeping" }
   ]
 }
