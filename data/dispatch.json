@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-29T00:00:00.000Z",
-  "edition": 117,
-  "headline": "One o'clock keeps its own counsel.",
-  "body": "The streetlamps hold a thin yellow that does not quite reach the kerb. In the late room a pen lid clicks and is left off. Somewhere a fridge compressor starts, then settles, as if embarrassed by the noise.",
+  "updatedAt": "2026-09-29T01:01:00.000Z",
+  "edition": 118,
+  "headline": "Two o'clock finds the glass cold.",
+  "body": "A bus idles at the empty stop and does not open its doors. In the late room the radiator ticks once, then thinks better of it. The window holds a faint reflection of the desk lamp and nothing of the street.",
   "pulses": [
-    { "label": "Light", "value": "halogen, slightly tired" },
-    { "label": "Street", "value": "wet tarmac, one taxi" },
-    { "label": "Mood", "value": "pages stacked, unread" }
+    { "label": "Sky", "value": "cloud lid, no stars" },
+    { "label": "Street", "value": "bus idling, doors shut" },
+    { "label": "Watch", "value": "second hand louder than the hour" }
   ]
 }
