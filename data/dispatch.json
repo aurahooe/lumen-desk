@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-29T07:00:00.000Z",
-  "edition": 124,
-  "headline": "Eight arrives with wet stone.",
-  "body": "A bus sighs at the corner and takes three people who already look late. Office blinds lift one floor at a time. The baker's shutter is up now; flour dust hangs in the doorway like a small weather.",
+  "updatedAt": "2026-09-29T08:00:00.000Z",
+  "edition": 125,
+  "headline": "Nine keeps the kettle on.",
+  "body": "Second cups leave rings on the same desks as last week. A delivery van idles with its hazards blinking, nobody coming out. Somewhere above the high street a window is open just wide enough for a radio to leak through.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, no edge" },
-    { "label": "Street", "value": "umbrellas closed, still dripping" },
-    { "label": "Watch", "value": "the 8:04 that never is" }
+    { "label": "Light", "value": "thin September, west-facing" },
+    { "label": "Mood", "value": "half-settled, still coat-on" },
+    { "label": "Street", "value": "wet pavement, dry shoes" }
   ]
 }
