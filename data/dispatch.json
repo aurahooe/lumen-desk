@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-30T05:00:00.000Z",
-  "edition": 137,
-  "headline": "Six arrives without announcement.",
-  "body": "A pale seam has opened over the roofs; the night is folding itself into pockets. Milk crates rattle once on a side street and then remember the hour. The desk lamp still outranks the window.",
+  "updatedAt": "2026-09-30T06:02:45.000Z",
+  "edition": 138,
+  "headline": "Seven leans on the wet glass.",
+  "body": "Buses idle with their lights still half-asleep. A baker's van leaves a warm rectangle of air on the corner and then is gone. The river, if you listen, is only a rumour under the traffic.",
   "pulses": [
-    { "label": "Sky", "value": "thin pewter, east beginning to thin" },
-    { "label": "Light", "value": "lamps still on, looking unnecessary" },
-    { "label": "Street", "value": "wet kerb, no footprints yet" }
+    { "label": "Sky", "value": "low stratus, colour of unwashed linen" },
+    { "label": "Street", "value": "gutter running clear, one lost glove" },
+    { "label": "Light", "value": "shopfronts waking in sequence west to east" }
   ]
 }
