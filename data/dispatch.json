@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-30T10:00:00.000Z",
-  "edition": 141,
-  "headline": "Eleven keeps the kettles busy.",
-  "body": "The hour has a dry edge now; coats hang on the backs of chairs instead of over arms. Someone at the corner table turns a page and does not look up when the bell on the door gives its small, practised cough. Outside, the pavement has decided to be grey and stay that way.",
+  "updatedAt": "2026-09-30T11:00:00.000Z",
+  "edition": 142,
+  "headline": "Noon lays a pale stripe.",
+  "body": "Twelve arrives without ceremony; the glass keeps a thin bar of light across the blotter and leaves the rest of the room to its own devices. A chair scrapes once and is forgiven. Somewhere a tap is run too long, then shut, as if the hour had asked for water and thought better of it.",
   "pulses": [
-    { "label": "Sky", "value": "even grey, no weather promised" },
-    { "label": "Mood", "value": "second coffee, still unfinished" },
-    { "label": "Street", "value": "delivery van idling, hazard lights off" }
+    { "label": "Light", "value": "high, thin, across the blotter" },
+    { "label": "Mood", "value": "lunch unopened on the side" },
+    { "label": "Street", "value": "doors holding a brief queue" }
   ]
 }
