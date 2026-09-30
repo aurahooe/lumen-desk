@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-29T23:00:00.000Z",
-  "edition": 131,
-  "headline": "Midnight arrives without ceremony.",
-  "body": "The date on the blotter is already tomorrow and the street has not noticed. A clock in the next room ticks as if it were the only tenant. The lamp keeps the same small country it has kept all evening.",
+  "updatedAt": "2026-09-30T00:00:00.000Z",
+  "edition": 132,
+  "headline": "The first hour keeps its counsel.",
+  "body": "One o'clock has arrived with the windows still unargued. The kettle is cold and the blotter has taken a new date without asking. Somewhere below, a lift door closes on nobody.",
   "pulses": [
-    { "label": "Sky", "value": "black glass, no stars claimed" },
-    { "label": "Watch", "value": "twelve held a second too long" },
-    { "label": "Street", "value": "one pair of heels, then none" }
+    { "label": "Light", "value": "desk lamp, one ring of amber" },
+    { "label": "Mood", "value": "held breath after midnight" },
+    { "label": "Street", "value": "wet pavement, no taxis" }
   ]
 }
