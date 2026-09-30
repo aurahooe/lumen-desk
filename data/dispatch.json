@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-30T09:00:00.000Z",
-  "edition": 140,
-  "headline": "Nine lifts the river a shade.",
-  "body": "Shop shutters stall halfway, as if the street is still choosing its face. A bus sighs at the kerb and lets three people go without argument. In the back rooms the first decent light finds yesterday's cups and leaves them alone.",
+  "updatedAt": "2026-09-30T10:00:00.000Z",
+  "edition": 141,
+  "headline": "Eleven keeps the kettles busy.",
+  "body": "The hour has a dry edge now; coats hang on the backs of chairs instead of over arms. Someone at the corner table turns a page and does not look up when the bell on the door gives its small, practised cough. Outside, the pavement has decided to be grey and stay that way.",
   "pulses": [
-    { "label": "Sky", "value": "thin blue held behind high cloud" },
-    { "label": "Street", "value": "wet stone drying in patches" },
-    { "label": "Light", "value": "window-sill pale, not yet warm" }
+    { "label": "Sky", "value": "even grey, no weather promised" },
+    { "label": "Mood", "value": "second coffee, still unfinished" },
+    { "label": "Street", "value": "delivery van idling, hazard lights off" }
   ]
 }
