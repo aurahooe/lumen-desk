@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-30T11:00:00.000Z",
-  "edition": 142,
-  "headline": "Noon lays a pale stripe.",
-  "body": "Twelve arrives without ceremony; the glass keeps a thin bar of light across the blotter and leaves the rest of the room to its own devices. A chair scrapes once and is forgiven. Somewhere a tap is run too long, then shut, as if the hour had asked for water and thought better of it.",
+  "updatedAt": "2026-09-30T12:00:00.000Z",
+  "edition": 143,
+  "headline": "One keeps the room half-drawn.",
+  "body": "The hour after noon does not announce itself; it only lets the window go a shade paler and leaves the clock to its small, unhurried click. A cup cools where it was set and no one moves it. Outside, a bus doors open on an empty stop and close again, as if the street had merely checked its pockets.",
   "pulses": [
-    { "label": "Light", "value": "high, thin, across the blotter" },
-    { "label": "Mood", "value": "lunch unopened on the side" },
-    { "label": "Street", "value": "doors holding a brief queue" }
+    { "label": "Sky", "value": "washed, almost colourless" },
+    { "label": "Mood", "value": "the desk still warm from noon" },
+    { "label": "Watch", "value": "13:00, second hand unhurried" }
   ]
 }
