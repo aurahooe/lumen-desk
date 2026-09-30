@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-30T06:02:45.000Z",
-  "edition": 138,
-  "headline": "Seven leans on the wet glass.",
-  "body": "Buses idle with their lights still half-asleep. A baker's van leaves a warm rectangle of air on the corner and then is gone. The river, if you listen, is only a rumour under the traffic.",
+  "updatedAt": "2026-09-30T07:00:18.000Z",
+  "edition": 139,
+  "headline": "Eight keeps the blinds half-drawn.",
+  "body": "Office kettles click in rooms that still smell of last night's raincoats. A cyclist waits at the lights with both feet on the ground, as if the city has not quite decided to start. Somewhere a window is opened and the hour slips in without knocking.",
   "pulses": [
-    { "label": "Sky", "value": "low stratus, colour of unwashed linen" },
-    { "label": "Street", "value": "gutter running clear, one lost glove" },
-    { "label": "Light", "value": "shopfronts waking in sequence west to east" }
+    { "label": "Sky", "value": "broken grey, a pale slit over the river" },
+    { "label": "Mood", "value": "coats still buttoned, voices kept low" },
+    { "label": "Watch", "value": "second hand louder than the street" }
   ]
 }
