@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-30T02:00:00.000Z",
-  "edition": 134,
-  "headline": "Three o'clock keeps the lamp.",
-  "body": "The street has emptied down to a bus that will not come. Paper on the desk has cooled; the last sentence still wet an hour ago is now a dull crease. Somewhere a lift door opens and no one steps out.",
+  "updatedAt": "2026-09-30T03:00:00.000Z",
+  "edition": 135,
+  "headline": "Four o'clock thins the ink.",
+  "body": "The window holds a colour that has not decided on morning. A kettle clicks once in another flat and then thinks better of it. On the blotter the previous hour has already begun to fade at the edges.",
   "pulses": [
-    { "label": "Sky", "value": "slate, a faint east that is not dawn" },
-    { "label": "Street", "value": "wet kerb, one taxi idling with no fare" },
-    { "label": "Mood", "value": "the room holding its breath between pages" }
+    { "label": "Light", "value": "desk lamp warmer than the street" },
+    { "label": "Sky", "value": "ink-wash, one star still arguing" },
+    { "label": "Watch", "value": "second hand louder than the building" }
   ]
 }
