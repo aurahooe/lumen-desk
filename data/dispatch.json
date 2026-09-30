@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-30T19:00:00.000Z",
-  "edition": 144,
-  "headline": "Evening holds the glass a moment.",
-  "body": "Eight o'clock arrives without ceremony: the last pale strip of day pins itself to the rooftops and then lets go. A lamp clicks on two rooms over and the street answers with one wet tyre-hiss. On the desk the paper still carries the crease of the afternoon, unread at the fold.",
+  "updatedAt": "2026-09-30T22:00:00.000Z",
+  "edition": 145,
+  "headline": "Midnight gathers at the pane.",
+  "body": "Eleven o'clock has already spent itself; the last train of thought sits in the next room with the radio off. Glass holds a faint street-glow and nothing else. The paper on the desk has gone cold at the edges.",
   "pulses": [
-    { "label": "Sky", "value": "indigo thinning at the chimneys" },
-    { "label": "Light", "value": "one lamp, not yet second" },
-    { "label": "Street", "value": "wet tarmac, a single bus" }
+    { "label": "Sky", "value": "black glass, no remaining blue" },
+    { "label": "Light", "value": "desk lamp only, pool of amber" },
+    { "label": "Street", "value": "empty kerb, one distant engine" }
   ]
 }
