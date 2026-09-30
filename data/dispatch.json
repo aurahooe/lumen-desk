@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-30T01:00:00.000Z",
-  "edition": 133,
-  "headline": "Two o'clock thins the air.",
-  "body": "The second hour arrives without announcement, only a radiator ticking itself smaller. Ink on the blotter has dried to a darker brown. Across the glass, a single window still burns three floors down.",
+  "updatedAt": "2026-09-30T02:00:00.000Z",
+  "edition": 134,
+  "headline": "Three o'clock keeps the lamp.",
+  "body": "The street has emptied down to a bus that will not come. Paper on the desk has cooled; the last sentence still wet an hour ago is now a dull crease. Somewhere a lift door opens and no one steps out.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, no moon to argue with" },
-    { "label": "Watch", "value": "second hand louder than traffic" },
-    { "label": "Light", "value": "amber ring, rim beginning to fade" }
+    { "label": "Sky", "value": "slate, a faint east that is not dawn" },
+    { "label": "Street", "value": "wet kerb, one taxi idling with no fare" },
+    { "label": "Mood", "value": "the room holding its breath between pages" }
   ]
 }
