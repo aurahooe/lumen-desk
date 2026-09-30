@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-30T03:00:00.000Z",
-  "edition": 135,
-  "headline": "Four o'clock thins the ink.",
-  "body": "The window holds a colour that has not decided on morning. A kettle clicks once in another flat and then thinks better of it. On the blotter the previous hour has already begun to fade at the edges.",
+  "updatedAt": "2026-09-30T04:00:00.000Z",
+  "edition": 136,
+  "headline": "Five keeps the glass unclaimed.",
+  "body": "The streetlamps have begun to look embarrassed. Somewhere a bin lorry rehearses its first note and thinks better of it. The blotter is still last night's temperature.",
   "pulses": [
-    { "label": "Light", "value": "desk lamp warmer than the street" },
-    { "label": "Sky", "value": "ink-wash, one star still arguing" },
-    { "label": "Watch", "value": "second hand louder than the building" }
+    { "label": "Sky", "value": "slate, no crease of colour yet" },
+    { "label": "Street", "value": "one taxi, lights off, idling" },
+    { "label": "Mood", "value": "the kettle not yet spoken for" }
   ]
 }
