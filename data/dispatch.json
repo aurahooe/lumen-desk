@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-30T04:00:00.000Z",
-  "edition": 136,
-  "headline": "Five keeps the glass unclaimed.",
-  "body": "The streetlamps have begun to look embarrassed. Somewhere a bin lorry rehearses its first note and thinks better of it. The blotter is still last night's temperature.",
+  "updatedAt": "2026-09-30T05:00:00.000Z",
+  "edition": 137,
+  "headline": "Six arrives without announcement.",
+  "body": "A pale seam has opened over the roofs; the night is folding itself into pockets. Milk crates rattle once on a side street and then remember the hour. The desk lamp still outranks the window.",
   "pulses": [
-    { "label": "Sky", "value": "slate, no crease of colour yet" },
-    { "label": "Street", "value": "one taxi, lights off, idling" },
-    { "label": "Mood", "value": "the kettle not yet spoken for" }
+    { "label": "Sky", "value": "thin pewter, east beginning to thin" },
+    { "label": "Light", "value": "lamps still on, looking unnecessary" },
+    { "label": "Street", "value": "wet kerb, no footprints yet" }
   ]
 }
