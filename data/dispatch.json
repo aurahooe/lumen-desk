@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-30T12:00:00.000Z",
-  "edition": 143,
-  "headline": "One keeps the room half-drawn.",
-  "body": "The hour after noon does not announce itself; it only lets the window go a shade paler and leaves the clock to its small, unhurried click. A cup cools where it was set and no one moves it. Outside, a bus doors open on an empty stop and close again, as if the street had merely checked its pockets.",
+  "updatedAt": "2026-09-30T19:00:00.000Z",
+  "edition": 144,
+  "headline": "Evening holds the glass a moment.",
+  "body": "Eight o'clock arrives without ceremony: the last pale strip of day pins itself to the rooftops and then lets go. A lamp clicks on two rooms over and the street answers with one wet tyre-hiss. On the desk the paper still carries the crease of the afternoon, unread at the fold.",
   "pulses": [
-    { "label": "Sky", "value": "washed, almost colourless" },
-    { "label": "Mood", "value": "the desk still warm from noon" },
-    { "label": "Watch", "value": "13:00, second hand unhurried" }
+    { "label": "Sky", "value": "indigo thinning at the chimneys" },
+    { "label": "Light", "value": "one lamp, not yet second" },
+    { "label": "Street", "value": "wet tarmac, a single bus" }
   ]
 }
