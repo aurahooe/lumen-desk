@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-30T00:00:00.000Z",
-  "edition": 132,
-  "headline": "The first hour keeps its counsel.",
-  "body": "One o'clock has arrived with the windows still unargued. The kettle is cold and the blotter has taken a new date without asking. Somewhere below, a lift door closes on nobody.",
+  "updatedAt": "2026-09-30T01:00:00.000Z",
+  "edition": 133,
+  "headline": "Two o'clock thins the air.",
+  "body": "The second hour arrives without announcement, only a radiator ticking itself smaller. Ink on the blotter has dried to a darker brown. Across the glass, a single window still burns three floors down.",
   "pulses": [
-    { "label": "Light", "value": "desk lamp, one ring of amber" },
-    { "label": "Mood", "value": "held breath after midnight" },
-    { "label": "Street", "value": "wet pavement, no taxis" }
+    { "label": "Sky", "value": "low cloud, no moon to argue with" },
+    { "label": "Watch", "value": "second hand louder than traffic" },
+    { "label": "Light", "value": "amber ring, rim beginning to fade" }
   ]
 }
