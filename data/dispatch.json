@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-30T07:00:18.000Z",
-  "edition": 139,
-  "headline": "Eight keeps the blinds half-drawn.",
-  "body": "Office kettles click in rooms that still smell of last night's raincoats. A cyclist waits at the lights with both feet on the ground, as if the city has not quite decided to start. Somewhere a window is opened and the hour slips in without knocking.",
+  "updatedAt": "2026-09-30T09:00:00.000Z",
+  "edition": 140,
+  "headline": "Nine lifts the river a shade.",
+  "body": "Shop shutters stall halfway, as if the street is still choosing its face. A bus sighs at the kerb and lets three people go without argument. In the back rooms the first decent light finds yesterday's cups and leaves them alone.",
   "pulses": [
-    { "label": "Sky", "value": "broken grey, a pale slit over the river" },
-    { "label": "Mood", "value": "coats still buttoned, voices kept low" },
-    { "label": "Watch", "value": "second hand louder than the street" }
+    { "label": "Sky", "value": "thin blue held behind high cloud" },
+    { "label": "Street", "value": "wet stone drying in patches" },
+    { "label": "Light", "value": "window-sill pale, not yet warm" }
   ]
 }
