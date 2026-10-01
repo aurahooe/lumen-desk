@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-01T08:00:00.000Z",
-  "edition": 154,
-  "headline": "Nine o'clock keeps its coat on.",
-  "body": "A cyclist waits at the crossing with one foot down, watching the bakery shutter rise only halfway. Flour is already on the step, and the offices above switch their strips on one room at a time. We let the hour in without calling it morning yet.",
+  "updatedAt": "2026-10-01T09:00:00.000Z",
+  "edition": 155,
+  "headline": "Ten lets the coat stay on the chair.",
+  "body": "Fair-weather cloud sits thin over the chimney line, and the west wind has started to give the street back. The bakery shutter is still only halfway up, flour drying on the step in a warmer light than the hour expects. We note the sun without calling the day settled.",
   "pulses": [
-    { "label": "Sky", "value": "pale gold behind the chimney pots" },
-    { "label": "Light", "value": "office strips, uneven" },
-    { "label": "Street", "value": "one foot down at the lights" }
+    { "label": "Sky", "value": "pale gold, about a fifth cloud" },
+    { "label": "Light", "value": "warm on the west brick" },
+    { "label": "Street", "value": "shutter stuck at halfway" }
   ]
 }
