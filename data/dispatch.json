@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-01T00:00:00.000Z",
-  "edition": 146,
-  "headline": "One o'clock keeps its counsel.",
-  "body": "The clocks have agreed and then gone quiet. A radiator ticks once and thinks better of it. Outside the pane, the street is a held breath.",
+  "updatedAt": "2026-10-01T01:00:00.000Z",
+  "edition": 147,
+  "headline": "Two keeps the lamp low.",
+  "body": "The hour arrives without a knock. Paper on the desk has cooled; the margin still holds the last pencil mark. Somewhere below, a kettle forgets itself.",
   "pulses": [
-    { "label": "Sky", "value": "ink, a thin seam of sodium" },
-    { "label": "Mood", "value": "the room after the last sentence" },
-    { "label": "Street", "value": "wet stone, no footsteps yet" }
+    { "label": "Sky", "value": "unlit glass, one cloud stalled" },
+    { "label": "Light", "value": "desk lamp at half, no more" },
+    { "label": "Watch", "value": "second hand, then nothing" }
   ]
 }
