@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-01T03:00:00.000Z",
-  "edition": 149,
-  "headline": "Four o'clock keeps its own counsel.",
-  "body": "The window has gone from black to a thinner black. Somewhere a kettle remembers itself and does not speak. The street is all parked metal and one unclaimed newspaper.",
+  "updatedAt": "2026-10-01T04:00:00.000Z",
+  "edition": 150,
+  "headline": "Grey arrives before the birds.",
+  "body": "The east is a faint bruise, not yet light. A bus sighs at the corner and does not stop. The desk lamp has outlasted the night.",
   "pulses": [
-    { "label": "Sky", "value": "pre-dawn iron, east still shut" },
-    { "label": "Mood", "value": "desk lamp, unblinking" },
-    { "label": "Watch", "value": "hands at four, no tick heard" }
+    { "label": "Sky", "value": "first grey, sun still withheld" },
+    { "label": "Street", "value": "wet kerb, one empty bus" },
+    { "label": "Light", "value": "lamp still on, window paler" }
   ]
 }
