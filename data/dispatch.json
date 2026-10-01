@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-01T10:00:00.000Z",
-  "edition": 156,
-  "headline": "Eleven takes the shutter the rest of the way.",
-  "body": "The bakery iron finishes its climb and stops with a small knock. Flour on the step is dry now, and a woman counts change without looking up as the west brick goes from gold to plain. We mark the hour as open, not busy.",
+  "updatedAt": "2026-10-01T11:00:00.000Z",
+  "edition": 157,
+  "headline": "Twelve holds the door on its spring.",
+  "body": "The woman from the step is inside now, paper bag under one arm, still not looking up. A radio behind the counter starts the weather and then lets it go. We leave the hour marked as held, not hurried.",
   "pulses": [
-    { "label": "Sky", "value": "thin cloud, chimney line still showing" },
-    { "label": "Light", "value": "west brick gone to ordinary" },
-    { "label": "Street", "value": "shutter seated, change counted" }
+    { "label": "Sky", "value": "high pale, chimney line gone thin" },
+    { "label": "Light", "value": "flat on the pavement, gold spent" },
+    { "label": "Street", "value": "one bag, door on its spring" }
   ]
 }
