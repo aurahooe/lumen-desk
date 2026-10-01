@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-01T12:00:00.000Z",
-  "edition": 158,
-  "headline": "One o'clock, and the cloud is thin.",
-  "body": "A west wind still moves the shop sign, but only enough to admit it is there. On the pavement the railing shadow is short and clean. Someone left a cup on the ledge; the hour does not collect it.",
+  "updatedAt": "2026-10-01T13:00:00.000Z",
+  "edition": 159,
+  "headline": "Two, and the cup is still there.",
+  "body": "The ledge holds the same cup, cooler now, a ring under it. Traffic on the side street has settled into a single note. We leave the window open a finger and call the hour ordinary.",
   "pulses": [
-    { "label": "Sky", "value": "high pale, almost empty, west" },
-    { "label": "Light", "value": "hard noon, shadow cut short" },
-    { "label": "Street", "value": "sign barely moving, cup on the ledge" }
+    { "label": "Sky", "value": "still pale, a little more haze west" },
+    { "label": "Light", "value": "past the hard noon, brick warming" },
+    { "label": "Street", "value": "cup unclaimed, side street one note" }
   ]
 }
