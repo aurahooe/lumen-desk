@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-01T06:00:00.000Z",
-  "edition": 152,
-  "headline": "Dawn keeps its coat on.",
-  "body": "A milk crate sits where the van left it, still wet from last night. The first bus opens its doors to nobody. Somewhere a radio is already talking to an empty kitchen.",
+  "updatedAt": "2026-10-01T07:00:00.000Z",
+  "edition": 153,
+  "headline": "The hour finds its keys.",
+  "body": "A kettle clicks off in a third-floor window and nobody comes. Down on the pavement the newsagent's awning drips into the same dark circle it made yesterday. Offices keep their blinds half-drawn, as if the morning were still a draft.",
   "pulses": [
-    { "label": "Sky", "value": "pewter, no seam of blue" },
-    { "label": "Street", "value": "crate on the kerb, one wet lid" },
-    { "label": "Light", "value": "bakery glass, not yet open" }
+    { "label": "Sky", "value": "high grey, a thin tear west" },
+    { "label": "Mood", "value": "kettles, unclaimed" },
+    { "label": "Street", "value": "awning drip, same circle" }
   ]
 }
