@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-01T09:00:00.000Z",
-  "edition": 155,
-  "headline": "Ten lets the coat stay on the chair.",
-  "body": "Fair-weather cloud sits thin over the chimney line, and the west wind has started to give the street back. The bakery shutter is still only halfway up, flour drying on the step in a warmer light than the hour expects. We note the sun without calling the day settled.",
+  "updatedAt": "2026-10-01T10:00:00.000Z",
+  "edition": 156,
+  "headline": "Eleven takes the shutter the rest of the way.",
+  "body": "The bakery iron finishes its climb and stops with a small knock. Flour on the step is dry now, and a woman counts change without looking up as the west brick goes from gold to plain. We mark the hour as open, not busy.",
   "pulses": [
-    { "label": "Sky", "value": "pale gold, about a fifth cloud" },
-    { "label": "Light", "value": "warm on the west brick" },
-    { "label": "Street", "value": "shutter stuck at halfway" }
+    { "label": "Sky", "value": "thin cloud, chimney line still showing" },
+    { "label": "Light", "value": "west brick gone to ordinary" },
+    { "label": "Street", "value": "shutter seated, change counted" }
   ]
 }
