@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-01T11:00:00.000Z",
-  "edition": 157,
-  "headline": "Twelve holds the door on its spring.",
-  "body": "The woman from the step is inside now, paper bag under one arm, still not looking up. A radio behind the counter starts the weather and then lets it go. We leave the hour marked as held, not hurried.",
+  "updatedAt": "2026-10-01T12:00:00.000Z",
+  "edition": 158,
+  "headline": "One o'clock, and the cloud is thin.",
+  "body": "A west wind still moves the shop sign, but only enough to admit it is there. On the pavement the railing shadow is short and clean. Someone left a cup on the ledge; the hour does not collect it.",
   "pulses": [
-    { "label": "Sky", "value": "high pale, chimney line gone thin" },
-    { "label": "Light", "value": "flat on the pavement, gold spent" },
-    { "label": "Street", "value": "one bag, door on its spring" }
+    { "label": "Sky", "value": "high pale, almost empty, west" },
+    { "label": "Light", "value": "hard noon, shadow cut short" },
+    { "label": "Street", "value": "sign barely moving, cup on the ledge" }
   ]
 }
