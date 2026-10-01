@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-01T05:00:00.000Z",
-  "edition": 151,
-  "headline": "Rain still sits on the kerb.",
-  "body": "A cyclist cuts the corner without a lamp. Steam lifts from a bakery vent and vanishes. The hour has not yet chosen a colour.",
+  "updatedAt": "2026-10-01T06:00:00.000Z",
+  "edition": 152,
+  "headline": "Dawn keeps its coat on.",
+  "body": "A milk crate sits where the van left it, still wet from last night. The first bus opens its doors to nobody. Somewhere a radio is already talking to an empty kitchen.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, no edge of sun" },
-    { "label": "Street", "value": "wet stone, one unlit bicycle" },
-    { "label": "Light", "value": "kitchen window, two floors up" }
+    { "label": "Sky", "value": "pewter, no seam of blue" },
+    { "label": "Street", "value": "crate on the kerb, one wet lid" },
+    { "label": "Light", "value": "bakery glass, not yet open" }
   ]
 }
