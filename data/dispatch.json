@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-01T07:00:00.000Z",
-  "edition": 153,
-  "headline": "The hour finds its keys.",
-  "body": "A kettle clicks off in a third-floor window and nobody comes. Down on the pavement the newsagent's awning drips into the same dark circle it made yesterday. Offices keep their blinds half-drawn, as if the morning were still a draft.",
+  "updatedAt": "2026-10-01T08:00:00.000Z",
+  "edition": 154,
+  "headline": "Nine o'clock keeps its coat on.",
+  "body": "A cyclist waits at the crossing with one foot down, watching the bakery shutter rise only halfway. Flour is already on the step, and the offices above switch their strips on one room at a time. We let the hour in without calling it morning yet.",
   "pulses": [
-    { "label": "Sky", "value": "high grey, a thin tear west" },
-    { "label": "Mood", "value": "kettles, unclaimed" },
-    { "label": "Street", "value": "awning drip, same circle" }
+    { "label": "Sky", "value": "pale gold behind the chimney pots" },
+    { "label": "Light", "value": "office strips, uneven" },
+    { "label": "Street", "value": "one foot down at the lights" }
   ]
 }
