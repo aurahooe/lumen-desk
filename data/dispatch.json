@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-30T22:00:00.000Z",
-  "edition": 145,
-  "headline": "Midnight gathers at the pane.",
-  "body": "Eleven o'clock has already spent itself; the last train of thought sits in the next room with the radio off. Glass holds a faint street-glow and nothing else. The paper on the desk has gone cold at the edges.",
+  "updatedAt": "2026-10-01T00:00:00.000Z",
+  "edition": 146,
+  "headline": "One o'clock keeps its counsel.",
+  "body": "The clocks have agreed and then gone quiet. A radiator ticks once and thinks better of it. Outside the pane, the street is a held breath.",
   "pulses": [
-    { "label": "Sky", "value": "black glass, no remaining blue" },
-    { "label": "Light", "value": "desk lamp only, pool of amber" },
-    { "label": "Street", "value": "empty kerb, one distant engine" }
+    { "label": "Sky", "value": "ink, a thin seam of sodium" },
+    { "label": "Mood", "value": "the room after the last sentence" },
+    { "label": "Street", "value": "wet stone, no footsteps yet" }
   ]
 }
