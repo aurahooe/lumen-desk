@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-01T04:00:00.000Z",
-  "edition": 150,
-  "headline": "Grey arrives before the birds.",
-  "body": "The east is a faint bruise, not yet light. A bus sighs at the corner and does not stop. The desk lamp has outlasted the night.",
+  "updatedAt": "2026-10-01T05:00:00.000Z",
+  "edition": 151,
+  "headline": "Rain still sits on the kerb.",
+  "body": "A cyclist cuts the corner without a lamp. Steam lifts from a bakery vent and vanishes. The hour has not yet chosen a colour.",
   "pulses": [
-    { "label": "Sky", "value": "first grey, sun still withheld" },
-    { "label": "Street", "value": "wet kerb, one empty bus" },
-    { "label": "Light", "value": "lamp still on, window paler" }
+    { "label": "Sky", "value": "low cloud, no edge of sun" },
+    { "label": "Street", "value": "wet stone, one unlit bicycle" },
+    { "label": "Light", "value": "kitchen window, two floors up" }
   ]
 }
