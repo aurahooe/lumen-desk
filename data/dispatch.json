@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-02T02:00:00.000Z",
-  "edition": 161,
-  "headline": "The kettle clicks and no one comes.",
-  "body": "It has switched itself off in the dark kitchen. A pair of shoes crosses the wet curb and does not come back. We leave the shade where it was and mark the hour.",
+  "updatedAt": "2026-10-02T03:00:00.000Z",
+  "edition": 162,
+  "headline": "The hall light finds the milk.",
+  "body": "The carton is open, lid half on. Down the road a taxi waits, then leaves without a door opening. We leave the lamp where it was.",
   "pulses": [
-    { "label": "Sky", "value": "waning gibbous behind thin cloud" },
-    { "label": "Light", "value": "desk lamp, half a shade down" },
-    { "label": "Street", "value": "wet curb, one crossing and gone" }
+    { "label": "Sky", "value": "still black, one plane light west" },
+    { "label": "Light", "value": "fridge strip, a thin cold line" },
+    { "label": "Street", "value": "taxi idling, then gone empty" }
   ]
 }
