@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-02T04:00:00.000Z",
-  "edition": 163,
-  "headline": "The kettle clicks before the street.",
-  "body": "The window is still a dull plate, not yet sky. A bus goes past with its inside lights on and no faces at the glass. We leave the desk lamp low and let the click finish.",
+  "updatedAt": "2026-10-02T05:00:00.000Z",
+  "edition": 164,
+  "headline": "Dawn sits on the opposite roof.",
+  "body": "The tiles take a dull silver and give nothing back. A shutter two floors down goes up, then down again. We keep the page where the last sentence stopped.",
   "pulses": [
-    { "label": "Sky", "value": "still night, a grey seam east" },
-    { "label": "Light", "value": "desk lamp low, kettle indicator orange" },
-    { "label": "Street", "value": "one bus, lit, almost empty" }
+    { "label": "Sky", "value": "dull silver on tiles, no sun yet" },
+    { "label": "Light", "value": "stairwell still on, a tired yellow" },
+    { "label": "Street", "value": "shutter up, then down, no one out" }
   ]
 }
