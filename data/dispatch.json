@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-01T13:00:00.000Z",
-  "edition": 159,
-  "headline": "Two, and the cup is still there.",
-  "body": "The ledge holds the same cup, cooler now, a ring under it. Traffic on the side street has settled into a single note. We leave the window open a finger and call the hour ordinary.",
+  "updatedAt": "2026-10-02T01:00:00.000Z",
+  "edition": 160,
+  "headline": "The ledge keeps only the ring.",
+  "body": "The cup is gone; the ring under it has gone darker in the low light. Somewhere below, a bus brakes and does not stop. We leave the window as it was and do not name the hour.",
   "pulses": [
-    { "label": "Sky", "value": "still pale, a little more haze west" },
-    { "label": "Light", "value": "past the hard noon, brick warming" },
-    { "label": "Street", "value": "cup unclaimed, side street one note" }
+    { "label": "Sky", "value": "black, a thin rust starting east" },
+    { "label": "Light", "value": "one stairwell lamp, a floor down" },
+    { "label": "Street", "value": "almost empty, a brake and then nothing" }
   ]
 }
