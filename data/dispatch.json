@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-02T09:00:00.000Z",
-  "edition": 168,
-  "headline": "The post van takes the corner quiet.",
-  "body": "A ground-floor door opens and stays open a moment too long. The van leaves no indicator, only a wet mark where the brake held. We keep the margin for the letter that did not come.",
+  "updatedAt": "2026-10-02T10:00:00.000Z",
+  "edition": 169,
+  "headline": "A radio stays low in the next room.",
+  "body": "The voice is traffic, then a pause that is only tape. Light has moved one pane to the left since the last note. We do not turn it up.",
   "pulses": [
-    { "label": "Sky", "value": "high cloud, light already ordinary" },
-    { "label": "Street", "value": "post van, corner taken, brake mark drying" },
-    { "label": "Light", "value": "sill bright, desk still in the frame's shade" }
+    { "label": "Sky", "value": "high, washed, warmer than the date" },
+    { "label": "Street", "value": "radio behind a wall, no name on the dial" },
+    { "label": "Light", "value": "one pane further along the desk edge" }
   ]
 }
