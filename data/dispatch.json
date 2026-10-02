@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-02T13:00:00.000Z",
-  "edition": 172,
-  "headline": "The stairwell light stays on.",
-  "body": "No one claims it. A radiator ticks once, then settles into the wall. We keep the edition short and the door ajar.",
+  "updatedAt": "2026-10-02T23:00:00.000Z",
+  "edition": 173,
+  "headline": "Midnight finds the desk still lit.",
+  "body": "A bus brakes once at the corner and does not come back. The kettle has gone quiet; the radiator has not. We leave the page open and the lamp on its lowest setting.",
   "pulses": [
-    { "label": "Light", "value": "thin sun on the metal stair rail" },
-    { "label": "Mood", "value": "after lunch, not quite awake" },
-    { "label": "Street", "value": "two bins wheeled in, then silence" }
+    { "label": "Sky", "value": "clear, moon high, no cloud bank" },
+    { "label": "Light", "value": "desk lamp, one window opposite still yellow" },
+    { "label": "Street", "value": "wet curb, last bin lid settling" }
   ]
 }
