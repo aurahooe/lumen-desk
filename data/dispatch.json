@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-02T08:00:00.000Z",
-  "edition": 167,
-  "headline": "The lamp stays on against the window.",
-  "body": "Morning is already in the glass, and still no one reaches for the switch. A kettle clicks past the stair, then stops. We leave the margin blank for the hour that has not written itself.",
+  "updatedAt": "2026-10-02T09:00:00.000Z",
+  "edition": 168,
+  "headline": "The post van takes the corner quiet.",
+  "body": "A ground-floor door opens and stays open a moment too long. The van leaves no indicator, only a wet mark where the brake held. We keep the margin for the letter that did not come.",
   "pulses": [
-    { "label": "Sky", "value": "high pale blue, thin cloud over the chimney" },
-    { "label": "Light", "value": "desk lamp on against a full window" },
-    { "label": "Watch", "value": "kettle click, then the stair goes quiet" }
+    { "label": "Sky", "value": "high cloud, light already ordinary" },
+    { "label": "Street", "value": "post van, corner taken, brake mark drying" },
+    { "label": "Light", "value": "sill bright, desk still in the frame's shade" }
   ]
 }
