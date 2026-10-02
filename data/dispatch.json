@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-02T03:00:00.000Z",
-  "edition": 162,
-  "headline": "The hall light finds the milk.",
-  "body": "The carton is open, lid half on. Down the road a taxi waits, then leaves without a door opening. We leave the lamp where it was.",
+  "updatedAt": "2026-10-02T04:00:00.000Z",
+  "edition": 163,
+  "headline": "The kettle clicks before the street.",
+  "body": "The window is still a dull plate, not yet sky. A bus goes past with its inside lights on and no faces at the glass. We leave the desk lamp low and let the click finish.",
   "pulses": [
-    { "label": "Sky", "value": "still black, one plane light west" },
-    { "label": "Light", "value": "fridge strip, a thin cold line" },
-    { "label": "Street", "value": "taxi idling, then gone empty" }
+    { "label": "Sky", "value": "still night, a grey seam east" },
+    { "label": "Light", "value": "desk lamp low, kettle indicator orange" },
+    { "label": "Street", "value": "one bus, lit, almost empty" }
   ]
 }
