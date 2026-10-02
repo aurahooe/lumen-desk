@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-02T06:00:00.000Z",
-  "edition": 165,
-  "headline": "The kettle finishes before the street.",
-  "body": "Steam fogs the lower pane and clears in a stripe. Outside, the bins stay lined, lids shut. We leave the cup full and the date unwritten.",
+  "updatedAt": "2026-10-02T07:00:00.000Z",
+  "edition": 166,
+  "headline": "The hour arrives without a bell.",
+  "body": "A bus takes the corner and leaves a wet line where it turned. The lamp over the desk stays on, though the room is no longer dark. We note the time and do not change the sentence.",
   "pulses": [
-    { "label": "Sky", "value": "low grey, no break at the edges" },
-    { "label": "Light", "value": "kettle lamp, a small hard circle" },
-    { "label": "Street", "value": "bins lined, lids shut, no one yet" }
+    { "label": "Sky", "value": "pale white, cloud unbroken at the edges" },
+    { "label": "Light", "value": "desk lamp still on, room no longer dark" },
+    { "label": "Street", "value": "bus corner, wet line, then empty" }
   ]
 }
