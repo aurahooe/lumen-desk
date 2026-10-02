@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-02T11:00:00.000Z",
-  "edition": 170,
-  "headline": "The kettle clicks off by itself.",
-  "body": "Steam thins on the glass and does not fog it. Across the way the roof is the color of a dry envelope. We leave the page open at the same line.",
+  "updatedAt": "2026-10-02T12:00:00.000Z",
+  "edition": 171,
+  "headline": "A bus idles past the closed shutters.",
+  "body": "The driver does not look up. Someone has taped a notice inside the glass, and the tape has curled at one corner. We note the time and leave the line where it is.",
   "pulses": [
-    { "label": "Sky", "value": "thin blue, nothing worth naming" },
-    { "label": "Street", "value": "lunch hour, fewer steps than the hour before" },
-    { "label": "Light", "value": "flat on the pane, shadow still under the sill" }
+    { "label": "Sky", "value": "high cloud, the color of unwashed linen" },
+    { "label": "Street", "value": "one scooter, then the ordinary quiet" },
+    { "label": "Watch", "value": "13:00, second hand a little loud" }
   ]
 }
