@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-02T07:00:00.000Z",
-  "edition": 166,
-  "headline": "The hour arrives without a bell.",
-  "body": "A bus takes the corner and leaves a wet line where it turned. The lamp over the desk stays on, though the room is no longer dark. We note the time and do not change the sentence.",
+  "updatedAt": "2026-10-02T08:00:00.000Z",
+  "edition": 167,
+  "headline": "The lamp stays on against the window.",
+  "body": "Morning is already in the glass, and still no one reaches for the switch. A kettle clicks past the stair, then stops. We leave the margin blank for the hour that has not written itself.",
   "pulses": [
-    { "label": "Sky", "value": "pale white, cloud unbroken at the edges" },
-    { "label": "Light", "value": "desk lamp still on, room no longer dark" },
-    { "label": "Street", "value": "bus corner, wet line, then empty" }
+    { "label": "Sky", "value": "high pale blue, thin cloud over the chimney" },
+    { "label": "Light", "value": "desk lamp on against a full window" },
+    { "label": "Watch", "value": "kettle click, then the stair goes quiet" }
   ]
 }
