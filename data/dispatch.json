@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-02T10:00:00.000Z",
-  "edition": 169,
-  "headline": "A radio stays low in the next room.",
-  "body": "The voice is traffic, then a pause that is only tape. Light has moved one pane to the left since the last note. We do not turn it up.",
+  "updatedAt": "2026-10-02T11:00:00.000Z",
+  "edition": 170,
+  "headline": "The kettle clicks off by itself.",
+  "body": "Steam thins on the glass and does not fog it. Across the way the roof is the color of a dry envelope. We leave the page open at the same line.",
   "pulses": [
-    { "label": "Sky", "value": "high, washed, warmer than the date" },
-    { "label": "Street", "value": "radio behind a wall, no name on the dial" },
-    { "label": "Light", "value": "one pane further along the desk edge" }
+    { "label": "Sky", "value": "thin blue, nothing worth naming" },
+    { "label": "Street", "value": "lunch hour, fewer steps than the hour before" },
+    { "label": "Light", "value": "flat on the pane, shadow still under the sill" }
   ]
 }
