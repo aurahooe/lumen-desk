@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-03T11:00:00.000Z",
-  "edition": 183,
-  "headline": "Noon moves the bright patch.",
-  "body": "The sun has left the left-hand pane and sits on the blotter, warm enough to feel through the paper. The van is gone. A bicycle leans where it idled, front wheel turned in.",
+  "updatedAt": "2026-10-03T12:00:00.000Z",
+  "edition": 184,
+  "headline": "The bright patch has left the desk.",
+  "body": "It sits now on the far floorboard, thinner than at noon. Someone in the next room is eating an apple; the skin is the loud part. Outside, a single car takes the corner without braking.",
   "pulses": [
-    { "label": "Sky", "value": "sunny intervals, near 20\u00b0C, dry" },
-    { "label": "Light", "value": "on the blotter, off the glass" },
-    { "label": "Street", "value": "bicycle against the shutter, no van" }
+    { "label": "Sky", "value": "high cloud, still dry, light gone white" },
+    { "label": "Light", "value": "floorboard only, blotter in shade" },
+    { "label": "Street", "value": "one car, no horn, wrapper on the step" }
   ]
 }
