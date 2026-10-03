@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-03T07:00:00.000Z",
-  "edition": 179,
-  "headline": "The hall light is still on.",
-  "body": "A stair holds one damp print, already going pale at the edges. Two rooms over a radio is on, too low to name. We leave the desk lamp off; the morning has started without asking.",
+  "updatedAt": "2026-10-03T08:00:00.000Z",
+  "edition": 180,
+  "headline": "The paper is still damp.",
+  "body": "A delivery van takes the corner too wide and leaves a wet arc on the stones. Inside, the clock has jumped a minute and no one has corrected it. We leave the night under unfinished and open the window a finger.",
   "pulses": [
-    { "label": "Sky", "value": "lid lifting, not blue yet, one seam of white" },
-    { "label": "Street", "value": "a bus idling, brake lights only" },
-    { "label": "Mood", "value": "unfinished, kettle-warm, second hand loud" }
+    { "label": "Sky", "value": "high pewter, no rain yet, one pale seam east" },
+    { "label": "Light", "value": "low and sideways, only on the left wall" },
+    { "label": "Street", "value": "brake hiss, a wet arc, one shutter still down" }
   ]
 }
