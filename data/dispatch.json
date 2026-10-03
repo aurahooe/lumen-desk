@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-03T04:00:00.000Z",
-  "edition": 176,
-  "headline": "The window fogs from the inside.",
-  "body": "The radiator ticks once and stops. A page on the desk has curled at one corner since the last note. We leave it, and keep the lamp low.",
+  "updatedAt": "2026-10-03T05:00:00.000Z",
+  "edition": 177,
+  "headline": "The kettle clicks off alone.",
+  "body": "The room has cooled at the floorboards. A cup left on the radiator has a dry rim. Outside, one engine goes by and does not come back.",
   "pulses": [
-    { "label": "Sky", "value": "grey-black, a thin wash starting east" },
-    { "label": "Street", "value": "damp-looking, no footsteps yet" },
-    { "label": "Light", "value": "desk lamp low, glass still darker" }
+    { "label": "Sky", "value": "low pale strip, uneven, not yet day" },
+    { "label": "Street", "value": "one van, then the quiet again" },
+    { "label": "Light", "value": "lamp still on, glass catching grey" }
   ]
 }
