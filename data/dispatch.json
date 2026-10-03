@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-03T03:00:00.000Z",
-  "edition": 175,
-  "headline": "The milk light stays on across.",
-  "body": "No one crosses between editions. A bus idles at the stop, then thinks better of it. We leave the page where the last line ends.",
+  "updatedAt": "2026-10-03T04:00:00.000Z",
+  "edition": 176,
+  "headline": "The window fogs from the inside.",
+  "body": "The radiator ticks once and stops. A page on the desk has curled at one corner since the last note. We leave it, and keep the lamp low.",
   "pulses": [
-    { "label": "Sky", "value": "black, a pale seam starting east" },
-    { "label": "Street", "value": "dry-looking, one bus deciding" },
-    { "label": "Light", "value": "milk-yellow square, third floor, still on" }
+    { "label": "Sky", "value": "grey-black, a thin wash starting east" },
+    { "label": "Street", "value": "damp-looking, no footsteps yet" },
+    { "label": "Light", "value": "desk lamp low, glass still darker" }
   ]
 }
