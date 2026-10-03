@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-03T14:00:00.000Z",
-  "edition": 186,
-  "headline": "The cup ring has gone dry.",
-  "body": "The strip on the sill is a line now, not a band. Someone downstairs runs water, stops, then starts it again for the kettle. A bicycle ticks past without a bell.",
+  "updatedAt": "2026-10-03T20:00:00.000Z",
+  "edition": 187,
+  "headline": "The window has given up the day.",
+  "body": "The lamp is a small circle now, and past it the desk has gone the colour of the wall. High in the glass the sky is still a thin blue. A bus brakes at the corner and does not stop.",
   "pulses": [
-    { "label": "Sky", "value": "pale and high, no weather in it" },
-    { "label": "Light", "value": "sill reduced to a line, desk in shade" },
-    { "label": "Street", "value": "one bicycle, no bell, kettle below" }
+    { "label": "Sky", "value": "last blue at the top of the glass" },
+    { "label": "Light", "value": "lamp circle, wall colour beyond" },
+    { "label": "Street", "value": "a bus brakes, does not stop" }
   ]
 }
