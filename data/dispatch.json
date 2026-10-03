@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-03T10:00:00.000Z",
-  "edition": 182,
-  "headline": "Warm light on the wrong pane.",
-  "body": "Eleven and the sash is still shut. Dust shows on the left-hand glass, brighter than the desk. A van idles at the corner and does not leave.",
+  "updatedAt": "2026-10-03T11:00:00.000Z",
+  "edition": 183,
+  "headline": "Noon moves the bright patch.",
+  "body": "The sun has left the left-hand pane and sits on the blotter, warm enough to feel through the paper. The van is gone. A bicycle leans where it idled, front wheel turned in.",
   "pulses": [
-    { "label": "Sky", "value": "sunny intervals, about 18\u00b0C, no rain" },
-    { "label": "Light", "value": "on the left pane, not the blotter" },
-    { "label": "Street", "value": "van idling, one shutter already up" }
+    { "label": "Sky", "value": "sunny intervals, near 20\u00b0C, dry" },
+    { "label": "Light", "value": "on the blotter, off the glass" },
+    { "label": "Street", "value": "bicycle against the shutter, no van" }
   ]
 }
