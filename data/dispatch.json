@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-03T05:00:00.000Z",
-  "edition": 177,
-  "headline": "The kettle clicks off alone.",
-  "body": "The room has cooled at the floorboards. A cup left on the radiator has a dry rim. Outside, one engine goes by and does not come back.",
+  "updatedAt": "2026-10-03T06:00:00.000Z",
+  "edition": 178,
+  "headline": "The milk is still cold.",
+  "body": "A tap runs downstairs and stops mid-sentence. The sky is a lid, warm for the date, not admitting it. On the sill the plant leans toward a brightness that has not arrived.",
   "pulses": [
-    { "label": "Sky", "value": "low pale strip, uneven, not yet day" },
-    { "label": "Street", "value": "one van, then the quiet again" },
-    { "label": "Light", "value": "lamp still on, glass catching grey" }
+    { "label": "Sky", "value": "low cloud lid, dry, one pale seam" },
+    { "label": "Street", "value": "bins still out, no van yet" },
+    { "label": "Light", "value": "window only, bulb switched off" }
   ]
 }
