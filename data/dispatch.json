@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-03T09:00:00.000Z",
-  "edition": 181,
-  "headline": "The second cup cools faster.",
-  "body": "Someone has propped the stair door with a catalogue. Light reaches the filing cabinet and stops. Outside, a bicycle ticks past without ringing.",
+  "updatedAt": "2026-10-03T10:00:00.000Z",
+  "edition": 182,
+  "headline": "Warm light on the wrong pane.",
+  "body": "Eleven and the sash is still shut. Dust shows on the left-hand glass, brighter than the desk. A van idles at the corner and does not leave.",
   "pulses": [
-    { "label": "Sky", "value": "thin blue under a milky lid, no contrail" },
-    { "label": "Light", "value": "on the cabinet edge, nowhere else" },
-    { "label": "Street", "value": "bicycle tick, no bell, one shutter newly up" }
+    { "label": "Sky", "value": "sunny intervals, about 18\u00b0C, no rain" },
+    { "label": "Light", "value": "on the left pane, not the blotter" },
+    { "label": "Street", "value": "van idling, one shutter already up" }
   ]
 }
