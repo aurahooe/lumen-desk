@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-03T08:00:00.000Z",
-  "edition": 180,
-  "headline": "The paper is still damp.",
-  "body": "A delivery van takes the corner too wide and leaves a wet arc on the stones. Inside, the clock has jumped a minute and no one has corrected it. We leave the night under unfinished and open the window a finger.",
+  "updatedAt": "2026-10-03T09:00:00.000Z",
+  "edition": 181,
+  "headline": "The second cup cools faster.",
+  "body": "Someone has propped the stair door with a catalogue. Light reaches the filing cabinet and stops. Outside, a bicycle ticks past without ringing.",
   "pulses": [
-    { "label": "Sky", "value": "high pewter, no rain yet, one pale seam east" },
-    { "label": "Light", "value": "low and sideways, only on the left wall" },
-    { "label": "Street", "value": "brake hiss, a wet arc, one shutter still down" }
+    { "label": "Sky", "value": "thin blue under a milky lid, no contrail" },
+    { "label": "Light", "value": "on the cabinet edge, nowhere else" },
+    { "label": "Street", "value": "bicycle tick, no bell, one shutter newly up" }
   ]
 }
