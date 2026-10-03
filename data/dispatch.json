@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-02T23:00:00.000Z",
-  "edition": 173,
-  "headline": "Midnight finds the desk still lit.",
-  "body": "A bus brakes once at the corner and does not come back. The kettle has gone quiet; the radiator has not. We leave the page open and the lamp on its lowest setting.",
+  "updatedAt": "2026-10-03T02:00:00.000Z",
+  "edition": 174,
+  "headline": "The stairwell light times itself out.",
+  "body": "Someone's shoes were on the landing and are gone. The window opposite has gone dark since the last note. We keep the lamp and do not turn the page.",
   "pulses": [
-    { "label": "Sky", "value": "clear, moon high, no cloud bank" },
-    { "label": "Light", "value": "desk lamp, one window opposite still yellow" },
-    { "label": "Street", "value": "wet curb, last bin lid settling" }
+    { "label": "Sky", "value": "black, a few pins, no weather" },
+    { "label": "Street", "value": "empty except a fox at the bins" },
+    { "label": "Light", "value": "one lamp, the stairwell already out" }
   ]
 }
