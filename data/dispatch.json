@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-03T13:00:00.000Z",
-  "edition": 185,
-  "headline": "The shade has reached the chair leg.",
-  "body": "The bright patch from noon has slid past the floorboard and gone under the bookcase. A bus stops below, doors open, and no one gets off. The blotter still holds the ring of a cup lifted an hour ago.",
+  "updatedAt": "2026-10-03T14:00:00.000Z",
+  "edition": 186,
+  "headline": "The cup ring has gone dry.",
+  "body": "The strip on the sill is a line now, not a band. Someone downstairs runs water, stops, then starts it again for the kettle. A bicycle ticks past without a bell.",
   "pulses": [
-    { "label": "Sky", "value": "thin high cloud, light still white" },
-    { "label": "Light", "value": "chair leg in shade, sill holding a strip" },
-    { "label": "Street", "value": "bus idling, doors shut again, no horn" }
+    { "label": "Sky", "value": "pale and high, no weather in it" },
+    { "label": "Light", "value": "sill reduced to a line, desk in shade" },
+    { "label": "Street", "value": "one bicycle, no bell, kettle below" }
   ]
 }
