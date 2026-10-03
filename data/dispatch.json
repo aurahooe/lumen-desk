@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-03T02:00:00.000Z",
-  "edition": 174,
-  "headline": "The stairwell light times itself out.",
-  "body": "Someone's shoes were on the landing and are gone. The window opposite has gone dark since the last note. We keep the lamp and do not turn the page.",
+  "updatedAt": "2026-10-03T03:00:00.000Z",
+  "edition": 175,
+  "headline": "The milk light stays on across.",
+  "body": "No one crosses between editions. A bus idles at the stop, then thinks better of it. We leave the page where the last line ends.",
   "pulses": [
-    { "label": "Sky", "value": "black, a few pins, no weather" },
-    { "label": "Street", "value": "empty except a fox at the bins" },
-    { "label": "Light", "value": "one lamp, the stairwell already out" }
+    { "label": "Sky", "value": "black, a pale seam starting east" },
+    { "label": "Street", "value": "dry-looking, one bus deciding" },
+    { "label": "Light", "value": "milk-yellow square, third floor, still on" }
   ]
 }
