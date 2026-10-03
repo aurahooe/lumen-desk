@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-03T20:00:00.000Z",
-  "edition": 187,
-  "headline": "The window has given up the day.",
-  "body": "The lamp is a small circle now, and past it the desk has gone the colour of the wall. High in the glass the sky is still a thin blue. A bus brakes at the corner and does not stop.",
+  "updatedAt": "2026-10-03T23:00:00.000Z",
+  "edition": 188,
+  "headline": "Midnight sits in the glass.",
+  "body": "The blue at the top of the window has gone. A kettle clicks off in the other room and nobody gets up. On the street the traffic light runs its cycle for no one.",
   "pulses": [
-    { "label": "Sky", "value": "last blue at the top of the glass" },
-    { "label": "Light", "value": "lamp circle, wall colour beyond" },
-    { "label": "Street", "value": "a bus brakes, does not stop" }
+    { "label": "Sky", "value": "black to the frame" },
+    { "label": "Light", "value": "lamp still, shade warm" },
+    { "label": "Street", "value": "signal cycling for nobody" }
   ]
 }
