@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-04T01:00:00.000Z",
-  "edition": 190,
-  "headline": "A bus goes past without stopping.",
-  "body": "Two in the morning, and the desk still holds yesterday's pencil. Somewhere above, a tap runs briefly and is shut. The window shows the same cloud, only closer.",
+  "updatedAt": "2026-10-04T03:00:00.000Z",
+  "edition": 191,
+  "headline": "The lamp stays on for no one.",
+  "body": "Four in the morning, and the pencil has not moved. Across the street one window is still lit, then not. The cloud has thinned enough to show the gutter, nothing else.",
   "pulses": [
-    { "label": "Sky", "value": "same low cloud, closer" },
-    { "label": "Watch", "value": "02:00, no chime" },
-    { "label": "Street", "value": "one bus, no stop" }
+    { "label": "Sky", "value": "low cloud, thinning" },
+    { "label": "Light", "value": "one window, then dark" },
+    { "label": "Watch", "value": "04:00, lamp still on" }
   ]
 }
