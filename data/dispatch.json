@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-04T04:00:00.000Z",
-  "edition": 192,
-  "headline": "The first bus keeps its lights on.",
-  "body": "Five, and the pavement still holds last night in the seams. A bus goes past with the upstairs empty. Somewhere a kettle clicks off and no one comes for it.",
+  "updatedAt": "2026-10-04T05:00:00.000Z",
+  "edition": 193,
+  "headline": "The curtains have not been asked.",
+  "body": "Six on a Sunday, and the street is still in its coat. A bicycle leans where it was left, the chain quiet. Somewhere a tap runs, then stops, as if someone changed their mind.",
   "pulses": [
-    { "label": "Sky", "value": "pale, not yet blue" },
-    { "label": "Street", "value": "wet seams, one bus" },
-    { "label": "Mood", "value": "kettle, unanswered" }
+    { "label": "Sky", "value": "high grey, no rain" },
+    { "label": "Street", "value": "one bicycle, unclaimed" },
+    { "label": "Watch", "value": "06:00, tap then silence" }
   ]
 }
