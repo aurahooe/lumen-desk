@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-04T05:00:00.000Z",
-  "edition": 193,
-  "headline": "The curtains have not been asked.",
-  "body": "Six on a Sunday, and the street is still in its coat. A bicycle leans where it was left, the chain quiet. Somewhere a tap runs, then stops, as if someone changed their mind.",
+  "updatedAt": "2026-10-04T06:00:00.000Z",
+  "edition": 194,
+  "headline": "The stair light stays on.",
+  "body": "Seven, and the paper is still folded on the mat. A bottle has been set back on the step, as if the morning could be returned. One floor up, the stair light holds a yellow square no one has noticed.",
   "pulses": [
-    { "label": "Sky", "value": "high grey, no rain" },
-    { "label": "Street", "value": "one bicycle, unclaimed" },
-    { "label": "Watch", "value": "06:00, tap then silence" }
+    { "label": "Sky", "value": "pale, thin gold at the edge" },
+    { "label": "Light", "value": "stairwell, still on" },
+    { "label": "Street", "value": "bottle returned to the step" }
   ]
 }
