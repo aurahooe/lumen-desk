@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-04T11:00:00.000Z",
-  "edition": 199,
-  "headline": "Noon, and the cloud does not lift.",
-  "body": "The pale window has not brightened. Someone on the street carries a paper bag and walks as if the errand can wait. The bus that idled has gone; another takes its place.",
+  "updatedAt": "2026-10-04T12:00:00.000Z",
+  "edition": 200,
+  "headline": "The fog left a warm residue.",
+  "body": "By one the low grey has broken into pale blue and a soft white. The pavement is dry. A shop door stands open and the air just inside smells of bread.",
   "pulses": [
-    { "label": "Sky", "value": "low grey, still holding" },
-    { "label": "Street", "value": "paper bag, no hurry" },
-    { "label": "Light", "value": "noon, but not bright" }
+    { "label": "Sky", "value": "pale blue, thin cloud" },
+    { "label": "Street", "value": "door open, bread" },
+    { "label": "Light", "value": "warm, about 22\u00b0" }
   ]
 }
