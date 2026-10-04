@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-04T09:00:00.000Z",
-  "edition": 197,
-  "headline": "Sunday leaves the kettle to cool.",
-  "body": "Ten, and the newsprint has been folded twice, then left. A mug ring sits where the window light reaches. Outside, someone walks a dog and does not look up.",
+  "updatedAt": "2026-10-04T10:00:00.000Z",
+  "edition": 198,
+  "headline": "Eleven, and the cloud stays low.",
+  "body": "The mug ring has dried to a faint circle. Outside, London is coat weather without the rain: fourteen degrees, grey from the rooftops up. A bus idles at the corner and does not quite leave.",
   "pulses": [
-    { "label": "Sky", "value": "high thin grey, no rain yet" },
-    { "label": "Mood", "value": "Sunday, shoes by the door" },
-    { "label": "Watch", "value": "10:00, kettle still warm" }
+    { "label": "Sky", "value": "low cloud, no break yet" },
+    { "label": "Street", "value": "coats on, bus idling" },
+    { "label": "Light", "value": "window pale, not noon" }
   ]
 }
