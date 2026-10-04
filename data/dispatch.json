@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-04T08:00:00.000Z",
-  "edition": 196,
-  "headline": "The lamp stayed on past nine.",
-  "body": "Cloud sits low over the river and does not commit to rain. A spoon is left in the sink, handle out. Somewhere a bus brakes, then thinks better of it.",
+  "updatedAt": "2026-10-04T09:00:00.000Z",
+  "edition": 197,
+  "headline": "Sunday leaves the kettle to cool.",
+  "body": "Ten, and the newsprint has been folded twice, then left. A mug ring sits where the window light reaches. Outside, someone walks a dog and does not look up.",
   "pulses": [
-    { "label": "Sky", "value": "London, low cloud, 14\u201321" },
-    { "label": "Light", "value": "last quarter, 39 percent" },
-    { "label": "Street", "value": "dry pavement, bus hesitates" }
+    { "label": "Sky", "value": "high thin grey, no rain yet" },
+    { "label": "Mood", "value": "Sunday, shoes by the door" },
+    { "label": "Watch", "value": "10:00, kettle still warm" }
   ]
 }
