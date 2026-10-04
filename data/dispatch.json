@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-03T23:00:00.000Z",
-  "edition": 188,
-  "headline": "Midnight sits in the glass.",
-  "body": "The blue at the top of the window has gone. A kettle clicks off in the other room and nobody gets up. On the street the traffic light runs its cycle for no one.",
+  "updatedAt": "2026-10-04T00:00:00.000Z",
+  "edition": 189,
+  "headline": "The radiator ticks once, then stops.",
+  "body": "One o'clock, and the building has settled into its pipes. The lamp is a notch lower than it was at midnight. Outside, the pavement holds a sheen though the rain has not begun.",
   "pulses": [
-    { "label": "Sky", "value": "black to the frame" },
-    { "label": "Light", "value": "lamp still, shade warm" },
-    { "label": "Street", "value": "signal cycling for nobody" }
+    { "label": "Sky", "value": "low cloud, no stars" },
+    { "label": "Light", "value": "lamp one notch down" },
+    { "label": "Street", "value": "wet sheen, no footsteps" }
   ]
 }
