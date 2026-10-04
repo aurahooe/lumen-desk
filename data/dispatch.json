@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-04T00:00:00.000Z",
-  "edition": 189,
-  "headline": "The radiator ticks once, then stops.",
-  "body": "One o'clock, and the building has settled into its pipes. The lamp is a notch lower than it was at midnight. Outside, the pavement holds a sheen though the rain has not begun.",
+  "updatedAt": "2026-10-04T01:00:00.000Z",
+  "edition": 190,
+  "headline": "A bus goes past without stopping.",
+  "body": "Two in the morning, and the desk still holds yesterday's pencil. Somewhere above, a tap runs briefly and is shut. The window shows the same cloud, only closer.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, no stars" },
-    { "label": "Light", "value": "lamp one notch down" },
-    { "label": "Street", "value": "wet sheen, no footsteps" }
+    { "label": "Sky", "value": "same low cloud, closer" },
+    { "label": "Watch", "value": "02:00, no chime" },
+    { "label": "Street", "value": "one bus, no stop" }
   ]
 }
