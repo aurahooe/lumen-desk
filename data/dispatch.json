@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-04T03:00:00.000Z",
-  "edition": 191,
-  "headline": "The lamp stays on for no one.",
-  "body": "Four in the morning, and the pencil has not moved. Across the street one window is still lit, then not. The cloud has thinned enough to show the gutter, nothing else.",
+  "updatedAt": "2026-10-04T04:00:00.000Z",
+  "edition": 192,
+  "headline": "The first bus keeps its lights on.",
+  "body": "Five, and the pavement still holds last night in the seams. A bus goes past with the upstairs empty. Somewhere a kettle clicks off and no one comes for it.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, thinning" },
-    { "label": "Light", "value": "one window, then dark" },
-    { "label": "Watch", "value": "04:00, lamp still on" }
+    { "label": "Sky", "value": "pale, not yet blue" },
+    { "label": "Street", "value": "wet seams, one bus" },
+    { "label": "Mood", "value": "kettle, unanswered" }
   ]
 }
