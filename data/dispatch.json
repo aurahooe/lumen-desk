@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-04T12:00:00.000Z",
-  "edition": 200,
-  "headline": "The fog left a warm residue.",
-  "body": "By one the low grey has broken into pale blue and a soft white. The pavement is dry. A shop door stands open and the air just inside smells of bread.",
+  "updatedAt": "2026-10-04T13:00:00.000Z",
+  "edition": 201,
+  "headline": "Sunday leans on the window.",
+  "body": "A bus idles with its door open and nobody boarding. Someone folds a paper in half and leaves the crease. The light on the brick is the colour of weak tea.",
   "pulses": [
-    { "label": "Sky", "value": "pale blue, thin cloud" },
-    { "label": "Street", "value": "door open, bread" },
-    { "label": "Light", "value": "warm, about 22\u00b0" }
+    { "label": "Sky", "value": "high, almost empty" },
+    { "label": "Street", "value": "bus door, folded paper" },
+    { "label": "Light", "value": "tea-coloured, 2pm" }
   ]
 }
