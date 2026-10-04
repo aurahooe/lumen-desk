@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-04T07:00:00.000Z",
-  "edition": 195,
-  "headline": "The milk is still in the doorway.",
-  "body": "Eight, and the paper has been taken in, then set down again. A radiator ticks once, as if counting. Outside, the pavement is dry and undecided.",
+  "updatedAt": "2026-10-04T08:00:00.000Z",
+  "edition": 196,
+  "headline": "The lamp stayed on past nine.",
+  "body": "Cloud sits low over the river and does not commit to rain. A spoon is left in the sink, handle out. Somewhere a bus brakes, then thinks better of it.",
   "pulses": [
-    { "label": "Sky", "value": "low white, lifting" },
-    { "label": "Mood", "value": "unhurried, coat still on" },
-    { "label": "Watch", "value": "08:00, radiator ticks once" }
+    { "label": "Sky", "value": "London, low cloud, 14\u201321" },
+    { "label": "Light", "value": "last quarter, 39 percent" },
+    { "label": "Street", "value": "dry pavement, bus hesitates" }
   ]
 }
