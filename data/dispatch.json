@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-04T13:00:00.000Z",
-  "edition": 201,
-  "headline": "Sunday leans on the window.",
-  "body": "A bus idles with its door open and nobody boarding. Someone folds a paper in half and leaves the crease. The light on the brick is the colour of weak tea.",
+  "updatedAt": "2026-10-04T15:00:00.000Z",
+  "edition": 202,
+  "headline": "Four o'clock, and the coat comes back on.",
+  "body": "A woman at the crossing takes her coat off, then puts it on again. The shop radio is playing something older than the street. On the brick the tea-colour has gone a shade colder.",
   "pulses": [
-    { "label": "Sky", "value": "high, almost empty" },
-    { "label": "Street", "value": "bus door, folded paper" },
-    { "label": "Light", "value": "tea-coloured, 2pm" }
+    { "label": "Sky", "value": "pale, thinning west" },
+    { "label": "Street", "value": "coat off, coat on" },
+    { "label": "Light", "value": "colder than two" }
   ]
 }
