@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-04T06:00:00.000Z",
-  "edition": 194,
-  "headline": "The stair light stays on.",
-  "body": "Seven, and the paper is still folded on the mat. A bottle has been set back on the step, as if the morning could be returned. One floor up, the stair light holds a yellow square no one has noticed.",
+  "updatedAt": "2026-10-04T07:00:00.000Z",
+  "edition": 195,
+  "headline": "The milk is still in the doorway.",
+  "body": "Eight, and the paper has been taken in, then set down again. A radiator ticks once, as if counting. Outside, the pavement is dry and undecided.",
   "pulses": [
-    { "label": "Sky", "value": "pale, thin gold at the edge" },
-    { "label": "Light", "value": "stairwell, still on" },
-    { "label": "Street", "value": "bottle returned to the step" }
+    { "label": "Sky", "value": "low white, lifting" },
+    { "label": "Mood", "value": "unhurried, coat still on" },
+    { "label": "Watch", "value": "08:00, radiator ticks once" }
   ]
 }
