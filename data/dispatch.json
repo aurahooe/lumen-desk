@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-04T10:00:00.000Z",
-  "edition": 198,
-  "headline": "Eleven, and the cloud stays low.",
-  "body": "The mug ring has dried to a faint circle. Outside, London is coat weather without the rain: fourteen degrees, grey from the rooftops up. A bus idles at the corner and does not quite leave.",
+  "updatedAt": "2026-10-04T11:00:00.000Z",
+  "edition": 199,
+  "headline": "Noon, and the cloud does not lift.",
+  "body": "The pale window has not brightened. Someone on the street carries a paper bag and walks as if the errand can wait. The bus that idled has gone; another takes its place.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, no break yet" },
-    { "label": "Street", "value": "coats on, bus idling" },
-    { "label": "Light", "value": "window pale, not noon" }
+    { "label": "Sky", "value": "low grey, still holding" },
+    { "label": "Street", "value": "paper bag, no hurry" },
+    { "label": "Light", "value": "noon, but not bright" }
   ]
 }
