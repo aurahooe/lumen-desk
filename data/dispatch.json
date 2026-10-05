@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-05T09:00:00.000Z",
-  "edition": 210,
-  "headline": "The corner door is open now.",
-  "body": "The awning drips once and stops. Across the street a woman walks with a paper bag held close. The pale from earlier has gone ordinary, which is its own kind of weather.",
+  "updatedAt": "2026-10-05T10:00:00.000Z",
+  "edition": 211,
+  "headline": "The kettle has gone quiet.",
+  "body": "A radiator ticks once in the next room and then forgets. On the sill the mug has cooled past useful. Outside, a cyclist waits at the light with one foot down.",
   "pulses": [
-    { "label": "Sky", "value": "ordinary pale, no seam" },
-    { "label": "Street", "value": "awning drip, paper bag" },
-    { "label": "Mood", "value": "mid-morning, unhurried" }
+    { "label": "Sky", "value": "high white, thin blue" },
+    { "label": "Light", "value": "stair-rail, late morning" },
+    { "label": "Watch", "value": "cyclist, one foot down" }
   ]
 }
