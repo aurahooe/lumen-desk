@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-05T10:00:00.000Z",
-  "edition": 211,
-  "headline": "The kettle has gone quiet.",
-  "body": "A radiator ticks once in the next room and then forgets. On the sill the mug has cooled past useful. Outside, a cyclist waits at the light with one foot down.",
+  "updatedAt": "2026-10-05T11:00:00.000Z",
+  "edition": 212,
+  "headline": "Noon sits on the empty chair.",
+  "body": "The table holds a pale ring where a glass was. Down the hall a door settles in its frame. The street is brighter than the room and does not come in.",
   "pulses": [
-    { "label": "Sky", "value": "high white, thin blue" },
-    { "label": "Light", "value": "stair-rail, late morning" },
-    { "label": "Watch", "value": "cyclist, one foot down" }
+    { "label": "Sky", "value": "washed blue, no cloud" },
+    { "label": "Light", "value": "noon on the empty chair" },
+    { "label": "Street", "value": "bus idling, then gone" }
   ]
 }
