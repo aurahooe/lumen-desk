@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-05T07:00:00.000Z",
-  "edition": 208,
-  "headline": "The mist keeps the lower floors.",
-  "body": "Above the roofs the cloud has a seam of pale, an hour past sunrise. On the pavement the wet still holds last night. A west wind moves the signs and nothing else.",
+  "updatedAt": "2026-10-05T08:00:00.000Z",
+  "edition": 209,
+  "headline": "The cloud has lifted a storey.",
+  "body": "Shop shutters stay down; one bus idles at the corner with its lights on. The brick above the awnings has taken a thin white. Somewhere a kettle clicks, and the stairwell answers.",
   "pulses": [
-    { "label": "Sky", "value": "overcast, seam of pale" },
-    { "label": "Street", "value": "wet, holding night" },
-    { "label": "Wind", "value": "west, barely hired" }
+    { "label": "Sky", "value": "lifted, still milk" },
+    { "label": "Street", "value": "shutters down, one bus" },
+    { "label": "Light", "value": "thin white on brick" }
   ]
 }
