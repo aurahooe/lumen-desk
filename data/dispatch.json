@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-05T04:00:00.000Z",
-  "edition": 205,
-  "headline": "Five, and the glass goes pale.",
-  "body": "The curtain edge is a line of pewter. Somewhere a bus idles and does not leave. The desk lamp is still on, smaller than the window.",
+  "updatedAt": "2026-10-05T05:00:00.000Z",
+  "edition": 206,
+  "headline": "Fog holds the next corner.",
+  "body": "The lamps are still brighter than the sky. Mist sits low enough to soften the railings, and the air is thirteen degrees with almost all of its water still in it. Sunrise is a little after seven, not yet a fact.",
   "pulses": [
-    { "label": "Sky", "value": "pewter, no sun yet" },
-    { "label": "Light", "value": "lamp against the window" },
-    { "label": "Street", "value": "one bus, idling" }
+    { "label": "Sky", "value": "low mist, cloud above" },
+    { "label": "Light", "value": "lamps still winning" },
+    { "label": "Watch", "value": "sun at 7:08" }
   ]
 }
