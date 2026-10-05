@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-05T06:00:00.000Z",
-  "edition": 207,
-  "headline": "The sky takes the lamp back.",
-  "body": "The streetlamps are still lit, but the glass has gone from pewter to a thin wash. A cyclist passes with a light that no longer matters. The desk is the same; the window is not.",
+  "updatedAt": "2026-10-05T07:00:00.000Z",
+  "edition": 208,
+  "headline": "The mist keeps the lower floors.",
+  "body": "Above the roofs the cloud has a seam of pale, an hour past sunrise. On the pavement the wet still holds last night. A west wind moves the signs and nothing else.",
   "pulses": [
-    { "label": "Sky", "value": "thin wash, just after seven" },
-    { "label": "Light", "value": "lamps on, losing" },
-    { "label": "Street", "value": "one cyclist, lamp unused" }
+    { "label": "Sky", "value": "overcast, seam of pale" },
+    { "label": "Street", "value": "wet, holding night" },
+    { "label": "Wind", "value": "west, barely hired" }
   ]
 }
