@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-05T01:00:00.000Z",
-  "edition": 204,
-  "headline": "Two o'clock and the kettle cools.",
-  "body": "The hallway light has gone amber and stays. Somewhere a pipe settles, as if deciding not to speak. The page on the desk is the same page.",
+  "updatedAt": "2026-10-05T04:00:00.000Z",
+  "edition": 205,
+  "headline": "Five, and the glass goes pale.",
+  "body": "The curtain edge is a line of pewter. Somewhere a bus idles and does not leave. The desk lamp is still on, smaller than the window.",
   "pulses": [
-    { "label": "Sky", "value": "ink, a thin moon smear" },
-    { "label": "Mood", "value": "held, not tired" },
-    { "label": "Watch", "value": "02:00, second hand only" }
+    { "label": "Sky", "value": "pewter, no sun yet" },
+    { "label": "Light", "value": "lamp against the window" },
+    { "label": "Street", "value": "one bus, idling" }
   ]
 }
