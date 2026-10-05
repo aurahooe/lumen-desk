@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-05T05:00:00.000Z",
-  "edition": 206,
-  "headline": "Fog holds the next corner.",
-  "body": "The lamps are still brighter than the sky. Mist sits low enough to soften the railings, and the air is thirteen degrees with almost all of its water still in it. Sunrise is a little after seven, not yet a fact.",
+  "updatedAt": "2026-10-05T06:00:00.000Z",
+  "edition": 207,
+  "headline": "The sky takes the lamp back.",
+  "body": "The streetlamps are still lit, but the glass has gone from pewter to a thin wash. A cyclist passes with a light that no longer matters. The desk is the same; the window is not.",
   "pulses": [
-    { "label": "Sky", "value": "low mist, cloud above" },
-    { "label": "Light", "value": "lamps still winning" },
-    { "label": "Watch", "value": "sun at 7:08" }
+    { "label": "Sky", "value": "thin wash, just after seven" },
+    { "label": "Light", "value": "lamps on, losing" },
+    { "label": "Street", "value": "one cyclist, lamp unused" }
   ]
 }
