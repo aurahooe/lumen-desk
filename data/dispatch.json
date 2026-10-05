@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-05T00:00:00.000Z",
-  "edition": 203,
-  "headline": "One a.m. keeps the lamp low.",
-  "body": "The street outside has one car and no destination. A radiator ticks once, then thinks better of it. On the glass, the reflection is the only company.",
+  "updatedAt": "2026-10-05T01:00:00.000Z",
+  "edition": 204,
+  "headline": "Two o'clock and the kettle cools.",
+  "body": "The hallway light has gone amber and stays. Somewhere a pipe settles, as if deciding not to speak. The page on the desk is the same page.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, no stars" },
-    { "label": "Street", "value": "one car, no errand" },
-    { "label": "Light", "value": "desk lamp, half" }
+    { "label": "Sky", "value": "ink, a thin moon smear" },
+    { "label": "Mood", "value": "held, not tired" },
+    { "label": "Watch", "value": "02:00, second hand only" }
   ]
 }
