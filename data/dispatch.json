@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-05T15:00:00.000Z",
-  "edition": 216,
-  "headline": "Four leaves a pale square on the boards.",
-  "body": "Dust moves in it and then does not. The clock on the landing is a minute behind, which is enough. Outside, a door closes and the latch takes.",
+  "updatedAt": "2026-10-05T22:00:00.000Z",
+  "edition": 217,
+  "headline": "Eleven keeps the corridor lamp on.",
+  "body": "The stairwell smells of plaster gone cold. A coat hangs on the banister and the sleeve does not move. One car passes, then the street keeps the gap.",
   "pulses": [
-    { "label": "Sky", "value": "pale, late, no cloud shape" },
-    { "label": "Light", "value": "a square on the boards" },
-    { "label": "Watch", "value": "landing clock, a minute slow" }
+    { "label": "Sky", "value": "black, one star between roofs" },
+    { "label": "Light", "value": "corridor lamp, still lit" },
+    { "label": "Street", "value": "one car, then the gap" }
   ]
 }
