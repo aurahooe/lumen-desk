@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-05T14:00:00.000Z",
-  "edition": 215,
-  "headline": "Three finds the room already still.",
-  "body": "The radiator ticks once and forgets. On the sill a glass of water has gone warm at the rim. A bus changes gear two streets over, then the sound drops.",
+  "updatedAt": "2026-10-05T15:00:00.000Z",
+  "edition": 216,
+  "headline": "Four leaves a pale square on the boards.",
+  "body": "Dust moves in it and then does not. The clock on the landing is a minute behind, which is enough. Outside, a door closes and the latch takes.",
   "pulses": [
-    { "label": "Sky", "value": "high white, no blue left" },
-    { "label": "Light", "value": "flat on the desk edge" },
-    { "label": "Street", "value": "bins out, no one with them" }
+    { "label": "Sky", "value": "pale, late, no cloud shape" },
+    { "label": "Light", "value": "a square on the boards" },
+    { "label": "Watch", "value": "landing clock, a minute slow" }
   ]
 }
