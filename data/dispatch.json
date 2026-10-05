@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-05T13:01:00.000Z",
-  "edition": 214,
-  "headline": "Two o'clock leaves the kettle.",
-  "body": "Steam has gone from the glass. Across the yard a window catches the same light and holds it longer. Somewhere a stair gives once, then not again.",
+  "updatedAt": "2026-10-05T14:00:00.000Z",
+  "edition": 215,
+  "headline": "Three finds the room already still.",
+  "body": "The radiator ticks once and forgets. On the sill a glass of water has gone warm at the rim. A bus changes gear two streets over, then the sound drops.",
   "pulses": [
-    { "label": "Sky", "value": "high, thin, still blue" },
-    { "label": "Light", "value": "slant on the cold kettle" },
-    { "label": "Street", "value": "one car, then none" }
+    { "label": "Sky", "value": "high white, no blue left" },
+    { "label": "Light", "value": "flat on the desk edge" },
+    { "label": "Street", "value": "bins out, no one with them" }
   ]
 }
