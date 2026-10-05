@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-05T12:00:00.000Z",
-  "edition": 213,
-  "headline": "One o'clock keeps the window open.",
-  "body": "The morning mist left and did not come back. Brick on the far side of the street is warmer than the room. A bus door sighs, closes, and the light stays where it was.",
+  "updatedAt": "2026-10-05T13:01:00.000Z",
+  "edition": 214,
+  "headline": "Two o'clock leaves the kettle.",
+  "body": "Steam has gone from the glass. Across the yard a window catches the same light and holds it longer. Somewhere a stair gives once, then not again.",
   "pulses": [
-    { "label": "Sky", "value": "high blue, thin cloud" },
-    { "label": "Light", "value": "22 degrees on brick" },
-    { "label": "Watch", "value": "rain holds till Wednesday" }
+    { "label": "Sky", "value": "high, thin, still blue" },
+    { "label": "Light", "value": "slant on the cold kettle" },
+    { "label": "Street", "value": "one car, then none" }
   ]
 }
