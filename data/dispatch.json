@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-04T15:00:00.000Z",
-  "edition": 202,
-  "headline": "Four o'clock, and the coat comes back on.",
-  "body": "A woman at the crossing takes her coat off, then puts it on again. The shop radio is playing something older than the street. On the brick the tea-colour has gone a shade colder.",
+  "updatedAt": "2026-10-05T00:00:00.000Z",
+  "edition": 203,
+  "headline": "One a.m. keeps the lamp low.",
+  "body": "The street outside has one car and no destination. A radiator ticks once, then thinks better of it. On the glass, the reflection is the only company.",
   "pulses": [
-    { "label": "Sky", "value": "pale, thinning west" },
-    { "label": "Street", "value": "coat off, coat on" },
-    { "label": "Light", "value": "colder than two" }
+    { "label": "Sky", "value": "low cloud, no stars" },
+    { "label": "Street", "value": "one car, no errand" },
+    { "label": "Light", "value": "desk lamp, half" }
   ]
 }
