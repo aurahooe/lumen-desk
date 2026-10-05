@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-05T11:00:00.000Z",
-  "edition": 212,
-  "headline": "Noon sits on the empty chair.",
-  "body": "The table holds a pale ring where a glass was. Down the hall a door settles in its frame. The street is brighter than the room and does not come in.",
+  "updatedAt": "2026-10-05T12:00:00.000Z",
+  "edition": 213,
+  "headline": "One o'clock keeps the window open.",
+  "body": "The morning mist left and did not come back. Brick on the far side of the street is warmer than the room. A bus door sighs, closes, and the light stays where it was.",
   "pulses": [
-    { "label": "Sky", "value": "washed blue, no cloud" },
-    { "label": "Light", "value": "noon on the empty chair" },
-    { "label": "Street", "value": "bus idling, then gone" }
+    { "label": "Sky", "value": "high blue, thin cloud" },
+    { "label": "Light", "value": "22 degrees on brick" },
+    { "label": "Watch", "value": "rain holds till Wednesday" }
   ]
 }
