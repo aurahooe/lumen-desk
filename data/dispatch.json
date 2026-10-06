@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-06T00:00:00.000Z",
-  "edition": 218,
-  "headline": "The kettle cools on the back ring.",
-  "body": "Steam has already left the glass. A page turns somewhere above and the floor takes the sound. Outside, rain starts and stops on the same three panes.",
+  "updatedAt": "2026-10-06T02:00:00.000Z",
+  "edition": 219,
+  "headline": "Someone left the stair light on.",
+  "body": "A coat hangs on the banister, still damp at the cuff. The landing clock loses a second and takes it back. Below, a taxi door closes and the street forgets the sound.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, no moon" },
-    { "label": "Light", "value": "back-room bulb, slightly warm" },
-    { "label": "Street", "value": "rain on three panes, then quiet" }
+    { "label": "Sky", "value": "thin cloud, sodium under it" },
+    { "label": "Light", "value": "stairwell bulb, left on" },
+    { "label": "Street", "value": "one taxi door, then none" }
   ]
 }
