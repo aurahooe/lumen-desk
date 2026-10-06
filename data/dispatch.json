@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-06T05:00:00.000Z",
-  "edition": 221,
-  "headline": "A bus idles at the empty stop.",
-  "body": "The driver leaves the engine on and looks at his phone without scrolling. Across the road the bakery shutter is half up, light pooling on the tiles. The desk keeps the window open and writes nothing down yet.",
+  "updatedAt": "2026-10-06T06:00:00.000Z",
+  "edition": 222,
+  "headline": "Milk bottles still on the step.",
+  "body": "The roundsman has not come. Condensation runs one clean line down the glass and stops. A cyclist passes without looking, chain ticking once.",
   "pulses": [
-    { "label": "Sky", "value": "thin gold under the cloud" },
-    { "label": "Street", "value": "idling bus, no queue" },
-    { "label": "Light", "value": "bakery floor, shutter half up" }
+    { "label": "Sky", "value": "low cloud, edges lifting" },
+    { "label": "Street", "value": "bottles, no roundsman" },
+    { "label": "Light", "value": "condensation on cold glass" }
   ]
 }
