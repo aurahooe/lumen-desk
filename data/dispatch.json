@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-06T02:00:00.000Z",
-  "edition": 219,
-  "headline": "Someone left the stair light on.",
-  "body": "A coat hangs on the banister, still damp at the cuff. The landing clock loses a second and takes it back. Below, a taxi door closes and the street forgets the sound.",
+  "updatedAt": "2026-10-06T03:00:00.000Z",
+  "edition": 220,
+  "headline": "The milk is still on the sill.",
+  "body": "The carton has sweated a pale ring into the paint. Two floors down, a radio finishes its night and does not start the morning. The desk lamp holds yesterday's margin and does not turn the page.",
   "pulses": [
-    { "label": "Sky", "value": "thin cloud, sodium under it" },
-    { "label": "Light", "value": "stairwell bulb, left on" },
-    { "label": "Street", "value": "one taxi door, then none" }
+    { "label": "Sky", "value": "grey before blue, no sun yet" },
+    { "label": "Light", "value": "desk lamp, half down" },
+    { "label": "Street", "value": "bin lid, then nothing" }
   ]
 }
