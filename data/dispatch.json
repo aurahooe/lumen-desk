@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-06T08:00:00.000Z",
-  "edition": 224,
-  "headline": "Fog holds the far roofs.",
-  "body": "The glass is wet on the outside only. Across the way a stairwell light stays on, unused. A bus ticks past and leaves the smell of brakes.",
+  "updatedAt": "2026-10-06T09:00:00.000Z",
+  "edition": 225,
+  "headline": "Tea gone cold on the sill.",
+  "body": "The mug ring has dried to a pale arc. Below, a van idles with the door open and nobody in it. A gull walks the opposite roof and stops.",
   "pulses": [
-    { "label": "Sky", "value": "low fog, west at 3" },
-    { "label": "Light", "value": "stairwell still lit" },
-    { "label": "Street", "value": "bus, then brakes" }
+    { "label": "Light", "value": "pale ring on the wood" },
+    { "label": "Street", "value": "van door open, empty" },
+    { "label": "Watch", "value": "gull on the far roof" }
   ]
 }
