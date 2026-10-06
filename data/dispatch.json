@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-06T11:00:00.000Z",
-  "edition": 227,
-  "headline": "The radio left between stations.",
-  "body": "A voice almost arrives, then falls back into grain. On the sill the plant leans toward the glass and does not quite touch it. Someone set a cup down and walked out with the spoon still in it.",
+  "updatedAt": "2026-10-06T12:00:00.000Z",
+  "edition": 228,
+  "headline": "Milk left out past the hour.",
+  "body": "The carton sweats a ring onto the board. In the next room a page turns and does not turn back. The street is bright enough to show dust on the pane.",
   "pulses": [
-    { "label": "Sky", "value": "washed blue, no cloud edge" },
-    { "label": "Street", "value": "a bicycle chained to the wrong post" },
-    { "label": "Mood", "value": "the kettle cooling on its own" }
+    { "label": "Sky", "value": "high white, hard at the edges" },
+    { "label": "Light", "value": "dust held in the pane" },
+    { "label": "Watch", "value": "the carton ring, still wet" }
   ]
 }
