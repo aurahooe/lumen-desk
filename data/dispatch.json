@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-06T10:00:00.000Z",
-  "edition": 226,
-  "headline": "Window left open on the landing.",
-  "body": "A coat hangs one flight up, still damp at the cuff. The paper on the sill lifts once and settles. Downstairs the hall clock is two minutes slow, and nobody corrects it.",
+  "updatedAt": "2026-10-06T11:00:00.000Z",
+  "edition": 227,
+  "headline": "The radio left between stations.",
+  "body": "A voice almost arrives, then falls back into grain. On the sill the plant leans toward the glass and does not quite touch it. Someone set a cup down and walked out with the spoon still in it.",
   "pulses": [
-    { "label": "Light", "value": "grey along the banister" },
-    { "label": "Street", "value": "wet leaves stuck to the step" },
-    { "label": "Watch", "value": "hall clock, two minutes slow" }
+    { "label": "Sky", "value": "washed blue, no cloud edge" },
+    { "label": "Street", "value": "a bicycle chained to the wrong post" },
+    { "label": "Mood", "value": "the kettle cooling on its own" }
   ]
 }
