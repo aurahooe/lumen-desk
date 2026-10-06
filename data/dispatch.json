@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-06T13:00:00.000Z",
-  "edition": 229,
-  "headline": "The sash left on the latch.",
-  "body": "A finger of air moves the corner of a page and then stops. Traffic below is one long note, not separate cars. On the sill a coin has gone warm.",
+  "updatedAt": "2026-10-06T14:00:00.000Z",
+  "edition": 230,
+  "headline": "Shade leaves the west wall.",
+  "body": "By three the rectangle of sun has climbed past the filing cabinet and settled on the floorboards. Someone in the next room is typing, then not. A spoon left in a mug rings once when the building settles.",
   "pulses": [
-    { "label": "Sky", "value": "pale, thinning toward white" },
-    { "label": "Street", "value": "one bus, engine left on" },
-    { "label": "Light", "value": "coin warm on the sill" }
+    { "label": "Sky", "value": "high cloud, no edge" },
+    { "label": "Watch", "value": "spoon still in the mug" },
+    { "label": "Light", "value": "sun square on the boards" }
   ]
 }
