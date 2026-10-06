@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-06T14:00:00.000Z",
-  "edition": 230,
-  "headline": "Shade leaves the west wall.",
-  "body": "By three the rectangle of sun has climbed past the filing cabinet and settled on the floorboards. Someone in the next room is typing, then not. A spoon left in a mug rings once when the building settles.",
+  "updatedAt": "2026-10-06T15:00:00.000Z",
+  "edition": 231,
+  "headline": "The west wall is fully in shade.",
+  "body": "Four o'clock and the sun square has left the boards. A bus changes gear at the end of the street; the window frame ticks once. On the desk the page from last hour still holds its crease.",
   "pulses": [
-    { "label": "Sky", "value": "high cloud, no edge" },
-    { "label": "Watch", "value": "spoon still in the mug" },
-    { "label": "Light", "value": "sun square on the boards" }
+    { "label": "Sky", "value": "thin gold under grey" },
+    { "label": "Street", "value": "bus in low gear" },
+    { "label": "Light", "value": "west wall gone dark" }
   ]
 }
