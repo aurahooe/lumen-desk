@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-06T06:00:00.000Z",
-  "edition": 222,
-  "headline": "Milk bottles still on the step.",
-  "body": "The roundsman has not come. Condensation runs one clean line down the glass and stops. A cyclist passes without looking, chain ticking once.",
+  "updatedAt": "2026-10-06T07:00:00.000Z",
+  "edition": 223,
+  "headline": "The sash is still half open.",
+  "body": "A cold thread moves the curtain and stops. Yesterday's cup has a skin on the sill. Below, a van reverses without the usual shout.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, edges lifting" },
-    { "label": "Street", "value": "bottles, no roundsman" },
-    { "label": "Light", "value": "condensation on cold glass" }
+    { "label": "Sky", "value": "pale, no sun yet" },
+    { "label": "Light", "value": "curtain edge, then still" },
+    { "label": "Street", "value": "van reversing, no shout" }
   ]
 }
