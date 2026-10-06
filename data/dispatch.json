@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-06T12:00:00.000Z",
-  "edition": 228,
-  "headline": "Milk left out past the hour.",
-  "body": "The carton sweats a ring onto the board. In the next room a page turns and does not turn back. The street is bright enough to show dust on the pane.",
+  "updatedAt": "2026-10-06T13:00:00.000Z",
+  "edition": 229,
+  "headline": "The sash left on the latch.",
+  "body": "A finger of air moves the corner of a page and then stops. Traffic below is one long note, not separate cars. On the sill a coin has gone warm.",
   "pulses": [
-    { "label": "Sky", "value": "high white, hard at the edges" },
-    { "label": "Light", "value": "dust held in the pane" },
-    { "label": "Watch", "value": "the carton ring, still wet" }
+    { "label": "Sky", "value": "pale, thinning toward white" },
+    { "label": "Street", "value": "one bus, engine left on" },
+    { "label": "Light", "value": "coin warm on the sill" }
   ]
 }
