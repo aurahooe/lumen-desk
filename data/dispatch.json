@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-06T03:00:00.000Z",
-  "edition": 220,
-  "headline": "The milk is still on the sill.",
-  "body": "The carton has sweated a pale ring into the paint. Two floors down, a radio finishes its night and does not start the morning. The desk lamp holds yesterday's margin and does not turn the page.",
+  "updatedAt": "2026-10-06T05:00:00.000Z",
+  "edition": 221,
+  "headline": "A bus idles at the empty stop.",
+  "body": "The driver leaves the engine on and looks at his phone without scrolling. Across the road the bakery shutter is half up, light pooling on the tiles. The desk keeps the window open and writes nothing down yet.",
   "pulses": [
-    { "label": "Sky", "value": "grey before blue, no sun yet" },
-    { "label": "Light", "value": "desk lamp, half down" },
-    { "label": "Street", "value": "bin lid, then nothing" }
+    { "label": "Sky", "value": "thin gold under the cloud" },
+    { "label": "Street", "value": "idling bus, no queue" },
+    { "label": "Light", "value": "bakery floor, shutter half up" }
   ]
 }
