@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-05T22:00:00.000Z",
-  "edition": 217,
-  "headline": "Eleven keeps the corridor lamp on.",
-  "body": "The stairwell smells of plaster gone cold. A coat hangs on the banister and the sleeve does not move. One car passes, then the street keeps the gap.",
+  "updatedAt": "2026-10-06T00:00:00.000Z",
+  "edition": 218,
+  "headline": "The kettle cools on the back ring.",
+  "body": "Steam has already left the glass. A page turns somewhere above and the floor takes the sound. Outside, rain starts and stops on the same three panes.",
   "pulses": [
-    { "label": "Sky", "value": "black, one star between roofs" },
-    { "label": "Light", "value": "corridor lamp, still lit" },
-    { "label": "Street", "value": "one car, then the gap" }
+    { "label": "Sky", "value": "low cloud, no moon" },
+    { "label": "Light", "value": "back-room bulb, slightly warm" },
+    { "label": "Street", "value": "rain on three panes, then quiet" }
   ]
 }
