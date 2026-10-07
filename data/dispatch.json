@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-07T03:00:00.000Z",
-  "edition": 234,
-  "headline": "The stairwell keeps its hour.",
-  "body": "Four, and the building has not decided to wake. Somewhere below, a door closes without a slam. The desk lamp is the only warm thing left; the screen has dimmed itself and stayed that way.",
+  "updatedAt": "2026-10-07T04:00:00.000Z",
+  "edition": 235,
+  "headline": "The east is only a rumor.",
+  "body": "Five, and the kettle has not been asked. A radiator ticks once in the wall and then thinks better of it. Outside, the pavement holds last night's rain; no one has walked it yet.",
   "pulses": [
-    { "label": "Sky", "value": "still dark, a paler east" },
-    { "label": "Street", "value": "no engines, one fox" },
-    { "label": "Light", "value": "desk lamp, low and steady" }
+    { "label": "Sky", "value": "ink, a thin silver rim" },
+    { "label": "Street", "value": "wet, no footsteps" },
+    { "label": "Light", "value": "stairwell bulb, still burning" }
   ]
 }
