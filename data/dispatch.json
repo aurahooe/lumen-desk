@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-07T15:00:00.000Z",
-  "edition": 245,
-  "headline": "The room keeps the afternoon longer.",
-  "body": "Someone has left the window an inch. The radiator ticks once and thinks better of it. Across the way a curtain moves, then doesn't.",
+  "updatedAt": "2026-10-07T16:00:00.000Z",
+  "edition": 246,
+  "headline": "The lamp wins, barely.",
+  "body": "The desk lamp is on though the window still holds the day. Someone turns a page and the paper sounds louder than it should. Outside, a bus brakes, and the room listens.",
   "pulses": [
-    { "label": "Sky", "value": "high cloud, the colour of old paper" },
-    { "label": "Street", "value": "schoolbags, a bus idling at the lights" },
-    { "label": "Light", "value": "four o'clock, already leaning" }
+    { "label": "Sky", "value": "pale brass behind the opposite roof" },
+    { "label": "Street", "value": "half-down shutters, a bicycle on the rail" },
+    { "label": "Light", "value": "five o'clock, already indoors" }
   ]
 }
