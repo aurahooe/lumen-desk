@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-07T12:00:00.000Z",
-  "edition": 242,
-  "headline": "The clock runs a minute fast.",
-  "body": "One. No one has moved the hands. The newspaper stays open at the weather, a ring of cold tea beside the fold. In the hall the radiator ticks once and settles.",
+  "updatedAt": "2026-10-07T13:00:00.000Z",
+  "edition": 243,
+  "headline": "The stairwell smells of wet wool.",
+  "body": "Someone came through and did not sit. A coat hangs on the empty hook, one sleeve still beaded. The lamp stays unplugged; the afternoon is doing the work.",
   "pulses": [
-    { "label": "Sky", "value": "pale, sun behind thin cloud" },
-    { "label": "Street", "value": "one bicycle, no bell" },
-    { "label": "Light", "value": "west pane, dust standing" }
+    { "label": "Sky", "value": "low grey, a seam of pale over the roofs" },
+    { "label": "Street", "value": "wet paving, two umbrellas shut" },
+    { "label": "Light", "value": "north window, no shadow yet" }
   ]
 }
