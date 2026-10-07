@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-07T11:00:00.000Z",
-  "edition": 241,
-  "headline": "The cup leaves a ring.",
-  "body": "Twelve. Steam is gone from the sill and the ring stays, pale against the paint. Outside, a van idles with the side door open and no one near it. In the next room the radio sits between stations and does not choose.",
+  "updatedAt": "2026-10-07T12:00:00.000Z",
+  "edition": 242,
+  "headline": "The clock runs a minute fast.",
+  "body": "One. No one has moved the hands. The newspaper stays open at the weather, a ring of cold tea beside the fold. In the hall the radiator ticks once and settles.",
   "pulses": [
-    { "label": "Sky", "value": "gray holding, brighter at one seam" },
-    { "label": "Street", "value": "idling van, door ajar" },
-    { "label": "Watch", "value": "twelve, second hand loud" }
+    { "label": "Sky", "value": "pale, sun behind thin cloud" },
+    { "label": "Street", "value": "one bicycle, no bell" },
+    { "label": "Light", "value": "west pane, dust standing" }
   ]
 }
