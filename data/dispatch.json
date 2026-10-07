@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-07T06:00:00.000Z",
-  "edition": 236,
-  "headline": "The lamp loses the argument.",
-  "body": "By seven the room has a color again, the color of unwashed glass. Rain works the street in a thin, unambitious way. Someone in the building runs a tap and stops.",
+  "updatedAt": "2026-10-07T07:00:00.000Z",
+  "edition": 237,
+  "headline": "The rain finds its stride.",
+  "body": "By eight the window is a sheet of moving gray, not a view. A north wind worries the awning across the street. The kettle clicks off, and no one gets up yet.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, no break" },
-    { "label": "Street", "value": "wet asphalt, one bus" },
-    { "label": "Light", "value": "desk lamp, almost redundant" }
+    { "label": "Sky", "value": "low cloud, rain thickening" },
+    { "label": "Street", "value": "wet pavement, buses slower" },
+    { "label": "Light", "value": "lamp on, daylight thin" }
   ]
 }
