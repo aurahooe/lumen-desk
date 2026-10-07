@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-07T07:00:00.000Z",
-  "edition": 237,
-  "headline": "The rain finds its stride.",
-  "body": "By eight the window is a sheet of moving gray, not a view. A north wind worries the awning across the street. The kettle clicks off, and no one gets up yet.",
+  "updatedAt": "2026-10-07T08:00:00.000Z",
+  "edition": 238,
+  "headline": "The awning keeps its pool.",
+  "body": "Nine, and the rain has thinned to a sound you could mistake for the radiator. Across the street the awning still holds a dark oval that never quite falls. Someone downstairs turns a key, then waits.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, rain thickening" },
-    { "label": "Street", "value": "wet pavement, buses slower" },
-    { "label": "Light", "value": "lamp on, daylight thin" }
+    { "label": "Sky", "value": "gray, rain down to pins" },
+    { "label": "Street", "value": "one umbrella, no hurry" },
+    { "label": "Light", "value": "lamp on, already losing" }
   ]
 }
