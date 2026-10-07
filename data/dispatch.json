@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-07T04:00:00.000Z",
-  "edition": 235,
-  "headline": "The east is only a rumor.",
-  "body": "Five, and the kettle has not been asked. A radiator ticks once in the wall and then thinks better of it. Outside, the pavement holds last night's rain; no one has walked it yet.",
+  "updatedAt": "2026-10-07T06:00:00.000Z",
+  "edition": 236,
+  "headline": "The lamp loses the argument.",
+  "body": "By seven the room has a color again, the color of unwashed glass. Rain works the street in a thin, unambitious way. Someone in the building runs a tap and stops.",
   "pulses": [
-    { "label": "Sky", "value": "ink, a thin silver rim" },
-    { "label": "Street", "value": "wet, no footsteps" },
-    { "label": "Light", "value": "stairwell bulb, still burning" }
+    { "label": "Sky", "value": "low cloud, no break" },
+    { "label": "Street", "value": "wet asphalt, one bus" },
+    { "label": "Light", "value": "desk lamp, almost redundant" }
   ]
 }
