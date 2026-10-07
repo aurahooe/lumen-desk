@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-07T13:00:00.000Z",
-  "edition": 243,
-  "headline": "The stairwell smells of wet wool.",
-  "body": "Someone came through and did not sit. A coat hangs on the empty hook, one sleeve still beaded. The lamp stays unplugged; the afternoon is doing the work.",
+  "updatedAt": "2026-10-07T14:00:00.000Z",
+  "edition": 244,
+  "headline": "The second hand sticks, then goes.",
+  "body": "No one looks up. The tea has gone the colour of the cup. On the sill a fly walks the length of the frame and turns back.",
   "pulses": [
-    { "label": "Sky", "value": "low grey, a seam of pale over the roofs" },
-    { "label": "Street", "value": "wet paving, two umbrellas shut" },
-    { "label": "Light", "value": "north window, no shadow yet" }
+    { "label": "Sky", "value": "clear above the chimney pots" },
+    { "label": "Street", "value": "pavement dry, one leaf in the gutter" },
+    { "label": "Light", "value": "west, thin, almost sideways" }
   ]
 }
