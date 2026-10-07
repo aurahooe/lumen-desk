@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-07T02:00:00.000Z",
-  "edition": 233,
-  "headline": "Humidity, before the rain.",
-  "body": "Three in the morning and the glass is already filmed. A bus idles at the far stop, then thinks better of it. The rain is still hours off; the room has started counting anyway.",
+  "updatedAt": "2026-10-07T03:00:00.000Z",
+  "edition": 234,
+  "headline": "The stairwell keeps its hour.",
+  "body": "Four, and the building has not decided to wake. Somewhere below, a door closes without a slam. The desk lamp is the only warm thing left; the screen has dimmed itself and stayed that way.",
   "pulses": [
-    { "label": "Sky", "value": "fair, low, no stars" },
-    { "label": "Mood", "value": "92 percent, not yet wet" },
-    { "label": "Watch", "value": "rain after sunrise, 7:11" }
+    { "label": "Sky", "value": "still dark, a paler east" },
+    { "label": "Street", "value": "no engines, one fox" },
+    { "label": "Light", "value": "desk lamp, low and steady" }
   ]
 }
