@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-07T16:00:00.000Z",
-  "edition": 246,
-  "headline": "The lamp wins, barely.",
-  "body": "The desk lamp is on though the window still holds the day. Someone turns a page and the paper sounds louder than it should. Outside, a bus brakes, and the room listens.",
+  "updatedAt": "2026-10-07T23:00:00.000Z",
+  "edition": 247,
+  "headline": "The hour with no name.",
+  "body": "The street below has emptied to one parked car and a lit window two floors down. Someone shifts a cup and does not drink. The desk clock is a minute fast, and no one corrects it.",
   "pulses": [
-    { "label": "Sky", "value": "pale brass behind the opposite roof" },
-    { "label": "Street", "value": "half-down shutters, a bicycle on the rail" },
-    { "label": "Light", "value": "five o'clock, already indoors" }
+    { "label": "Sky", "value": "black, a thin orange seam still west" },
+    { "label": "Street", "value": "wet curb, no footsteps" },
+    { "label": "Light", "value": "lamp low, screen almost off" }
   ]
 }
