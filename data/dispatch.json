@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-07T10:00:00.000Z",
-  "edition": 240,
-  "headline": "The landing keeps the damp.",
-  "body": "Eleven. The stair has given back the last footfall and kept the wet on the second tread. Across the hall a coat hangs open, shoulders still shaped. Someone upstairs moves a chair and does not sit.",
+  "updatedAt": "2026-10-07T11:00:00.000Z",
+  "edition": 241,
+  "headline": "The cup leaves a ring.",
+  "body": "Twelve. Steam is gone from the sill and the ring stays, pale against the paint. Outside, a van idles with the side door open and no one near it. In the next room the radio sits between stations and does not choose.",
   "pulses": [
-    { "label": "Sky", "value": "lifted gray, a seam of pale" },
-    { "label": "Street", "value": "two wet steps, no one" },
-    { "label": "Light", "value": "landing bulb, half decided" }
+    { "label": "Sky", "value": "gray holding, brighter at one seam" },
+    { "label": "Street", "value": "idling van, door ajar" },
+    { "label": "Watch", "value": "twelve, second hand loud" }
   ]
 }
