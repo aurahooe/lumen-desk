@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-07T14:00:00.000Z",
-  "edition": 244,
-  "headline": "The second hand sticks, then goes.",
-  "body": "No one looks up. The tea has gone the colour of the cup. On the sill a fly walks the length of the frame and turns back.",
+  "updatedAt": "2026-10-07T15:00:00.000Z",
+  "edition": 245,
+  "headline": "The room keeps the afternoon longer.",
+  "body": "Someone has left the window an inch. The radiator ticks once and thinks better of it. Across the way a curtain moves, then doesn't.",
   "pulses": [
-    { "label": "Sky", "value": "clear above the chimney pots" },
-    { "label": "Street", "value": "pavement dry, one leaf in the gutter" },
-    { "label": "Light", "value": "west, thin, almost sideways" }
+    { "label": "Sky", "value": "high cloud, the colour of old paper" },
+    { "label": "Street", "value": "schoolbags, a bus idling at the lights" },
+    { "label": "Light", "value": "four o'clock, already leaning" }
   ]
 }
