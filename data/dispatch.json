@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-07T08:00:00.000Z",
-  "edition": 238,
-  "headline": "The awning keeps its pool.",
-  "body": "Nine, and the rain has thinned to a sound you could mistake for the radiator. Across the street the awning still holds a dark oval that never quite falls. Someone downstairs turns a key, then waits.",
+  "updatedAt": "2026-10-07T09:00:00.000Z",
+  "edition": 239,
+  "headline": "The sill keeps a ring.",
+  "body": "Ten. The rain has stopped counting and left a film the glass will not name. Downstairs the door has shut; the stair still holds the key. A spoon dries inside a ring it will not admit.",
   "pulses": [
-    { "label": "Sky", "value": "gray, rain down to pins" },
-    { "label": "Street", "value": "one umbrella, no hurry" },
-    { "label": "Light", "value": "lamp on, already losing" }
+    { "label": "Sky", "value": "film over gray, no drops" },
+    { "label": "Street", "value": "bus gone, stripe remains" },
+    { "label": "Light", "value": "kettle brass, no shine" }
   ]
 }
