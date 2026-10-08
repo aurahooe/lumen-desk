@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-08T07:00:00.000Z",
-  "edition": 253,
-  "headline": "Eight, and the sun has arrived.",
-  "body": "The lamp across the way has given up. Light sits low on the wet kerb, a thin line on the brick, and the first bus takes the corner without slowing. The cup is cold; someone in the stairwell is already late.",
+  "updatedAt": "2026-10-08T08:00:00.000Z",
+  "edition": 254,
+  "headline": "Nine, and the kerb is drying.",
+  "body": "The thin line of water has narrowed to the gutter. A delivery van sits with the side door open, radio low, and the sun has climbed onto the upper course of brick. No one is late now; they are already inside.",
   "pulses": [
-    { "label": "Sky", "value": "clear, 8\u00b0C, sun just up" },
-    { "label": "Street", "value": "wet kerb, lamp off, one bus" },
-    { "label": "Light", "value": "low on the brick, 7:12" }
+    { "label": "Sky", "value": "clear, 11\u00b0C, sun well up" },
+    { "label": "Street", "value": "kerb drying, van idling, door open" },
+    { "label": "Light", "value": "upper brick, 9:06" }
   ]
 }
