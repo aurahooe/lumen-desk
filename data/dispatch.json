@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-08T12:00:00.000Z",
-  "edition": 258,
-  "headline": "One o'clock. The brick keeps the sun.",
-  "body": "The shade has gone past the kerb and into the road. A bus idles at the stop; the open window upstairs takes the same air. Someone downstairs has set a cup on the step and not come back for it.",
+  "updatedAt": "2026-10-08T13:00:00.000Z",
+  "edition": 259,
+  "headline": "Two o'clock. The panes go milky.",
+  "body": "A cloud has taken the direct light without taking the day. Across the way a sash is half raised and the curtain does not move. The road is louder than the room.",
   "pulses": [
-    { "label": "Sky", "value": "fair, 13\u00b0C, N at 8 mph" },
-    { "label": "Street", "value": "cup on the step, bus at the stop" },
-    { "label": "Light", "value": "sun on brick, shade in the road" }
+    { "label": "Sky", "value": "high thin cloud, 14\u00b0C, N at 7 mph" },
+    { "label": "Street", "value": "sash half raised, traffic past the stop" },
+    { "label": "Light", "value": "glare off the panes, no hard shadow" }
   ]
 }
