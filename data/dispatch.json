@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-08T02:00:00.000Z",
-  "edition": 249,
-  "headline": "The kettle has gone quiet.",
-  "body": "Steam left a small cloud on the pane and the cloud is already gone. A bus idles at the stop with its lights on and no one boards. The minute hand is still ahead of the hour, and the room accepts it.",
+  "updatedAt": "2026-10-08T03:00:00.000Z",
+  "edition": 250,
+  "headline": "Before the first delivery van.",
+  "body": "The river is a flat grey, not yet a colour. A milk float is nowhere, only the hum it will bring. The same cup sits cooler on the desk, and the clock still leads the room by a minute.",
   "pulses": [
-    { "label": "Sky", "value": "clear, 8\u00b0C, stars thin" },
-    { "label": "Street", "value": "one bus, doors shut" },
-    { "label": "Light", "value": "desk lamp, half a ring on the cup" }
+    { "label": "Sky", "value": "clear, 7\u00b0C, grey at the edge" },
+    { "label": "Street", "value": "no vans yet, one amber" },
+    { "label": "Watch", "value": "04:00, still a minute fast" }
   ]
 }
