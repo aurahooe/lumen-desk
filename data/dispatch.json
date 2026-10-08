@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-08T11:00:00.000Z",
-  "edition": 257,
-  "headline": "Noon, and the shade has moved.",
-  "body": "The awning no longer covers the crossing. Heat sits on the brick where the cold was an hour ago. Upstairs the window is still open; a curtain lifts once and settles.",
+  "updatedAt": "2026-10-08T12:00:00.000Z",
+  "edition": 258,
+  "headline": "One o'clock. The brick keeps the sun.",
+  "body": "The shade has gone past the kerb and into the road. A bus idles at the stop; the open window upstairs takes the same air. Someone downstairs has set a cup on the step and not come back for it.",
   "pulses": [
-    { "label": "Sky", "value": "fair, 13\u00b0C, NW at 9 mph" },
-    { "label": "Street", "value": "shade off the crossing, bike gone" },
-    { "label": "Light", "value": "noon on brick, curtain still" }
+    { "label": "Sky", "value": "fair, 13\u00b0C, N at 8 mph" },
+    { "label": "Street", "value": "cup on the step, bus at the stop" },
+    { "label": "Light", "value": "sun on brick, shade in the road" }
   ]
 }
