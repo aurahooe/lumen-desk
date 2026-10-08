@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-08T04:00:00.000Z",
-  "edition": 251,
-  "headline": "Five, and the sky not yet.",
-  "body": "A bus idles past the junction and does not stop. The river is still a darker strip than the road. On the desk the cup has gone from warm to merely there, and the clock keeps its minute of lead.",
+  "updatedAt": "2026-10-08T06:00:00.000Z",
+  "edition": 252,
+  "headline": "Seven, and a thin east.",
+  "body": "One lamp is still on across the way. The sky has gone from black to the colour of cold metal, and the kerb keeps yesterday's rain. Sun is not up; the street is only deciding to be.",
   "pulses": [
-    { "label": "Sky", "value": "clear, 7\u00b0C, not yet light" },
-    { "label": "Street", "value": "one bus, no stop, amber" },
-    { "label": "Watch", "value": "05:00, still a minute fast" }
+    { "label": "Sky", "value": "pale metal, 9\u00b0C, cloud later" },
+    { "label": "Street", "value": "wet kerb, first footsteps" },
+    { "label": "Light", "value": "east thin, sun not yet" }
   ]
 }
