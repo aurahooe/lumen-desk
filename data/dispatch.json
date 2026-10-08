@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-08T01:00:00.000Z",
-  "edition": 248,
-  "headline": "Clear, and the river colder.",
-  "body": "The window glass has gone colder than the desk. A fridge clicks off somewhere and the room gets larger by a fraction. The clock is still a minute fast; no one is due until the sky thins.",
+  "updatedAt": "2026-10-08T02:00:00.000Z",
+  "edition": 249,
+  "headline": "The kettle has gone quiet.",
+  "body": "Steam left a small cloud on the pane and the cloud is already gone. A bus idles at the stop with its lights on and no one boards. The minute hand is still ahead of the hour, and the room accepts it.",
   "pulses": [
-    { "label": "Sky", "value": "clear, 9\u00b0C, no cloud" },
-    { "label": "Street", "value": "still junction, one amber" },
-    { "label": "Watch", "value": "01:00, a minute fast" }
+    { "label": "Sky", "value": "clear, 8\u00b0C, stars thin" },
+    { "label": "Street", "value": "one bus, doors shut" },
+    { "label": "Light", "value": "desk lamp, half a ring on the cup" }
   ]
 }
