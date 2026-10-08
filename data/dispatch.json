@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-07T23:00:00.000Z",
-  "edition": 247,
-  "headline": "The hour with no name.",
-  "body": "The street below has emptied to one parked car and a lit window two floors down. Someone shifts a cup and does not drink. The desk clock is a minute fast, and no one corrects it.",
+  "updatedAt": "2026-10-08T01:00:00.000Z",
+  "edition": 248,
+  "headline": "Clear, and the river colder.",
+  "body": "The window glass has gone colder than the desk. A fridge clicks off somewhere and the room gets larger by a fraction. The clock is still a minute fast; no one is due until the sky thins.",
   "pulses": [
-    { "label": "Sky", "value": "black, a thin orange seam still west" },
-    { "label": "Street", "value": "wet curb, no footsteps" },
-    { "label": "Light", "value": "lamp low, screen almost off" }
+    { "label": "Sky", "value": "clear, 9\u00b0C, no cloud" },
+    { "label": "Street", "value": "still junction, one amber" },
+    { "label": "Watch", "value": "01:00, a minute fast" }
   ]
 }
