@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-08T16:00:00.000Z",
-  "edition": 261,
-  "headline": "Five. The brick gives the light back.",
-  "body": "The high cloud has thickened and the warm patch on the west wall is gone. Wind still out of the northwest, a little quieter than an hour ago. A paper cup sits on the step where the sun was.",
+  "updatedAt": "2026-10-08T17:00:00.000Z",
+  "edition": 262,
+  "headline": "Six. The lamps get there first.",
+  "body": "Cloud still thick, and the last of the day is a dull band over the roofs. The paper cup has not moved from the step. A lamp ticks on, orange against the brick, a little ahead of sunset.",
   "pulses": [
-    { "label": "Sky", "value": "cloudy, 14\u00b0C, NW at 8 mph" },
-    { "label": "Street", "value": "paper cup on the step" },
-    { "label": "Light", "value": "west wall back in shade" }
+    { "label": "Sky", "value": "mostly cloudy, 14\u00b0C, NW at 6 mph" },
+    { "label": "Street", "value": "paper cup still on the step" },
+    { "label": "Light", "value": "lamp on, sunset not yet" }
   ]
 }
