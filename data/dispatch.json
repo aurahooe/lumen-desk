@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-08T03:00:00.000Z",
-  "edition": 250,
-  "headline": "Before the first delivery van.",
-  "body": "The river is a flat grey, not yet a colour. A milk float is nowhere, only the hum it will bring. The same cup sits cooler on the desk, and the clock still leads the room by a minute.",
+  "updatedAt": "2026-10-08T04:00:00.000Z",
+  "edition": 251,
+  "headline": "Five, and the sky not yet.",
+  "body": "A bus idles past the junction and does not stop. The river is still a darker strip than the road. On the desk the cup has gone from warm to merely there, and the clock keeps its minute of lead.",
   "pulses": [
-    { "label": "Sky", "value": "clear, 7\u00b0C, grey at the edge" },
-    { "label": "Street", "value": "no vans yet, one amber" },
-    { "label": "Watch", "value": "04:00, still a minute fast" }
+    { "label": "Sky", "value": "clear, 7\u00b0C, not yet light" },
+    { "label": "Street", "value": "one bus, no stop, amber" },
+    { "label": "Watch", "value": "05:00, still a minute fast" }
   ]
 }
