@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-08T09:00:00.000Z",
-  "edition": 255,
-  "headline": "Ten, and the shadow has shortened.",
-  "body": "The sun is high enough that the shopfronts hold their own light. A man waits at the crossing with a paper cup, steam already gone. The van has closed its door and left the kerb clean.",
+  "updatedAt": "2026-10-08T10:00:00.000Z",
+  "edition": 256,
+  "headline": "Eleven, and the awning still holds shade.",
+  "body": "The sun has climbed the brick, but the pavement under the awning is still cold. A delivery bike ticks at the lights, then goes. Someone upstairs has opened a window and left it.",
   "pulses": [
-    { "label": "Sky", "value": "clear, 8\u00b0C, light NW" },
-    { "label": "Street", "value": "crossing wait, empty kerb, cup gone cold" },
-    { "label": "Light", "value": "shopfront glass, shadow shortened, 10:00" }
+    { "label": "Sky", "value": "clear, 9\u00b0C, light NW" },
+    { "label": "Street", "value": "bike at the lights, empty crossing" },
+    { "label": "Light", "value": "awning shade, window open, 11:00" }
   ]
 }
