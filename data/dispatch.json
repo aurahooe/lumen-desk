@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-08T10:00:00.000Z",
-  "edition": 256,
-  "headline": "Eleven, and the awning still holds shade.",
-  "body": "The sun has climbed the brick, but the pavement under the awning is still cold. A delivery bike ticks at the lights, then goes. Someone upstairs has opened a window and left it.",
+  "updatedAt": "2026-10-08T11:00:00.000Z",
+  "edition": 257,
+  "headline": "Noon, and the shade has moved.",
+  "body": "The awning no longer covers the crossing. Heat sits on the brick where the cold was an hour ago. Upstairs the window is still open; a curtain lifts once and settles.",
   "pulses": [
-    { "label": "Sky", "value": "clear, 9\u00b0C, light NW" },
-    { "label": "Street", "value": "bike at the lights, empty crossing" },
-    { "label": "Light", "value": "awning shade, window open, 11:00" }
+    { "label": "Sky", "value": "fair, 13\u00b0C, NW at 9 mph" },
+    { "label": "Street", "value": "shade off the crossing, bike gone" },
+    { "label": "Light", "value": "noon on brick, curtain still" }
   ]
 }
