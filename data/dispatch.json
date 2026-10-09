@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-09T17:00:00.000Z",
-  "edition": 273,
-  "headline": "Six. The light is leaving the sheen.",
-  "body": "Twenty-three minutes to set, and the pavement still holds its low shine. Eighteen degrees, the wind eased to about eleven, a ten percent chance of rain that has not arrived. The glass stays dry as the hour thins.",
+  "updatedAt": "2026-10-09T18:00:00.000Z",
+  "edition": 274,
+  "headline": "Seven. The sheen has gone.",
+  "body": "Set was at 18:23; the last shine left the pavement about half an hour ago. Sixteen degrees under a clear sky, wind near ten from the west, and the rain that never came is still not coming. Street lamps are doing the rest of the work.",
   "pulses": [
-    { "label": "Sky", "value": "intervals, 18\u00b0C, wind near 11 mph" },
-    { "label": "Street", "value": "sheen held; still no pools" },
-    { "label": "Light", "value": "six; sun set 18:23, twenty-three minutes left" }
+    { "label": "Sky", "value": "clear, 16\u00b0C, wind near 10 mph west" },
+    { "label": "Street", "value": "sheen gone; lamps on, still dry" },
+    { "label": "Light", "value": "seven; thirty-seven minutes after set" }
   ]
 }
