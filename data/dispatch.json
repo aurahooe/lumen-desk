@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-09T08:00:00.000Z",
-  "edition": 267,
-  "headline": "Nine. The lid has not lifted.",
-  "body": "Rain is on the board and not yet on the street. Sixteen degrees under a full cover, west-southwest at fifteen, the air close enough to touch. Golden hour closed an hour ago without ever showing.",
+  "updatedAt": "2026-10-09T10:00:00.000Z",
+  "edition": 268,
+  "headline": "Eleven. The cloud begins to leak.",
+  "body": "A thin rain is on the glass now, not a downpour \u2014 just the cover spending a little of itself. Seventeen degrees, west-southwest still at thirteen, the air close and slightly colder than it looks. The street takes it without comment; puddles have not formed yet.",
   "pulses": [
-    { "label": "Sky", "value": "overcast, 16\u00b0C, WSW at 15 mph" },
-    { "label": "Light", "value": "sun up since 7:14, still withheld" },
-    { "label": "Watch", "value": "light rain due later, about 1.5 mm" }
+    { "label": "Sky", "value": "light rain, 17\u00b0C, WSW at 13 mph" },
+    { "label": "Street", "value": "pavements darkening, not yet pooled" },
+    { "label": "Light", "value": "noon withheld; sun up since 7:14, still unused" }
   ]
 }
