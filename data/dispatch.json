@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-09T07:00:00.000Z",
-  "edition": 266,
-  "headline": "Eight. The cloud keeps the sun.",
-  "body": "The drizzle has stepped aside and left the pavement dark. Sixteen degrees under a full lid, wind out of the west at fourteen. The lamps have conceded; the sun is above the stack and not showing.",
+  "updatedAt": "2026-10-09T08:00:00.000Z",
+  "edition": 267,
+  "headline": "Nine. The lid has not lifted.",
+  "body": "Rain is on the board and not yet on the street. Sixteen degrees under a full cover, west-southwest at fifteen, the air close enough to touch. Golden hour closed an hour ago without ever showing.",
   "pulses": [
-    { "label": "Sky", "value": "overcast, 16\u00b0C, W at 14 mph" },
-    { "label": "Street", "value": "pavement still dark, bins not in" },
-    { "label": "Light", "value": "sun up, nowhere to be seen" }
+    { "label": "Sky", "value": "overcast, 16\u00b0C, WSW at 15 mph" },
+    { "label": "Light", "value": "sun up since 7:14, still withheld" },
+    { "label": "Watch", "value": "light rain due later, about 1.5 mm" }
   ]
 }
