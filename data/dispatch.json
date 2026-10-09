@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-09T12:00:00.000Z",
-  "edition": 270,
-  "headline": "One. The lid has not lifted.",
-  "body": "The hour turned and the cloud stayed put. Nineteen degrees now, west-southwest still leaning on the glass, a thin chance of rain after three that has not arrived. The pavement keeps its sheen and still refuses a puddle.",
+  "updatedAt": "2026-10-09T13:00:00.000Z",
+  "edition": 271,
+  "headline": "Two. The sheen still holds.",
+  "body": "The hour passed and the cloud did not settle its account. Nineteen degrees, west-southwest near sixteen, a thin chance of rain that has not found the glass. The pavement keeps its shine and still will not make a pool.",
   "pulses": [
-    { "label": "Sky", "value": "broken cloud, 19\u00b0C, WSW 15\u201323 mph" },
-    { "label": "Street", "value": "sheen held; no pools yet" },
-    { "label": "Light", "value": "flat at one; sun up since 7:15, set 18:23" }
+    { "label": "Sky", "value": "broken cloud, 19\u00b0C, WSW near 16 mph" },
+    { "label": "Street", "value": "sheen held; still no pools" },
+    { "label": "Light", "value": "flat at two; sun up since 7:15, set 18:23" }
   ]
 }
