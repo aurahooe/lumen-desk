@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-09T04:00:00.000Z",
-  "edition": 263,
-  "headline": "Five. The lamps have not quit.",
-  "body": "Cloud is a full lid, and the street is still black glass from the small hours. A west wind works the bin lids; nothing else moves. The lamps stay on, orange on wet brick, with sunrise still two hours off.",
+  "updatedAt": "2026-10-09T05:00:00.000Z",
+  "edition": 264,
+  "headline": "Six. Rain waiting offstage.",
+  "body": "The lid of cloud has not lifted. Fifteen degrees, a southwest wind at twelve miles an hour, the pavement still black from the small hours. Drizzle is booked for seven; the lamps have one more hour of work.",
   "pulses": [
-    { "label": "Sky", "value": "overcast, 15\u00b0C, west at 13 mph" },
-    { "label": "Street", "value": "wet pavement, no footsteps" },
+    { "label": "Sky", "value": "overcast, 15\u00b0C, SW at 12 mph" },
+    { "label": "Street", "value": "wet glass, bins ticking" },
     { "label": "Light", "value": "lamps holding, sunrise near 7:15" }
   ]
 }
