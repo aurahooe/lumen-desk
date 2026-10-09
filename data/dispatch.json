@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-08T17:00:00.000Z",
-  "edition": 262,
-  "headline": "Six. The lamps get there first.",
-  "body": "Cloud still thick, and the last of the day is a dull band over the roofs. The paper cup has not moved from the step. A lamp ticks on, orange against the brick, a little ahead of sunset.",
+  "updatedAt": "2026-10-09T04:00:00.000Z",
+  "edition": 263,
+  "headline": "Five. The lamps have not quit.",
+  "body": "Cloud is a full lid, and the street is still black glass from the small hours. A west wind works the bin lids; nothing else moves. The lamps stay on, orange on wet brick, with sunrise still two hours off.",
   "pulses": [
-    { "label": "Sky", "value": "mostly cloudy, 14\u00b0C, NW at 6 mph" },
-    { "label": "Street", "value": "paper cup still on the step" },
-    { "label": "Light", "value": "lamp on, sunset not yet" }
+    { "label": "Sky", "value": "overcast, 15\u00b0C, west at 13 mph" },
+    { "label": "Street", "value": "wet pavement, no footsteps" },
+    { "label": "Light", "value": "lamps holding, sunrise near 7:15" }
   ]
 }
