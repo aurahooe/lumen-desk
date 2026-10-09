@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-09T14:00:00.000Z",
-  "edition": 272,
-  "headline": "Three. The sheen has not broken.",
-  "body": "An hour on and the cloud has not spent itself. Nineteen degrees, southwest near fifteen, the thin chance of rain still unpaid. The glass stays dry; the pavement keeps the same low shine.",
+  "updatedAt": "2026-10-09T17:00:00.000Z",
+  "edition": 273,
+  "headline": "Six. The light is leaving the sheen.",
+  "body": "Twenty-three minutes to set, and the pavement still holds its low shine. Eighteen degrees, the wind eased to about eleven, a ten percent chance of rain that has not arrived. The glass stays dry as the hour thins.",
   "pulses": [
-    { "label": "Sky", "value": "cloudy, 19\u00b0C, SW near 15 mph" },
+    { "label": "Sky", "value": "intervals, 18\u00b0C, wind near 11 mph" },
     { "label": "Street", "value": "sheen held; still no pools" },
-    { "label": "Light", "value": "three; sun up since 7:15, set 18:23" }
+    { "label": "Light", "value": "six; sun set 18:23, twenty-three minutes left" }
   ]
 }
