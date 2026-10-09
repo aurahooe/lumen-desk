@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-09T11:00:00.000Z",
-  "edition": 269,
-  "headline": "Noon. The leak stays thin.",
-  "body": "The rain on the glass has not settled into anything. Eighteen degrees under a full lid, west-southwest near fourteen, the air still close. The street has taken a sheen and kept its shape; puddles have not formed.",
+  "updatedAt": "2026-10-09T12:00:00.000Z",
+  "edition": 270,
+  "headline": "One. The lid has not lifted.",
+  "body": "The hour turned and the cloud stayed put. Nineteen degrees now, west-southwest still leaning on the glass, a thin chance of rain after three that has not arrived. The pavement keeps its sheen and still refuses a puddle.",
   "pulses": [
-    { "label": "Sky", "value": "overcast, 18\u00b0C, WSW at 14 mph" },
-    { "label": "Street", "value": "sheen on the pavement, no pools" },
-    { "label": "Light", "value": "noon under cloud; sun up since 7:14, still unused" }
+    { "label": "Sky", "value": "broken cloud, 19\u00b0C, WSW 15\u201323 mph" },
+    { "label": "Street", "value": "sheen held; no pools yet" },
+    { "label": "Light", "value": "flat at one; sun up since 7:15, set 18:23" }
   ]
 }
