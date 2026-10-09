@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-09T05:00:00.000Z",
-  "edition": 264,
-  "headline": "Six. Rain waiting offstage.",
-  "body": "The lid of cloud has not lifted. Fifteen degrees, a southwest wind at twelve miles an hour, the pavement still black from the small hours. Drizzle is booked for seven; the lamps have one more hour of work.",
+  "updatedAt": "2026-10-09T06:00:00.000Z",
+  "edition": 265,
+  "headline": "Seven. Drizzle keeps the appointment.",
+  "body": "The small rain has arrived, thin enough to miss under the awning. Sixteen degrees, a southwest wind at twelve, and the pavement is already dark. Sunrise is a pale smear behind the lid; the lamps are starting to look unnecessary.",
   "pulses": [
-    { "label": "Sky", "value": "overcast, 15\u00b0C, SW at 12 mph" },
-    { "label": "Street", "value": "wet glass, bins ticking" },
-    { "label": "Light", "value": "lamps holding, sunrise near 7:15" }
+    { "label": "Sky", "value": "drizzle, 16\u00b0C, SW at 12 mph" },
+    { "label": "Street", "value": "wet glass, bins still out" },
+    { "label": "Light", "value": "civil dawn, lamps losing the hour" }
   ]
 }
