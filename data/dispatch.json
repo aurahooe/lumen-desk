@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-09T10:00:00.000Z",
-  "edition": 268,
-  "headline": "Eleven. The cloud begins to leak.",
-  "body": "A thin rain is on the glass now, not a downpour \u2014 just the cover spending a little of itself. Seventeen degrees, west-southwest still at thirteen, the air close and slightly colder than it looks. The street takes it without comment; puddles have not formed yet.",
+  "updatedAt": "2026-10-09T11:00:00.000Z",
+  "edition": 269,
+  "headline": "Noon. The leak stays thin.",
+  "body": "The rain on the glass has not settled into anything. Eighteen degrees under a full lid, west-southwest near fourteen, the air still close. The street has taken a sheen and kept its shape; puddles have not formed.",
   "pulses": [
-    { "label": "Sky", "value": "light rain, 17\u00b0C, WSW at 13 mph" },
-    { "label": "Street", "value": "pavements darkening, not yet pooled" },
-    { "label": "Light", "value": "noon withheld; sun up since 7:14, still unused" }
+    { "label": "Sky", "value": "overcast, 18\u00b0C, WSW at 14 mph" },
+    { "label": "Street", "value": "sheen on the pavement, no pools" },
+    { "label": "Light", "value": "noon under cloud; sun up since 7:14, still unused" }
   ]
 }
