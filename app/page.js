@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { supabase } from "../lib/supabase";
+import dispatch from "../data/dispatch.json";
 
 function pad(n) {
   return String(n).padStart(2, "0");
@@ -9,13 +10,13 @@ function pad(n) {
 
 const FALLBACK = {
   headline: "The lamp is still on.",
-  editorial:
+  body:
     "Write at your desk. Keep a page private, or mark it public so it lands on the front table. Every hour this room turns over.",
+  pulses: [],
 };
 
 export default function Home() {
   const [now, setNow] = useState(new Date());
-  const [hour, setHour] = useState(null);
   const [notes, setNotes] = useState([]);
   const [user, setUser] = useState(null);
 
@@ -38,12 +39,6 @@ export default function Home() {
   }, []);
 
   async function load() {
-    const { data: hours } = await supabase
-      .from("hours")
-      .select("*")
-      .order("slot", { ascending: false })
-      .limit(1);
-    setHour(hours?.[0] || null);
     const { data: publicNotes } = await supabase
       .from("notes")
       .select("id,title,body,created_at,user_id")
@@ -67,6 +62,7 @@ export default function Home() {
 
   const remainMin = 60 - now.getMinutes();
   const spent = (now.getMinutes() * 60 + now.getSeconds()) / 3600;
+  const featured = dispatch || FALLBACK;
 
   return (
     <div className="wrap">
@@ -110,9 +106,18 @@ export default function Home() {
         <i />
       </div>
       <article className="hour-card">
-        <div className="kicker">Featured dispatch</div>
-        <h2>{hour?.headline || FALLBACK.headline}</h2>
-        <p>{hour?.editorial || FALLBACK.editorial}</p>
+        <div className="kicker">Featured dispatch · Edition {featured.edition || ""}</div>
+        <h2>{featured.headline}</h2>
+        <p>{featured.body}</p>
+        {featured.pulses && featured.pulses.length > 0 && (
+          <div style={{ marginTop: 18, fontFamily: '"IBM Plex Mono", monospace', fontSize: 12, letterSpacing: '.08em', color: 'var(--quiet)' }}>
+            {featured.pulses.map((p) => (
+              <div key={p.label} style={{ margin: '4px 0' }}>
+                {p.label}: {p.value}
+              </div>
+            ))}
+          </div>
+        )}
       </article>
       <div className="kicker" style={{ marginBottom: 12 }}>
         Public notes
