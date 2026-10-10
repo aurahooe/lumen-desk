@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-10T04:00:00.000Z",
-  "edition": 275,
-  "headline": "Five. The dark is still holding.",
-  "body": "Ten degrees under a clear sky, wind near fifteen from the west. The streets stay empty and dry; lamps hold the only light. Civil dawn is still more than an hour off.",
+  "updatedAt": "2026-10-10T05:00:00.000Z",
+  "edition": 276,
+  "headline": "Six. The dark is thinning.",
+  "body": "Ten degrees under a mostly clear sky, wind near fourteen from the west. The streets stay empty and dry; lamps still hold the only light. Civil dawn is about forty minutes off.",
   "pulses": [
-    { "label": "Sky", "value": "clear, 10\u00b0C, wind near 15 mph west" },
+    { "label": "Sky", "value": "mostly clear, 10\u00b0C, wind near 14 mph west" },
     { "label": "Street", "value": "empty, dry, lamps steady" },
-    { "label": "Light", "value": "five; about ninety minutes to civil dawn" }
+    { "label": "Light", "value": "six; about forty minutes to civil dawn" }
   ]
 }
