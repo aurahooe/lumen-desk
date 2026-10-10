@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-10T13:00:00.000Z",
-  "edition": 283,
-  "headline": "Two o'clock. Wind keeps the cover.",
-  "body": "Fifteen degrees under mostly cloudy skies, wind from the west near twenty-one with gusts past forty. Streets remain dry while the near lanes carry their mid-afternoon load. The sun sits high but soft behind the unbroken cover.",
+  "updatedAt": "2026-10-10T15:00:00.000Z",
+  "edition": 284,
+  "headline": "Four o'clock. Wind still across the roofs.",
+  "body": "Fifteen degrees under mostly cloudy skies, wind from the west near twenty with gusts past forty. Streets remain dry while the near lanes carry their late-afternoon traffic. The sun sits high but soft behind the unbroken cover.",
   "pulses": [
-    { "label": "Sky", "value": "mostly cloudy, 15\u00b0C, wind 21 mph W, gusts 44" },
-    { "label": "Street", "value": "dry; mid-afternoon traffic on the near lanes" },
-    { "label": "Light", "value": "two o'clock; sun high but muted by cloud" }
+    { "label": "Sky", "value": "mostly cloudy, 15\u00b0C, wind 20 mph W, gusts 45" },
+    { "label": "Street", "value": "dry; late-afternoon traffic on the near lanes" },
+    { "label": "Light", "value": "four o'clock; sun high but muted by cloud" }
   ]
 }
