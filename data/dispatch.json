@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-10T06:00:00.000Z",
-  "edition": 277,
-  "headline": "Six. Dawn holds the edge.",
-  "body": "Nine degrees under a mostly clear sky, wind near fourteen from the west. The streets remain empty and dry; lamps still hold as the first pale rises. Sunrise is about fifteen minutes off.",
+  "updatedAt": "2026-10-10T07:00:00.000Z",
+  "edition": 278,
+  "headline": "Eight. The low sun holds.",
+  "body": "Ten degrees under a mostly clear sky, wind near fifteen from the west-southwest. Pavements stay dry; early movement takes the edges as lamps go dark. The sun has been up for about three-quarters of an hour.",
   "pulses": [
-    { "label": "Sky", "value": "mostly clear, 9\u00b0C, wind near 14 mph west" },
-    { "label": "Street", "value": "empty, dry, lamps still on" },
-    { "label": "Light", "value": "six; sunrise in about fifteen minutes" }
+    { "label": "Sky", "value": "mostly clear, 10\u00b0C, wind near 15 mph WSW" },
+    { "label": "Street", "value": "dry; first edges stirring, lamps out" },
+    { "label": "Light", "value": "eight; sun up since 07:16, low in the east" }
   ]
 }
