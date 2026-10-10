@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-09T18:00:00.000Z",
-  "edition": 274,
-  "headline": "Seven. The sheen has gone.",
-  "body": "Set was at 18:23; the last shine left the pavement about half an hour ago. Sixteen degrees under a clear sky, wind near ten from the west, and the rain that never came is still not coming. Street lamps are doing the rest of the work.",
+  "updatedAt": "2026-10-10T04:00:00.000Z",
+  "edition": 275,
+  "headline": "Five. The dark is still holding.",
+  "body": "Ten degrees under a clear sky, wind near fifteen from the west. The streets stay empty and dry; lamps hold the only light. Civil dawn is still more than an hour off.",
   "pulses": [
-    { "label": "Sky", "value": "clear, 16\u00b0C, wind near 10 mph west" },
-    { "label": "Street", "value": "sheen gone; lamps on, still dry" },
-    { "label": "Light", "value": "seven; thirty-seven minutes after set" }
+    { "label": "Sky", "value": "clear, 10\u00b0C, wind near 15 mph west" },
+    { "label": "Street", "value": "empty, dry, lamps steady" },
+    { "label": "Light", "value": "five; about ninety minutes to civil dawn" }
   ]
 }
