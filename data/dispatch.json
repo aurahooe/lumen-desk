@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-10T09:00:34.000Z",
-  "edition": 280,
-  "headline": "Ten. The wind keeps the edge.",
-  "body": "Twelve degrees under a mostly clear sky, wind from the west near seventeen with gusts higher. Pavements stay dry as early traffic takes the near lanes. The sun has risen past the low eastern roofs since just after seven.",
+  "updatedAt": "2026-10-10T11:00:00.000Z",
+  "edition": 281,
+  "headline": "Noon. Clouds thicken over the roofs.",
+  "body": "Fourteen degrees under mostly cloudy skies, wind from the west near twenty with higher gusts. Pavements remain dry while midday traffic holds the near lanes. The sun sits high but muted behind the gathering cover.",
   "pulses": [
-    { "label": "Sky", "value": "mostly clear, 12\u00b0C, wind near 17 mph W, gusts 36" },
-    { "label": "Street", "value": "dry; near lanes claimed by traffic" },
-    { "label": "Light", "value": "ten; sun clear of the eastern roofs" }
+    { "label": "Sky", "value": "mostly cloudy, 14\u00b0C, wind near 20 mph W, gusts 43" },
+    { "label": "Street", "value": "dry; midday traffic on the near lanes" },
+    { "label": "Light", "value": "noon; sun high but muted by cloud" }
   ]
 }
