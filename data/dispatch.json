@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-11T09:00:00.000Z",
-  "edition": 297,
-  "headline": "Ten o'clock. The cloud holds.",
-  "body": "Eleven degrees under unbroken grey, wind light from the west. The streets stay dry; Sunday traffic finds its pace. Light remains thin above the rooftops, held since dawn.",
+  "updatedAt": "2026-10-11T12:00:00.000Z",
+  "edition": 298,
+  "headline": "Noon. The cloud holds soft.",
+  "body": "Fourteen degrees under a full grey cover, wind light from the west. Streets stay dry; Sunday traffic keeps an even pace. Light remains diffused above the roofs, no break in the hold.",
   "pulses": [
-    { "label": "Sky", "value": "cloudy, 11\u00b0C, wind 8 km/h W" },
-    { "label": "Street", "value": "dry; Sunday morning traffic settling" },
-    { "label": "Light", "value": "ten o'clock; sunrise 07:17, still held" }
+    { "label": "Sky", "value": "cloudy, 14\u00b0C, wind 9 km/h W" },
+    { "label": "Street", "value": "dry; midday Sunday traffic steady" },
+    { "label": "Light", "value": "noon; sun high, still held" }
   ]
 }
