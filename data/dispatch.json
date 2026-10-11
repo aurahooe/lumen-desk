@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-10T19:00:00.000Z",
-  "edition": 288,
-  "headline": "Eight o'clock. Wind still from the west.",
-  "body": "Thirteen degrees under mostly clear skies, wind near sixteen with gusts to thirty-five. Streets remain dry. Lamps hold the evening steady on the near lanes.",
+  "updatedAt": "2026-10-11T00:00:00.000Z",
+  "edition": 289,
+  "headline": "One o'clock. Wind still holds west.",
+  "body": "Ten degrees under mostly clear skies, wind near eleven with gusts to twenty-six. Streets lie quiet and dry. Lamps keep their places on the emptied lanes.",
   "pulses": [
-    { "label": "Sky", "value": "mostly clear, 13\u00b0C, wind 16 mph W, gusts 35" },
-    { "label": "Street", "value": "dry; evening traffic thinning further" },
-    { "label": "Light", "value": "eight o'clock; full dark, lamps steady" }
+    { "label": "Sky", "value": "mostly clear, 10\u00b0C, wind 11 mph W, gusts 26" },
+    { "label": "Street", "value": "dry; night traffic all but gone" },
+    { "label": "Light", "value": "one o'clock; full dark, lamps steady" }
   ]
 }
