@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-11T05:00:00.000Z",
-  "edition": 293,
-  "headline": "Six o'clock. Cloud holds the pre-dawn.",
-  "body": "Eight degrees under mostly cloudy skies, wind near nine from the west-southwest with gusts to twenty-one. Streets remain dry and empty. Lamps hold as the first light gathers an hour off.",
+  "updatedAt": "2026-10-11T06:00:00.000Z",
+  "edition": 294,
+  "headline": "Seven o'clock. Dawn at the cloud edge.",
+  "body": "Eight degrees under mostly cloudy skies, wind near nine from the west-southwest with gusts to twenty. Streets hold their early quiet, still dry. Sunrise sits seventeen minutes off.",
   "pulses": [
-    { "label": "Sky", "value": "mostly cloudy, 8\u00b0C, wind 9 mph WSW, gusts 21" },
-    { "label": "Street", "value": "dry; early quiet, no traffic yet" },
-    { "label": "Light", "value": "six o'clock; pre-dawn, sunrise near seven" }
+    { "label": "Sky", "value": "mostly cloudy, 8\u00b0C, wind 9 mph WSW, gusts 20" },
+    { "label": "Street", "value": "dry; early quiet, traffic not yet" },
+    { "label": "Light", "value": "seven o'clock; sunrise near 07:17" }
   ]
 }
