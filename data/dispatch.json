@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-11T07:00:00.000Z",
-  "edition": 295,
-  "headline": "Eight o'clock. The light is thin.",
-  "body": "Ten degrees under a mostly cloudy sky, light wind from the west. Streets are still settling after dawn. Sunrise was forty minutes ago; the day is only just arriving.",
+  "updatedAt": "2026-10-11T08:00:00.000Z",
+  "edition": 296,
+  "headline": "Nine o'clock. Cloud holds the light.",
+  "body": "Ten degrees under a full overcast, wind light from the west. The streets have found their rhythm; pavements are dry. The sun has been up nearly two hours and still the sky keeps its own counsel.",
   "pulses": [
-    { "label": "Sky", "value": "mostly cloudy, 10\u00b0C, wind 5 mph W" },
-    { "label": "Street", "value": "quiet; dry pavement, early traffic" },
-    { "label": "Light", "value": "eight o'clock; sun up since 07:17" }
+    { "label": "Sky", "value": "overcast, 10\u00b0C, wind 8 km/h W" },
+    { "label": "Street", "value": "settled; dry, morning traffic building" },
+    { "label": "Light", "value": "nine o'clock; sunrise 07:17, thin and held" }
   ]
 }
