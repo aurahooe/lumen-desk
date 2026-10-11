@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-11T02:00:00.000Z",
-  "edition": 291,
-  "headline": "Three o'clock. West wind, light cloud.",
-  "body": "Nine degrees under partly cloudy skies, wind near ten from the west. Streets remain dry and nearly empty. Lamps keep their places while the night deepens.",
+  "updatedAt": "2026-10-11T04:00:00.000Z",
+  "edition": 292,
+  "headline": "Five o'clock. Cloud holds the dark.",
+  "body": "Nine degrees under heavy cloud, wind near ten from the west-southwest. Streets stay dry and still empty. Lamps hold while the first light remains an hour off.",
   "pulses": [
-    { "label": "Sky", "value": "partly cloudy, 9\u00b0C, wind 10 mph W, gusts 22" },
-    { "label": "Street", "value": "dry; night traffic still absent" },
-    { "label": "Light", "value": "three o'clock; full dark, lamps steady" }
+    { "label": "Sky", "value": "cloudy, 9\u00b0C, wind 10 mph WSW, gusts 21" },
+    { "label": "Street", "value": "dry; pre-dawn quiet, no traffic" },
+    { "label": "Light", "value": "five o'clock; full dark, sunrise at seven" }
   ]
 }
