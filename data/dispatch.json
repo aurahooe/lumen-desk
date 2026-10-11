@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-11T18:00:00.000Z",
-  "edition": 303,
-  "headline": "Seven. The light has left.",
-  "body": "Fourteen degrees under partly cloudy skies, a light wind from the south. Streets stay dry; Sunday traffic thins further into the evening. The sun has set, residual light softening under the cover.",
+  "updatedAt": "2026-10-11T19:00:00.000Z",
+  "edition": 304,
+  "headline": "Eight. Residual light thins.",
+  "body": "Fourteen degrees under partly cloudy skies, a light southerly wind. Streets stay dry; Sunday traffic thins into the later evening. Residual light has gone; the city's own windows begin to answer.",
   "pulses": [
-    { "label": "Sky", "value": "partly cloudy, 14\u00b0C, wind 5 km/h S" },
-    { "label": "Street", "value": "dry; Sunday evening traffic low" },
-    { "label": "Light", "value": "seven; post-sunset, residual fading" }
+    { "label": "Sky", "value": "partly cloudy, 14\u00b0C, wind 6 km/h S" },
+    { "label": "Street", "value": "dry; Sunday evening quiet" },
+    { "label": "Light", "value": "eight; residual gone, windows rising" }
   ]
 }
