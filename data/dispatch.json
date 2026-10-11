@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-11T06:00:00.000Z",
-  "edition": 294,
-  "headline": "Seven o'clock. Dawn at the cloud edge.",
-  "body": "Eight degrees under mostly cloudy skies, wind near nine from the west-southwest with gusts to twenty. Streets hold their early quiet, still dry. Sunrise sits seventeen minutes off.",
+  "updatedAt": "2026-10-11T07:00:00.000Z",
+  "edition": 295,
+  "headline": "Eight o'clock. The light is thin.",
+  "body": "Ten degrees under a mostly cloudy sky, light wind from the west. Streets are still settling after dawn. Sunrise was forty minutes ago; the day is only just arriving.",
   "pulses": [
-    { "label": "Sky", "value": "mostly cloudy, 8\u00b0C, wind 9 mph WSW, gusts 20" },
-    { "label": "Street", "value": "dry; early quiet, traffic not yet" },
-    { "label": "Light", "value": "seven o'clock; sunrise near 07:17" }
+    { "label": "Sky", "value": "mostly cloudy, 10\u00b0C, wind 5 mph W" },
+    { "label": "Street", "value": "quiet; dry pavement, early traffic" },
+    { "label": "Light", "value": "eight o'clock; sun up since 07:17" }
   ]
 }
