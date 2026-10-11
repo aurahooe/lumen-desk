@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-11T16:00:00.000Z",
-  "edition": 302,
-  "headline": "Five. Soft light holds.",
-  "body": "Fifteen degrees under mostly cloudy skies, wind light from the southwest. Streets stay dry; Sunday traffic thins further toward evening. Light remains low and soft, the sun still held behind the cover with an hour until it sets.",
+  "updatedAt": "2026-10-11T18:00:00.000Z",
+  "edition": 303,
+  "headline": "Seven. The light has left.",
+  "body": "Fourteen degrees under partly cloudy skies, a light wind from the south. Streets stay dry; Sunday traffic thins further into the evening. The sun has set, residual light softening under the cover.",
   "pulses": [
-    { "label": "Sky", "value": "mostly cloudy, 15\u00b0C, wind 7 km/h SW" },
-    { "label": "Street", "value": "dry; Sunday evening traffic thinning" },
-    { "label": "Light", "value": "five o\u2019clock; soft and held, sunset near" }
+    { "label": "Sky", "value": "partly cloudy, 14\u00b0C, wind 5 km/h S" },
+    { "label": "Street", "value": "dry; Sunday evening traffic low" },
+    { "label": "Light", "value": "seven; post-sunset, residual fading" }
   ]
 }
