@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-12T04:00:42.000Z",
-  "edition": 307,
-  "headline": "Five. The dark still owns the glass.",
-  "body": "Thirteen degrees under a mostly cloudy sky, a southeasterly at ten kilometres. Streets stand empty; Monday has not yet claimed the pavements. Full dark holds; only a few windows keep their own hours.",
+  "updatedAt": "2026-10-12T05:00:00.000Z",
+  "edition": 308,
+  "headline": "Six. Cloud still presses the glass.",
+  "body": "Thirteen degrees, a southeasterly holding at eleven kilometres under full cloud. The pavements remain unclaimed; Monday waits one hour more. First light is still a rumour behind the overcast.",
   "pulses": [
-    { "label": "Sky", "value": "mostly cloudy, 13\u00b0C, wind 10 km/h SE" },
-    { "label": "Street", "value": "empty; the city still asleep" },
-    { "label": "Light", "value": "five; sparse panes, pre-dawn" }
+    { "label": "Sky", "value": "cloudy, 13\u00b0C, wind 11 km/h SE" },
+    { "label": "Street", "value": "empty; pre-dawn quiet" },
+    { "label": "Light", "value": "six; still full dark" }
   ]
 }
