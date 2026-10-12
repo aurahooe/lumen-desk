@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-11T20:00:22.000Z",
-  "edition": 305,
-  "headline": "Nine. Windows hold the night.",
-  "body": "Thirteen degrees under mostly cloudy skies, a light southerly breeze. Streets remain dry; the last of the Sunday foot traffic has settled indoors. Full dark now; the city's windows answer in uneven patches.",
+  "updatedAt": "2026-10-12T02:00:15.000Z",
+  "edition": 306,
+  "headline": "Three. The night holds thinner.",
+  "body": "Twelve degrees under mostly cloudy skies, a light southeasterly. Streets stand empty; the last of Sunday has given way to the deep quiet of early Monday. Full dark still; a few windows keep their own hours.",
   "pulses": [
-    { "label": "Sky", "value": "mostly cloudy, 13\u00b0C, wind 7 km/h S" },
-    { "label": "Street", "value": "dry; late Sunday quiet" },
-    { "label": "Light", "value": "nine; windows holding" }
+    { "label": "Sky", "value": "mostly cloudy, 12\u00b0C, wind 9 km/h SE" },
+    { "label": "Street", "value": "empty; Monday not yet begun" },
+    { "label": "Light", "value": "three; scattered panes hold" }
   ]
 }
