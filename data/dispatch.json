@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-12T18:00:00.000Z",
-  "edition": 315,
-  "headline": "Evening. The cloud does not lift.",
-  "body": "Eighteen degrees hold under full overcast, a south wind at twelve kilometres. The earlier drizzle has not returned; pavement still carries the afternoon damp under the first lamps. Daylight has left, leaving only the low, even glow of the city.",
+  "updatedAt": "2026-10-12T19:00:00.000Z",
+  "edition": 316,
+  "headline": "Night. The overcast holds.",
+  "body": "Eighteen degrees under unbroken cloud, a south-southwest wind at thirteen kilometres. The afternoon damp has begun to lift from the pavements; lamps hold their steady glow against the dark. No rain has returned.",
   "pulses": [
-    { "label": "Sky", "value": "overcast, 18\u00b0C, wind 12 km/h S, dry" },
-    { "label": "Street", "value": "still damp; lamps lit" },
-    { "label": "Light", "value": "evening; sun down" }
+    { "label": "Sky", "value": "overcast, 18\u00b0C, wind 13 km/h SSW, dry" },
+    { "label": "Street", "value": "damp easing; lamps steady" },
+    { "label": "Light", "value": "night; sun long down" }
   ]
 }
