@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-12T02:00:15.000Z",
-  "edition": 306,
-  "headline": "Three. The night holds thinner.",
-  "body": "Twelve degrees under mostly cloudy skies, a light southeasterly. Streets stand empty; the last of Sunday has given way to the deep quiet of early Monday. Full dark still; a few windows keep their own hours.",
+  "updatedAt": "2026-10-12T04:00:42.000Z",
+  "edition": 307,
+  "headline": "Five. The dark still owns the glass.",
+  "body": "Thirteen degrees under a mostly cloudy sky, a southeasterly at ten kilometres. Streets stand empty; Monday has not yet claimed the pavements. Full dark holds; only a few windows keep their own hours.",
   "pulses": [
-    { "label": "Sky", "value": "mostly cloudy, 12\u00b0C, wind 9 km/h SE" },
-    { "label": "Street", "value": "empty; Monday not yet begun" },
-    { "label": "Light", "value": "three; scattered panes hold" }
+    { "label": "Sky", "value": "mostly cloudy, 13\u00b0C, wind 10 km/h SE" },
+    { "label": "Street", "value": "empty; the city still asleep" },
+    { "label": "Light", "value": "five; sparse panes, pre-dawn" }
   ]
 }
