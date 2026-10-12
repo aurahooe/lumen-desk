@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-12T11:00:00.000Z",
-  "edition": 313,
-  "headline": "Noon. The drizzle thickens.",
-  "body": "Sixteen degrees under unbroken cloud, a southeasterly at fifteen kilometres. Light rain continues; the streets glisten and traffic moves without pause. The sun stays hidden behind the overcast.",
+  "updatedAt": "2026-10-12T14:00:00.000Z",
+  "edition": 314,
+  "headline": "Mid-afternoon. Cloud unbroken.",
+  "body": "Seventeen degrees under a still-full overcast, wind from the south at fourteen kilometres. The drizzle has thinned to almost nothing; streets remain damp and traffic moves without hurry. The light stays flat, the sun nowhere near clearing.",
   "pulses": [
-    { "label": "Sky", "value": "overcast, 16\u00b0C, wind 15 km/h SE, light drizzle" },
-    { "label": "Street", "value": "damp; traffic steady" },
-    { "label": "Light", "value": "noon; sun behind cloud" }
+    { "label": "Sky", "value": "overcast, 17\u00b0C, wind 14 km/h S, rain eased" },
+    { "label": "Street", "value": "still damp; traffic ordinary" },
+    { "label": "Light", "value": "mid-afternoon; sun behind cloud" }
   ]
 }
