@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-12T09:00:00.000Z",
-  "edition": 311,
-  "headline": "Ten. The cloud keeps its rain.",
-  "body": "Fifteen degrees under the same unbroken overcast. Light drizzle persists, a southeasterly at fourteen kilometres. The morning has settled; buses continue their rounds on damp pavements.",
+  "updatedAt": "2026-10-12T10:00:00.000Z",
+  "edition": 312,
+  "headline": "Eleven. Drizzle holds the pavements.",
+  "body": "Sixteen degrees under unbroken cloud, a southeasterly at fifteen kilometres. Light rain continues to settle on the streets; buses and cars move through the damp without pause.",
   "pulses": [
-    { "label": "Sky", "value": "overcast, 15\u00b0C, wind 14 km/h SE, light drizzle" },
-    { "label": "Street", "value": "damp pavements; traffic steady" },
-    { "label": "Light", "value": "ten; sun behind cloud" }
+    { "label": "Sky", "value": "overcast, 16\u00b0C, wind 15 km/h SE, light drizzle" },
+    { "label": "Street", "value": "damp; traffic steady" },
+    { "label": "Light", "value": "eleven; sun behind cloud" }
   ]
 }
