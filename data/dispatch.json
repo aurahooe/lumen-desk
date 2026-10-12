@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-12T05:00:00.000Z",
-  "edition": 308,
-  "headline": "Six. Cloud still presses the glass.",
-  "body": "Thirteen degrees, a southeasterly holding at eleven kilometres under full cloud. The pavements remain unclaimed; Monday waits one hour more. First light is still a rumour behind the overcast.",
+  "updatedAt": "2026-10-12T06:00:00.000Z",
+  "edition": 309,
+  "headline": "Seven. The cloud thins at the edge.",
+  "body": "Thirteen degrees under unbroken cloud, a southeasterly at twelve kilometres. Pavements stay empty; the first buses have not yet started their rounds. Civil light is gathering, but the sun remains behind the overcast.",
   "pulses": [
-    { "label": "Sky", "value": "cloudy, 13\u00b0C, wind 11 km/h SE" },
-    { "label": "Street", "value": "empty; pre-dawn quiet" },
-    { "label": "Light", "value": "six; still full dark" }
+    { "label": "Sky", "value": "cloudy, 13\u00b0C, wind 12 km/h SE" },
+    { "label": "Street", "value": "empty; pre-dawn still" },
+    { "label": "Light", "value": "seven; civil twilight, no sun yet" }
   ]
 }
