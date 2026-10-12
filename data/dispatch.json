@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-12T14:00:00.000Z",
-  "edition": 314,
-  "headline": "Mid-afternoon. Cloud unbroken.",
-  "body": "Seventeen degrees under a still-full overcast, wind from the south at fourteen kilometres. The drizzle has thinned to almost nothing; streets remain damp and traffic moves without hurry. The light stays flat, the sun nowhere near clearing.",
+  "updatedAt": "2026-10-12T18:00:00.000Z",
+  "edition": 315,
+  "headline": "Evening. The cloud does not lift.",
+  "body": "Eighteen degrees hold under full overcast, a south wind at twelve kilometres. The earlier drizzle has not returned; pavement still carries the afternoon damp under the first lamps. Daylight has left, leaving only the low, even glow of the city.",
   "pulses": [
-    { "label": "Sky", "value": "overcast, 17\u00b0C, wind 14 km/h S, rain eased" },
-    { "label": "Street", "value": "still damp; traffic ordinary" },
-    { "label": "Light", "value": "mid-afternoon; sun behind cloud" }
+    { "label": "Sky", "value": "overcast, 18\u00b0C, wind 12 km/h S, dry" },
+    { "label": "Street", "value": "still damp; lamps lit" },
+    { "label": "Light", "value": "evening; sun down" }
   ]
 }
