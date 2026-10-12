@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-12T06:00:00.000Z",
-  "edition": 309,
-  "headline": "Seven. The cloud thins at the edge.",
-  "body": "Thirteen degrees under unbroken cloud, a southeasterly at twelve kilometres. Pavements stay empty; the first buses have not yet started their rounds. Civil light is gathering, but the sun remains behind the overcast.",
+  "updatedAt": "2026-10-12T07:00:00.000Z",
+  "edition": 310,
+  "headline": "Eight. The cloud holds its rain.",
+  "body": "Thirteen degrees under unbroken cloud, a southeasterly at twelve kilometres. Fine drizzle threads the air; the first buses have begun their rounds. The sun is up but remains behind the overcast.",
   "pulses": [
-    { "label": "Sky", "value": "cloudy, 13\u00b0C, wind 12 km/h SE" },
-    { "label": "Street", "value": "empty; pre-dawn still" },
-    { "label": "Light", "value": "seven; civil twilight, no sun yet" }
+    { "label": "Sky", "value": "cloudy, 13\u00b0C, wind 12 km/h SE, light drizzle" },
+    { "label": "Street", "value": "first buses; pavements damp" },
+    { "label": "Light", "value": "eight; sun up, no direct" }
   ]
 }
