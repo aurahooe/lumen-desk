@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-13T16:00:00.000Z",
-  "edition": 325,
-  "headline": "Light thins toward the western edge.",
-  "body": "Nineteen degrees under mostly clear sky. West wind holds near twenty kilometres. The paving dries while the hour leans into evening.",
+  "updatedAt": "2026-10-13T17:00:00.000Z",
+  "edition": 326,
+  "headline": "Light slips off the western brick.",
+  "body": "Eighteen degrees under clear sky. West wind holds near eighteen kilometres as the sun drops below the rooftops. Pressure continues to rise while the paving stays dry.",
   "pulses": [
-    { "label": "Sky", "value": "mostly clear, 19\u00b0C, W 20 km/h, pressure rising" },
-    { "label": "Street", "value": "dry paving; faint residue in the shade" },
-    { "label": "Light", "value": "late afternoon; low and cooling" }
+    { "label": "Sky", "value": "clear, 18\u00b0C, W 18 km/h, pressure rising" },
+    { "label": "Street", "value": "dry paving; shadows lengthening" },
+    { "label": "Light", "value": "early evening; fading westward" }
   ]
 }
