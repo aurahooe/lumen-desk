@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-13T05:00:00.000Z",
-  "edition": 318,
-  "headline": "Cloud thickens toward first light.",
-  "body": "Seventeen degrees, the air heavy and still. Wind from the southwest has risen to eighteen kilometres. Lamps remain the measure of the street; the sun is not yet up.",
+  "updatedAt": "2026-10-13T06:00:00.000Z",
+  "edition": 319,
+  "headline": "Wind lifts under a thinning cloud.",
+  "body": "Eighteen degrees. The southwest flow has strengthened to twenty kilometres, gusting higher. Pavements still carry the night’s damp; lamps hold against the coming light.",
   "pulses": [
-    { "label": "Sky", "value": "overcast, 17\u00b0C, wind 18 km/h SW, dry" },
-    { "label": "Street", "value": "residual damp; lamps steady" },
+    { "label": "Sky", "value": "mostly cloudy, 18\u00b0C, wind 20 km/h SW, dry" },
+    { "label": "Street", "value": "residual damp; lamps still on" },
     { "label": "Light", "value": "pre-dawn; sunrise 06:21 UTC" }
   ]
 }
