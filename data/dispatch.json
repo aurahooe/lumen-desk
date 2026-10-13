@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-13T07:00:00.000Z",
-  "edition": 320,
-  "headline": "Cloud holds the morning light.",
-  "body": "Seventeen degrees under a full cover. The southwest wind continues at twenty kilometres. Streets have taken the pale light; residual damp remains on the stone.",
+  "updatedAt": "2026-10-13T08:00:00.000Z",
+  "edition": 321,
+  "headline": "Grey thickens above the stone.",
+  "body": "Eighteen degrees under full cover. Southwest wind holds at twenty-one kilometres. The damp has lifted from the pavements; light remains low and even.",
   "pulses": [
-    { "label": "Sky", "value": "cloudy, 17\u00b0C, wind 20 km/h SW, dry" },
-    { "label": "Street", "value": "residual damp; lamps extinguished" },
-    { "label": "Light", "value": "post-sunrise; low and unbroken" }
+    { "label": "Sky", "value": "cloudy, 18\u00b0C, wind 21 km/h SW, dry" },
+    { "label": "Street", "value": "damp lifted; lamps dark" },
+    { "label": "Light", "value": "post-sunrise; flat and unbroken" }
   ]
 }
