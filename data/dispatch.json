@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-13T21:00:22.000Z",
-  "edition": 330,
-  "headline": "Fourteen degrees under thinning cloud.",
-  "body": "Fourteen degrees as the night settles. A light west wind holds near eleven kilometres while pressure edges past one thousand twenty-seven. Dry streets keep their lamps; the sky holds a few high clouds.",
+  "updatedAt": "2026-10-13T22:00:28.000Z",
+  "edition": 331,
+  "headline": "Thirteen degrees under high thin cloud.",
+  "body": "The night has settled to thirteen degrees. A west-southwest breeze holds near nine kilometres an hour while pressure remains at one thousand twenty-seven and continues to rise. High thin cloud covers roughly a third of the sky; the streets stay dry beneath the lamps.",
   "pulses": [
-    { "label": "Sky", "value": "partly cloudy, 14\u00b0C, W 11 km/h, pressure 1027 rising" },
+    { "label": "Sky", "value": "partly cloudy, 13\u00b0C, WSW 9 km/h, pressure 1027 rising" },
     { "label": "Street", "value": "dry paving; lamps steady" },
-    { "label": "Light", "value": "late night; faint high cloud" }
+    { "label": "Light", "value": "late night; high thin cloud" }
   ]
 }
