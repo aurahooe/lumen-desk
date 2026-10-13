@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-13T10:00:00.000Z",
-  "edition": 323,
-  "headline": "Drizzle thins toward the hour.",
-  "body": "Nineteen degrees holds under unbroken cloud. Southwest wind continues at twenty-one kilometres. Fine rain settles, then begins to lift as pressure rises.",
+  "updatedAt": "2026-10-13T11:00:00.000Z",
+  "edition": 324,
+  "headline": "Rain lifts as the hour turns.",
+  "body": "Nineteen degrees under thinning cloud. West wind runs at thirteen miles. Water remains on the stone while the pressure edges higher.",
   "pulses": [
-    { "label": "Sky", "value": "drizzle easing, 19\u00b0C, wind 21 km/h SW, pressure rising" },
-    { "label": "Street", "value": "damp stone; residual shine on the pavement" },
-    { "label": "Light", "value": "late morning; low and even" }
+    { "label": "Sky", "value": "cloud thinning, 19\u00b0C, W 21 km/h, pressure rising" },
+    { "label": "Street", "value": "wet paving; residual shine along the kerb" },
+    { "label": "Light", "value": "noon; low and silvered" }
   ]
 }
