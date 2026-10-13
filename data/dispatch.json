@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-13T19:00:00.000Z",
-  "edition": 328,
-  "headline": "Clear night holds at sixteen degrees.",
-  "body": "Sixteen degrees under a mostly clear sky. West-southwest wind near fourteen kilometres as pressure continues to rise. Dry streets keep their lamps lit against the settled dark.",
+  "updatedAt": "2026-10-13T20:00:00.000Z",
+  "edition": 329,
+  "headline": "Fifteen degrees under clear night air.",
+  "body": "Fifteen degrees beneath a nearly clear sky. West wind near thirteen kilometres while pressure climbs past one thousand twenty-six. Dry streets hold their lamps against the settled dark.",
   "pulses": [
-    { "label": "Sky", "value": "mostly clear, 16\u00b0C, WSW 14 km/h, pressure rising" },
+    { "label": "Sky", "value": "mostly clear, 15\u00b0C, W 13 km/h, pressure rising" },
     { "label": "Street", "value": "dry paving; lamps steady" },
-    { "label": "Light", "value": "full evening; street glow" }
+    { "label": "Light", "value": "late evening; street glow" }
   ]
 }
