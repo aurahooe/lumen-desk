@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-13T09:00:00.000Z",
-  "edition": 322,
-  "headline": "Drizzle arrives on the southwest.",
-  "body": "Eighteen degrees holds under unbroken cloud. Southwest wind continues at twenty-one kilometres. Fine rain begins to settle on the stone.",
+  "updatedAt": "2026-10-13T10:00:00.000Z",
+  "edition": 323,
+  "headline": "Drizzle thins toward the hour.",
+  "body": "Nineteen degrees holds under unbroken cloud. Southwest wind continues at twenty-one kilometres. Fine rain settles, then begins to lift as pressure rises.",
   "pulses": [
-    { "label": "Sky", "value": "cloudy, 18\u00b0C, wind 21 km/h SW, light drizzle" },
-    { "label": "Street", "value": "damp returning; lamps still dark" },
-    { "label": "Light", "value": "mid-morning; low and diffuse" }
+    { "label": "Sky", "value": "drizzle easing, 19\u00b0C, wind 21 km/h SW, pressure rising" },
+    { "label": "Street", "value": "damp stone; residual shine on the pavement" },
+    { "label": "Light", "value": "late morning; low and even" }
   ]
 }
