@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-13T01:00:00.000Z",
-  "edition": 317,
-  "headline": "Mild night under unbroken cloud.",
-  "body": "Sixteen degrees, the air still thick with damp. Wind from the southwest at thirteen kilometres; no rain has started. Pavements hold the earlier wet, lamps unchanged.",
+  "updatedAt": "2026-10-13T05:00:00.000Z",
+  "edition": 318,
+  "headline": "Cloud thickens toward first light.",
+  "body": "Seventeen degrees, the air heavy and still. Wind from the southwest has risen to eighteen kilometres. Lamps remain the measure of the street; the sun is not yet up.",
   "pulses": [
-    { "label": "Sky", "value": "overcast, 16\u00b0C, wind 13 km/h SW, dry" },
-    { "label": "Street", "value": "damp residual; lamps steady" },
-    { "label": "Light", "value": "night; sun not yet risen" }
+    { "label": "Sky", "value": "overcast, 17\u00b0C, wind 18 km/h SW, dry" },
+    { "label": "Street", "value": "residual damp; lamps steady" },
+    { "label": "Light", "value": "pre-dawn; sunrise 06:21 UTC" }
   ]
 }
