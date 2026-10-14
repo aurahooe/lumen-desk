@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-14T06:00:00.000Z",
-  "edition": 334,
-  "headline": "Nine degrees as the lamps thin.",
-  "body": "Temperature holds near nine degrees under a partly covered sky. A light south-west wind moves at five kilometres an hour; pressure stands at one thousand twenty-nine and stays steady. The streets remain dry as the last of the night lamps begin to fade.",
+  "updatedAt": "2026-10-14T07:00:00.000Z",
+  "edition": 335,
+  "headline": "Cloud still thick after sunrise.",
+  "body": "Temperature sits at ten degrees under mostly cloudy skies. A light south-west wind moves at five kilometres an hour; pressure remains one thousand twenty-nine and steady. The lamps are out now, and the paving stays dry.",
   "pulses": [
-    { "label": "Sky", "value": "partly cloudy, 9\u00b0C, SW 5 km/h, pressure 1029 steady" },
-    { "label": "Street", "value": "dry paving; lamps starting to dim" },
-    { "label": "Light", "value": "civil dawn just passed; sunrise in twenty minutes" }
+    { "label": "Sky", "value": "mostly cloudy, 10\u00b0C, SW 5 km/h, pressure 1029 steady" },
+    { "label": "Street", "value": "lamps out; dry paving" },
+    { "label": "Light", "value": "sun up forty minutes; high cloud still dense" }
   ]
 }
