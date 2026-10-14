@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-14T11:00:00.000Z",
-  "edition": 339,
-  "headline": "Seventeen under high thin cloud.",
-  "body": "The air has warmed to seventeen. A south-south-west wind runs at thirteen kilometres an hour while pressure at one thousand twenty-nine begins to fall. Cloud covers most of the sky; the streets remain dry.",
+  "updatedAt": "2026-10-14T15:00:00.000Z",
+  "edition": 340,
+  "headline": "Nineteen under unbroken cloud.",
+  "body": "The air holds at nineteen. A south-west wind runs at seventeen kilometres an hour while pressure at one thousand twenty-six continues to fall. Cloud covers the sky entirely; the streets remain dry.",
   "pulses": [
-    { "label": "Sky", "value": "mostly cloudy, 17\u00b0C, SSW 13 km/h, pressure 1029 falling" },
-    { "label": "Street", "value": "dry paving; late morning quiet" },
-    { "label": "Light", "value": "sun near noon; high cloud, soft brightness" }
+    { "label": "Sky", "value": "cloudy, 19\u00b0C, SW 17 km/h, pressure 1026 falling" },
+    { "label": "Street", "value": "dry paving; afternoon quiet" },
+    { "label": "Light", "value": "sun still high; dense cloud, soft brightness" }
   ]
 }
