@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-14T09:00:00.000Z",
-  "edition": 337,
-  "headline": "Thirteen degrees under broken cloud.",
-  "body": "Temperature has lifted to thirteen. A light south-south-west breeze continues at seven kilometres an hour; pressure holds at one thousand twenty-nine and remains steady. Broken cloud has replaced the earlier thick cover, and the paving stays dry under a sun now three hours risen.",
+  "updatedAt": "2026-10-14T10:00:00.000Z",
+  "edition": 338,
+  "headline": "Fifteen degrees under thin high cloud.",
+  "body": "Temperature has reached fifteen. A south-south-west breeze continues at ten kilometres an hour; pressure holds at one thousand twenty-nine and remains steady. High cloud covers less than half the sky, and the paving stays dry four hours after sunrise.",
   "pulses": [
-    { "label": "Sky", "value": "partly cloudy, 13\u00b0C, SSW 7 km/h, pressure 1029 steady" },
+    { "label": "Sky", "value": "partly cloudy, 15\u00b0C, SSW 10 km/h, pressure 1029 steady" },
     { "label": "Street", "value": "dry paving; mid-morning quiet" },
-    { "label": "Light", "value": "sun up three hours; broken cloud, soft brightness" }
+    { "label": "Light", "value": "sun up four hours; high cloud, soft brightness" }
   ]
 }
