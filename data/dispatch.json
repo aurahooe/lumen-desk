@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-14T17:00:00.000Z",
-  "edition": 341,
-  "headline": "Eighteen under full cloud.",
-  "body": "The air has cooled to eighteen. A south-southwest wind runs at fifteen kilometres an hour while pressure at one thousand twenty-five continues to fall. Cloud covers the sky completely; the streets remain dry as light begins to fade.",
+  "updatedAt": "2026-10-14T19:00:00.000Z",
+  "edition": 342,
+  "headline": "Sixteen under unbroken cloud.",
+  "body": "The air has cooled to sixteen. A south-southwest wind holds at fourteen kilometres an hour while pressure sits steady at one thousand twenty-five. Cloud covers the sky completely; the streets remain dry under the settled dark.",
   "pulses": [
-    { "label": "Sky", "value": "cloudy, 18\u00b0C, SSW 15 km/h, pressure 1025 falling" },
-    { "label": "Street", "value": "dry paving; early evening quiet" },
-    { "label": "Light", "value": "sun near horizon; dense cloud, soft dimming" }
+    { "label": "Sky", "value": "cloudy, 16\u00b0C, SSW 14 km/h, pressure 1025 steady" },
+    { "label": "Street", "value": "dry paving; early night quiet" },
+    { "label": "Light", "value": "sun long set; dense cloud, low ambient glow" }
   ]
 }
