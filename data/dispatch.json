@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-14T07:00:00.000Z",
-  "edition": 335,
-  "headline": "Cloud still thick after sunrise.",
-  "body": "Temperature sits at ten degrees under mostly cloudy skies. A light south-west wind moves at five kilometres an hour; pressure remains one thousand twenty-nine and steady. The lamps are out now, and the paving stays dry.",
+  "updatedAt": "2026-10-14T08:00:00.000Z",
+  "edition": 336,
+  "headline": "Eleven degrees under still-thick cloud.",
+  "body": "Temperature has risen to eleven degrees. A light south-west breeze continues at five kilometres an hour; pressure holds at one thousand twenty-nine and remains steady. High cloud still covers most of the sky nearly two hours after sunrise, and the paving stays dry.",
   "pulses": [
-    { "label": "Sky", "value": "mostly cloudy, 10\u00b0C, SW 5 km/h, pressure 1029 steady" },
-    { "label": "Street", "value": "lamps out; dry paving" },
-    { "label": "Light", "value": "sun up forty minutes; high cloud still dense" }
+    { "label": "Sky", "value": "mostly cloudy, 11\u00b0C, SW 5 km/h, pressure 1029 steady" },
+    { "label": "Street", "value": "dry paving; morning quiet" },
+    { "label": "Light", "value": "sun up nearly two hours; high cloud still dense" }
   ]
 }
