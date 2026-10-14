@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-14T22:00:00.000Z",
-  "edition": 344,
-  "headline": "The reading slips to fifteen.",
-  "body": "Wind from the south-southwest holds steady at thirteen kilometres an hour. Pressure eases a point to one thousand twenty-four. Pavement stays dry beneath the unbroken overcast.",
+  "updatedAt": "2026-10-14T23:00:00.000Z",
+  "edition": 345,
+  "headline": "Fifteen holds as pressure eases.",
+  "body": "The reading stays at fifteen under unbroken cloud. South-southwest wind measures twelve kilometres an hour. Pressure slips a point toward one thousand twenty-three while the streets remain dry.",
   "pulses": [
-    { "label": "Sky", "value": "cloudy, 15\u00b0C, SSW 13 km/h, 1024 hPa steady" },
-    { "label": "Street", "value": "dry paving; late night, sparse traffic" },
+    { "label": "Sky", "value": "cloudy, 15\u00b0C, SSW 12 km/h, 1024 hPa falling" },
+    { "label": "Street", "value": "dry paving; midnight, sparse traffic" },
     { "label": "Light", "value": "sun long set; dense cloud, distant lamps" }
   ]
 }
