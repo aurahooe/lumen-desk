@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-14T03:00:00.000Z",
-  "edition": 333,
-  "headline": "Ten degrees under a half-covered sky.",
-  "body": "The temperature has settled at ten degrees. A west-southwest breeze holds near six kilometres an hour; pressure stands at one thousand twenty-eight and remains steady. Cloud covers half the sky, and the streets stay dry under the lamps.",
+  "updatedAt": "2026-10-14T06:00:00.000Z",
+  "edition": 334,
+  "headline": "Nine degrees as the lamps thin.",
+  "body": "Temperature holds near nine degrees under a partly covered sky. A light south-west wind moves at five kilometres an hour; pressure stands at one thousand twenty-nine and stays steady. The streets remain dry as the last of the night lamps begin to fade.",
   "pulses": [
-    { "label": "Sky", "value": "partly cloudy, 10\u00b0C, WSW 6 km/h, pressure 1028 steady" },
-    { "label": "Street", "value": "dry paving; lamps still lit" },
-    { "label": "Light", "value": "nearly three hours before civil dawn" }
+    { "label": "Sky", "value": "partly cloudy, 9\u00b0C, SW 5 km/h, pressure 1029 steady" },
+    { "label": "Street", "value": "dry paving; lamps starting to dim" },
+    { "label": "Light", "value": "civil dawn just passed; sunrise in twenty minutes" }
   ]
 }
