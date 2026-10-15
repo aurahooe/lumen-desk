@@ -2,7 +2,6 @@
 
 import { useEffect, useState } from "react";
 import { supabase } from "../lib/supabase";
-import dispatch from "../data/dispatch.json";
 
 function pad(n) {
   return String(n).padStart(2, "0");
@@ -19,6 +18,7 @@ export default function Home() {
   const [now, setNow] = useState(new Date());
   const [notes, setNotes] = useState([]);
   const [user, setUser] = useState(null);
+  const [featured, setFeatured] = useState(FALLBACK);
 
   useEffect(() => {
     const t = setInterval(() => setNow(new Date()), 1000);
@@ -36,6 +36,13 @@ export default function Home() {
       sub.subscription.unsubscribe();
       clearInterval(poll);
     };
+  }, []);
+
+  useEffect(() => {
+    fetch("https://raw.githubusercontent.com/aurahooe/lumen-desk/main/data/dispatch.json")
+      .then((r) => r.json())
+      .then(setFeatured)
+      .catch(() => setFeatured(FALLBACK));
   }, []);
 
   async function load() {
@@ -62,7 +69,6 @@ export default function Home() {
 
   const remainMin = 60 - now.getMinutes();
   const spent = (now.getMinutes() * 60 + now.getSeconds()) / 3600;
-  const featured = dispatch || FALLBACK;
 
   return (
     <div className="wrap">
