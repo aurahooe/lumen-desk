@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-15T06:00:00.000Z",
-  "edition": 349,
-  "headline": "Sixteen holds as the light edges in.",
-  "body": "Temperature has risen a single degree under the same unbroken cloud. Wind from the south-southwest has freshened slightly. Pressure remains at 1021 and continues its slow descent; the streets are still quiet in the last minutes before sunrise.",
+  "updatedAt": "2026-10-15T07:00:00.000Z",
+  "edition": 350,
+  "headline": "Sixteen holds as the morning thickens.",
+  "body": "The reading remains at sixteen under a near-complete cloud deck. South-southwest wind has freshened to fourteen kilometres an hour. Pressure holds steady at one thousand twenty-one; the streets carry the first ordinary traffic of the day.",
   "pulses": [
-    { "label": "Sky", "value": "cloudy, 16\u00b0C, SSW 13 km/h, 1021 hPa falling" },
-    { "label": "Street", "value": "dry paving; early traffic beginning" },
-    { "label": "Light", "value": "civil twilight; overcast, lamps still on" }
+    { "label": "Sky", "value": "cloudy, 16\u00b0C, SSW 14 km/h, 1021 hPa steady" },
+    { "label": "Street", "value": "dry paving; morning traffic underway" },
+    { "label": "Light", "value": "sun up under dense cloud; lamps extinguished" }
   ]
 }
