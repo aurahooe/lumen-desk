@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-15T16:00:00.000Z",
-  "edition": 358,
-  "headline": "Twenty degrees as the light thins.",
-  "body": "The hour holds at twenty degrees under a mostly cloudy cover. Southwest wind runs near seventeen kilometres an hour, pressure steady near one thousand nineteen as it falls. Dry paving and continuous traffic; lamps remain dark while the afternoon light begins to withdraw.",
+  "updatedAt": "2026-10-15T19:00:00.000Z",
+  "edition": 359,
+  "headline": "Eighteen degrees after sunset.",
+  "body": "The hour settles at eighteen degrees under mostly cloudy cover. Southwest wind runs near twelve kilometres an hour, pressure steady near one thousand nineteen. Dry paving and evening traffic; lamps are on now that the light has gone.",
   "pulses": [
-    { "label": "Sky", "value": "mostly cloudy, 20\u00b0C, SW 17 km/h, 1019 hPa falling" },
-    { "label": "Street", "value": "dry paving; traffic continuous" },
-    { "label": "Light", "value": "afternoon light thinning; lamps still dark" }
+    { "label": "Sky", "value": "mostly cloudy, 18\u00b0C, SW 12 km/h, 1019 hPa steady" },
+    { "label": "Street", "value": "dry paving; evening traffic continuous" },
+    { "label": "Light", "value": "full dark; street lamps on" }
   ]
 }
