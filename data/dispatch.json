@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-15T07:00:00.000Z",
-  "edition": 350,
-  "headline": "Sixteen holds as the morning thickens.",
-  "body": "The reading remains at sixteen under a near-complete cloud deck. South-southwest wind has freshened to fourteen kilometres an hour. Pressure holds steady at one thousand twenty-one; the streets carry the first ordinary traffic of the day.",
+  "updatedAt": "2026-10-15T08:00:00.000Z",
+  "edition": 351,
+  "headline": "Seventeen under the unbroken deck.",
+  "body": "The temperature has risen to seventeen degrees beneath the near-complete cloud. Wind from the south-southwest continues at fifteen kilometres an hour. Pressure remains steady at one thousand twenty-one; morning traffic moves along dry streets.",
   "pulses": [
-    { "label": "Sky", "value": "cloudy, 16\u00b0C, SSW 14 km/h, 1021 hPa steady" },
-    { "label": "Street", "value": "dry paving; morning traffic underway" },
-    { "label": "Light", "value": "sun up under dense cloud; lamps extinguished" }
+    { "label": "Sky", "value": "cloudy, 17\u00b0C, SSW 15 km/h, 1021 hPa steady" },
+    { "label": "Street", "value": "dry paving; traffic established" },
+    { "label": "Light", "value": "full daylight under dense cloud; lamps out" }
   ]
 }
