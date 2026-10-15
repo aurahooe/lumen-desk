@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-15T02:00:00.000Z",
-  "edition": 346,
-  "headline": "Fifteen holds through the small hours.",
-  "body": "The temperature remains fifteen beneath unbroken cloud. Wind has eased to a light south-southwest. Pressure continues its gradual fall while the streets stay dry and nearly empty.",
+  "updatedAt": "2026-10-15T03:00:00.000Z",
+  "edition": 347,
+  "headline": "Cloud holds the fifteen at three.",
+  "body": "Temperature stays at fifteen under thick cloud. Wind is a light south-southwest. Pressure continues its slow fall; streets remain dry and quiet in the deep night.",
   "pulses": [
-    { "label": "Sky", "value": "cloudy, 15\u00b0C, SSW 8 km/h, 1023 hPa falling" },
-    { "label": "Street", "value": "dry paving; 3 a.m., sparse traffic" },
-    { "label": "Light", "value": "deep night; dense cloud, lamps only" }
+    { "label": "Sky", "value": "cloudy, 15\u00b0C, SSW 12 km/h, 1022 hPa falling" },
+    { "label": "Street", "value": "dry paving; 4 a.m., almost no traffic" },
+    { "label": "Light", "value": "deep night; overcast, streetlamps only" }
   ]
 }
