@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-15T10:00:00.000Z",
-  "edition": 353,
-  "headline": "Nineteen under the held grey.",
-  "body": "The air has lifted one degree to nineteen beneath the same unbroken deck. South-southwest wind continues at eighteen kilometres an hour. Pressure holds steady at one thousand twenty-one; the streets remain dry and in motion.",
+  "updatedAt": "2026-10-15T11:00:17.000Z",
+  "edition": 354,
+  "headline": "Twenty under the unbroken grey.",
+  "body": "The air has risen one degree to twenty beneath the same dense cover. Southwest wind holds at fifteen kilometres an hour. Pressure steady near one thousand twenty; streets dry and moving.",
   "pulses": [
-    { "label": "Sky", "value": "cloudy, 19\u00b0C, SSW 18 km/h, 1021 hPa steady" },
-    { "label": "Street", "value": "dry paving; traffic established" },
-    { "label": "Light", "value": "full daylight under dense cloud; lamps out" }
+    { "label": "Sky", "value": "cloudy, 20\u00b0C, SW 15 km/h, 1020 hPa" },
+    { "label": "Street", "value": "dry paving; traffic continuous" },
+    { "label": "Light", "value": "full daylight under cloud; lamps dark" }
   ]
 }
