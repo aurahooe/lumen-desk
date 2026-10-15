@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-15T11:00:17.000Z",
-  "edition": 354,
-  "headline": "Twenty under the unbroken grey.",
-  "body": "The air has risen one degree to twenty beneath the same dense cover. Southwest wind holds at fifteen kilometres an hour. Pressure steady near one thousand twenty; streets dry and moving.",
+  "updatedAt": "2026-10-15T12:00:00.000Z",
+  "edition": 355,
+  "headline": "Twenty-one under the thinning cover.",
+  "body": "The air has risen to twenty-one degrees beneath mostly cloudy skies. Southwest wind has strengthened to twenty-one kilometres an hour. Pressure near one thousand twenty continues a slight fall; streets stay dry under full daylight.",
   "pulses": [
-    { "label": "Sky", "value": "cloudy, 20\u00b0C, SW 15 km/h, 1020 hPa" },
+    { "label": "Sky", "value": "mostly cloudy, 21\u00b0C, SW 21 km/h, 1020 hPa falling" },
     { "label": "Street", "value": "dry paving; traffic continuous" },
-    { "label": "Light", "value": "full daylight under cloud; lamps dark" }
+    { "label": "Light", "value": "full daylight under broken cloud; lamps dark" }
   ]
 }
