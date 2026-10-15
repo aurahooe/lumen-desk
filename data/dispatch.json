@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-15T08:00:00.000Z",
-  "edition": 351,
-  "headline": "Seventeen under the unbroken deck.",
-  "body": "The temperature has risen to seventeen degrees beneath the near-complete cloud. Wind from the south-southwest continues at fifteen kilometres an hour. Pressure remains steady at one thousand twenty-one; morning traffic moves along dry streets.",
+  "updatedAt": "2026-10-15T09:00:00.000Z",
+  "edition": 352,
+  "headline": "Eighteen under the persistent deck.",
+  "body": "The temperature has advanced to eighteen degrees beneath the near-complete cloud. South-southwest wind holds near eighteen kilometres an hour. Pressure remains steady at one thousand twenty-one; dry streets carry established traffic.",
   "pulses": [
-    { "label": "Sky", "value": "cloudy, 17\u00b0C, SSW 15 km/h, 1021 hPa steady" },
+    { "label": "Sky", "value": "cloudy, 18\u00b0C, SSW 18 km/h, 1021 hPa steady" },
     { "label": "Street", "value": "dry paving; traffic established" },
     { "label": "Light", "value": "full daylight under dense cloud; lamps out" }
   ]
