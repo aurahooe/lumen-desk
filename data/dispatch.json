@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-15T22:00:00.000Z",
-  "edition": 362,
-  "headline": "Sixteen under a mostly clear sky.",
-  "body": "The temperature eases to sixteen as cloud thins to mostly clear. Southwest wind continues near twelve kilometres an hour; pressure holds at one thousand nineteen. Dry streets, late traffic thinning under the lamps.",
+  "updatedAt": "2026-10-15T23:00:00.000Z",
+  "edition": 363,
+  "headline": "Midnight holds at sixteen.",
+  "body": "Cloud remains thin under a mostly clear sky. The southwest wind keeps its pace near twelve kilometres an hour; pressure steady at one thousand nineteen. Streets empty further, lamps alone on the paving.",
   "pulses": [
     { "label": "Sky", "value": "mostly clear, 16\u00b0C, SW 12 km/h, 1019 hPa" },
-    { "label": "Street", "value": "dry paving; late traffic thinning" },
+    { "label": "Street", "value": "dry paving; traffic nearly gone" },
     { "label": "Light", "value": "full dark; lamps steady" }
   ]
 }
