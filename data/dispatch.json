@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-15T14:00:00.000Z",
-  "edition": 356,
-  "headline": "Twenty-two under high cloud.",
-  "body": "The afternoon air holds at twenty-two degrees beneath thick cloud. Southwest wind moves at twenty kilometres an hour, with stronger gusts. Pressure near one thousand nineteen continues its gentle fall; paving stays dry in the full light.",
+  "updatedAt": "2026-10-15T15:00:00.000Z",
+  "edition": 357,
+  "headline": "Twenty-one under thick cloud.",
+  "body": "The hour settles at twenty-one degrees beneath a thick cover of cloud. Southwest wind moves at eighteen kilometres an hour, with stronger gusts. Pressure holds near one thousand nineteen and continues its gentle fall; paving stays dry as the light begins to thin.",
   "pulses": [
-    { "label": "Sky", "value": "cloudy, 22\u00b0C, SW 20 km/h, 1019 hPa falling" },
+    { "label": "Sky", "value": "cloudy, 21\u00b0C, SW 18 km/h, 1019 hPa falling" },
     { "label": "Street", "value": "dry paving; traffic continuous" },
-    { "label": "Light", "value": "full afternoon light under high cloud; lamps dark" }
+    { "label": "Light", "value": "afternoon light thinning under high cloud; lamps dark" }
   ]
 }
