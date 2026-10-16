@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-16T13:00:00.000Z",
-  "edition": 370,
-  "headline": "Sixteen degrees under broken cloud.",
-  "body": "Partly cloudy at sixteen degrees, the morning rain long gone. Northwest wind near sixteen kilometres an hour; the barometer stands at one thousand twenty-three and rises. Dry pavement under high daylight.",
+  "updatedAt": "2026-10-16T15:00:00.000Z",
+  "edition": 371,
+  "headline": "Northwest wind under broken cloud.",
+  "body": "Sixteen degrees, partly cloudy, the afternoon breeze strengthening from the northwest. Barometer stands at one thousand twenty-four and rises. Dry pavement under high daylight.",
   "pulses": [
-    { "label": "Sky", "value": "partly cloudy, 16\u00b0C, NW 16 km/h, 1023 hPa" },
+    { "label": "Sky", "value": "partly cloudy, 16\u00b0C, NW 18 km/h, 1024 hPa" },
     { "label": "Street", "value": "dry paving; traffic steady" },
     { "label": "Light", "value": "high daylight; lamps off" }
   ]
