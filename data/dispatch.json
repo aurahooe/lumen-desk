@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-16T19:00:49.000Z",
-  "edition": 374,
-  "headline": "Clear night, pressure still climbing.",
-  "body": "Twelve degrees under a nearly empty sky. Northwest wind at twelve kilometres an hour, barometer at one thousand twenty-seven and rising. Dry streets; the lamps have taken the evening.",
+  "updatedAt": "2026-10-16T22:00:00.000Z",
+  "edition": 375,
+  "headline": "Clear night, ten degrees holding.",
+  "body": "Northwest wind at eleven kilometres an hour. Pressure at one thousand twenty-nine and still rising. Dry streets under a nearly empty sky; the lamps are steady.",
   "pulses": [
-    { "label": "Sky", "value": "clear, 12\u00b0C, NW 12 km/h, 1027 hPa" },
+    { "label": "Sky", "value": "clear, 10\u00b0C, NW 11 km/h, 1029 hPa" },
     { "label": "Street", "value": "dry paving; quiet traffic" },
     { "label": "Light", "value": "full dark; lamps along the pavements" }
   ]
