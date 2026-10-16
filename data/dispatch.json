@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-16T09:00:00.000Z",
-  "edition": 367,
-  "headline": "Drizzle under a rising glass.",
-  "body": "Thirteen degrees holds under unbroken cloud as fine rain continues. Northwest wind near fourteen kilometres an hour; the barometer climbs to one thousand twenty-one. Wet paving reflects the flat daylight, lamps long extinguished.",
+  "updatedAt": "2026-10-16T10:00:00.000Z",
+  "edition": 368,
+  "headline": "Cloud thinning, glass still climbs.",
+  "body": "Thirteen degrees under a mostly cloudy sky as the drizzle lifts. Northwest wind at fourteen kilometres an hour; the barometer holds near one thousand twenty-one and rises. Pavements remain damp, full daylight across the street.",
   "pulses": [
-    { "label": "Sky", "value": "drizzle, 13\u00b0C, NW 14 km/h, 1021 hPa" },
-    { "label": "Street", "value": "wet paving; traffic moving" },
+    { "label": "Sky", "value": "mostly cloudy, 13\u00b0C, NW 14 km/h, 1021 hPa" },
+    { "label": "Street", "value": "damp paving; traffic moving" },
     { "label": "Light", "value": "full daylight; lamps off" }
   ]
 }
