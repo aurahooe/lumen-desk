@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-16T03:00:00.000Z",
-  "edition": 364,
-  "headline": "Fifteen under thickening cloud.",
-  "body": "The temperature eases to fifteen as cloud builds overhead. Southwest wind holds near eleven kilometres an hour; pressure slips to one thousand seventeen. Streets stay dry for now, lamps alone on the paving before the first light.",
+  "updatedAt": "2026-10-16T06:00:00.000Z",
+  "edition": 365,
+  "headline": "Drizzle at the edge of light.",
+  "body": "Temperature holds at fifteen as fine rain begins to settle on the paving. Northwest wind near nine kilometres an hour; pressure steady at one thousand eighteen. Lamps still burn under the first grey of civil twilight.",
   "pulses": [
-    { "label": "Sky", "value": "mostly cloudy, 15\u00b0C, SW 11 km/h, 1017 hPa" },
-    { "label": "Street", "value": "dry paving; traffic quiet" },
-    { "label": "Light", "value": "full dark; lamps steady" }
+    { "label": "Sky", "value": "drizzle, 15\u00b0C, NW 9 km/h, 1018 hPa" },
+    { "label": "Street", "value": "wet paving; traffic quiet" },
+    { "label": "Light", "value": "civil twilight; lamps still on" }
   ]
 }
