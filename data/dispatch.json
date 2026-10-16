@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-16T16:00:00.000Z",
-  "edition": 372,
-  "headline": "Clearing light, wind from the northwest.",
-  "body": "Fifteen degrees under thinning cloud. The barometer holds at one thousand twenty-four and still climbs. Dry streets, the afternoon leaning toward evening.",
+  "updatedAt": "2026-10-16T17:00:00.000Z",
+  "edition": 373,
+  "headline": "Clear sky, northwest wind holding.",
+  "body": "Fourteen degrees as the light thins. Pressure at one thousand twenty-five and still rising. Dry streets under a clearing evening.",
   "pulses": [
-    { "label": "Sky", "value": "mostly clear, 15\u00b0C, NW 16 km/h, 1024 hPa" },
-    { "label": "Street", "value": "dry paving; light traffic" },
-    { "label": "Light", "value": "high but softening; lamps still dark" }
+    { "label": "Sky", "value": "clear, 14\u00b0C, NW 14 km/h, 1025 hPa" },
+    { "label": "Street", "value": "dry paving; quiet traffic" },
+    { "label": "Light", "value": "softening at dusk; first lamps on" }
   ]
 }
