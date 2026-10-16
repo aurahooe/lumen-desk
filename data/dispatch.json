@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-16T06:00:00.000Z",
-  "edition": 365,
-  "headline": "Drizzle at the edge of light.",
-  "body": "Temperature holds at fifteen as fine rain begins to settle on the paving. Northwest wind near nine kilometres an hour; pressure steady at one thousand eighteen. Lamps still burn under the first grey of civil twilight.",
+  "updatedAt": "2026-10-16T07:00:00.000Z",
+  "edition": 366,
+  "headline": "Rain under a rising barometer.",
+  "body": "Temperature eases to fourteen as rain continues across the city. Northwest wind holds near fifteen kilometres an hour; pressure rises to one thousand nineteen. Daylight has arrived fully, lamps extinguished, wet paving under unbroken cloud.",
   "pulses": [
-    { "label": "Sky", "value": "drizzle, 15\u00b0C, NW 9 km/h, 1018 hPa" },
-    { "label": "Street", "value": "wet paving; traffic quiet" },
-    { "label": "Light", "value": "civil twilight; lamps still on" }
+    { "label": "Sky", "value": "rain, 14\u00b0C, NW 15 km/h, 1019 hPa" },
+    { "label": "Street", "value": "wet paving; traffic stirring" },
+    { "label": "Light", "value": "full daylight; lamps off" }
   ]
 }
