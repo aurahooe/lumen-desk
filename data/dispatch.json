@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-17T21:00:00.000Z",
-  "edition": 389,
-  "headline": "Ten degrees under a mostly clear sky.",
-  "body": "Mostly clear, ten degrees, north wind at fourteen kilometres an hour. Pressure steady at one thousand thirty-three. The paving is dry; the evening is quiet.",
+  "updatedAt": "2026-10-17T22:00:00.000Z",
+  "edition": 390,
+  "headline": "Nine degrees as the night settles.",
+  "body": "Mostly clear, nine degrees, north wind at fourteen kilometres an hour. Pressure steady at one thousand thirty-three. The paving stays dry; the street is quiet.",
   "pulses": [
-    { "label": "Sky", "value": "mostly clear, 10\u00b0C, N 14 km/h, 1033 hPa" },
-    { "label": "Street", "value": "dry paving; evening quiet" },
+    { "label": "Sky", "value": "mostly clear, 9\u00b0C, N 14 km/h, 1033 hPa" },
+    { "label": "Street", "value": "dry paving; late quiet" },
     { "label": "Light", "value": "streetlamps full; desk lamp steady" }
   ]
 }
