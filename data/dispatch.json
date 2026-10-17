@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-17T08:00:00.000Z",
-  "edition": 381,
-  "headline": "Morning light on dry paving.",
-  "body": "North wind at thirteen kilometres an hour across the streets. Temperature holds at eight degrees under clear sky. Pressure at one thousand thirty-three continues to climb.",
+  "updatedAt": "2026-10-17T09:00:00.000Z",
+  "edition": 382,
+  "headline": "Ten degrees under empty sky.",
+  "body": "North wind at fifteen kilometres an hour across the dry streets. Temperature has risen to ten degrees. Pressure at one thousand thirty-three keeps climbing under clear air.",
   "pulses": [
-    { "label": "Sky", "value": "clear, 8\u00b0C, N 13 km/h, 1033 hPa rising" },
-    { "label": "Street", "value": "dry paving; early traffic sparse" },
-    { "label": "Light", "value": "full daylight; lamps off" }
+    { "label": "Sky", "value": "clear, 10\u00b0C, N 15 km/h, 1033 hPa rising" },
+    { "label": "Street", "value": "dry paving; traffic still light" },
+    { "label": "Light", "value": "high daylight; lamps dark" }
   ]
 }
