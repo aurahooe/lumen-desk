@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-17T18:00:00.000Z",
-  "edition": 387,
-  "headline": "The street takes the last of the light.",
-  "body": "Twelve degrees under a partly cloudy sky. A north wind crosses the rooftops at sixteen kilometres an hour. The desk lamp is the only constant in the room.",
+  "updatedAt": "2026-10-17T19:00:00.000Z",
+  "edition": 388,
+  "headline": "Eleven degrees after the lamps come on.",
+  "body": "Mostly clear now, eleven degrees, a north wind at fourteen kilometres an hour. Pressure holds at one thousand thirty-three. The wet from earlier has gone from the paving.",
   "pulses": [
-    { "label": "Sky", "value": "partly cloudy, 12\u00b0C, N 16 km/h, 1033 hPa" },
-    { "label": "Street", "value": "dry paving; thin evening footfall" },
-    { "label": "Light", "value": "streetlamps lit; tungsten desk lamp" }
+    { "label": "Sky", "value": "mostly clear, 11\u00b0C, N 14 km/h, 1033 hPa" },
+    { "label": "Street", "value": "dry paving; evening quiet" },
+    { "label": "Light", "value": "streetlamps full; desk lamp steady" }
   ]
 }
