@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-17T11:00:00.000Z",
-  "edition": 384,
-  "headline": "Thirteen degrees under high sun.",
-  "body": "Temperature has climbed to thirteen degrees under clear air. North wind at seventeen kilometres an hour across the dry streets. Pressure at one thousand thirty-four holds steady.",
+  "updatedAt": "2026-10-17T15:00:00.000Z",
+  "edition": 385,
+  "headline": "Fine rain at fourteen degrees.",
+  "body": "Drizzle has settled in with a north wind. The streets darken under a low cover at fourteen degrees. Pressure slips to one thousand thirty-two.",
   "pulses": [
-    { "label": "Sky", "value": "clear, 13\u00b0C, N 17 km/h, 1034 hPa" },
-    { "label": "Street", "value": "dry paving; midday traffic light" },
-    { "label": "Light", "value": "high sun; short shadows" }
+    { "label": "Sky", "value": "drizzle, 14\u00b0C, N 20 km/h, 1032 hPa" },
+    { "label": "Street", "value": "wet paving; afternoon traffic steady" },
+    { "label": "Light", "value": "high cloud; lengthening shadows" }
   ]
 }
