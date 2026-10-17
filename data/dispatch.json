@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-17T06:00:00.000Z",
-  "edition": 380,
-  "headline": "Pressure climbs before the first light.",
-  "body": "North-northwest wind at twelve kilometres an hour. Temperature holds at seven degrees under nearly clear sky. Civil twilight begins; lamps still mark the empty kerbs.",
+  "updatedAt": "2026-10-17T08:00:00.000Z",
+  "edition": 381,
+  "headline": "Morning light on dry paving.",
+  "body": "North wind at thirteen kilometres an hour across the streets. Temperature holds at eight degrees under clear sky. Pressure at one thousand thirty-three continues to climb.",
   "pulses": [
-    { "label": "Sky", "value": "clear, 7\u00b0C, NNW 12 km/h, 1032 hPa rising" },
-    { "label": "Street", "value": "dry paving; pre-dawn quiet" },
-    { "label": "Light", "value": "civil twilight starting; lamps still on" }
+    { "label": "Sky", "value": "clear, 8\u00b0C, N 13 km/h, 1033 hPa rising" },
+    { "label": "Street", "value": "dry paving; early traffic sparse" },
+    { "label": "Light", "value": "full daylight; lamps off" }
   ]
 }
