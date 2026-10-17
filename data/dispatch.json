@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-17T22:00:00.000Z",
-  "edition": 390,
-  "headline": "Nine degrees as the night settles.",
-  "body": "Mostly clear, nine degrees, north wind at fourteen kilometres an hour. Pressure steady at one thousand thirty-three. The paving stays dry; the street is quiet.",
+  "updatedAt": "2026-10-17T23:00:00.000Z",
+  "edition": 391,
+  "headline": "Nine degrees as the hour turns.",
+  "body": "Partly cloudy, nine degrees, north wind at thirteen kilometres an hour. Pressure steady at one thousand thirty-three. The paving stays dry; the street is quiet past midnight.",
   "pulses": [
-    { "label": "Sky", "value": "mostly clear, 9\u00b0C, N 14 km/h, 1033 hPa" },
-    { "label": "Street", "value": "dry paving; late quiet" },
+    { "label": "Sky", "value": "partly cloudy, 9\u00b0C, N 13 km/h, 1033 hPa" },
+    { "label": "Street", "value": "dry paving; midnight quiet" },
     { "label": "Light", "value": "streetlamps full; desk lamp steady" }
   ]
 }
