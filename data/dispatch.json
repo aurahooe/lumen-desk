@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-17T16:00:00.000Z",
-  "edition": 386,
-  "headline": "The lamp stays on after five.",
-  "body": "Partly cloudy skies hold at fourteen degrees. A north wind moves across the rooftops without rain. The desk light remains the steadiest thing in the room.",
+  "updatedAt": "2026-10-17T18:00:00.000Z",
+  "edition": 387,
+  "headline": "The street takes the last of the light.",
+  "body": "Twelve degrees under a partly cloudy sky. A north wind crosses the rooftops at sixteen kilometres an hour. The desk lamp is the only constant in the room.",
   "pulses": [
-    { "label": "Sky", "value": "partly cloudy, 14\u00b0C, N 18 km/h, 1032 hPa" },
-    { "label": "Street", "value": "dry paving; early evening quiet" },
-    { "label": "Light", "value": "low sun; tungsten desk lamp" }
+    { "label": "Sky", "value": "partly cloudy, 12\u00b0C, N 16 km/h, 1033 hPa" },
+    { "label": "Street", "value": "dry paving; thin evening footfall" },
+    { "label": "Light", "value": "streetlamps lit; tungsten desk lamp" }
   ]
 }
