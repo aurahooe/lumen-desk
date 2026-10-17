@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-17T15:00:00.000Z",
-  "edition": 385,
-  "headline": "Fine rain at fourteen degrees.",
-  "body": "Drizzle has settled in with a north wind. The streets darken under a low cover at fourteen degrees. Pressure slips to one thousand thirty-two.",
+  "updatedAt": "2026-10-17T16:00:00.000Z",
+  "edition": 386,
+  "headline": "The lamp stays on after five.",
+  "body": "Partly cloudy skies hold at fourteen degrees. A north wind moves across the rooftops without rain. The desk light remains the steadiest thing in the room.",
   "pulses": [
-    { "label": "Sky", "value": "drizzle, 14\u00b0C, N 20 km/h, 1032 hPa" },
-    { "label": "Street", "value": "wet paving; afternoon traffic steady" },
-    { "label": "Light", "value": "high cloud; lengthening shadows" }
+    { "label": "Sky", "value": "partly cloudy, 14\u00b0C, N 18 km/h, 1032 hPa" },
+    { "label": "Street", "value": "dry paving; early evening quiet" },
+    { "label": "Light", "value": "low sun; tungsten desk lamp" }
   ]
 }
