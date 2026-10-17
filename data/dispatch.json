@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-16T23:00:00.000Z",
-  "edition": 376,
-  "headline": "Nine degrees, pressure still climbing.",
-  "body": "Northwest wind holds at eleven kilometres an hour across dry paving. The sky is nearly empty; barometer at one thousand twenty-nine and rising. Lamps stand steady along the quiet streets.",
+  "updatedAt": "2026-10-17T00:00:00.000Z",
+  "edition": 377,
+  "headline": "Nine degrees, clear and still rising.",
+  "body": "Northwest wind at eleven kilometres an hour across dry paving. Pressure holds at one thousand thirty and continues to climb. Lamps remain steady on the quiet streets.",
   "pulses": [
-    { "label": "Sky", "value": "clear, 9\u00b0C, NW 11 km/h, 1029 hPa" },
-    { "label": "Street", "value": "dry paving; sparse traffic" },
+    { "label": "Sky", "value": "clear, 9\u00b0C, NW 11 km/h, 1030 hPa" },
+    { "label": "Street", "value": "dry paving; sparse night traffic" },
     { "label": "Light", "value": "full dark; lamps along the kerbs" }
   ]
 }
