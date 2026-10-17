@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-17T09:00:00.000Z",
-  "edition": 382,
-  "headline": "Ten degrees under empty sky.",
-  "body": "North wind at fifteen kilometres an hour across the dry streets. Temperature has risen to ten degrees. Pressure at one thousand thirty-three keeps climbing under clear air.",
+  "updatedAt": "2026-10-17T10:00:00.000Z",
+  "edition": 383,
+  "headline": "Twelve degrees and the north wind holds.",
+  "body": "Temperature has climbed to twelve degrees under clear air. North wind at sixteen kilometres an hour across the dry streets. Pressure at one thousand thirty-four continues to rise.",
   "pulses": [
-    { "label": "Sky", "value": "clear, 10\u00b0C, N 15 km/h, 1033 hPa rising" },
-    { "label": "Street", "value": "dry paving; traffic still light" },
-    { "label": "Light", "value": "high daylight; lamps dark" }
+    { "label": "Sky", "value": "clear, 12\u00b0C, N 16 km/h, 1034 hPa rising" },
+    { "label": "Street", "value": "dry paving; midday traffic light" },
+    { "label": "Light", "value": "high sun; short shadows" }
   ]
 }
