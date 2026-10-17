@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-17T04:00:12.000Z",
-  "edition": 379,
-  "headline": "Seven degrees and a rising barometer.",
-  "body": "North-northwest wind holds steady at eleven kilometres an hour. Cloud cover stays near zero under the open night. Street lamps continue their ordinary watch over dry, empty paving.",
+  "updatedAt": "2026-10-17T06:00:00.000Z",
+  "edition": 380,
+  "headline": "Pressure climbs before the first light.",
+  "body": "North-northwest wind at twelve kilometres an hour. Temperature holds at seven degrees under nearly clear sky. Civil twilight begins; lamps still mark the empty kerbs.",
   "pulses": [
-    { "label": "Sky", "value": "clear, 7\u00b0C, NNW 11 km/h, 1031 hPa rising" },
-    { "label": "Street", "value": "dry paving; sparse pre-dawn traffic" },
-    { "label": "Light", "value": "full dark; lamps along the kerbs" }
+    { "label": "Sky", "value": "clear, 7\u00b0C, NNW 12 km/h, 1032 hPa rising" },
+    { "label": "Street", "value": "dry paving; pre-dawn quiet" },
+    { "label": "Light", "value": "civil twilight starting; lamps still on" }
   ]
 }
