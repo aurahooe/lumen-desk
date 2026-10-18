@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-18T22:00:00.000Z",
-  "edition": 402,
-  "headline": "Eleven, the rain thins to mist.",
-  "body": "Cloud still covers the city. A light rain holds at ten degrees, wind from the northeast at ten. The wet pavement catches the lamps.",
+  "updatedAt": "2026-10-18T23:00:00.000Z",
+  "edition": 403,
+  "headline": "Midnight, drizzle holds the city.",
+  "body": "Cloud remains complete. Fine rain continues at ten degrees, wind light from the northeast. The pavements shine under the lamps; fewer cars pass.",
   "pulses": [
-    { "label": "Sky", "value": "cloudy, 10\u00b0C, NE 10 km/h, 1026 hPa" },
-    { "label": "Street", "value": "paving glistening; few cars" },
-    { "label": "Light", "value": "full dark; lamps on wet stone" }
+    { "label": "Sky", "value": "drizzle, 10\u00b0C, NNE 8 km/h, 1026 hPa" },
+    { "label": "Street", "value": "wet paving, sparse cars" },
+    { "label": "Light", "value": "lamps on dark wet stone" }
   ]
 }
