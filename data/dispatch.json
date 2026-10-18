@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-18T04:00:00.000Z",
-  "edition": 393,
-  "headline": "Five o’clock, still eight degrees.",
-  "body": "North wind at fifteen kilometres. Pressure holds near one thousand thirty-one, easing. The paving stays dry under full lamps; first light is still an hour off.",
+  "updatedAt": "2026-10-18T08:00:00.000Z",
+  "edition": 394,
+  "headline": "Nine o’clock, nine degrees under cloud.",
+  "body": "North-northeast wind at fourteen kilometres. Pressure steady near one thousand thirty-one. A few drops already on the paving; more expected by late morning.",
   "pulses": [
-    { "label": "Sky", "value": "mostly clear, 8\u00b0C, N 15 km/h, 1031 hPa" },
-    { "label": "Street", "value": "dry paving; empty before dawn" },
-    { "label": "Light", "value": "streetlamps full; sun below the horizon" }
+    { "label": "Sky", "value": "partly cloudy, 9\u00b0C, NNE 14 km/h, 1031 hPa" },
+    { "label": "Street", "value": "damp paving; Sunday quiet before the shops" },
+    { "label": "Light", "value": "sun up an hour and a half; lamps off" }
   ]
 }
