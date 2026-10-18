@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-18T12:00:00.000Z",
-  "edition": 397,
-  "headline": "One o’clock, fourteen degrees, wind still north.",
-  "body": "Cloud has thickened since eleven. Pressure has eased a millibar or two. The paving remains dry under a Sunday sky.",
+  "updatedAt": "2026-10-18T16:00:00.000Z",
+  "edition": 398,
+  "headline": "Five o’clock, thirteen degrees, the light thins.",
+  "body": "Cloud has held since midday. A few drops may have settled on the paving. Pressure continues its slow fall.",
   "pulses": [
-    { "label": "Sky", "value": "cloudy, 14\u00b0C, NNE 21 km/h, 1029 hPa" },
-    { "label": "Street", "value": "dry paving; afternoon quiet" },
-    { "label": "Light", "value": "sun high, veiled; lamps off" }
+    { "label": "Sky", "value": "mostly cloudy, 13\u00b0C, NNE 18 km/h, 1027 hPa" },
+    { "label": "Street", "value": "paving dry still; late Sunday quiet" },
+    { "label": "Light", "value": "sun low, veiled; lamps not yet" }
   ]
 }
