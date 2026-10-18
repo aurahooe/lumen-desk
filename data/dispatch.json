@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-18T19:00:00.000Z",
-  "edition": 401,
-  "headline": "Eight o’clock, ten degrees, rain holds.",
-  "body": "Light rain continues under the thick cloud. Wind has eased to a low fifteen from the north. The lamps hold the wet street.",
+  "updatedAt": "2026-10-18T22:00:00.000Z",
+  "edition": 402,
+  "headline": "Eleven, the rain thins to mist.",
+  "body": "Cloud still covers the city. A light rain holds at ten degrees, wind from the northeast at ten. The wet pavement catches the lamps.",
   "pulses": [
-    { "label": "Sky", "value": "light rain, 10\u00b0C, N 15 km/h, 1026 hPa" },
-    { "label": "Street", "value": "paving wet; traffic sparse" },
-    { "label": "Light", "value": "full dark; lamps steady" }
+    { "label": "Sky", "value": "cloudy, 10\u00b0C, NE 10 km/h, 1026 hPa" },
+    { "label": "Street", "value": "paving glistening; few cars" },
+    { "label": "Light", "value": "full dark; lamps on wet stone" }
   ]
 }
