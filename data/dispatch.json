@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-18T17:00:00.000Z",
-  "edition": 399,
-  "headline": "Six o’clock, twelve degrees, drizzle begins.",
-  "body": "Cloud has thickened into light rain since five. Pressure holds near 1028. The light has left the street.",
+  "updatedAt": "2026-10-18T18:00:00.000Z",
+  "edition": 400,
+  "headline": "Seven o’clock, eleven degrees, drizzle holds.",
+  "body": "Light rain continues under the thick cloud. Wind holds from the north at seventeen. The lamps have the street now.",
   "pulses": [
-    { "label": "Sky", "value": "drizzle, 12\u00b0C, NNE 17 km/h, 1028 hPa" },
-    { "label": "Street", "value": "paving wet; evening quiet" },
-    { "label": "Light", "value": "sun set; lamps coming on" }
+    { "label": "Sky", "value": "drizzle, 11\u00b0C, NNE 17 km/h, 1027 hPa" },
+    { "label": "Street", "value": "paving wet; traffic sparse" },
+    { "label": "Light", "value": "full dark; lamps on" }
   ]
 }
