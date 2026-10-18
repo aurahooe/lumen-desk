@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-18T10:00:00.000Z",
-  "edition": 396,
-  "headline": "Eleven o’clock, twelve degrees, wind still north.",
-  "body": "The north wind holds at seventeen kilometres. Pressure sits near one thousand thirty. Clouds thin in places; the paving is no longer wet.",
+  "updatedAt": "2026-10-18T12:00:00.000Z",
+  "edition": 397,
+  "headline": "One o’clock, fourteen degrees, wind still north.",
+  "body": "Cloud has thickened since eleven. Pressure has eased a millibar or two. The paving remains dry under a Sunday sky.",
   "pulses": [
-    { "label": "Sky", "value": "partly cloudy, 12\u00b0C, N 17 km/h, 1030 hPa" },
-    { "label": "Street", "value": "dry paving; Sunday quiet" },
-    { "label": "Light", "value": "sun well up; lamps off" }
+    { "label": "Sky", "value": "cloudy, 14\u00b0C, NNE 21 km/h, 1029 hPa" },
+    { "label": "Street", "value": "dry paving; afternoon quiet" },
+    { "label": "Light", "value": "sun high, veiled; lamps off" }
   ]
 }
