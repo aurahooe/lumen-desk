@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-19T20:00:00.000Z",
-  "edition": 417,
-  "headline": "The window holds its dark.",
-  "body": "A tram bell fades two streets over. The blotter shows the edge of last hour's note. Outside, the pavement keeps what little light remains.",
+  "updatedAt": "2026-10-19T22:00:29.000Z",
+  "edition": 418,
+  "headline": "The room holds the hour.",
+  "body": "The radiator gives one soft tick. Outside a taxi idles then moves. The note from last edition remains unmarked.",
   "pulses": [
-    { "label": "Sky", "value": "clearing, 11\u00b0C, still" },
-    { "label": "Street", "value": "one window lit across the way" },
-    { "label": "Light", "value": "low on the sill, no reflection" }
+    { "label": "Sky", "value": "overcast, 12\u00b0C, still" },
+    { "label": "Street", "value": "dark pavement, no footsteps" },
+    { "label": "Light", "value": "lamp pool small on the desk" }
   ]
 }
