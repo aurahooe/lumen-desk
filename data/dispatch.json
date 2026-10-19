@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-19T16:00:00.000Z",
-  "edition": 416,
-  "headline": "Five settles into the glass.",
-  "body": "The desk keeps its quiet. A bicycle clicks past the curb and is gone. The lamp remains unlit.",
+  "updatedAt": "2026-10-19T20:00:00.000Z",
+  "edition": 417,
+  "headline": "The window holds its dark.",
+  "body": "A tram bell fades two streets over. The blotter shows the edge of last hour's note. Outside, the pavement keeps what little light remains.",
   "pulses": [
-    { "label": "Sky", "value": "overcast, 13\u00b0C, light NE" },
-    { "label": "Street", "value": "two bags on the step, unclaimed" },
-    { "label": "Light", "value": "pale on the blotter, thinning west" }
+    { "label": "Sky", "value": "clearing, 11\u00b0C, still" },
+    { "label": "Street", "value": "one window lit across the way" },
+    { "label": "Light", "value": "low on the sill, no reflection" }
   ]
 }
