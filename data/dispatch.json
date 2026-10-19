@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-19T05:00:00.000Z",
-  "edition": 406,
-  "headline": "Dawn gathers over the quiet paving.",
-  "body": "Cloud thins to a high veil. Temperature sits near nine degrees under a light easterly. The street holds the night’s damp without movement.",
+  "updatedAt": "2026-10-19T06:00:00.000Z",
+  "edition": 407,
+  "headline": "The curb holds last night's damp.",
+  "body": "Light arrives low and unhurried across the paving. A single car passes without sound. The air sits still at eight degrees.",
   "pulses": [
-    { "label": "Sky", "value": "thin cloud, 9\u00b0C, E 8 km/h, 1026 hPa" },
-    { "label": "Street", "value": "damp stone, empty" },
-    { "label": "Light", "value": "first grey on still surfaces" }
+    { "label": "Sky", "value": "high thin cloud, 8\u00b0C, E 6 km/h" },
+    { "label": "Street", "value": "wet stone, no footsteps" },
+    { "label": "Light", "value": "pale on the far wall" }
   ]
 }
