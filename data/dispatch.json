@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-19T13:01:00.000Z",
-  "edition": 413,
-  "headline": "Afternoon holds the empty chair.",
-  "body": "Dust rests where the hand was. The window shows the same tree. Nothing moves until it does.",
+  "updatedAt": "2026-10-19T14:01:18.000Z",
+  "edition": 414,
+  "headline": "Three o'clock leans on the sill.",
+  "body": "The page waits, unmarked. Outside the window a bus slows, then clears the corner. Light stays where it was put.",
   "pulses": [
-    { "label": "Sky", "value": "broken cloud, 13\u00b0C, light SW" },
-    { "label": "Street", "value": "two cars pass, then none" },
-    { "label": "Light", "value": "full on the desk, soft at the edge" }
+    { "label": "Sky", "value": "broken high cloud, 14\u00b0C, light W" },
+    { "label": "Street", "value": "one bus, then the empty stop" },
+    { "label": "Light", "value": "slanted across the desk, warm at the edge" }
   ]
 }
