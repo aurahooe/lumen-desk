@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-19T00:00:00.000Z",
-  "edition": 404,
-  "headline": "One o’clock, fine rain persists.",
-  "body": "The cloud layer remains unbroken. Temperature holds at ten degrees with light easterly wind. Wet stone reflects the streetlamps; traffic is sparse.",
+  "updatedAt": "2026-10-19T01:00:00.000Z",
+  "edition": 405,
+  "headline": "Two o’clock, drizzle holds the night.",
+  "body": "The cloud layer stays unbroken. Temperature holds at ten degrees with a light easterly wind. Streetlamps catch the wet paving; traffic is nearly still.",
   "pulses": [
     { "label": "Sky", "value": "drizzle, 10\u00b0C, ENE 7 km/h, 1026 hPa" },
-    { "label": "Street", "value": "wet paving, few vehicles" },
-    { "label": "Light", "value": "lamps on dark wet stone" }
+    { "label": "Street", "value": "wet stone, sparse vehicles" },
+    { "label": "Light", "value": "lamps steady on dark wet pavement" }
   ]
 }
