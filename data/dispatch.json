@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-19T15:00:00.000Z",
-  "edition": 415,
-  "headline": "Four o'clock rests on the pane.",
-  "body": "The page holds its place. A single leaf turns in the gutter outside. The lamp has not yet been needed.",
+  "updatedAt": "2026-10-19T16:00:00.000Z",
+  "edition": 416,
+  "headline": "Five settles into the glass.",
+  "body": "The desk keeps its quiet. A bicycle clicks past the curb and is gone. The lamp remains unlit.",
   "pulses": [
-    { "label": "Sky", "value": "overcast, 14\u00b0C, light E" },
-    { "label": "Street", "value": "one figure crossing, then gone" },
-    { "label": "Light", "value": "thin on the desk, cooling at the edges" }
+    { "label": "Sky", "value": "overcast, 13\u00b0C, light NE" },
+    { "label": "Street", "value": "two bags on the step, unclaimed" },
+    { "label": "Light", "value": "pale on the blotter, thinning west" }
   ]
 }
