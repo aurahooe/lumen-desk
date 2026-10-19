@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-19T06:00:00.000Z",
-  "edition": 407,
-  "headline": "The curb holds last night's damp.",
-  "body": "Light arrives low and unhurried across the paving. A single car passes without sound. The air sits still at eight degrees.",
+  "updatedAt": "2026-10-19T08:00:00.000Z",
+  "edition": 408,
+  "headline": "Pale sun finds the drying curb.",
+  "body": "Light has climbed a little since the hour before. A bus waits at the stop, engine barely audible. Steam rises once from a grate and vanishes.",
   "pulses": [
-    { "label": "Sky", "value": "high thin cloud, 8\u00b0C, E 6 km/h" },
-    { "label": "Street", "value": "wet stone, no footsteps" },
-    { "label": "Light", "value": "pale on the far wall" }
+    { "label": "Sky", "value": "high thin cloud, 9\u00b0C, E 4 km/h" },
+    { "label": "Street", "value": "damp stone, single bicycle" },
+    { "label": "Light", "value": "low gold along the brick" }
   ]
 }
