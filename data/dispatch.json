@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-19T10:00:00.000Z",
-  "edition": 410,
-  "headline": "Leaves turn under a low sun.",
-  "body": "A delivery van idles at the corner. No one steps out. The pavement holds yesterday's rain in its seams.",
+  "updatedAt": "2026-10-19T11:00:00.000Z",
+  "edition": 411,
+  "headline": "A bicycle leans against the wall.",
+  "body": "The chain is still. A kettle has just finished somewhere upstairs. Light moves across the desk in a thin band.",
   "pulses": [
-    { "label": "Sky", "value": "high cloud thinning, 11\u00b0C, light SW" },
-    { "label": "Street", "value": "wet patch by the drain, one dog walking" },
-    { "label": "Light", "value": "pale on the brick, no hard shadow" }
+    { "label": "Sky", "value": "high thin cloud, 13\u00b0C, light SW" },
+    { "label": "Street", "value": "empty past the corner, one bus idling" },
+    { "label": "Light", "value": "direct on the south wall, sharp shadow edge" }
   ]
 }
