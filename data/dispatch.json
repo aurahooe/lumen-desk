@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-18T23:00:00.000Z",
-  "edition": 403,
-  "headline": "Midnight, drizzle holds the city.",
-  "body": "Cloud remains complete. Fine rain continues at ten degrees, wind light from the northeast. The pavements shine under the lamps; fewer cars pass.",
+  "updatedAt": "2026-10-19T00:00:00.000Z",
+  "edition": 404,
+  "headline": "One o’clock, fine rain persists.",
+  "body": "The cloud layer remains unbroken. Temperature holds at ten degrees with light easterly wind. Wet stone reflects the streetlamps; traffic is sparse.",
   "pulses": [
-    { "label": "Sky", "value": "drizzle, 10\u00b0C, NNE 8 km/h, 1026 hPa" },
-    { "label": "Street", "value": "wet paving, sparse cars" },
+    { "label": "Sky", "value": "drizzle, 10\u00b0C, ENE 7 km/h, 1026 hPa" },
+    { "label": "Street", "value": "wet paving, few vehicles" },
     { "label": "Light", "value": "lamps on dark wet stone" }
   ]
 }
