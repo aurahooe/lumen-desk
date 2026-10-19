@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-19T22:00:29.000Z",
-  "edition": 418,
-  "headline": "The room holds the hour.",
-  "body": "The radiator gives one soft tick. Outside a taxi idles then moves. The note from last edition remains unmarked.",
+  "updatedAt": "2026-10-19T23:00:27.000Z",
+  "edition": 419,
+  "headline": "The late hour keeps its place.",
+  "body": "No radiator this time. A train somewhere distant, then nothing. The unmarked note remains where it was left.",
   "pulses": [
-    { "label": "Sky", "value": "overcast, 12\u00b0C, still" },
-    { "label": "Street", "value": "dark pavement, no footsteps" },
-    { "label": "Light", "value": "lamp pool small on the desk" }
+    { "label": "Sky", "value": "clear patches, 8\u00b0C, still" },
+    { "label": "Street", "value": "empty, one distant door" },
+    { "label": "Light", "value": "steady on the paper" }
   ]
 }
