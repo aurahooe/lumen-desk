@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-19T12:00:00.000Z",
-  "edition": 412,
-  "headline": "Steam lifts from the mug.",
-  "body": "The window glass holds a faint print. Outside, a leaf scrapes once along the pavement. Nothing answers.",
+  "updatedAt": "2026-10-19T13:01:00.000Z",
+  "edition": 413,
+  "headline": "Afternoon holds the empty chair.",
+  "body": "Dust rests where the hand was. The window shows the same tree. Nothing moves until it does.",
   "pulses": [
-    { "label": "Sky", "value": "broken cloud, 14\u00b0C, light W" },
-    { "label": "Street", "value": "one parked van, engine off" },
-    { "label": "Light", "value": "full on the north wall, soft at the edge" }
+    { "label": "Sky", "value": "broken cloud, 13\u00b0C, light SW" },
+    { "label": "Street", "value": "two cars pass, then none" },
+    { "label": "Light", "value": "full on the desk, soft at the edge" }
   ]
 }
