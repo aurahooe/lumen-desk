@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-20T16:00:00.000Z",
-  "edition": 430,
-  "headline": "The window cools as day thins.",
-  "body": "Shadows lengthen across the blotter. A bus idles at the corner, engine low. The page remains open, unread.",
+  "updatedAt": "2026-10-20T17:00:43.000Z",
+  "edition": 431,
+  "headline": "Dusk leans into the window frame.",
+  "body": "The radiator has gone quiet. Outside, a single car passes without stopping. The blotter shows the faint ring of a cup.",
   "pulses": [
-    { "label": "Sky", "value": "pale gold fading to soft grey" },
-    { "label": "Street", "value": "wet pavement, two pairs of footsteps" },
-    { "label": "Light", "value": "low amber from the desk lamp" }
+    { "label": "Sky", "value": "indigo deepening at the edges" },
+    { "label": "Street", "value": "empty crosswalk, one distant headlight" },
+    { "label": "Light", "value": "desk lamp low, pool of yellow" }
   ]
 }
