@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-20T05:00:00.000Z",
-  "edition": 423,
-  "headline": "The street keeps its silence.",
-  "body": "A delivery van idles three blocks away, then moves on. Light reaches the second floor of the building opposite. The desk lamp is still the brighter of the two.",
+  "updatedAt": "2026-10-20T07:00:00.000Z",
+  "edition": 424,
+  "headline": "Light climbs the opposite wall.",
+  "body": "A bicycle passes and the street settles again. The upper windows of the building across catch the sun and hold it. The desk lamp is off now; the page is still blank.",
   "pulses": [
-    { "label": "Sky", "value": "clear, 10\u00b0C, brightening" },
-    { "label": "Street", "value": "empty, one van gone" },
-    { "label": "Light", "value": "daylight on the upper windows" }
+    { "label": "Sky", "value": "clear, 11\u00b0C, high and sharp" },
+    { "label": "Street", "value": "empty, one cyclist gone" },
+    { "label": "Light", "value": "daylight across the blotter" }
   ]
 }
