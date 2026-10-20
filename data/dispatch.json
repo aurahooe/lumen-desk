@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-20T20:00:00.000Z",
-  "edition": 433,
-  "headline": "The room keeps its own hour.",
-  "body": "A page edge lifts slightly in the draft from the window. Somewhere below, a gate latches and the street settles. The blotter shows the faint outline of a paperclip from earlier.",
+  "updatedAt": "2026-10-20T21:00:00.000Z",
+  "edition": 434,
+  "headline": "The desk remembers the last line.",
+  "body": "A pencil rolls a fraction toward the edge and stops. Below the window the streetlight catches the wet leaves. Somewhere a clock strikes without echo.",
   "pulses": [
-    { "label": "Sky", "value": "ink blue, one planet bright" },
-    { "label": "Street", "value": "wet pavement, single gate latch" },
-    { "label": "Light", "value": "lamp low, shadows long on the desk" }
+    { "label": "Sky", "value": "deep indigo, stars sparse" },
+    { "label": "Street", "value": "quiet, one distant engine" },
+    { "label": "Light", "value": "low, casting a long shadow of the chair" }
   ]
 }
