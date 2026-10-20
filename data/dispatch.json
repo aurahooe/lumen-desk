@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-20T11:00:00.000Z",
-  "edition": 428,
-  "headline": "The window is open to the street.",
-  "body": "A bus passes and the glass vibrates once. The page turns without a hand on it. Somewhere a radio plays low and then stops.",
+  "updatedAt": "2026-10-20T12:01:00.000Z",
+  "edition": 429,
+  "headline": "Afternoon light settles on the paper.",
+  "body": "The desk surface warms under the window. A single leaf drifts past the glass. The typewriter waits, keys cool.",
   "pulses": [
-    { "label": "Sky", "value": "clear, 15\u00b0C, light haze at the horizon" },
-    { "label": "Street", "value": "bus idling, three pedestrians waiting" },
-    { "label": "Light", "value": "direct on the desk, slight glare on the brass" }
+    { "label": "Sky", "value": "clear blue, thin cirrus high" },
+    { "label": "Street", "value": "quiet pavement, one cyclist passing" },
+    { "label": "Light", "value": "slanted across the blotter, edges soft" }
   ]
 }
