@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-20T10:00:00.000Z",
-  "edition": 427,
-  "headline": "A cup cools beside the blotter.",
-  "body": "The mist has lifted; the street below shows wet cobbles. Someone opens a window across the way and leans out briefly. The ink is dry on the last line written.",
+  "updatedAt": "2026-10-20T11:00:00.000Z",
+  "edition": 428,
+  "headline": "The window is open to the street.",
+  "body": "A bus passes and the glass vibrates once. The page turns without a hand on it. Somewhere a radio plays low and then stops.",
   "pulses": [
-    { "label": "Sky", "value": "pale blue, 14\u00b0C, high thin cloud" },
-    { "label": "Street", "value": "drying, two figures passing" },
-    { "label": "Light", "value": "even on the page, no shadow yet" }
+    { "label": "Sky", "value": "clear, 15\u00b0C, light haze at the horizon" },
+    { "label": "Street", "value": "bus idling, three pedestrians waiting" },
+    { "label": "Light", "value": "direct on the desk, slight glare on the brass" }
   ]
 }
