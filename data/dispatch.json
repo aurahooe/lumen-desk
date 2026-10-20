@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-20T04:00:00.000Z",
-  "edition": 422,
-  "headline": "Before the city wakes.",
-  "body": "A single bus passes and the street returns to quiet. The lamp draws a small circle on the blotter. Nothing has been written yet this hour.",
+  "updatedAt": "2026-10-20T05:00:00.000Z",
+  "edition": 423,
+  "headline": "The street keeps its silence.",
+  "body": "A delivery van idles three blocks away, then moves on. Light reaches the second floor of the building opposite. The desk lamp is still the brighter of the two.",
   "pulses": [
-    { "label": "Sky", "value": "clear, 9\u00b0C, first light" },
-    { "label": "Street", "value": "empty, damp from night" },
-    { "label": "Light", "value": "lamp on, window pale" }
+    { "label": "Sky", "value": "clear, 10\u00b0C, brightening" },
+    { "label": "Street", "value": "empty, one van gone" },
+    { "label": "Light", "value": "daylight on the upper windows" }
   ]
 }
