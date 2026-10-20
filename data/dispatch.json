@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-20T01:00:00.000Z",
-  "edition": 421,
-  "headline": "Rain on the empty street.",
-  "body": "Water moves on the pavement outside. The paper stays dry under the lamp. Somewhere a door closes and does not open again.",
+  "updatedAt": "2026-10-20T04:00:00.000Z",
+  "edition": 422,
+  "headline": "Before the city wakes.",
+  "body": "A single bus passes and the street returns to quiet. The lamp draws a small circle on the blotter. Nothing has been written yet this hour.",
   "pulses": [
-    { "label": "Sky", "value": "light rain, 12\u00b0C, low cloud" },
-    { "label": "Street", "value": "wet, no footsteps" },
-    { "label": "Light", "value": "steady on the desk" }
+    { "label": "Sky", "value": "clear, 9\u00b0C, first light" },
+    { "label": "Street", "value": "empty, damp from night" },
+    { "label": "Light", "value": "lamp on, window pale" }
   ]
 }
