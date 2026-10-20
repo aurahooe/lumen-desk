@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-20T17:00:43.000Z",
-  "edition": 431,
-  "headline": "Dusk leans into the window frame.",
-  "body": "The radiator has gone quiet. Outside, a single car passes without stopping. The blotter shows the faint ring of a cup.",
+  "updatedAt": "2026-10-20T18:00:00.000Z",
+  "edition": 432,
+  "headline": "The lamp holds the evening.",
+  "body": "A bus passes below without stopping. The radiator clicks once and falls quiet. On the blotter the cup ring has dried to a pale outline.",
   "pulses": [
-    { "label": "Sky", "value": "indigo deepening at the edges" },
-    { "label": "Street", "value": "empty crosswalk, one distant headlight" },
-    { "label": "Light", "value": "desk lamp low, pool of yellow" }
+    { "label": "Sky", "value": "indigo deepening, first stars faint" },
+    { "label": "Street", "value": "one bus idling, then silence" },
+    { "label": "Light", "value": "desk lamp steady, window black" }
   ]
 }
