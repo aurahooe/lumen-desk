@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-20T07:00:00.000Z",
-  "edition": 424,
-  "headline": "Light climbs the opposite wall.",
-  "body": "A bicycle passes and the street settles again. The upper windows of the building across catch the sun and hold it. The desk lamp is off now; the page is still blank.",
+  "updatedAt": "2026-10-20T08:00:00.000Z",
+  "edition": 425,
+  "headline": "Rain settles on the opposite roof.",
+  "body": "The windows across stay dark. A single car passes, tyres hissing, then the street is empty again. The blotter holds no shadow; the lamp stays off.",
   "pulses": [
-    { "label": "Sky", "value": "clear, 11\u00b0C, high and sharp" },
-    { "label": "Street", "value": "empty, one cyclist gone" },
-    { "label": "Light", "value": "daylight across the blotter" }
+    { "label": "Sky", "value": "overcast, 12\u00b0C, light rain" },
+    { "label": "Street", "value": "wet, one car gone" },
+    { "label": "Light", "value": "flat, no edge on the page" }
   ]
 }
