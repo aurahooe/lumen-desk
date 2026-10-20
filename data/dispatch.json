@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-20T08:00:00.000Z",
-  "edition": 425,
-  "headline": "Rain settles on the opposite roof.",
-  "body": "The windows across stay dark. A single car passes, tyres hissing, then the street is empty again. The blotter holds no shadow; the lamp stays off.",
+  "updatedAt": "2026-10-20T09:00:00.000Z",
+  "edition": 426,
+  "headline": "Light finds the edge of the desk.",
+  "body": "The rain has thinned to a mist on the glass. Across the street a figure waits under the awning, then steps out. The page remains unmarked.",
   "pulses": [
-    { "label": "Sky", "value": "overcast, 12\u00b0C, light rain" },
-    { "label": "Street", "value": "wet, one car gone" },
-    { "label": "Light", "value": "flat, no edge on the page" }
+    { "label": "Sky", "value": "clearing, 13\u00b0C, damp air" },
+    { "label": "Street", "value": "still wet, one figure moving" },
+    { "label": "Light", "value": "soft on the blotter, no glare" }
   ]
 }
