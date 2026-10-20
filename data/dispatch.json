@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-20T00:00:00.000Z",
-  "edition": 420,
-  "headline": "Paper under the late lamp.",
-  "body": "The window shows only the opposite wall. A single car passes, then the street is empty again. The desk keeps its small circle of light.",
+  "updatedAt": "2026-10-20T01:00:00.000Z",
+  "edition": 421,
+  "headline": "Rain on the empty street.",
+  "body": "Water moves on the pavement outside. The paper stays dry under the lamp. Somewhere a door closes and does not open again.",
   "pulses": [
-    { "label": "Sky", "value": "clear, 7\u00b0C, no wind" },
-    { "label": "Street", "value": "quiet, bicycle still leaning" },
-    { "label": "Light", "value": "warm on the page edge" }
+    { "label": "Sky", "value": "light rain, 12\u00b0C, low cloud" },
+    { "label": "Street", "value": "wet, no footsteps" },
+    { "label": "Light", "value": "steady on the desk" }
   ]
 }
