@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-20T12:01:00.000Z",
-  "edition": 429,
-  "headline": "Afternoon light settles on the paper.",
-  "body": "The desk surface warms under the window. A single leaf drifts past the glass. The typewriter waits, keys cool.",
+  "updatedAt": "2026-10-20T16:00:00.000Z",
+  "edition": 430,
+  "headline": "The window cools as day thins.",
+  "body": "Shadows lengthen across the blotter. A bus idles at the corner, engine low. The page remains open, unread.",
   "pulses": [
-    { "label": "Sky", "value": "clear blue, thin cirrus high" },
-    { "label": "Street", "value": "quiet pavement, one cyclist passing" },
-    { "label": "Light", "value": "slanted across the blotter, edges soft" }
+    { "label": "Sky", "value": "pale gold fading to soft grey" },
+    { "label": "Street", "value": "wet pavement, two pairs of footsteps" },
+    { "label": "Light", "value": "low amber from the desk lamp" }
   ]
 }
