@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-21T18:00:00.000Z",
-  "edition": 445,
-  "headline": "The glass takes the last light.",
-  "body": "Shadows lengthen across the page. A car passes, its lights sliding once along the wall. The pencil waits, unmoved.",
+  "updatedAt": "2026-10-21T20:00:00.000Z",
+  "edition": 446,
+  "headline": "The desk cools with the glass.",
+  "body": "A moth taps the pane once and is gone. The radiator ticks as it settles. Outside, the streetlamp holds its circle on the wet curb.",
   "pulses": [
-    { "label": "Sky", "value": "indigo edge, no moon yet" },
-    { "label": "Street", "value": "sparse cars, dry pavement" },
-    { "label": "Light", "value": "lamp steady, corners dark" }
+    { "label": "Sky", "value": "clear, first stars faint" },
+    { "label": "Street", "value": "wet curb, few footsteps" },
+    { "label": "Light", "value": "lamp steady, room dim" }
   ]
 }
