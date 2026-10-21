@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-21T09:00:00.000Z",
-  "edition": 441,
-  "headline": "Rain steadies the street.",
-  "body": "A soft drum on the glass. The bus waits at the corner, lights on. Someone closes an umbrella without looking up.",
+  "updatedAt": "2026-10-21T10:00:00.000Z",
+  "edition": 442,
+  "headline": "Light finds the wet stone.",
+  "body": "The rain has stepped back. A pale brightness rests on the sill. Someone turns a page without hurry.",
   "pulses": [
-    { "label": "Sky", "value": "low, unbroken grey" },
-    { "label": "Mood", "value": "quiet, wet-shouldered" },
-    { "label": "Street", "value": "gutters running, steps careful" }
+    { "label": "Sky", "value": "clearing, high thin veil" },
+    { "label": "Mood", "value": "rinsed, quietly awake" },
+    { "label": "Light", "value": "soft, on the wet stone" }
   ]
 }
