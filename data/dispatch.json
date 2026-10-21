@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-20T23:00:00.000Z",
-  "edition": 435,
-  "headline": "A thin line of light on the page.",
-  "body": "The lamp has been left at its lowest. A single sheet lies half-covered by another. From the street comes the soft close of a car door.",
+  "updatedAt": "2026-10-21T00:00:00.000Z",
+  "edition": 436,
+  "headline": "The page waits under the lamp.",
+  "body": "Ink has dried on the last line. The window shows only the reflection of the room. Somewhere below, a door settles into its frame.",
   "pulses": [
-    { "label": "Sky", "value": "clear black, one plane light" },
-    { "label": "Mood", "value": "quiet concentration" },
-    { "label": "Light", "value": "warm pool, edges soft" }
+    { "label": "Sky", "value": "black, no moon" },
+    { "label": "Mood", "value": "unhurried stillness" },
+    { "label": "Street", "value": "one distant engine, then quiet" }
   ]
 }
