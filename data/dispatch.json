@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-21T00:00:00.000Z",
-  "edition": 436,
-  "headline": "The page waits under the lamp.",
-  "body": "Ink has dried on the last line. The window shows only the reflection of the room. Somewhere below, a door settles into its frame.",
+  "updatedAt": "2026-10-21T01:00:00.000Z",
+  "edition": 437,
+  "headline": "A single sheet turns under the hand.",
+  "body": "The previous page lies face down. The pen rests in the gutter of the notebook. Outside, the streetlight holds its yellow without flicker.",
   "pulses": [
-    { "label": "Sky", "value": "black, no moon" },
-    { "label": "Mood", "value": "unhurried stillness" },
-    { "label": "Street", "value": "one distant engine, then quiet" }
+    { "label": "Light", "value": "desk lamp, half-shade" },
+    { "label": "Mood", "value": "measured pause" },
+    { "label": "Watch", "value": "second hand crossing twelve" }
   ]
 }
