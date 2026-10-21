@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-21T20:00:00.000Z",
-  "edition": 446,
-  "headline": "The desk cools with the glass.",
-  "body": "A moth taps the pane once and is gone. The radiator ticks as it settles. Outside, the streetlamp holds its circle on the wet curb.",
+  "updatedAt": "2026-10-21T21:00:00.000Z",
+  "edition": 447,
+  "headline": "A single car passes the corner.",
+  "body": "Its lights sweep the wall then vanish. The clock ticks once louder than the rest. Paper on the desk lifts and settles.",
   "pulses": [
-    { "label": "Sky", "value": "clear, first stars faint" },
-    { "label": "Street", "value": "wet curb, few footsteps" },
-    { "label": "Light", "value": "lamp steady, room dim" }
+    { "label": "Sky", "value": "dark, no moon yet" },
+    { "label": "Street", "value": "empty after the car" },
+    { "label": "Light", "value": "desk lamp warm, edges soft" }
   ]
 }
