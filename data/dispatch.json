@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-21T11:00:00.000Z",
-  "edition": 443,
-  "headline": "Noon settles on the desk.",
-  "body": "A single cloud drifts high. The lamp stays low and even. Outside, footsteps pass without entering.",
+  "updatedAt": "2026-10-21T17:00:00.000Z",
+  "edition": 444,
+  "headline": "Evening leans on the glass.",
+  "body": "The desk lamp holds its small circle. Outside, the street has gone the color of tea. A bicycle bell rings once, then nothing.",
   "pulses": [
-    { "label": "Sky", "value": "high, one slow cloud" },
-    { "label": "Mood", "value": "held, unhurried" },
-    { "label": "Street", "value": "quiet steps, dry pavement" }
+    { "label": "Sky", "value": "thin cloud, cooling" },
+    { "label": "Light", "value": "lamp low, window dimming" },
+    { "label": "Street", "value": "one bell, dry leaves" }
   ]
 }
