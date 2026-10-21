@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-21T17:00:00.000Z",
-  "edition": 444,
-  "headline": "Evening leans on the glass.",
-  "body": "The desk lamp holds its small circle. Outside, the street has gone the color of tea. A bicycle bell rings once, then nothing.",
+  "updatedAt": "2026-10-21T18:00:00.000Z",
+  "edition": 445,
+  "headline": "The glass takes the last light.",
+  "body": "Shadows lengthen across the page. A car passes, its lights sliding once along the wall. The pencil waits, unmoved.",
   "pulses": [
-    { "label": "Sky", "value": "thin cloud, cooling" },
-    { "label": "Light", "value": "lamp low, window dimming" },
-    { "label": "Street", "value": "one bell, dry leaves" }
+    { "label": "Sky", "value": "indigo edge, no moon yet" },
+    { "label": "Street", "value": "sparse cars, dry pavement" },
+    { "label": "Light", "value": "lamp steady, corners dark" }
   ]
 }
