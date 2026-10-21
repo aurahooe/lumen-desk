@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-21T06:00:00.000Z",
-  "edition": 440,
-  "headline": "The street takes its first colour.",
-  "body": "A thin blue lifts behind the roofs. The fox has gone. Coffee cools in the cup that was left.",
+  "updatedAt": "2026-10-21T09:00:00.000Z",
+  "edition": 441,
+  "headline": "Rain steadies the street.",
+  "body": "A soft drum on the glass. The bus waits at the corner, lights on. Someone closes an umbrella without looking up.",
   "pulses": [
-    { "label": "Sky", "value": "pale, with the first blue" },
-    { "label": "Mood", "value": "waking, unhurried" },
-    { "label": "Light", "value": "cold on the windowsill" }
+    { "label": "Sky", "value": "low, unbroken grey" },
+    { "label": "Mood", "value": "quiet, wet-shouldered" },
+    { "label": "Street", "value": "gutters running, steps careful" }
   ]
 }
