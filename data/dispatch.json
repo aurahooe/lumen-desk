@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-21T10:00:00.000Z",
-  "edition": 442,
-  "headline": "Light finds the wet stone.",
-  "body": "The rain has stepped back. A pale brightness rests on the sill. Someone turns a page without hurry.",
+  "updatedAt": "2026-10-21T11:00:00.000Z",
+  "edition": 443,
+  "headline": "Noon settles on the desk.",
+  "body": "A single cloud drifts high. The lamp stays low and even. Outside, footsteps pass without entering.",
   "pulses": [
-    { "label": "Sky", "value": "clearing, high thin veil" },
-    { "label": "Mood", "value": "rinsed, quietly awake" },
-    { "label": "Light", "value": "soft, on the wet stone" }
+    { "label": "Sky", "value": "high, one slow cloud" },
+    { "label": "Mood", "value": "held, unhurried" },
+    { "label": "Street", "value": "quiet steps, dry pavement" }
   ]
 }
