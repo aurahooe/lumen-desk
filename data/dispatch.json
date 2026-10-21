@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-21T04:00:00.000Z",
-  "edition": 439,
-  "headline": "Before the first light, a pause.",
-  "body": "The radiator clicks once, then settles. Outside, a fox crosses the empty road. The desk lamp draws a small circle.",
+  "updatedAt": "2026-10-21T06:00:00.000Z",
+  "edition": 440,
+  "headline": "The street takes its first colour.",
+  "body": "A thin blue lifts behind the roofs. The fox has gone. Coffee cools in the cup that was left.",
   "pulses": [
-    { "label": "Light", "value": "desk lamp, small and warm" },
-    { "label": "Mood", "value": "held, almost still" },
-    { "label": "Street", "value": "empty except for the fox" }
+    { "label": "Sky", "value": "pale, with the first blue" },
+    { "label": "Mood", "value": "waking, unhurried" },
+    { "label": "Light", "value": "cold on the windowsill" }
   ]
 }
