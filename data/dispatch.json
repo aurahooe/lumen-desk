@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-22T07:00:00.000Z",
-  "edition": 452,
-  "headline": "First light on the drying street.",
-  "body": "The rain has stopped. A single cyclist passes, wheels leaving thin tracks. The window above remains lit, though the room behind it is still.",
+  "updatedAt": "2026-10-22T08:00:00.000Z",
+  "edition": 453,
+  "headline": "The light has climbed the brick.",
+  "body": "A shop shutter lifts with a low rattle. Someone sets a chair outside, metal legs on stone. The sky is clean now, blue showing through the last haze.",
   "pulses": [
-    { "label": "Sky", "value": "clear, high thin cloud" },
-    { "label": "Street", "value": "damp, one set of tracks" },
-    { "label": "Light", "value": "low gold on stone" }
+    { "label": "Sky", "value": "clear blue, faint haze" },
+    { "label": "Street", "value": "drying, one chair set" },
+    { "label": "Light", "value": "morning gold on brick" }
   ]
 }
