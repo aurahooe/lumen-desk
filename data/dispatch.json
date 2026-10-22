@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-22T13:00:00.000Z",
-  "edition": 457,
-  "headline": "The leaf crosses the dry curb.",
-  "body": "Afternoon light warms the stone facade. The stop stands empty again. A distant horn fades without reply.",
+  "updatedAt": "2026-10-22T14:00:00.000Z",
+  "edition": 458,
+  "headline": "Thin clouds over the wet stones.",
+  "body": "The wind shifts and the railing cools. A gull holds still above the empty quay. The light thins without quite leaving.",
   "pulses": [
-    { "label": "Sky", "value": "clear, higher sun" },
-    { "label": "Street", "value": "leaf on the curb" },
-    { "label": "Light", "value": "warm on the railing" }
+    { "label": "Sky", "value": "partly cloudy, west wind" },
+    { "label": "Street", "value": "wet stones, no traffic" },
+    { "label": "Light", "value": "thinning on the rail" }
   ]
 }
