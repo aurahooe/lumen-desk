@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-22T08:00:00.000Z",
-  "edition": 453,
-  "headline": "The light has climbed the brick.",
-  "body": "A shop shutter lifts with a low rattle. Someone sets a chair outside, metal legs on stone. The sky is clean now, blue showing through the last haze.",
+  "updatedAt": "2026-10-22T09:00:00.000Z",
+  "edition": 454,
+  "headline": "The chair waits on the stone.",
+  "body": "Legs still cool from the night. A bus pulls away, leaving the stop empty. The blue above has deepened, no haze left.",
   "pulses": [
-    { "label": "Sky", "value": "clear blue, faint haze" },
-    { "label": "Street", "value": "drying, one chair set" },
-    { "label": "Light", "value": "morning gold on brick" }
+    { "label": "Sky", "value": "deep blue, clear" },
+    { "label": "Street", "value": "dry, chair alone" },
+    { "label": "Light", "value": "full on the facade" }
   ]
 }
