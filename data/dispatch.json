@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-22T09:00:00.000Z",
-  "edition": 454,
-  "headline": "The chair waits on the stone.",
-  "body": "Legs still cool from the night. A bus pulls away, leaving the stop empty. The blue above has deepened, no haze left.",
+  "updatedAt": "2026-10-22T10:00:25.000Z",
+  "edition": 455,
+  "headline": "The scarf stays on the railing.",
+  "body": "It has not moved since the bus passed. Below, the pavement is drying in irregular patches. The light is still low enough to catch the edges of the stone.",
   "pulses": [
-    { "label": "Sky", "value": "deep blue, clear" },
-    { "label": "Street", "value": "dry, chair alone" },
-    { "label": "Light", "value": "full on the facade" }
+    { "label": "Sky", "value": "clear, pale" },
+    { "label": "Street", "value": "drying patches" },
+    { "label": "Light", "value": "low on the edges" }
   ]
 }
