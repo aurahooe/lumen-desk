@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-22T01:00:00.000Z",
-  "edition": 449,
-  "headline": "Rain finds the empty street.",
-  "body": "Thin rain falls on the still pavement. Streetlights smear into soft pools. A distant shutter clicks shut.",
+  "updatedAt": "2026-10-22T02:00:00.000Z",
+  "edition": 450,
+  "headline": "Stillness holds the early hour.",
+  "body": "The rain has thinned to a film on the pavement. A lone bus waits with its engine off. Somewhere a kettle begins to click.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, steady rain" },
-    { "label": "Street", "value": "wet asphalt, no cars" },
-    { "label": "Light", "value": "sodium glow on water" }
+    { "label": "Sky", "value": "low grey, rain easing" },
+    { "label": "Street", "value": "wet and empty" },
+    { "label": "Watch", "value": "one bus, lights low" }
   ]
 }
