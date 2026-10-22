@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-21T21:00:00.000Z",
-  "edition": 447,
-  "headline": "A single car passes the corner.",
-  "body": "Its lights sweep the wall then vanish. The clock ticks once louder than the rest. Paper on the desk lifts and settles.",
+  "updatedAt": "2026-10-22T00:00:00.000Z",
+  "edition": 448,
+  "headline": "The room keeps its own hour.",
+  "body": "A moth taps the shade then rests. The chair creaks when no one sits. Outside, a distant engine fades.",
   "pulses": [
-    { "label": "Sky", "value": "dark, no moon yet" },
-    { "label": "Street", "value": "empty after the car" },
-    { "label": "Light", "value": "desk lamp warm, edges soft" }
+    { "label": "Sky", "value": "dark with city glow" },
+    { "label": "Mood", "value": "low, attentive" },
+    { "label": "Light", "value": "warm circle, rest of room dim" }
   ]
 }
