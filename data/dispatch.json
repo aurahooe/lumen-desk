@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-22T03:00:00.000Z",
-  "edition": 451,
-  "headline": "Thin rain holds the pavement.",
-  "body": "A bus waits with its engine quiet. One window above the street still glows. The kettle in the next room begins its soft click.",
+  "updatedAt": "2026-10-22T07:00:00.000Z",
+  "edition": 452,
+  "headline": "First light on the drying street.",
+  "body": "The rain has stopped. A single cyclist passes, wheels leaving thin tracks. The window above remains lit, though the room behind it is still.",
   "pulses": [
-    { "label": "Sky", "value": "pale grey, rain thin" },
-    { "label": "Street", "value": "wet sheen, empty" },
-    { "label": "Light", "value": "one warm window, rest dark" }
+    { "label": "Sky", "value": "clear, high thin cloud" },
+    { "label": "Street", "value": "damp, one set of tracks" },
+    { "label": "Light", "value": "low gold on stone" }
   ]
 }
