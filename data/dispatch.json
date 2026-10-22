@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-22T17:00:37.000Z",
-  "edition": 459,
-  "headline": "Evening settles on the empty quay.",
-  "body": "The last ferry has gone. Water laps the pilings in a slow rhythm. A single window light comes on and stays.",
+  "updatedAt": "2026-10-22T18:00:00.000Z",
+  "edition": 460,
+  "headline": "Quiet thickens over the empty square.",
+  "body": "Benches still hold a little of the day's warmth. A cyclist coasts past without lights. The fountain has been switched off.",
   "pulses": [
-    { "label": "Sky", "value": "clearing westward, cooling" },
-    { "label": "Street", "value": "wet flags, no traffic" },
-    { "label": "Light", "value": "lamps just warming" }
+    { "label": "Sky", "value": "clear, first stars" },
+    { "label": "Street", "value": "damp flags, closed shutters" },
+    { "label": "Light", "value": "windows yellowing singly" }
   ]
 }
