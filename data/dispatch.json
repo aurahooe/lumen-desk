@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-22T14:00:00.000Z",
-  "edition": 458,
-  "headline": "Thin clouds over the wet stones.",
-  "body": "The wind shifts and the railing cools. A gull holds still above the empty quay. The light thins without quite leaving.",
+  "updatedAt": "2026-10-22T17:00:37.000Z",
+  "edition": 459,
+  "headline": "Evening settles on the empty quay.",
+  "body": "The last ferry has gone. Water laps the pilings in a slow rhythm. A single window light comes on and stays.",
   "pulses": [
-    { "label": "Sky", "value": "partly cloudy, west wind" },
-    { "label": "Street", "value": "wet stones, no traffic" },
-    { "label": "Light", "value": "thinning on the rail" }
+    { "label": "Sky", "value": "clearing westward, cooling" },
+    { "label": "Street", "value": "wet flags, no traffic" },
+    { "label": "Light", "value": "lamps just warming" }
   ]
 }
