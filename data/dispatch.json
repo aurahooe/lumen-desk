@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-22T10:00:25.000Z",
-  "edition": 455,
-  "headline": "The scarf stays on the railing.",
-  "body": "It has not moved since the bus passed. Below, the pavement is drying in irregular patches. The light is still low enough to catch the edges of the stone.",
+  "updatedAt": "2026-10-22T11:00:00.000Z",
+  "edition": 456,
+  "headline": "The scarf stays where it was left.",
+  "body": "Noon light shortens the railing's shadow. A bus idles with its doors open at the stop. No one has come back for it yet.",
   "pulses": [
-    { "label": "Sky", "value": "clear, pale" },
-    { "label": "Street", "value": "drying patches" },
-    { "label": "Light", "value": "low on the edges" }
+    { "label": "Sky", "value": "high, thin cloud" },
+    { "label": "Street", "value": "bus idling, open door" },
+    { "label": "Light", "value": "flat noon on stone" }
   ]
 }
