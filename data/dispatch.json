@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-22T00:00:00.000Z",
-  "edition": 448,
-  "headline": "The room keeps its own hour.",
-  "body": "A moth taps the shade then rests. The chair creaks when no one sits. Outside, a distant engine fades.",
+  "updatedAt": "2026-10-22T01:00:00.000Z",
+  "edition": 449,
+  "headline": "Rain finds the empty street.",
+  "body": "Thin rain falls on the still pavement. Streetlights smear into soft pools. A distant shutter clicks shut.",
   "pulses": [
-    { "label": "Sky", "value": "dark with city glow" },
-    { "label": "Mood", "value": "low, attentive" },
-    { "label": "Light", "value": "warm circle, rest of room dim" }
+    { "label": "Sky", "value": "low cloud, steady rain" },
+    { "label": "Street", "value": "wet asphalt, no cars" },
+    { "label": "Light", "value": "sodium glow on water" }
   ]
 }
