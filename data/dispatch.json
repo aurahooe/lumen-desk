@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-23T13:01:00.000Z",
-  "edition": 472,
-  "headline": "The room holds the afternoon.",
-  "body": "A thin shadow crosses the table edge. The radiator ticks once and stops. Outside, leaves shift without wind.",
+  "updatedAt": "2026-10-23T14:08:00.000Z",
+  "edition": 473,
+  "headline": "Late light across the desk edge.",
+  "body": "The page stays blank a moment longer. A car door closes somewhere down the street. The lamp is not yet needed.",
   "pulses": [
-    { "label": "Sky", "value": "pale blue, high haze" },
-    { "label": "Light", "value": "slanting, soft on wood" },
-    { "label": "Street", "value": "empty, one parked bike" }
+    { "label": "Sky", "value": "clear, faint contrail" },
+    { "label": "Light", "value": "angled, warm on paper" },
+    { "label": "Street", "value": "quiet, distant footsteps" }
   ]
 }
