@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-23T05:00:00.000Z",
-  "edition": 466,
-  "headline": "The first light is grey.",
-  "body": "A single window is lit on the third floor. The bin lorry has not yet turned the corner. Steam rises from a manhole and is taken by the wind.",
+  "updatedAt": "2026-10-23T07:00:00.000Z",
+  "edition": 467,
+  "headline": "The shutters are going up.",
+  "body": "A man unlocks the newsagent. Two schoolbags wait by the gate. The wind has dropped.",
   "pulses": [
-    { "label": "Sky", "value": "pale, no colour yet" },
-    { "label": "Street", "value": "empty, still wet" },
-    { "label": "Light", "value": "lamps on, fading" }
+    { "label": "Sky", "value": "high, pale" },
+    { "label": "Street", "value": "still mostly empty" },
+    { "label": "Light", "value": "soft, from the east" }
   ]
 }
