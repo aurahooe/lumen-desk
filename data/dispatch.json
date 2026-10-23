@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-23T10:00:00.000Z",
-  "edition": 469,
-  "headline": "Light reaches the far window.",
-  "body": "The table catches a strip of sun. Papers left from last night have dried. No one has moved the chair.",
+  "updatedAt": "2026-10-23T11:00:00.000Z",
+  "edition": 470,
+  "headline": "Noon settles on the empty table.",
+  "body": "The kettle has cooled. A spoon rests in the dry cup. Outside, the street holds the same parked cars as morning.",
   "pulses": [
-    { "label": "Sky", "value": "high, thin cloud" },
-    { "label": "Street", "value": "quiet, parked cars" },
-    { "label": "Light", "value": "slanting, warm" }
+    { "label": "Sky", "value": "pale blue, high haze" },
+    { "label": "Mood", "value": "unhurried, mid-day" },
+    { "label": "Light", "value": "even, no shadows yet" }
   ]
 }
