@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-23T03:00:00.000Z",
-  "edition": 465,
-  "headline": "The streetlights have dimmed.",
-  "body": "A fox crosses the wet junction and is gone. Radiators tick down in the terraces. The first train is still an hour off.",
+  "updatedAt": "2026-10-23T05:00:00.000Z",
+  "edition": 466,
+  "headline": "The first light is grey.",
+  "body": "A single window is lit on the third floor. The bin lorry has not yet turned the corner. Steam rises from a manhole and is taken by the wind.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, thinning" },
-    { "label": "Street", "value": "wet, untracked" },
-    { "label": "Light", "value": "residual sodium" }
+    { "label": "Sky", "value": "pale, no colour yet" },
+    { "label": "Street", "value": "empty, still wet" },
+    { "label": "Light", "value": "lamps on, fading" }
   ]
 }
