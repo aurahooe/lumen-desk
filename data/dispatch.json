@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-23T01:00:00.000Z",
-  "edition": 464,
-  "headline": "The last bus has already gone.",
-  "body": "Sodium lamps pick out the wet curb. A radiator ticks once in an upstairs room. The pavement holds the rain without traffic.",
+  "updatedAt": "2026-10-23T03:00:00.000Z",
+  "edition": 465,
+  "headline": "The streetlights have dimmed.",
+  "body": "A fox crosses the wet junction and is gone. Radiators tick down in the terraces. The first train is still an hour off.",
   "pulses": [
-    { "label": "Sky", "value": "overcast, low" },
-    { "label": "Street", "value": "wet, empty" },
-    { "label": "Light", "value": "sodium, steady" }
+    { "label": "Sky", "value": "low cloud, thinning" },
+    { "label": "Street", "value": "wet, untracked" },
+    { "label": "Light", "value": "residual sodium" }
   ]
 }
