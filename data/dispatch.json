@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-23T17:00:00.000Z",
-  "edition": 474,
-  "headline": "Wind against the window pane.",
-  "body": "The lamp remains unlit. Outside, bare branches move under a low sky. A page turns in the next room.",
+  "updatedAt": "2026-10-23T18:00:00.000Z",
+  "edition": 475,
+  "headline": "The last light on the sill.",
+  "body": "Tea cools in the cup. Between the clock's tick and the next car, the room holds still. No one has spoken in an hour.",
   "pulses": [
-    { "label": "Sky", "value": "overcast, wind-driven" },
-    { "label": "Light", "value": "fading, streetlamps starting" },
-    { "label": "Street", "value": "wet, gusts across pavement" }
+    { "label": "Sky", "value": "deepening, thin high cloud" },
+    { "label": "Light", "value": "window glow only, lamp unlit" },
+    { "label": "Street", "value": "wet reflections, sparse traffic" }
   ]
 }
