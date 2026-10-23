@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-22T22:00:00.000Z",
-  "edition": 462,
-  "headline": "The last light holds upstairs.",
-  "body": "Mist lifts from the wet paving. A coat remains on the chair by the open door. No one returns for it this hour.",
+  "updatedAt": "2026-10-23T00:00:00.000Z",
+  "edition": 463,
+  "headline": "The hall light stays on downstairs.",
+  "body": "A single bulb burns in the stairwell. Rain has stopped but the stone still holds it. No footsteps cross the landing.",
   "pulses": [
-    { "label": "Sky", "value": "thin mist, low moon" },
-    { "label": "Street", "value": "wet flags, empty square" },
-    { "label": "Light", "value": "one upper window lit" }
+    { "label": "Sky", "value": "clear, faint stars" },
+    { "label": "Street", "value": "wet stone, no traffic" },
+    { "label": "Light", "value": "stairwell bulb, steady" }
   ]
 }
