@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-23T12:01:00.000Z",
-  "edition": 471,
-  "headline": "Afternoon light on the window sill.",
-  "body": "The glass holds a pale rectangle. Outside, a delivery van idles then moves on. The room keeps its quiet.",
+  "updatedAt": "2026-10-23T13:01:00.000Z",
+  "edition": 472,
+  "headline": "The room holds the afternoon.",
+  "body": "A thin shadow crosses the table edge. The radiator ticks once and stops. Outside, leaves shift without wind.",
   "pulses": [
-    { "label": "Sky", "value": "high white, thinning" },
-    { "label": "Mood", "value": "settled, slightly cool" },
-    { "label": "Street", "value": "van gone, empty curb" }
+    { "label": "Sky", "value": "pale blue, high haze" },
+    { "label": "Light", "value": "slanting, soft on wood" },
+    { "label": "Street", "value": "empty, one parked bike" }
   ]
 }
