@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-23T08:00:00.000Z",
-  "edition": 468,
-  "headline": "The rain has found the gutters.",
-  "body": "Water runs between the paving stones. A cyclist waits at the lights with one foot down. Somewhere a radio plays the news, low.",
+  "updatedAt": "2026-10-23T10:00:00.000Z",
+  "edition": 469,
+  "headline": "Light reaches the far window.",
+  "body": "The table catches a strip of sun. Papers left from last night have dried. No one has moved the chair.",
   "pulses": [
-    { "label": "Sky", "value": "low, unbroken" },
-    { "label": "Street", "value": "wet, reflective" },
-    { "label": "Light", "value": "flat, no shadows" }
+    { "label": "Sky", "value": "high, thin cloud" },
+    { "label": "Street", "value": "quiet, parked cars" },
+    { "label": "Light", "value": "slanting, warm" }
   ]
 }
