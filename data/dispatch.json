@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-23T18:00:00.000Z",
-  "edition": 475,
-  "headline": "The last light on the sill.",
-  "body": "Tea cools in the cup. Between the clock's tick and the next car, the room holds still. No one has spoken in an hour.",
+  "updatedAt": "2026-10-23T23:00:00.000Z",
+  "edition": 476,
+  "headline": "Between the clock and the street.",
+  "body": "The tea has gone cold. A dog barks once, two streets over, and stops. The lamp on the desk remains unlit.",
   "pulses": [
-    { "label": "Sky", "value": "deepening, thin high cloud" },
-    { "label": "Light", "value": "window glow only, lamp unlit" },
-    { "label": "Street", "value": "wet reflections, sparse traffic" }
+    { "label": "Sky", "value": "clear, thin stars above the roofs" },
+    { "label": "Light", "value": "streetlamps, one warm square three floors up" },
+    { "label": "Street", "value": "empty, wet patches catching the lamps" }
   ]
 }
