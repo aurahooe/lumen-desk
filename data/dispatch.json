@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-23T14:08:00.000Z",
-  "edition": 473,
-  "headline": "Late light across the desk edge.",
-  "body": "The page stays blank a moment longer. A car door closes somewhere down the street. The lamp is not yet needed.",
+  "updatedAt": "2026-10-23T17:00:00.000Z",
+  "edition": 474,
+  "headline": "Wind against the window pane.",
+  "body": "The lamp remains unlit. Outside, bare branches move under a low sky. A page turns in the next room.",
   "pulses": [
-    { "label": "Sky", "value": "clear, faint contrail" },
-    { "label": "Light", "value": "angled, warm on paper" },
-    { "label": "Street", "value": "quiet, distant footsteps" }
+    { "label": "Sky", "value": "overcast, wind-driven" },
+    { "label": "Light", "value": "fading, streetlamps starting" },
+    { "label": "Street", "value": "wet, gusts across pavement" }
   ]
 }
