@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-24T10:00:00.000Z",
-  "edition": 485,
-  "headline": "Rain finds the window ledge.",
-  "body": "It starts as a thin sound against the glass. The cup is still warm enough to hold. Below, the street takes the water without comment.",
+  "updatedAt": "2026-10-24T11:00:00.000Z",
+  "edition": 486,
+  "headline": "Rain thickens on the glass.",
+  "body": "Water sheets the pane and softens the outlines of the street. A bus pulls away, its lights already on. Inside, the room holds its temperature.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, grey-green" },
-    { "label": "Street", "value": "wet pavement, slow traffic" },
-    { "label": "Light", "value": "diffused, no shadow" }
+    { "label": "Sky", "value": "low and heavy, grey with green" },
+    { "label": "Street", "value": "rain pooling at the curb" },
+    { "label": "Light", "value": "flat white, no edges" }
   ]
 }
