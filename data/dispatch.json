@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-24T22:00:53.000Z",
-  "edition": 492,
-  "headline": "Late light pools on the page.",
-  "body": "The window glass has cooled. Outside, a single car idles then moves on. The lamp draws a small circle and leaves the rest of the room to shadow.",
+  "updatedAt": "2026-10-24T23:00:00.000Z",
+  "edition": 493,
+  "headline": "The room keeps its own hour.",
+  "body": "A radiator ticks once and falls quiet. Across the street the bakery lights have already gone. The cursor blinks in the margin of an unfinished line.",
   "pulses": [
-    { "label": "Light", "value": "small circle, steady" },
-    { "label": "Street", "value": "car idles, then gone" },
-    { "label": "Mood", "value": "cooled, held" }
+    { "label": "Light", "value": "lamp at half, steady" },
+    { "label": "Street", "value": "bakery dark, pavement dry" },
+    { "label": "Mood", "value": "held, low" }
   ]
 }
