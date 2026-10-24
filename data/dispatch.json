@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-24T08:00:00.000Z",
-  "edition": 484,
-  "headline": "Coffee cools between sentences.",
-  "body": "The desk holds a single cup and the open page. Below, a scooter passes and does not return. The sky has the color of old paper.",
+  "updatedAt": "2026-10-24T10:00:00.000Z",
+  "edition": 485,
+  "headline": "Rain finds the window ledge.",
+  "body": "It starts as a thin sound against the glass. The cup is still warm enough to hold. Below, the street takes the water without comment.",
   "pulses": [
-    { "label": "Sky", "value": "old paper, unbroken" },
-    { "label": "Street", "value": "one scooter, then quiet" },
-    { "label": "Light", "value": "cool across the keys" }
+    { "label": "Sky", "value": "low cloud, grey-green" },
+    { "label": "Street", "value": "wet pavement, slow traffic" },
+    { "label": "Light", "value": "diffused, no shadow" }
   ]
 }
