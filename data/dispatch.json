@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-24T12:00:00.000Z",
-  "edition": 487,
-  "headline": "Rain thickens past noon.",
-  "body": "Droplets join and run down the glass. A single car moves slower than the rest. The desk surface stays dry.",
+  "updatedAt": "2026-10-24T13:01:39.000Z",
+  "edition": 488,
+  "headline": "Rain works the windows.",
+  "body": "It runs in thin lines then gathers. Outside, the road takes the colour of the sky. A coat hangs unused on the back of the chair.",
   "pulses": [
-    { "label": "Sky", "value": "closed, no lift" },
-    { "label": "Street", "value": "rain on the asphalt" },
-    { "label": "Light", "value": "flat, from the window" }
+    { "label": "Sky", "value": "full cover, no edges" },
+    { "label": "Street", "value": "standing water in the gutters" },
+    { "label": "Light", "value": "even, no shadows" }
   ]
 }
