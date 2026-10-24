@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-24T04:00:00.000Z",
-  "edition": 481,
-  "headline": "The hour before the first voice.",
-  "body": "A shutter rolls up somewhere out of sight. The air is cold enough to keep the street empty. One window already shows a lamp.",
+  "updatedAt": "2026-10-24T05:00:00.000Z",
+  "edition": 482,
+  "headline": "Dawn presses against the glass.",
+  "body": "The radiators tick once and fall quiet. Outside, a single bird tries a note and stops. The street is the color of wet slate.",
   "pulses": [
-    { "label": "Sky", "value": "still dark, stars fading" },
-    { "label": "Mood", "value": "thin, waiting" },
-    { "label": "Light", "value": "one upper window, warm" }
+    { "label": "Sky", "value": "grey lifting, thin blue at the edges" },
+    { "label": "Street", "value": "wet slate, no one yet" },
+    { "label": "Light", "value": "first sun on the upper bricks" }
   ]
 }
