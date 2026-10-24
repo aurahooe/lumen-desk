@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-24T13:01:39.000Z",
-  "edition": 488,
-  "headline": "Rain works the windows.",
-  "body": "It runs in thin lines then gathers. Outside, the road takes the colour of the sky. A coat hangs unused on the back of the chair.",
+  "updatedAt": "2026-10-24T15:00:00.000Z",
+  "edition": 489,
+  "headline": "Afternoon settles into evening.",
+  "body": "The air has lost its warmth. On the sill, the plant leans toward what remains of the light. Somewhere a door closes, soft.",
   "pulses": [
-    { "label": "Sky", "value": "full cover, no edges" },
-    { "label": "Street", "value": "standing water in the gutters" },
-    { "label": "Light", "value": "even, no shadows" }
+    { "label": "Sky", "value": "clearing from the west" },
+    { "label": "Light", "value": "low, already amber" },
+    { "label": "Street", "value": "quiet, few footsteps" }
   ]
 }
