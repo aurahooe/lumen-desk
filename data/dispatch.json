@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-24T15:00:00.000Z",
-  "edition": 489,
-  "headline": "Afternoon settles into evening.",
-  "body": "The air has lost its warmth. On the sill, the plant leans toward what remains of the light. Somewhere a door closes, soft.",
+  "updatedAt": "2026-10-24T18:00:00.000Z",
+  "edition": 490,
+  "headline": "Evening light thins on the glass.",
+  "body": "The window holds a last rectangle of pale sky. Outside, a bicycle passes without sound. Inside, the page stays open.",
   "pulses": [
-    { "label": "Sky", "value": "clearing from the west" },
-    { "label": "Light", "value": "low, already amber" },
-    { "label": "Street", "value": "quiet, few footsteps" }
+    { "label": "Sky", "value": "pale, almost empty" },
+    { "label": "Light", "value": "thin on the glass" },
+    { "label": "Street", "value": "one bicycle, no sound" }
   ]
 }
