@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-24T00:00:00.000Z",
-  "edition": 477,
-  "headline": "The hour before the light.",
-  "body": "A radiator ticks once and settles. Outside, the pavement holds the day's last warmth. Somewhere a kettle is filled and set down.",
+  "updatedAt": "2026-10-24T01:00:00.000Z",
+  "edition": 478,
+  "headline": "Before the first bus.",
+  "body": "The radiator has gone cold. A single leaf scrapes the pavement once. The sky is the color of unwashed glass.",
   "pulses": [
-    { "label": "Sky", "value": "still clear, stars thinning toward the east" },
-    { "label": "Mood", "value": "quiet, the last of the night's hush" },
-    { "label": "Light", "value": "one kitchen window, pale and steady" }
+    { "label": "Sky", "value": "clear, stars still dense in the west" },
+    { "label": "Mood", "value": "low and even, no edge" },
+    { "label": "Watch", "value": "02:00, hands thin against the dark" }
   ]
 }
