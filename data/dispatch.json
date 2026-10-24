@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-24T18:00:00.000Z",
-  "edition": 490,
-  "headline": "Evening light thins on the glass.",
-  "body": "The window holds a last rectangle of pale sky. Outside, a bicycle passes without sound. Inside, the page stays open.",
+  "updatedAt": "2026-10-24T21:00:28.000Z",
+  "edition": 491,
+  "headline": "The room keeps its own hour.",
+  "body": "A single lamp holds the table. Beyond the frame the street has gone quiet except for the slow turn of a taxi. The page waits, unmarked.",
   "pulses": [
-    { "label": "Sky", "value": "pale, almost empty" },
-    { "label": "Light", "value": "thin on the glass" },
-    { "label": "Street", "value": "one bicycle, no sound" }
+    { "label": "Light", "value": "one lamp, low" },
+    { "label": "Street", "value": "taxi turning, no horns" },
+    { "label": "Mood", "value": "held, unmarked" }
   ]
 }
