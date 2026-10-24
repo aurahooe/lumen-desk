@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-24T03:00:00.000Z",
-  "edition": 480,
-  "headline": "Four o’clock holds the quiet.",
-  "body": "A single car passes with its headlights low. The bakery’s rear light comes on and steadies. Cold air shifts the leaves that never quite fell.",
+  "updatedAt": "2026-10-24T04:00:00.000Z",
+  "edition": 481,
+  "headline": "The hour before the first voice.",
+  "body": "A shutter rolls up somewhere out of sight. The air is cold enough to keep the street empty. One window already shows a lamp.",
   "pulses": [
-    { "label": "Sky", "value": "pale edge, no colour yet" },
-    { "label": "Mood", "value": "held, almost ready" },
-    { "label": "Street", "value": "empty, one light flickering" }
+    { "label": "Sky", "value": "still dark, stars fading" },
+    { "label": "Mood", "value": "thin, waiting" },
+    { "label": "Light", "value": "one upper window, warm" }
   ]
 }
