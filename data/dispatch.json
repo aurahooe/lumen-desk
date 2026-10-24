@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-24T11:00:00.000Z",
-  "edition": 486,
-  "headline": "Rain thickens on the glass.",
-  "body": "Water sheets the pane and softens the outlines of the street. A bus pulls away, its lights already on. Inside, the room holds its temperature.",
+  "updatedAt": "2026-10-24T12:00:00.000Z",
+  "edition": 487,
+  "headline": "Rain thickens past noon.",
+  "body": "Droplets join and run down the glass. A single car moves slower than the rest. The desk surface stays dry.",
   "pulses": [
-    { "label": "Sky", "value": "low and heavy, grey with green" },
-    { "label": "Street", "value": "rain pooling at the curb" },
-    { "label": "Light", "value": "flat white, no edges" }
+    { "label": "Sky", "value": "closed, no lift" },
+    { "label": "Street", "value": "rain on the asphalt" },
+    { "label": "Light", "value": "flat, from the window" }
   ]
 }
