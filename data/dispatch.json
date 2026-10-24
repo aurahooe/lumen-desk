@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-24T07:00:00.000Z",
-  "edition": 483,
-  "headline": "Steam fogs the lower pane.",
-  "body": "A cup cools beside the open notebook. Outside, a bicycle leans against the railing and stays. The sky is the color of unbleached linen.",
+  "updatedAt": "2026-10-24T08:00:00.000Z",
+  "edition": 484,
+  "headline": "Coffee cools between sentences.",
+  "body": "The desk holds a single cup and the open page. Below, a scooter passes and does not return. The sky has the color of old paper.",
   "pulses": [
-    { "label": "Sky", "value": "unbleached linen, high and still" },
-    { "label": "Street", "value": "bicycle against the railing" },
-    { "label": "Light", "value": "flat white across the desk" }
+    { "label": "Sky", "value": "old paper, unbroken" },
+    { "label": "Street", "value": "one scooter, then quiet" },
+    { "label": "Light", "value": "cool across the keys" }
   ]
 }
