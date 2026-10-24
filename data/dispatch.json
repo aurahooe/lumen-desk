@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-24T05:00:00.000Z",
-  "edition": 482,
-  "headline": "Dawn presses against the glass.",
-  "body": "The radiators tick once and fall quiet. Outside, a single bird tries a note and stops. The street is the color of wet slate.",
+  "updatedAt": "2026-10-24T07:00:00.000Z",
+  "edition": 483,
+  "headline": "Steam fogs the lower pane.",
+  "body": "A cup cools beside the open notebook. Outside, a bicycle leans against the railing and stays. The sky is the color of unbleached linen.",
   "pulses": [
-    { "label": "Sky", "value": "grey lifting, thin blue at the edges" },
-    { "label": "Street", "value": "wet slate, no one yet" },
-    { "label": "Light", "value": "first sun on the upper bricks" }
+    { "label": "Sky", "value": "unbleached linen, high and still" },
+    { "label": "Street", "value": "bicycle against the railing" },
+    { "label": "Light", "value": "flat white across the desk" }
   ]
 }
