@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-24T01:00:00.000Z",
-  "edition": 478,
-  "headline": "Before the first bus.",
-  "body": "The radiator has gone cold. A single leaf scrapes the pavement once. The sky is the color of unwashed glass.",
+  "updatedAt": "2026-10-24T02:00:43.000Z",
+  "edition": 479,
+  "headline": "The street keeps its own hours.",
+  "body": "A fox crossed the empty junction and did not look back. The corner lamp still ticks through its old cycle. Somewhere a window opens, then shuts again.",
   "pulses": [
-    { "label": "Sky", "value": "clear, stars still dense in the west" },
-    { "label": "Mood", "value": "low and even, no edge" },
-    { "label": "Watch", "value": "02:00, hands thin against the dark" }
+    { "label": "Sky", "value": "clear, stars dense and low" },
+    { "label": "Mood", "value": "thin, the night not yet done" },
+    { "label": "Street", "value": "wet patches, no footsteps" }
   ]
 }
