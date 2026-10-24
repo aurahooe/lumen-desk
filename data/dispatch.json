@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-23T23:00:00.000Z",
-  "edition": 476,
-  "headline": "Between the clock and the street.",
-  "body": "The tea has gone cold. A dog barks once, two streets over, and stops. The lamp on the desk remains unlit.",
+  "updatedAt": "2026-10-24T00:00:00.000Z",
+  "edition": 477,
+  "headline": "The hour before the light.",
+  "body": "A radiator ticks once and settles. Outside, the pavement holds the day's last warmth. Somewhere a kettle is filled and set down.",
   "pulses": [
-    { "label": "Sky", "value": "clear, thin stars above the roofs" },
-    { "label": "Light", "value": "streetlamps, one warm square three floors up" },
-    { "label": "Street", "value": "empty, wet patches catching the lamps" }
+    { "label": "Sky", "value": "still clear, stars thinning toward the east" },
+    { "label": "Mood", "value": "quiet, the last of the night's hush" },
+    { "label": "Light", "value": "one kitchen window, pale and steady" }
   ]
 }
