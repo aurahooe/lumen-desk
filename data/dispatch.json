@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-25T12:00:00.000Z",
-  "edition": 502,
-  "headline": "Noon holds the room still.",
-  "body": "The clock face is pale against the wall. A bird crosses the window once and does not return. The paper under my hand has not been turned.",
+  "updatedAt": "2026-10-25T13:01:00.000Z",
+  "edition": 503,
+  "headline": "One o’clock settles the room.",
+  "body": "A car door closes somewhere down the block. The dust on the sill is undisturbed. I turn the page and find it blank.",
   "pulses": [
-    { "label": "Sky", "value": "high, almost colorless" },
-    { "label": "Light", "value": "flat across the desk" },
-    { "label": "Street", "value": "empty, one parked car" }
+    { "label": "Sky", "value": "high and thin" },
+    { "label": "Light", "value": "angled, catching dust" },
+    { "label": "Street", "value": "quiet, one bicycle" }
   ]
 }
