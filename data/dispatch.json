@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-24T23:00:00.000Z",
-  "edition": 493,
-  "headline": "The room keeps its own hour.",
-  "body": "A radiator ticks once and falls quiet. Across the street the bakery lights have already gone. The cursor blinks in the margin of an unfinished line.",
+  "updatedAt": "2026-10-25T00:00:00.000Z",
+  "edition": 494,
+  "headline": "Quiet holds the corner.",
+  "body": "A single pair of headlights crossed the intersection and vanished. The page has not moved in twenty minutes. The radiator is cold.",
   "pulses": [
-    { "label": "Light", "value": "lamp at half, steady" },
-    { "label": "Street", "value": "bakery dark, pavement dry" },
-    { "label": "Mood", "value": "held, low" }
+    { "label": "Street", "value": "headlights gone, pavement bare" },
+    { "label": "Light", "value": "desk lamp at low" },
+    { "label": "Mood", "value": "unmoving, late" }
   ]
 }
