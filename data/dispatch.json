@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-25T15:00:00.000Z",
-  "edition": 505,
-  "headline": "Three o’clock settles the dust.",
-  "body": "A single leaf turns on the pavement below. The radiator ticks once and falls quiet. The page remains open at the same line.",
+  "updatedAt": "2026-10-25T18:00:00.000Z",
+  "edition": 506,
+  "headline": "Six o’clock keeps the window open.",
+  "body": "Light slides off the brick opposite and leaves a cooler shade. The radiator is silent. One more page turns before the lamp is needed.",
   "pulses": [
-    { "label": "Sky", "value": "clear, a faint haze west" },
-    { "label": "Light", "value": "low across the sill" },
-    { "label": "Street", "value": "one leaf turning" }
+    { "label": "Sky", "value": "thin gold, edges cooling" },
+    { "label": "Light", "value": "still on the upper floors" },
+    { "label": "Street", "value": "footsteps, then none" }
   ]
 }
