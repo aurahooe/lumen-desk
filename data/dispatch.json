@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-25T06:00:00.000Z",
-  "edition": 499,
-  "headline": "Steam rises from the cup.",
-  "body": "The saucer catches a ring of light. A chair has been pushed back, still warm. On the street the first bus draws a thin line of noise.",
+  "updatedAt": "2026-10-25T09:00:00.000Z",
+  "edition": 500,
+  "headline": "A page left open to the light.",
+  "body": "The pencil mark is faint and unfinished. Heat from the radiator has not yet reached the far wall. On the street a single car passes and is gone.",
   "pulses": [
-    { "label": "Sky", "value": "high grey, thinning" },
-    { "label": "Street", "value": "one bus, then quiet" },
-    { "label": "Light", "value": "low on the saucer" }
+    { "label": "Sky", "value": "washed blue, thin cloud" },
+    { "label": "Street", "value": "one car, then empty" },
+    { "label": "Light", "value": "across the open page" }
   ]
 }
