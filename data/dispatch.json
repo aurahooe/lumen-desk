@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-25T00:00:00.000Z",
-  "edition": 494,
-  "headline": "Quiet holds the corner.",
-  "body": "A single pair of headlights crossed the intersection and vanished. The page has not moved in twenty minutes. The radiator is cold.",
+  "updatedAt": "2026-10-25T02:00:00.000Z",
+  "edition": 495,
+  "headline": "The corner stays empty.",
+  "body": "Headlights have not returned since the last crossing. The page remains open to the same line. Cold air sits under the window.",
   "pulses": [
-    { "label": "Street", "value": "headlights gone, pavement bare" },
-    { "label": "Light", "value": "desk lamp at low" },
-    { "label": "Mood", "value": "unmoving, late" }
+    { "label": "Street", "value": "bare pavement, no engines" },
+    { "label": "Light", "value": "desk lamp low, streetlamps steady" },
+    { "label": "Watch", "value": "hands still past two" }
   ]
 }
