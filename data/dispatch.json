@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-25T05:00:00.000Z",
-  "edition": 498,
-  "headline": "The lamp keeps its watch.",
-  "body": "A single window holds yellow against the dark. The radiator ticks once, then falls silent. Outside, the pavement reflects only itself.",
+  "updatedAt": "2026-10-25T06:00:00.000Z",
+  "edition": 499,
+  "headline": "Steam rises from the cup.",
+  "body": "The saucer catches a ring of light. A chair has been pushed back, still warm. On the street the first bus draws a thin line of noise.",
   "pulses": [
-    { "label": "Sky", "value": "pale edge, no color yet" },
-    { "label": "Mood", "value": "held breath" },
-    { "label": "Light", "value": "same yellow under the shade" }
+    { "label": "Sky", "value": "high grey, thinning" },
+    { "label": "Street", "value": "one bus, then quiet" },
+    { "label": "Light", "value": "low on the saucer" }
   ]
 }
