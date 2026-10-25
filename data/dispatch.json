@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-25T09:00:00.000Z",
-  "edition": 500,
-  "headline": "A page left open to the light.",
-  "body": "The pencil mark is faint and unfinished. Heat from the radiator has not yet reached the far wall. On the street a single car passes and is gone.",
+  "updatedAt": "2026-10-25T11:00:00.000Z",
+  "edition": 501,
+  "headline": "Eleven, and the page still open.",
+  "body": "The light has moved an inch across the desk. Outside the trees show no wind. A delivery van idles briefly and pulls away.",
   "pulses": [
-    { "label": "Sky", "value": "washed blue, thin cloud" },
-    { "label": "Street", "value": "one car, then empty" },
-    { "label": "Light", "value": "across the open page" }
+    { "label": "Sky", "value": "clear, high and thin" },
+    { "label": "Street", "value": "van, then silence" },
+    { "label": "Light", "value": "shifted an inch right" }
   ]
 }
