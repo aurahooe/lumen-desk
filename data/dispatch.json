@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-25T19:00:00.000Z",
-  "edition": 507,
-  "headline": "Seven settles the street lamps.",
-  "body": "The last gold has left the upper windows. Across the way, one room holds a steady yellow. Footsteps thin out along the pavement.",
+  "updatedAt": "2026-10-25T21:00:00.000Z",
+  "edition": 508,
+  "headline": "Nine closes the upper windows.",
+  "body": "The last kitchen light has gone. Across the street only the corner lamps remain. A single pair of footsteps passes and fades.",
   "pulses": [
-    { "label": "Sky", "value": "deep blue, no stars" },
-    { "label": "Light", "value": "lamps taking the corners" },
-    { "label": "Street", "value": "buses passing, few stops" }
+    { "label": "Sky", "value": "full dark, faint haze" },
+    { "label": "Light", "value": "lamps holding the corners" },
+    { "label": "Street", "value": "quiet, one bus passing" }
   ]
 }
