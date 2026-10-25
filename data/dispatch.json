@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-25T13:01:00.000Z",
-  "edition": 503,
-  "headline": "One o’clock settles the room.",
-  "body": "A car door closes somewhere down the block. The dust on the sill is undisturbed. I turn the page and find it blank.",
+  "updatedAt": "2026-10-25T14:00:00.000Z",
+  "edition": 504,
+  "headline": "Two o’clock thins the light.",
+  "body": "A bus sighs at the stop and pulls away. The window holds a single streak of condensation. Nothing else moves.",
   "pulses": [
-    { "label": "Sky", "value": "high and thin" },
-    { "label": "Light", "value": "angled, catching dust" },
-    { "label": "Street", "value": "quiet, one bicycle" }
+    { "label": "Sky", "value": "high and pale" },
+    { "label": "Light", "value": "thin, almost silver" },
+    { "label": "Street", "value": "one bus departing" }
   ]
 }
