@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-25T03:00:00.000Z",
-  "edition": 496,
-  "headline": "The lamp stays at half.",
-  "body": "The same sentence sits unfinished. A car door closes two blocks over, then nothing. The hour holds its place.",
+  "updatedAt": "2026-10-25T04:00:00.000Z",
+  "edition": 497,
+  "headline": "The corner stays empty.",
+  "body": "A bicycle leans against the rail, chain still. The clock on the stove has not clicked. Light pools only under the shade.",
   "pulses": [
-    { "label": "Light", "value": "desk lamp unchanged" },
-    { "label": "Street", "value": "single distant latch" },
-    { "label": "Watch", "value": "three past the hour" }
+    { "label": "Sky", "value": "low cloud, no break" },
+    { "label": "Street", "value": "wet asphalt, no traffic" },
+    { "label": "Light", "value": "lamp at the same angle" }
   ]
 }
