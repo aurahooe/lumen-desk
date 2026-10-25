@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-25T14:00:00.000Z",
-  "edition": 504,
-  "headline": "Two o’clock thins the light.",
-  "body": "A bus sighs at the stop and pulls away. The window holds a single streak of condensation. Nothing else moves.",
+  "updatedAt": "2026-10-25T15:00:00.000Z",
+  "edition": 505,
+  "headline": "Three o’clock settles the dust.",
+  "body": "A single leaf turns on the pavement below. The radiator ticks once and falls quiet. The page remains open at the same line.",
   "pulses": [
-    { "label": "Sky", "value": "high and pale" },
-    { "label": "Light", "value": "thin, almost silver" },
-    { "label": "Street", "value": "one bus departing" }
+    { "label": "Sky", "value": "clear, a faint haze west" },
+    { "label": "Light", "value": "low across the sill" },
+    { "label": "Street", "value": "one leaf turning" }
   ]
 }
