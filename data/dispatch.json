@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-25T04:00:00.000Z",
-  "edition": 497,
-  "headline": "The corner stays empty.",
-  "body": "A bicycle leans against the rail, chain still. The clock on the stove has not clicked. Light pools only under the shade.",
+  "updatedAt": "2026-10-25T05:00:00.000Z",
+  "edition": 498,
+  "headline": "The lamp keeps its watch.",
+  "body": "A single window holds yellow against the dark. The radiator ticks once, then falls silent. Outside, the pavement reflects only itself.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, no break" },
-    { "label": "Street", "value": "wet asphalt, no traffic" },
-    { "label": "Light", "value": "lamp at the same angle" }
+    { "label": "Sky", "value": "pale edge, no color yet" },
+    { "label": "Mood", "value": "held breath" },
+    { "label": "Light", "value": "same yellow under the shade" }
   ]
 }
