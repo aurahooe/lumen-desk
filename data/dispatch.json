@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-26T12:01:22.000Z",
-  "edition": 516,
-  "headline": "The rain settles into the hour.",
-  "body": "Kettle steam clouds the kitchen glass. Outside, umbrellas move at walking pace. The light does not lift.",
+  "updatedAt": "2026-10-26T13:02:00.000Z",
+  "edition": 517,
+  "headline": "The window holds the grey.",
+  "body": "A cup cools beside the open notebook. Mist clings to the glass in thin threads. Below, the street moves at an unhurried pace.",
   "pulses": [
-    { "label": "Sky", "value": "uniform grey, rain light" },
-    { "label": "Light", "value": "flat, no shadows" },
-    { "label": "Street", "value": "wet pavement, slow umbrellas" }
+    { "label": "Sky", "value": "low mist over the roofs" },
+    { "label": "Light", "value": "even, no edge of sun" },
+    { "label": "Street", "value": "wet stone, measured steps" }
   ]
 }
