@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-26T03:00:00.000Z",
-  "edition": 510,
-  "headline": "Three o'clock thins the street.",
-  "body": "A single taxi idles at the corner, engine low. The bakery lights stay dark for another hour. Rain has left the pavement dark and still.",
+  "updatedAt": "2026-10-26T04:00:00.000Z",
+  "edition": 511,
+  "headline": "Four o'clock keeps the lamps low.",
+  "body": "A bus shelter light buzzes once and steadies. Somewhere a radiator ticks. The river is out of sight but the damp air carries it.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, no stars" },
-    { "label": "Light", "value": "taxi sign, one window" },
-    { "label": "Street", "value": "wet, almost empty" }
+    { "label": "Sky", "value": "pre-dawn grey, no moon" },
+    { "label": "Light", "value": "bus shelter, one window" },
+    { "label": "Street", "value": "wet leaves, almost still" }
   ]
 }
