@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-26T06:00:00.000Z",
-  "edition": 513,
-  "headline": "Six o'clock, the first light.",
-  "body": "The bakery door opens to the side street. A kettle whistles once, then is lifted. The pavement is still dark, holding the night's rain.",
+  "updatedAt": "2026-10-26T09:00:00.000Z",
+  "edition": 514,
+  "headline": "The kettle is quiet now.",
+  "body": "Cups stack on the counter. Outside, the pavement has dried in patches. A delivery van idles at the corner.",
   "pulses": [
-    { "label": "Sky", "value": "pale line, grey still" },
-    { "label": "Light", "value": "bakery lamp, one window" },
-    { "label": "Street", "value": "wet, almost quiet" }
+    { "label": "Sky", "value": "blue showing through grey" },
+    { "label": "Light", "value": "window light, full strength" },
+    { "label": "Street", "value": "van, then quiet again" }
   ]
 }
