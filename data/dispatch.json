@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-26T05:00:00.000Z",
-  "edition": 512,
-  "headline": "Five o'clock thins the dark.",
-  "body": "A window two floors up goes dark again. The wet pavement keeps the yellow of the last lamp. Somewhere a kettle starts, then stops.",
+  "updatedAt": "2026-10-26T06:00:00.000Z",
+  "edition": 513,
+  "headline": "Six o'clock, the first light.",
+  "body": "The bakery door opens to the side street. A kettle whistles once, then is lifted. The pavement is still dark, holding the night's rain.",
   "pulses": [
-    { "label": "Sky", "value": "pre-dawn grey, edge thinning" },
-    { "label": "Light", "value": "one window, shelter still on" },
-    { "label": "Street", "value": "wet leaves, bicycle leaning" }
+    { "label": "Sky", "value": "pale line, grey still" },
+    { "label": "Light", "value": "bakery lamp, one window" },
+    { "label": "Street", "value": "wet, almost quiet" }
   ]
 }
