@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-26T00:01:00.000Z",
-  "edition": 509,
-  "headline": "Midnight holds the empty street.",
-  "body": "The last bus has gone. A window upstairs stays lit a moment longer, then dims. Somewhere a radiator ticks.",
+  "updatedAt": "2026-10-26T03:00:00.000Z",
+  "edition": 510,
+  "headline": "Three o'clock thins the street.",
+  "body": "A single taxi idles at the corner, engine low. The bakery lights stay dark for another hour. Rain has left the pavement dark and still.",
   "pulses": [
-    { "label": "Sky", "value": "clear, no moon" },
-    { "label": "Light", "value": "corner lamps only" },
-    { "label": "Street", "value": "empty, one distant car" }
+    { "label": "Sky", "value": "low cloud, no stars" },
+    { "label": "Light", "value": "taxi sign, one window" },
+    { "label": "Street", "value": "wet, almost empty" }
   ]
 }
