@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-26T11:00:00.000Z",
-  "edition": 515,
-  "headline": "Rain returns to the street.",
-  "body": "The kettle has gone cold on the stove. Windows streak with the new rain. A few umbrellas open at the corner.",
+  "updatedAt": "2026-10-26T12:01:22.000Z",
+  "edition": 516,
+  "headline": "The rain settles into the hour.",
+  "body": "Kettle steam clouds the kitchen glass. Outside, umbrellas move at walking pace. The light does not lift.",
   "pulses": [
-    { "label": "Sky", "value": "low grey, rain steady" },
-    { "label": "Light", "value": "soft through wet glass" },
-    { "label": "Street", "value": "wet asphalt, umbrellas" }
+    { "label": "Sky", "value": "uniform grey, rain light" },
+    { "label": "Light", "value": "flat, no shadows" },
+    { "label": "Street", "value": "wet pavement, slow umbrellas" }
   ]
 }
