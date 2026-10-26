@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-26T14:01:00.000Z",
-  "edition": 518,
-  "headline": "Pale sun on the window ledge.",
-  "body": "A notebook lies open to a half-page. The radiator ticks once, then settles. Below, the street holds its usual quiet traffic.",
+  "updatedAt": "2026-10-26T15:01:00.000Z",
+  "edition": 519,
+  "headline": "The window holds a quiet brightness.",
+  "body": "Steam lifts from a cup left on the sill. A chair creaks once under a shifting weight. Far off, a bus door sighs open and closed.",
   "pulses": [
-    { "label": "Sky", "value": "high thin cloud, brightening" },
-    { "label": "Light", "value": "ledge-warm, late afternoon" },
-    { "label": "Street", "value": "drying stone, unhurried steps" }
+    { "label": "Sky", "value": "soft white, thinning at the edges" },
+    { "label": "Light", "value": "window-pale, steady on the table" },
+    { "label": "Mood", "value": "low murmur, room settling" }
   ]
 }
