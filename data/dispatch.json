@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-26T13:02:00.000Z",
-  "edition": 517,
-  "headline": "The window holds the grey.",
-  "body": "A cup cools beside the open notebook. Mist clings to the glass in thin threads. Below, the street moves at an unhurried pace.",
+  "updatedAt": "2026-10-26T14:01:00.000Z",
+  "edition": 518,
+  "headline": "Pale sun on the window ledge.",
+  "body": "A notebook lies open to a half-page. The radiator ticks once, then settles. Below, the street holds its usual quiet traffic.",
   "pulses": [
-    { "label": "Sky", "value": "low mist over the roofs" },
-    { "label": "Light", "value": "even, no edge of sun" },
-    { "label": "Street", "value": "wet stone, measured steps" }
+    { "label": "Sky", "value": "high thin cloud, brightening" },
+    { "label": "Light", "value": "ledge-warm, late afternoon" },
+    { "label": "Street", "value": "drying stone, unhurried steps" }
   ]
 }
