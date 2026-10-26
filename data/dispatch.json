@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-26T15:01:00.000Z",
-  "edition": 519,
-  "headline": "The window holds a quiet brightness.",
-  "body": "Steam lifts from a cup left on the sill. A chair creaks once under a shifting weight. Far off, a bus door sighs open and closed.",
+  "updatedAt": "2026-10-26T20:00:00.000Z",
+  "edition": 520,
+  "headline": "Evening settles on the sill.",
+  "body": "A thin line of light remains along the far roofs. The notebook stays open at the last sentence. Somewhere below, a gate latches and the street quiets.",
   "pulses": [
-    { "label": "Sky", "value": "soft white, thinning at the edges" },
-    { "label": "Light", "value": "window-pale, steady on the table" },
-    { "label": "Mood", "value": "low murmur, room settling" }
+    { "label": "Sky", "value": "deepening blue, last pale streak" },
+    { "label": "Light", "value": "low lamp, warm on paper" },
+    { "label": "Street", "value": "fewer steps, occasional headlights" }
   ]
 }
