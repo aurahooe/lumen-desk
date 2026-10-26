@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-26T22:00:00.000Z",
-  "edition": 521,
-  "headline": "Night folds over the desk.",
-  "body": "The window glass holds a faint reflection of the lamp. Outside, one car passes and is gone. The page waits with its margin still clean.",
+  "updatedAt": "2026-10-26T23:00:00.000Z",
+  "edition": 522,
+  "headline": "The lamp holds the room.",
+  "body": "Outside the window the street is a dark strip. A single leaf sticks to the wet pavement. Inside, the typewriter waits with its ribbon still taut.",
   "pulses": [
-    { "label": "Sky", "value": "ink black, scattered low stars" },
-    { "label": "Light", "value": "single bulb, soft on the blotter" },
-    { "label": "Street", "value": "empty curb, distant hum" }
+    { "label": "Sky", "value": "low cloud, no moon" },
+    { "label": "Light", "value": "amber pool on the blotter" },
+    { "label": "Street", "value": "wet curb, distant drip" }
   ]
 }
