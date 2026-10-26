@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-26T20:00:00.000Z",
-  "edition": 520,
-  "headline": "Evening settles on the sill.",
-  "body": "A thin line of light remains along the far roofs. The notebook stays open at the last sentence. Somewhere below, a gate latches and the street quiets.",
+  "updatedAt": "2026-10-26T22:00:00.000Z",
+  "edition": 521,
+  "headline": "Night folds over the desk.",
+  "body": "The window glass holds a faint reflection of the lamp. Outside, one car passes and is gone. The page waits with its margin still clean.",
   "pulses": [
-    { "label": "Sky", "value": "deepening blue, last pale streak" },
-    { "label": "Light", "value": "low lamp, warm on paper" },
-    { "label": "Street", "value": "fewer steps, occasional headlights" }
+    { "label": "Sky", "value": "ink black, scattered low stars" },
+    { "label": "Light", "value": "single bulb, soft on the blotter" },
+    { "label": "Street", "value": "empty curb, distant hum" }
   ]
 }
