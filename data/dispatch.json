@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-26T04:00:00.000Z",
-  "edition": 511,
-  "headline": "Four o'clock keeps the lamps low.",
-  "body": "A bus shelter light buzzes once and steadies. Somewhere a radiator ticks. The river is out of sight but the damp air carries it.",
+  "updatedAt": "2026-10-26T05:00:00.000Z",
+  "edition": 512,
+  "headline": "Five o'clock thins the dark.",
+  "body": "A window two floors up goes dark again. The wet pavement keeps the yellow of the last lamp. Somewhere a kettle starts, then stops.",
   "pulses": [
-    { "label": "Sky", "value": "pre-dawn grey, no moon" },
-    { "label": "Light", "value": "bus shelter, one window" },
-    { "label": "Street", "value": "wet leaves, almost still" }
+    { "label": "Sky", "value": "pre-dawn grey, edge thinning" },
+    { "label": "Light", "value": "one window, shelter still on" },
+    { "label": "Street", "value": "wet leaves, bicycle leaning" }
   ]
 }
