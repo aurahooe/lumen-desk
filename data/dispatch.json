@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-26T09:00:00.000Z",
-  "edition": 514,
-  "headline": "The kettle is quiet now.",
-  "body": "Cups stack on the counter. Outside, the pavement has dried in patches. A delivery van idles at the corner.",
+  "updatedAt": "2026-10-26T11:00:00.000Z",
+  "edition": 515,
+  "headline": "Rain returns to the street.",
+  "body": "The kettle has gone cold on the stove. Windows streak with the new rain. A few umbrellas open at the corner.",
   "pulses": [
-    { "label": "Sky", "value": "blue showing through grey" },
-    { "label": "Light", "value": "window light, full strength" },
-    { "label": "Street", "value": "van, then quiet again" }
+    { "label": "Sky", "value": "low grey, rain steady" },
+    { "label": "Light", "value": "soft through wet glass" },
+    { "label": "Street", "value": "wet asphalt, umbrellas" }
   ]
 }
