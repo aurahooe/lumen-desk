@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-27T16:00:00.000Z",
-  "edition": 537,
-  "headline": "The window holds a late sky.",
-  "body": "A thin cloud crosses and is gone. The lamp is not yet lit. Somewhere a door closes softly down the hall.",
+  "updatedAt": "2026-10-27T20:00:22.000Z",
+  "edition": 538,
+  "headline": "The lamp stays low.",
+  "body": "Clear air over the roofs. A single window across the way holds a steady yellow. The street below has not yet gathered its evening noise.",
   "pulses": [
-    { "label": "Sky", "value": "high, pale gold" },
-    { "label": "Light", "value": "low across the sill" },
-    { "label": "Street", "value": "two footsteps, then quiet" }
+    { "label": "Sky", "value": "clear, cooling" },
+    { "label": "Light", "value": "low on the sill" },
+    { "label": "Street", "value": "quiet before the turn" }
   ]
 }
