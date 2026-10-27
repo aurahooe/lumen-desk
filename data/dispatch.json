@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-27T03:00:00.000Z",
-  "edition": 525,
-  "headline": "The room forgets to change.",
-  "body": "Dust has settled on the open page. The radiator gives one quiet knock and stops. Outside the glass, nothing answers.",
+  "updatedAt": "2026-10-27T04:00:00.000Z",
+  "edition": 526,
+  "headline": "Four o'clock, the desk unmoved.",
+  "body": "The open notebook shows the same unfinished sentence. Heat from the lamp warms only the immediate wood. Somewhere a radiator ticks once and is still.",
   "pulses": [
-    { "label": "Sky", "value": "ink, no stars yet" },
-    { "label": "Light", "value": "steady amber, unwavering" },
-    { "label": "Street", "value": "empty, last lamp dim" }
+    { "label": "Sky", "value": "black turning slate" },
+    { "label": "Light", "value": "single bulb, steady" },
+    { "label": "Street", "value": "empty, one parked car" }
   ]
 }
