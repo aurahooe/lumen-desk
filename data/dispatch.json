@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-27T05:00:00.000Z",
-  "edition": 527,
-  "headline": "Five, the page still open.",
-  "body": "The same unfinished sentence sits under the lamp. A thin gray has reached the top of the window. Below, the street holds one car with its lights dark.",
+  "updatedAt": "2026-10-27T06:00:00.000Z",
+  "edition": 528,
+  "headline": "Six, the kettle cooling.",
+  "body": "Steam has left the window glass. Outside, a single bicycle leans against the railing, chain quiet. The page turns only in the mind.",
   "pulses": [
-    { "label": "Sky", "value": "edge of gray" },
-    { "label": "Light", "value": "lamp, low and warm" },
-    { "label": "Street", "value": "still, one dark car" }
+    { "label": "Sky", "value": "pale, no cloud" },
+    { "label": "Light", "value": "first on the sill" },
+    { "label": "Street", "value": "bicycle, still" }
   ]
 }
