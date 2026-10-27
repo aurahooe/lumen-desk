@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-27T04:00:00.000Z",
-  "edition": 526,
-  "headline": "Four o'clock, the desk unmoved.",
-  "body": "The open notebook shows the same unfinished sentence. Heat from the lamp warms only the immediate wood. Somewhere a radiator ticks once and is still.",
+  "updatedAt": "2026-10-27T05:00:00.000Z",
+  "edition": 527,
+  "headline": "Five, the page still open.",
+  "body": "The same unfinished sentence sits under the lamp. A thin gray has reached the top of the window. Below, the street holds one car with its lights dark.",
   "pulses": [
-    { "label": "Sky", "value": "black turning slate" },
-    { "label": "Light", "value": "single bulb, steady" },
-    { "label": "Street", "value": "empty, one parked car" }
+    { "label": "Sky", "value": "edge of gray" },
+    { "label": "Light", "value": "lamp, low and warm" },
+    { "label": "Street", "value": "still, one dark car" }
   ]
 }
