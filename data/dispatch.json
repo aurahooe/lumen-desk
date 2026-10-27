@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-27T00:00:00.000Z",
-  "edition": 523,
-  "headline": "The desk waits under a low lamp.",
-  "body": "A sheet of paper lies face-down. Outside, a distant train horn thins into the dark. The clock on the wall has not ticked yet this hour.",
+  "updatedAt": "2026-10-27T01:00:51.000Z",
+  "edition": 524,
+  "headline": "The lamp holds the hour still.",
+  "body": "Paper stays face-down on the desk. A moth completes one slow circle and rests on the shade. Outside, the street keeps its single parked car.",
   "pulses": [
-    { "label": "Sky", "value": "black, starless" },
-    { "label": "Light", "value": "small yellow circle, edges soft" },
-    { "label": "Street", "value": "empty, one parked car" }
+    { "label": "Sky", "value": "black, unbroken" },
+    { "label": "Light", "value": "yellow circle, moth-shadowed" },
+    { "label": "Street", "value": "quiet, one car still" }
   ]
 }
