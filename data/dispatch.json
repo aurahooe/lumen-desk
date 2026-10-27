@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-27T07:00:00.000Z",
-  "edition": 529,
-  "headline": "Seven, light on the stair.",
-  "body": "The radiator ticks once, then holds. A window across the way shows a lamp still burning from the night. Somewhere a door closes, soft as paper.",
+  "updatedAt": "2026-10-27T08:00:00.000Z",
+  "edition": 530,
+  "headline": "Eight, steam from the cup.",
+  "body": "The radiator has gone silent. Across the street the lamp is dark. A bicycle leans against the lamppost, wheel still turning.",
   "pulses": [
-    { "label": "Sky", "value": "clear, high" },
-    { "label": "Light", "value": "on the upper steps" },
-    { "label": "Watch", "value": "lamp still lit" }
+    { "label": "Sky", "value": "high, thin" },
+    { "label": "Light", "value": "on the cup rim" },
+    { "label": "Street", "value": "bicycle leaning" }
   ]
 }
