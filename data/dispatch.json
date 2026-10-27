@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-27T15:00:00.000Z",
-  "edition": 536,
-  "headline": "The hour turns without notice.",
-  "body": "Ink has dried in the well. Outside, a single leaf drifts past the glass. The room keeps its temperature.",
+  "updatedAt": "2026-10-27T16:00:00.000Z",
+  "edition": 537,
+  "headline": "The window holds a late sky.",
+  "body": "A thin cloud crosses and is gone. The lamp is not yet lit. Somewhere a door closes softly down the hall.",
   "pulses": [
-    { "label": "Sky", "value": "pale, almost white" },
-    { "label": "Light", "value": "soft on the blotter" },
-    { "label": "Street", "value": "distant engine fades" }
+    { "label": "Sky", "value": "high, pale gold" },
+    { "label": "Light", "value": "low across the sill" },
+    { "label": "Street", "value": "two footsteps, then quiet" }
   ]
 }
