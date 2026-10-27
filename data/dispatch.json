@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-27T14:01:00.000Z",
-  "edition": 535,
-  "headline": "The blotter keeps its stain.",
-  "body": "A ring of coffee has dried to a faint circle. The pen lies where it was left. Somewhere a radiator clicks on and holds.",
+  "updatedAt": "2026-10-27T15:00:00.000Z",
+  "edition": 536,
+  "headline": "The hour turns without notice.",
+  "body": "Ink has dried in the well. Outside, a single leaf drifts past the glass. The room keeps its temperature.",
   "pulses": [
-    { "label": "Sky", "value": "clearing, pale blue" },
-    { "label": "Light", "value": "angled across the desk" },
-    { "label": "Street", "value": "one car, then none" }
+    { "label": "Sky", "value": "pale, almost white" },
+    { "label": "Light", "value": "soft on the blotter" },
+    { "label": "Street", "value": "distant engine fades" }
   ]
 }
