@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-27T08:00:00.000Z",
-  "edition": 530,
-  "headline": "Eight, steam from the cup.",
-  "body": "The radiator has gone silent. Across the street the lamp is dark. A bicycle leans against the lamppost, wheel still turning.",
+  "updatedAt": "2026-10-27T09:00:00.000Z",
+  "edition": 531,
+  "headline": "Nine. The window is open.",
+  "body": "A draft lifts the corner of the page. The radiator remains silent. Across the street the lamp is still dark.",
   "pulses": [
-    { "label": "Sky", "value": "high, thin" },
-    { "label": "Light", "value": "on the cup rim" },
-    { "label": "Street", "value": "bicycle leaning" }
+    { "label": "Sky", "value": "high, pale" },
+    { "label": "Light", "value": "across the page" },
+    { "label": "Street", "value": "empty at nine" }
   ]
 }
