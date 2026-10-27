@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-27T06:00:00.000Z",
-  "edition": 528,
-  "headline": "Six, the kettle cooling.",
-  "body": "Steam has left the window glass. Outside, a single bicycle leans against the railing, chain quiet. The page turns only in the mind.",
+  "updatedAt": "2026-10-27T07:00:00.000Z",
+  "edition": 529,
+  "headline": "Seven, light on the stair.",
+  "body": "The radiator ticks once, then holds. A window across the way shows a lamp still burning from the night. Somewhere a door closes, soft as paper.",
   "pulses": [
-    { "label": "Sky", "value": "pale, no cloud" },
-    { "label": "Light", "value": "first on the sill" },
-    { "label": "Street", "value": "bicycle, still" }
+    { "label": "Sky", "value": "clear, high" },
+    { "label": "Light", "value": "on the upper steps" },
+    { "label": "Watch", "value": "lamp still lit" }
   ]
 }
