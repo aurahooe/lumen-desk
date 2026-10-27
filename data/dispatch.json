@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-27T09:00:00.000Z",
-  "edition": 531,
-  "headline": "Nine. The window is open.",
-  "body": "A draft lifts the corner of the page. The radiator remains silent. Across the street the lamp is still dark.",
+  "updatedAt": "2026-10-27T11:00:00.000Z",
+  "edition": 532,
+  "headline": "Eleven. Light on the blotter.",
+  "body": "The pen rests where it was left. A shadow from the sash crosses the desk. Outside, a bicycle ticks past.",
   "pulses": [
-    { "label": "Sky", "value": "high, pale" },
-    { "label": "Light", "value": "across the page" },
-    { "label": "Street", "value": "empty at nine" }
+    { "label": "Sky", "value": "clear, late morning" },
+    { "label": "Light", "value": "on the blotter" },
+    { "label": "Street", "value": "one bicycle" }
   ]
 }
