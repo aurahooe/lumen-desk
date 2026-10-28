@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-28T05:00:12.000Z",
-  "edition": 541,
-  "headline": "Five o’clock and the glass holds cold.",
-  "body": "One car sits at the corner with its lights off. The lamp across the way has not shifted. A door closes somewhere and stays shut.",
+  "updatedAt": "2026-10-28T06:00:15.000Z",
+  "edition": 542,
+  "headline": "Six o’clock and the yellow holds.",
+  "body": "The upstairs window has gone dark. The corner car is gone. The glass is colder than it was.",
   "pulses": [
     { "label": "Sky", "value": "still dark" },
     { "label": "Light", "value": "held low" },
-    { "label": "Street", "value": "one car waiting" }
+    { "label": "Street", "value": "empty now" }
   ]
 }
