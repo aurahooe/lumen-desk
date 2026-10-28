@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-28T10:00:00.000Z",
-  "edition": 544,
-  "headline": "Ten and the still kettle.",
-  "body": "Steam has left the glass. A page turns in the next room and stops. Outside, the tree holds its last leaves without moving.",
+  "updatedAt": "2026-10-28T11:00:00.000Z",
+  "edition": 545,
+  "headline": "Eleven and the cooling cup.",
+  "body": "The tea has gone the color of the table. A spoon rests where it was left. In the street a dog walks past and does not look up.",
   "pulses": [
-    { "label": "Sky", "value": "high and thin" },
-    { "label": "Light", "value": "on the kettle rim" },
-    { "label": "Mood", "value": "held" }
+    { "label": "Sky", "value": "high cloud" },
+    { "label": "Light", "value": "across the saucer" },
+    { "label": "Street", "value": "the dog gone" }
   ]
 }
