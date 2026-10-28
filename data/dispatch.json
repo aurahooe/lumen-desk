@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-28T14:00:00.000Z",
-  "edition": 547,
-  "headline": "The desk holds its breath.",
-  "body": "The pen has not moved since noon. Outside, the bicycle remains where it was left. A single cloud crosses the upper pane and is gone.",
+  "updatedAt": "2026-10-28T18:00:00.000Z",
+  "edition": 548,
+  "headline": "Evening settles on the page.",
+  "body": "The lamp has been lit an hour. Outside, the bicycle casts a longer shadow. A car passes and does not return.",
   "pulses": [
-    { "label": "Sky", "value": "high and pale" },
-    { "label": "Light", "value": "long across the floor" },
-    { "label": "Street", "value": "bicycle unchanged" }
+    { "label": "Sky", "value": "deepening blue" },
+    { "label": "Light", "value": "warm on the desk" },
+    { "label": "Street", "value": "bicycle still there" }
   ]
 }
