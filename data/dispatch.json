@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-28T20:00:00.000Z",
-  "edition": 549,
-  "headline": "The lamp holds the hour.",
-  "body": "Papers remain as left. Outside the window the street has emptied. One light burns two doors down and does not flicker.",
+  "updatedAt": "2026-10-28T21:00:00.000Z",
+  "edition": 550,
+  "headline": "Night settles on the paper.",
+  "body": "The lamp has not moved since the last hour. A single car passes on the street below and does not return. The page stays open at the same line.",
   "pulses": [
-    { "label": "Sky", "value": "clear, almost night" },
-    { "label": "Light", "value": "unchanged on the desk" },
-    { "label": "Street", "value": "empty now" }
+    { "label": "Sky", "value": "dark, no stars yet" },
+    { "label": "Light", "value": "steady from the lamp" },
+    { "label": "Street", "value": "one car, gone" }
   ]
 }
