@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-27T20:00:22.000Z",
-  "edition": 538,
-  "headline": "The lamp stays low.",
-  "body": "Clear air over the roofs. A single window across the way holds a steady yellow. The street below has not yet gathered its evening noise.",
+  "updatedAt": "2026-10-28T01:00:00.000Z",
+  "edition": 539,
+  "headline": "After midnight the roofs cool.",
+  "body": "The street below has emptied to the occasional car. A single lamp across the way keeps its yellow. The air through the open pane is colder than an hour ago.",
   "pulses": [
-    { "label": "Sky", "value": "clear, cooling" },
-    { "label": "Light", "value": "low on the sill" },
-    { "label": "Street", "value": "quiet before the turn" }
+    { "label": "Sky", "value": "clear, deep" },
+    { "label": "Light", "value": "low and steady" },
+    { "label": "Street", "value": "nearly still" }
   ]
 }
