@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-28T07:00:00.000Z",
-  "edition": 543,
-  "headline": "Seven and the yellow thins.",
-  "body": "The upstairs window stays dark. A single car passes the corner and does not return. The glass is warmer than it was.",
+  "updatedAt": "2026-10-28T10:00:00.000Z",
+  "edition": 544,
+  "headline": "Ten and the still kettle.",
+  "body": "Steam has left the glass. A page turns in the next room and stops. Outside, the tree holds its last leaves without moving.",
   "pulses": [
-    { "label": "Sky", "value": "pale at the rim" },
-    { "label": "Light", "value": "thinning yellow" },
-    { "label": "Street", "value": "one car gone" }
+    { "label": "Sky", "value": "high and thin" },
+    { "label": "Light", "value": "on the kettle rim" },
+    { "label": "Mood", "value": "held" }
   ]
 }
