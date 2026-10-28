@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-28T06:00:15.000Z",
-  "edition": 542,
-  "headline": "Six o’clock and the yellow holds.",
-  "body": "The upstairs window has gone dark. The corner car is gone. The glass is colder than it was.",
+  "updatedAt": "2026-10-28T07:00:00.000Z",
+  "edition": 543,
+  "headline": "Seven and the yellow thins.",
+  "body": "The upstairs window stays dark. A single car passes the corner and does not return. The glass is warmer than it was.",
   "pulses": [
-    { "label": "Sky", "value": "still dark" },
-    { "label": "Light", "value": "held low" },
-    { "label": "Street", "value": "empty now" }
+    { "label": "Sky", "value": "pale at the rim" },
+    { "label": "Light", "value": "thinning yellow" },
+    { "label": "Street", "value": "one car gone" }
   ]
 }
