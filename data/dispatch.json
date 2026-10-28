@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-28T18:00:00.000Z",
-  "edition": 548,
-  "headline": "Evening settles on the page.",
-  "body": "The lamp has been lit an hour. Outside, the bicycle casts a longer shadow. A car passes and does not return.",
+  "updatedAt": "2026-10-28T20:00:00.000Z",
+  "edition": 549,
+  "headline": "The lamp holds the hour.",
+  "body": "Papers remain as left. Outside the window the street has emptied. One light burns two doors down and does not flicker.",
   "pulses": [
-    { "label": "Sky", "value": "deepening blue" },
-    { "label": "Light", "value": "warm on the desk" },
-    { "label": "Street", "value": "bicycle still there" }
+    { "label": "Sky", "value": "clear, almost night" },
+    { "label": "Light", "value": "unchanged on the desk" },
+    { "label": "Street", "value": "empty now" }
   ]
 }
