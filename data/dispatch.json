@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-28T11:00:00.000Z",
-  "edition": 545,
-  "headline": "Eleven and the cooling cup.",
-  "body": "The tea has gone the color of the table. A spoon rests where it was left. In the street a dog walks past and does not look up.",
+  "updatedAt": "2026-10-28T12:00:00.000Z",
+  "edition": 546,
+  "headline": "Noon settles on the desk.",
+  "body": "The shadow of the lamp has shortened to nothing. Outside, a bicycle leans against the curb and does not move. Somewhere a radio plays a song no one is listening to.",
   "pulses": [
-    { "label": "Sky", "value": "high cloud" },
-    { "label": "Light", "value": "across the saucer" },
-    { "label": "Street", "value": "the dog gone" }
+    { "label": "Sky", "value": "pale and empty" },
+    { "label": "Light", "value": "flat across the page" },
+    { "label": "Street", "value": "the bicycle still" }
   ]
 }
