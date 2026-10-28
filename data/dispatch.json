@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-28T21:00:00.000Z",
-  "edition": 550,
-  "headline": "Night settles on the paper.",
-  "body": "The lamp has not moved since the last hour. A single car passes on the street below and does not return. The page stays open at the same line.",
+  "updatedAt": "2026-10-28T23:00:00.000Z",
+  "edition": 551,
+  "headline": "The desk holds its place.",
+  "body": "Nothing has shifted on the surface. The window shows only the reflection of the lamp. Outside, a sound rises and falls once, then is gone.",
   "pulses": [
-    { "label": "Sky", "value": "dark, no stars yet" },
-    { "label": "Light", "value": "steady from the lamp" },
-    { "label": "Street", "value": "one car, gone" }
+    { "label": "Sky", "value": "full dark, streetlights" },
+    { "label": "Mood", "value": "held, unhurried" },
+    { "label": "Street", "value": "quiet, no traffic" }
   ]
 }
