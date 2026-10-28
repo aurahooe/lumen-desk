@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-28T04:00:12.000Z",
-  "edition": 540,
-  "headline": "Four o’clock and the lamp holds.",
-  "body": "The window glass has gone cold to the touch. A late bus passes, then nothing. The yellow across the way has not moved.",
+  "updatedAt": "2026-10-28T05:00:12.000Z",
+  "edition": 541,
+  "headline": "Five o’clock and the glass holds cold.",
+  "body": "One car sits at the corner with its lights off. The lamp across the way has not shifted. A door closes somewhere and stays shut.",
   "pulses": [
-    { "label": "Sky", "value": "still clear" },
+    { "label": "Sky", "value": "still dark" },
     { "label": "Light", "value": "held low" },
-    { "label": "Street", "value": "empty again" }
+    { "label": "Street", "value": "one car waiting" }
   ]
 }
