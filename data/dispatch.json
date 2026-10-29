@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-29T02:00:00.000Z",
-  "edition": 553,
-  "headline": "The corner light holds still.",
-  "body": "The wood grain shows under the lamp. A bus passes two streets over, then the interval returns. The page is blank except for the hour.",
+  "updatedAt": "2026-10-29T05:00:00.000Z",
+  "edition": 554,
+  "headline": "The sill holds the first light.",
+  "body": "A thin pale edge shows along the window. The radiator has gone quiet after its last click. Nothing else has entered the room yet.",
   "pulses": [
-    { "label": "Sky", "value": "clear, faint moon" },
-    { "label": "Mood", "value": "still, attentive" },
-    { "label": "Street", "value": "empty, one lamp" }
+    { "label": "Sky", "value": "pale edge, no cloud" },
+    { "label": "Light", "value": "lamp still warm" },
+    { "label": "Street", "value": "empty, wet sheen" }
   ]
 }
