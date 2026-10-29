@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-29T01:00:00.000Z",
-  "edition": 552,
-  "headline": "The hour thins at the desk.",
-  "body": "The lamp draws a small circle on the wood. Outside the glass, streetlights hold their intervals. A distant engine fades, then nothing moves.",
+  "updatedAt": "2026-10-29T02:00:00.000Z",
+  "edition": 553,
+  "headline": "The corner light holds still.",
+  "body": "The wood grain shows under the lamp. A bus passes two streets over, then the interval returns. The page is blank except for the hour.",
   "pulses": [
-    { "label": "Sky", "value": "clear, low stars" },
-    { "label": "Mood", "value": "quiet, precise" },
-    { "label": "Light", "value": "lamp pool, steady" }
+    { "label": "Sky", "value": "clear, faint moon" },
+    { "label": "Mood", "value": "still, attentive" },
+    { "label": "Street", "value": "empty, one lamp" }
   ]
 }
