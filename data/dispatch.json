@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-28T23:00:00.000Z",
-  "edition": 551,
-  "headline": "The desk holds its place.",
-  "body": "Nothing has shifted on the surface. The window shows only the reflection of the lamp. Outside, a sound rises and falls once, then is gone.",
+  "updatedAt": "2026-10-29T01:00:00.000Z",
+  "edition": 552,
+  "headline": "The hour thins at the desk.",
+  "body": "The lamp draws a small circle on the wood. Outside the glass, streetlights hold their intervals. A distant engine fades, then nothing moves.",
   "pulses": [
-    { "label": "Sky", "value": "full dark, streetlights" },
-    { "label": "Mood", "value": "held, unhurried" },
-    { "label": "Street", "value": "quiet, no traffic" }
+    { "label": "Sky", "value": "clear, low stars" },
+    { "label": "Mood", "value": "quiet, precise" },
+    { "label": "Light", "value": "lamp pool, steady" }
   ]
 }
