@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-29T13:00:00.000Z",
-  "edition": 559,
-  "headline": "The second hand catches for a moment.",
-  "body": "Heat rises from the radiator without sound. Outside, the plane tree holds its last leaves. The desk lamp remains unlit.",
+  "updatedAt": "2026-10-29T19:00:00.000Z",
+  "edition": 560,
+  "headline": "Evening settles on the windowsill.",
+  "body": "The streetlights have not yet come on. A bicycle leans against the far wall. The paper remains where it was left.",
   "pulses": [
-    { "label": "Sky", "value": "high and washed" },
-    { "label": "Street", "value": "wet pavement, no rain" },
-    { "label": "Light", "value": "thin on the floorboards" }
+    { "label": "Sky", "value": "clear, deepening blue" },
+    { "label": "Street", "value": "empty, one lamp lit" },
+    { "label": "Light", "value": "fading across the desk" }
   ]
 }
