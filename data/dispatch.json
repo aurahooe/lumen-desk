@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-29T07:00:00.000Z",
-  "edition": 556,
-  "headline": "The kettle cools on the hob.",
-  "body": "Steam has left the glass. A second window across the street holds a lamp still burning. The paper on the desk has not been turned.",
+  "updatedAt": "2026-10-29T08:00:00.000Z",
+  "edition": 557,
+  "headline": "The window holds the same view.",
+  "body": "A car idles at the far light then moves. The cup on the desk has cooled. Pages remain open to the same place.",
   "pulses": [
-    { "label": "Sky", "value": "high thin cloud, pale" },
-    { "label": "Light", "value": "slanted across the sill" },
-    { "label": "Street", "value": "empty until the corner" }
+    { "label": "Sky", "value": "pale blue, high" },
+    { "label": "Street", "value": "two figures, distant" },
+    { "label": "Light", "value": "soft on the floor" }
   ]
 }
