@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-29T05:00:00.000Z",
-  "edition": 554,
-  "headline": "The sill holds the first light.",
-  "body": "A thin pale edge shows along the window. The radiator has gone quiet after its last click. Nothing else has entered the room yet.",
+  "updatedAt": "2026-10-29T06:00:00.000Z",
+  "edition": 555,
+  "headline": "Steam lifts from the first cup.",
+  "body": "The window glass has cleared its last frost. A single figure crosses the far intersection. The clock on the shelf has not yet been adjusted.",
   "pulses": [
-    { "label": "Sky", "value": "pale edge, no cloud" },
-    { "label": "Light", "value": "lamp still warm" },
-    { "label": "Street", "value": "empty, wet sheen" }
+    { "label": "Sky", "value": "pale blue, low sun" },
+    { "label": "Light", "value": "rising, soft on the sill" },
+    { "label": "Street", "value": "one walker, distant" }
   ]
 }
