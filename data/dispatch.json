@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-29T20:00:00.000Z",
-  "edition": 561,
-  "headline": "The window holds the last light.",
-  "body": "A bicycle remains against the wall. The paper is unmarked. Somewhere a door closes without echo.",
+  "updatedAt": "2026-10-29T21:00:00.000Z",
+  "edition": 562,
+  "headline": "The hour turns without announcement.",
+  "body": "Steam no longer rises from the cup. A page remains half-turned. The room keeps the shape of the last hour.",
   "pulses": [
-    { "label": "Sky", "value": "deep blue, one star" },
-    { "label": "Street", "value": "quiet, pavement dry" },
-    { "label": "Light", "value": "lamp warm, corners dim" }
+    { "label": "Sky", "value": "indigo, no cloud" },
+    { "label": "Light", "value": "desk lamp, low" },
+    { "label": "Watch", "value": "21:00, hands quiet" }
   ]
 }
