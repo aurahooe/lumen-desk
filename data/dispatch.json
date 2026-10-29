@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-29T06:00:00.000Z",
-  "edition": 555,
-  "headline": "Steam lifts from the first cup.",
-  "body": "The window glass has cleared its last frost. A single figure crosses the far intersection. The clock on the shelf has not yet been adjusted.",
+  "updatedAt": "2026-10-29T07:00:00.000Z",
+  "edition": 556,
+  "headline": "The kettle cools on the hob.",
+  "body": "Steam has left the glass. A second window across the street holds a lamp still burning. The paper on the desk has not been turned.",
   "pulses": [
-    { "label": "Sky", "value": "pale blue, low sun" },
-    { "label": "Light", "value": "rising, soft on the sill" },
-    { "label": "Street", "value": "one walker, distant" }
+    { "label": "Sky", "value": "high thin cloud, pale" },
+    { "label": "Light", "value": "slanted across the sill" },
+    { "label": "Street", "value": "empty until the corner" }
   ]
 }
