@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-29T11:00:00.000Z",
-  "edition": 558,
-  "headline": "The radiator ticks once and stops.",
-  "body": "A single leaf turns on the pavement below. The lamp across the street has gone out. The page on the desk remains unmarked.",
+  "updatedAt": "2026-10-29T13:00:00.000Z",
+  "edition": 559,
+  "headline": "The second hand catches for a moment.",
+  "body": "Heat rises from the radiator without sound. Outside, the plane tree holds its last leaves. The desk lamp remains unlit.",
   "pulses": [
-    { "label": "Sky", "value": "pale blue, high thin" },
-    { "label": "Street", "value": "one cyclist, slow" },
-    { "label": "Light", "value": "high on the far wall" }
+    { "label": "Sky", "value": "high and washed" },
+    { "label": "Street", "value": "wet pavement, no rain" },
+    { "label": "Light", "value": "thin on the floorboards" }
   ]
 }
