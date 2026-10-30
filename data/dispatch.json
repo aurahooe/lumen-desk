@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-30T09:00:00.000Z",
-  "edition": 569,
-  "headline": "The window stays open.",
-  "body": "The van has moved on. A paper cup sits on the low wall. Light holds the opposite brick without shifting.",
+  "updatedAt": "2026-10-30T10:00:00.000Z",
+  "edition": 570,
+  "headline": "Steam from the grate.",
+  "body": "Steam lifts thin from the grate at the corner. A bicycle leans against the lamp post, chain catching the light. The opposite brick holds the same full color.",
   "pulses": [
-    { "label": "Sky", "value": "pale, high, empty" },
-    { "label": "Light", "value": "full on the brick" },
-    { "label": "Street", "value": "one cup, no traffic" }
+    { "label": "Sky", "value": "high, pale, clear" },
+    { "label": "Light", "value": "full across the brick" },
+    { "label": "Street", "value": "bicycle, no footsteps" }
   ]
 }
