@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-29T21:00:00.000Z",
-  "edition": 562,
-  "headline": "The hour turns without announcement.",
-  "body": "Steam no longer rises from the cup. A page remains half-turned. The room keeps the shape of the last hour.",
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "edition": 563,
+  "headline": "Midnight keeps the lamps on.",
+  "body": "The street below is still. A single window holds its light. The desk surface has cooled to the touch.",
   "pulses": [
-    { "label": "Sky", "value": "indigo, no cloud" },
-    { "label": "Light", "value": "desk lamp, low" },
-    { "label": "Watch", "value": "21:00, hands quiet" }
+    { "label": "Sky", "value": "black, no stars visible" },
+    { "label": "Light", "value": "overhead, dimmed" },
+    { "label": "Street", "value": "empty, wet sheen" }
   ]
 }
