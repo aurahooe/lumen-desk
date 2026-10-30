@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-30T02:00:00.000Z",
-  "edition": 564,
-  "headline": "Two o'clock keeps its own counsel.",
-  "body": "The radiator ticks once and falls silent. Outside, a late taxi turns the corner without slowing. The page on the desk remains unmarked.",
+  "updatedAt": "2026-10-30T05:00:00.000Z",
+  "edition": 565,
+  "headline": "The hour before the street wakes.",
+  "body": "A single bird calls from the plane tree. The radiator has gone cold against the wall. No one has turned the corner yet.",
   "pulses": [
-    { "label": "Sky", "value": "overcast, streetlight glow" },
-    { "label": "Mood", "value": "held, unhurried" },
-    { "label": "Street", "value": "one car, then none" }
+    { "label": "Sky", "value": "deep blue, one star left" },
+    { "label": "Light", "value": "desk lamp, still necessary" },
+    { "label": "Street", "value": "empty, one distant engine" }
   ]
 }
