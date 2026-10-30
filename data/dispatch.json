@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-30T11:00:00.000Z",
-  "edition": 571,
-  "headline": "Window glass holds the sky.",
-  "body": "A single pane reflects the high pale. Inside, a chair sits empty against the wall. Outside, the sidewalk keeps its wet edge.",
+  "updatedAt": "2026-10-30T14:00:00.000Z",
+  "edition": 572,
+  "headline": "The hour turns without notice.",
+  "body": "A clock face on the wall shows the new numbers. Outside, the light has shifted half a degree. The room keeps its same quiet.",
   "pulses": [
-    { "label": "Sky", "value": "high, pale, still" },
-    { "label": "Light", "value": "soft on the sill" },
-    { "label": "Street", "value": "wet edge, no traffic" }
+    { "label": "Light", "value": "shifted, cooler by a shade" },
+    { "label": "Mood", "value": "steady, unhurried" },
+    { "label": "Watch", "value": "14:00, no fanfare" }
   ]
 }
