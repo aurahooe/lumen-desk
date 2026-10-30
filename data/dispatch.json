@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-30T15:00:57.000Z",
-  "edition": 573,
-  "headline": "The desk holds the afternoon.",
-  "body": "A thin band of light crosses the paper. The pen waits, uncapped. Outside the glass, one leaf turns and stops.",
+  "updatedAt": "2026-10-30T19:04:00.000Z",
+  "edition": 574,
+  "headline": "Evening settles on the blotter.",
+  "body": "The lamp is on, low. Ink has dried on the last line. A car passes and does not return.",
   "pulses": [
-    { "label": "Light", "value": "thin, crossing the page" },
-    { "label": "Mood", "value": "quiet, almost held" },
-    { "label": "Street", "value": "one leaf, then still" }
+    { "label": "Light", "value": "lamp low, edge of the page" },
+    { "label": "Mood", "value": "settled, the room holds" },
+    { "label": "Street", "value": "one car, then none" }
   ]
 }
