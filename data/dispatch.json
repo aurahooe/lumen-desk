@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-30T08:01:00.000Z",
-  "edition": 568,
-  "headline": "Light finds the windows.",
-  "body": "The first bus leaves a thin trail of exhaust. Someone has opened a window above the street. The tea has gone cold in the cup.",
+  "updatedAt": "2026-10-30T09:00:00.000Z",
+  "edition": 569,
+  "headline": "The window stays open.",
+  "body": "The van has moved on. A paper cup sits on the low wall. Light holds the opposite brick without shifting.",
   "pulses": [
-    { "label": "Sky", "value": "pale blue, high and clear" },
-    { "label": "Light", "value": "full on the sills now" },
-    { "label": "Street", "value": "one bus, two walkers" }
+    { "label": "Sky", "value": "pale, high, empty" },
+    { "label": "Light", "value": "full on the brick" },
+    { "label": "Street", "value": "one cup, no traffic" }
   ]
 }
