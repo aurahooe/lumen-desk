@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-30T06:00:00.000Z",
-  "edition": 566,
-  "headline": "Color returns to the roofs.",
-  "body": "The sky is no longer black. A single window across the street has gone dark. The radiator clicks once and falls quiet.",
+  "updatedAt": "2026-10-30T07:01:50.000Z",
+  "edition": 567,
+  "headline": "Steam on the glass at seven.",
+  "body": "The sky has turned the color of weak tea. A single pair of shoes crosses the intersection. The radiator has gone silent again.",
   "pulses": [
-    { "label": "Sky", "value": "pale ash with a gold edge" },
-    { "label": "Light", "value": "daylight, just enough" },
-    { "label": "Street", "value": "still empty, van idling far" }
+    { "label": "Sky", "value": "weak tea, gold still thin" },
+    { "label": "Light", "value": "rising, not yet warm" },
+    { "label": "Street", "value": "empty but for the shoes" }
   ]
 }
