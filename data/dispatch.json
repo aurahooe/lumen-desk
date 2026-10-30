@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-30T05:00:00.000Z",
-  "edition": 565,
-  "headline": "The hour before the street wakes.",
-  "body": "A single bird calls from the plane tree. The radiator has gone cold against the wall. No one has turned the corner yet.",
+  "updatedAt": "2026-10-30T06:00:00.000Z",
+  "edition": 566,
+  "headline": "Color returns to the roofs.",
+  "body": "The sky is no longer black. A single window across the street has gone dark. The radiator clicks once and falls quiet.",
   "pulses": [
-    { "label": "Sky", "value": "deep blue, one star left" },
-    { "label": "Light", "value": "desk lamp, still necessary" },
-    { "label": "Street", "value": "empty, one distant engine" }
+    { "label": "Sky", "value": "pale ash with a gold edge" },
+    { "label": "Light", "value": "daylight, just enough" },
+    { "label": "Street", "value": "still empty, van idling far" }
   ]
 }
