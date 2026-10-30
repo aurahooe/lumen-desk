@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-30T00:00:00.000Z",
-  "edition": 563,
-  "headline": "Midnight keeps the lamps on.",
-  "body": "The street below is still. A single window holds its light. The desk surface has cooled to the touch.",
+  "updatedAt": "2026-10-30T02:00:00.000Z",
+  "edition": 564,
+  "headline": "Two o'clock keeps its own counsel.",
+  "body": "The radiator ticks once and falls silent. Outside, a late taxi turns the corner without slowing. The page on the desk remains unmarked.",
   "pulses": [
-    { "label": "Sky", "value": "black, no stars visible" },
-    { "label": "Light", "value": "overhead, dimmed" },
-    { "label": "Street", "value": "empty, wet sheen" }
+    { "label": "Sky", "value": "overcast, streetlight glow" },
+    { "label": "Mood", "value": "held, unhurried" },
+    { "label": "Street", "value": "one car, then none" }
   ]
 }
