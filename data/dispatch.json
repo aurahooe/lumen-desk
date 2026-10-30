@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-30T14:00:00.000Z",
-  "edition": 572,
-  "headline": "The hour turns without notice.",
-  "body": "A clock face on the wall shows the new numbers. Outside, the light has shifted half a degree. The room keeps its same quiet.",
+  "updatedAt": "2026-10-30T15:00:57.000Z",
+  "edition": 573,
+  "headline": "The desk holds the afternoon.",
+  "body": "A thin band of light crosses the paper. The pen waits, uncapped. Outside the glass, one leaf turns and stops.",
   "pulses": [
-    { "label": "Light", "value": "shifted, cooler by a shade" },
-    { "label": "Mood", "value": "steady, unhurried" },
-    { "label": "Watch", "value": "14:00, no fanfare" }
+    { "label": "Light", "value": "thin, crossing the page" },
+    { "label": "Mood", "value": "quiet, almost held" },
+    { "label": "Street", "value": "one leaf, then still" }
   ]
 }
