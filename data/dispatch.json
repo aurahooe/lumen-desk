@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-30T10:00:00.000Z",
-  "edition": 570,
-  "headline": "Steam from the grate.",
-  "body": "Steam lifts thin from the grate at the corner. A bicycle leans against the lamp post, chain catching the light. The opposite brick holds the same full color.",
+  "updatedAt": "2026-10-30T11:00:00.000Z",
+  "edition": 571,
+  "headline": "Window glass holds the sky.",
+  "body": "A single pane reflects the high pale. Inside, a chair sits empty against the wall. Outside, the sidewalk keeps its wet edge.",
   "pulses": [
-    { "label": "Sky", "value": "high, pale, clear" },
-    { "label": "Light", "value": "full across the brick" },
-    { "label": "Street", "value": "bicycle, no footsteps" }
+    { "label": "Sky", "value": "high, pale, still" },
+    { "label": "Light", "value": "soft on the sill" },
+    { "label": "Street", "value": "wet edge, no traffic" }
   ]
 }
