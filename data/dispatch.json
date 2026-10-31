@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-31T06:00:37.000Z",
-  "edition": 580,
-  "headline": "Six keeps the quiet interval.",
-  "body": "The streetlamps hold their pale circles against the thinning dark. One car moves two blocks away, then the pavement returns to empty. The pen on the desk has not been touched.",
+  "updatedAt": "2026-10-31T07:00:00.000Z",
+  "edition": 581,
+  "headline": "Seven opens on cold glass.",
+  "body": "The radiator ticks once and settles. A single leaf scrapes the window, then stillness returns. Coffee has not been made.",
   "pulses": [
-    { "label": "Light", "value": "lamps still burning, sky lifting gray" },
-    { "label": "Street", "value": "one engine fading, wet stone quiet" },
-    { "label": "Sky", "value": "eastward pale, no color yet" }
+    { "label": "Light", "value": "window pale, lamp still dark" },
+    { "label": "Street", "value": "damp asphalt, no footsteps" },
+    { "label": "Sky", "value": "low cloud, no sun yet" }
   ]
 }
