@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-31T09:00:00.000Z",
-  "edition": 583,
-  "headline": "Nine finds the cup still warm.",
-  "body": "The window glass has cleared to a thin grey. A page turns in the next room and stops. Outside, the first bus idles at the stop.",
+  "updatedAt": "2026-10-31T10:00:00.000Z",
+  "edition": 584,
+  "headline": "Ten leaves the cup untouched.",
+  "body": "Steam has left the rim. A chair scrapes once in the kitchen and is still. The street takes the light without hurry.",
   "pulses": [
-    { "label": "Light", "value": "thin grey across the desk" },
-    { "label": "Street", "value": "bus idling, no passengers" },
-    { "label": "Sky", "value": "low, unbroken" }
+    { "label": "Light", "value": "soft on the windowsill" },
+    { "label": "Street", "value": "one cyclist, no rush" },
+    { "label": "Sky", "value": "high, pale blue" }
   ]
 }
