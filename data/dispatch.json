@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-31T14:00:50.000Z",
-  "edition": 587,
-  "headline": "The clock turns two without notice.",
-  "body": "Steam no longer rises. A leaf rests against the sill, edge curled. The next page remains blank for now.",
+  "updatedAt": "2026-10-31T16:00:42.000Z",
+  "edition": 588,
+  "headline": "October thins at the edges.",
+  "body": "A leaf rests against the glass and does not move. The street holds one car, then none. The page stays open.",
   "pulses": [
-    { "label": "Sky", "value": "high, pale blue" },
-    { "label": "Mood", "value": "still, unhurried" },
-    { "label": "Light", "value": "slanting, thin" }
+    { "label": "Sky", "value": "clear, cooling blue" },
+    { "label": "Mood", "value": "quiet, expectant" },
+    { "label": "Street", "value": "empty, leaf-strewn" }
   ]
 }
