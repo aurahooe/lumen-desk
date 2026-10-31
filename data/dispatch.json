@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-31T17:00:27.796Z",
-  "edition": 589,
-  "headline": "Light leaves the windows early.",
-  "body": "The street has gone quiet since the last car passed. A single lamp flickers on two blocks over. Someone turns a page and does not look up.",
+  "updatedAt": "2026-10-31T19:00:00.000Z",
+  "edition": 590,
+  "headline": "The hour turns without a sound.",
+  "body": "Windows across the way show only their own reflection. The pen rests where the last line ended. Somewhere a kettle is set to boil.",
   "pulses": [
-    { "label": "Sky", "value": "pale gold, thinning" },
-    { "label": "Mood", "value": "still, attentive" },
-    { "label": "Street", "value": "empty after the rain" }
+    { "label": "Sky", "value": "indigo deepening" },
+    { "label": "Mood", "value": "quiet, unhurried" },
+    { "label": "Light", "value": "lamps against the blue" }
   ]
 }
