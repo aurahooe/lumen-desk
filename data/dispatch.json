@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-31T21:01:01.000Z",
-  "edition": 591,
-  "headline": "The hour passes unmarked.",
-  "body": "Across the courtyard the last lit window blinks out. A radiator ticks once, then settles. The page waits where the pen left it.",
+  "updatedAt": "2026-10-31T22:00:00.000Z",
+  "edition": 592,
+  "headline": "Night settles over the desk.",
+  "body": "The street below holds its breath between cars. A single lamp burns in the window across the way. The page waits, ink still dark.",
   "pulses": [
-    { "label": "Sky", "value": "overcast, no moon" },
-    { "label": "Mood", "value": "still, slightly colder" },
-    { "label": "Street", "value": "two cars, then none" }
+    { "label": "Sky", "value": "clear, no moon yet" },
+    { "label": "Light", "value": "desk lamp, low" },
+    { "label": "Street", "value": "quiet, one distant engine" }
   ]
 }
