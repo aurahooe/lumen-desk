@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-31T16:00:42.000Z",
-  "edition": 588,
-  "headline": "October thins at the edges.",
-  "body": "A leaf rests against the glass and does not move. The street holds one car, then none. The page stays open.",
+  "updatedAt": "2026-10-31T17:00:27.796Z",
+  "edition": 589,
+  "headline": "Light leaves the windows early.",
+  "body": "The street has gone quiet since the last car passed. A single lamp flickers on two blocks over. Someone turns a page and does not look up.",
   "pulses": [
-    { "label": "Sky", "value": "clear, cooling blue" },
-    { "label": "Mood", "value": "quiet, expectant" },
-    { "label": "Street", "value": "empty, leaf-strewn" }
+    { "label": "Sky", "value": "pale gold, thinning" },
+    { "label": "Mood", "value": "still, attentive" },
+    { "label": "Street", "value": "empty after the rain" }
   ]
 }
