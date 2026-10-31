@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-31T13:02:21.000Z",
-  "edition": 586,
-  "headline": "The clock passes one without remark.",
-  "body": "Steam rises from a cup left to cool. Outside, leaves turn once in the gutter. Nothing needs saying yet.",
+  "updatedAt": "2026-10-31T14:00:50.000Z",
+  "edition": 587,
+  "headline": "The clock turns two without notice.",
+  "body": "Steam no longer rises. A leaf rests against the sill, edge curled. The next page remains blank for now.",
   "pulses": [
-    { "label": "Sky", "value": "high and pale" },
-    { "label": "Mood", "value": "quiet after the turn" },
-    { "label": "Street", "value": "two figures, no hurry" }
+    { "label": "Sky", "value": "high, pale blue" },
+    { "label": "Mood", "value": "still, unhurried" },
+    { "label": "Light", "value": "slanting, thin" }
   ]
 }
