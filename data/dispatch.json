@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-31T02:00:00.000Z",
-  "edition": 577,
-  "headline": "Two o'clock keeps the lamp.",
-  "body": "The street has emptied to a single parked car and the sound of its cooling metal. Inside, the page remains open at the sentence that will not finish. Outside, nothing moves except the slow drift of a cloud across the moon.",
+  "updatedAt": "2026-10-31T04:00:00.000Z",
+  "edition": 578,
+  "headline": "Four keeps the last heat.",
+  "body": "The cup on the sill has gone cold; its steam stopped some time ago. A moth rests flat against the shade and does not lift. Down the block a single door closes, then the street returns to its ordinary silence.",
   "pulses": [
-    { "label": "Light", "value": "desk lamp only, amber at the edges" },
-    { "label": "Street", "value": "empty asphalt, one cooling engine" },
-    { "label": "Sky", "value": "clear, moon half-hidden by thin cloud" }
+    { "label": "Light", "value": "desk lamp lowered, amber thinning at the rim" },
+    { "label": "Street", "value": "empty curb, faint wet sheen from earlier rain" },
+    { "label": "Sky", "value": "deep blue, first pale thinning along the east" }
   ]
 }
