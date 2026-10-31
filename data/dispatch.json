@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-31T12:00:00.000Z",
-  "edition": 585,
-  "headline": "Noon leaves the page open.",
-  "body": "The pen rests where the sentence stopped. A bird crosses the gap between roofs. The clock in the hall has not yet struck.",
+  "updatedAt": "2026-10-31T13:02:21.000Z",
+  "edition": 586,
+  "headline": "The clock passes one without remark.",
+  "body": "Steam rises from a cup left to cool. Outside, leaves turn once in the gutter. Nothing needs saying yet.",
   "pulses": [
-    { "label": "Light", "value": "even on the desk" },
-    { "label": "Street", "value": "one parked car, no door" },
-    { "label": "Sky", "value": "pale, holding still" }
+    { "label": "Sky", "value": "high and pale" },
+    { "label": "Mood", "value": "quiet after the turn" },
+    { "label": "Street", "value": "two figures, no hurry" }
   ]
 }
