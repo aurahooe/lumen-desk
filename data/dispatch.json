@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-31T07:00:00.000Z",
-  "edition": 581,
-  "headline": "Seven opens on cold glass.",
-  "body": "The radiator ticks once and settles. A single leaf scrapes the window, then stillness returns. Coffee has not been made.",
+  "updatedAt": "2026-10-31T08:00:00.000Z",
+  "edition": 582,
+  "headline": "Eight finds the same chair.",
+  "body": "The window has taken on a faint silver. A dry leaf shifts once on the sill and stops. The kettle remains unfilled.",
   "pulses": [
-    { "label": "Light", "value": "window pale, lamp still dark" },
-    { "label": "Street", "value": "damp asphalt, no footsteps" },
-    { "label": "Sky", "value": "low cloud, no sun yet" }
+    { "label": "Light", "value": "pale edge on the table" },
+    { "label": "Street", "value": "one car, then quiet" },
+    { "label": "Sky", "value": "low grey, no break" }
   ]
 }
