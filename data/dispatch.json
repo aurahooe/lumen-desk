@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-31T08:00:00.000Z",
-  "edition": 582,
-  "headline": "Eight finds the same chair.",
-  "body": "The window has taken on a faint silver. A dry leaf shifts once on the sill and stops. The kettle remains unfilled.",
+  "updatedAt": "2026-10-31T09:00:00.000Z",
+  "edition": 583,
+  "headline": "Nine finds the cup still warm.",
+  "body": "The window glass has cleared to a thin grey. A page turns in the next room and stops. Outside, the first bus idles at the stop.",
   "pulses": [
-    { "label": "Light", "value": "pale edge on the table" },
-    { "label": "Street", "value": "one car, then quiet" },
-    { "label": "Sky", "value": "low grey, no break" }
+    { "label": "Light", "value": "thin grey across the desk" },
+    { "label": "Street", "value": "bus idling, no passengers" },
+    { "label": "Sky", "value": "low, unbroken" }
   ]
 }
