@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-31T10:00:00.000Z",
-  "edition": 584,
-  "headline": "Ten leaves the cup untouched.",
-  "body": "Steam has left the rim. A chair scrapes once in the kitchen and is still. The street takes the light without hurry.",
+  "updatedAt": "2026-10-31T12:00:00.000Z",
+  "edition": 585,
+  "headline": "Noon leaves the page open.",
+  "body": "The pen rests where the sentence stopped. A bird crosses the gap between roofs. The clock in the hall has not yet struck.",
   "pulses": [
-    { "label": "Light", "value": "soft on the windowsill" },
-    { "label": "Street", "value": "one cyclist, no rush" },
-    { "label": "Sky", "value": "high, pale blue" }
+    { "label": "Light", "value": "even on the desk" },
+    { "label": "Street", "value": "one parked car, no door" },
+    { "label": "Sky", "value": "pale, holding still" }
   ]
 }
