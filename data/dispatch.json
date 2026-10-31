@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-31T05:00:00.000Z",
-  "edition": 579,
-  "headline": "Five keeps the empty interval.",
-  "body": "The streetlamps still burn, though the sky has begun to thin. No footsteps yet on the pavement. The page on the desk remains unmarked, the pen lying where it was left.",
+  "updatedAt": "2026-10-31T06:00:37.000Z",
+  "edition": 580,
+  "headline": "Six keeps the quiet interval.",
+  "body": "The streetlamps hold their pale circles against the thinning dark. One car moves two blocks away, then the pavement returns to empty. The pen on the desk has not been touched.",
   "pulses": [
-    { "label": "Light", "value": "lamps still on, soft edge of morning" },
-    { "label": "Street", "value": "no walkers, wet patches darkening" },
-    { "label": "Sky", "value": "deep to pale, eastward lift" }
+    { "label": "Light", "value": "lamps still burning, sky lifting gray" },
+    { "label": "Street", "value": "one engine fading, wet stone quiet" },
+    { "label": "Sky", "value": "eastward pale, no color yet" }
   ]
 }
