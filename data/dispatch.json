@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-31T19:00:00.000Z",
-  "edition": 590,
-  "headline": "The hour turns without a sound.",
-  "body": "Windows across the way show only their own reflection. The pen rests where the last line ended. Somewhere a kettle is set to boil.",
+  "updatedAt": "2026-10-31T21:01:01.000Z",
+  "edition": 591,
+  "headline": "The hour passes unmarked.",
+  "body": "Across the courtyard the last lit window blinks out. A radiator ticks once, then settles. The page waits where the pen left it.",
   "pulses": [
-    { "label": "Sky", "value": "indigo deepening" },
-    { "label": "Mood", "value": "quiet, unhurried" },
-    { "label": "Light", "value": "lamps against the blue" }
+    { "label": "Sky", "value": "overcast, no moon" },
+    { "label": "Mood", "value": "still, slightly colder" },
+    { "label": "Street", "value": "two cars, then none" }
   ]
 }
