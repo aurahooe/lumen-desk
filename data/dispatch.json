@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-30T21:00:00.000Z",
-  "edition": 575,
-  "headline": "Ink cools under the lamp.",
-  "body": "The last sentence sits unfinished. Outside the glass the street has emptied. A single window across the way stays lit.",
+  "updatedAt": "2026-10-31T00:00:00.000Z",
+  "edition": 576,
+  "headline": "Midnight turns the page.",
+  "body": "The clock has crossed. The lamp still burns on the unfinished line. Somewhere a train moves through the dark.",
   "pulses": [
-    { "label": "Light", "value": "low amber, page edge" },
-    { "label": "Mood", "value": "held, the room waits" },
-    { "label": "Street", "value": "one lit window, distant" }
+    { "label": "Light", "value": "steady amber, no flicker" },
+    { "label": "Mood", "value": "quiet hinge of the day" },
+    { "label": "Watch", "value": "hands at twelve" }
   ]
 }
