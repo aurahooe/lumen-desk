@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-01T12:00:00.000Z",
-  "edition": 600,
-  "headline": "Noon settles on the empty tables.",
-  "body": "A cafe chair scrapes once and is still. Across the way the hardware store door stands open to the street. Someone counts change on the counter, soft and deliberate.",
+  "updatedAt": "2026-11-01T14:00:00.000Z",
+  "edition": 601,
+  "headline": "Afternoon light crosses the empty sill.",
+  "body": "A thin shadow moves once across the page and holds. Outside the window a bus idles, then pulls away. The kettle has gone cold on the hob.",
   "pulses": [
-    { "label": "Sky", "value": "high and washed pale" },
-    { "label": "Street", "value": "stacked chairs, open door" },
-    { "label": "Light", "value": "sharp under the awning" }
+    { "label": "Sky", "value": "overcast, low and even" },
+    { "label": "Light", "value": "flat across the desk" },
+    { "label": "Watch", "value": "bus gone, street still" }
   ]
 }
