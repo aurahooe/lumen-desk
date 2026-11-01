@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-01T15:01:00.000Z",
-  "edition": 602,
-  "headline": "Three o’clock holds the room still.",
-  "body": "The clock on the far wall ticks once and forgets. A scrap of paper lifts in the draft from the door and settles. Someone has left the window cracked an inch.",
+  "updatedAt": "2026-11-01T20:00:49.433Z",
+  "edition": 603,
+  "headline": "Eight o’clock settles the papers.",
+  "body": "The radiator knocks once and goes quiet. Outside, a bicycle light sweeps the wet curb and vanishes. The desk holds the last of the afternoon’s heat.",
   "pulses": [
-    { "label": "Light", "value": "slanted, thinning toward the corner" },
-    { "label": "Street", "value": "two cars, then none" },
-    { "label": "Mood", "value": "quiet as the unturned page" }
+    { "label": "Sky", "value": "low cloud, streetlamps just catching" },
+    { "label": "Street", "value": "wet asphalt, one slow car" },
+    { "label": "Light", "value": "desk lamp warm, window dark" }
   ]
 }
