@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-01T20:00:49.433Z",
-  "edition": 603,
-  "headline": "Eight o’clock settles the papers.",
-  "body": "The radiator knocks once and goes quiet. Outside, a bicycle light sweeps the wet curb and vanishes. The desk holds the last of the afternoon’s heat.",
+  "updatedAt": "2026-11-01T21:00:24.415Z",
+  "edition": 604,
+  "headline": "The hour turns the glass dark.",
+  "body": "A kettle cools on the far counter. Outside, rain has stopped but the pavement still reflects. The chair creaks once as the room settles.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, streetlamps just catching" },
-    { "label": "Street", "value": "wet asphalt, one slow car" },
-    { "label": "Light", "value": "desk lamp warm, window dark" }
+    { "label": "Sky", "value": "clearing after rain, streetlight halo" },
+    { "label": "Street", "value": "wet pavement, no footsteps" },
+    { "label": "Light", "value": "single bulb, soft shadow on the page" }
   ]
 }
