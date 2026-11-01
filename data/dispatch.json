@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-01T03:00:00.000Z",
-  "edition": 595,
-  "headline": "Night settles into the corners.",
-  "body": "The lamp draws a small circle on the blotter. Outside, the street has gone still. Nothing arrives that needs answering.",
+  "updatedAt": "2026-11-01T05:00:00.000Z",
+  "edition": 596,
+  "headline": "Morning arrives without knocking.",
+  "body": "The street below is still black. A single window across the way has gone dark. The clock on the shelf has not yet been wound.",
   "pulses": [
-    { "label": "Light", "value": "amber, confined to the desk" },
-    { "label": "Mood", "value": "unhurried, slightly tired" },
-    { "label": "Street", "value": "empty, one distant footstep" }
+    { "label": "Sky", "value": "deep blue thinning to steel" },
+    { "label": "Street", "value": "empty, pavement faintly reflective" },
+    { "label": "Light", "value": "lamp at half, amber" }
   ]
 }
