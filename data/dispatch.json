@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-01T08:01:00.000Z",
-  "edition": 598,
-  "headline": "The hour the lamps go out.",
-  "body": "Streetlights fade against the rising grey. A shopkeeper unlocks the shutter with a metallic sigh. Somewhere the first coffee is poured, steam rising into quiet air.",
+  "updatedAt": "2026-11-01T09:00:43.000Z",
+  "edition": 599,
+  "headline": "Light finds the edge of the curb.",
+  "body": "The delivery van cuts its engine at the corner. Inside the bakery a cloth moves across the glass in slow arcs. A radio plays low, almost unnoticed.",
   "pulses": [
-    { "label": "Sky", "value": "soft grey, edges turning silver" },
-    { "label": "Street", "value": "shutter rising, one bicycle passing" },
-    { "label": "Light", "value": "window glow fading to day" }
+    { "label": "Sky", "value": "pale blue under thin high cloud" },
+    { "label": "Street", "value": "van idling, bakery glass wiped clean" },
+    { "label": "Light", "value": "soft along the wet curb" }
   ]
 }
