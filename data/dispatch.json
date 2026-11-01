@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-01T01:00:00.000Z",
-  "edition": 593,
-  "headline": "The hour turns without fanfare.",
-  "body": "A thin wind moves the blind. The city keeps its own counsel past midnight. One more page turns, then stills.",
+  "updatedAt": "2026-11-01T02:00:00.000Z",
+  "edition": 594,
+  "headline": "A lamp holds against the dark.",
+  "body": "The streetlight outside flickers once, then steadies. Inside, the page stays open longer than it needs to. No one is waiting for the next hour.",
   "pulses": [
-    { "label": "Sky", "value": "overcast, faint city glow" },
-    { "label": "Mood", "value": "measured, unhurried" },
-    { "label": "Street", "value": "empty sidewalk, wet pavement" }
+    { "label": "Light", "value": "single bulb, warm and low" },
+    { "label": "Mood", "value": "still, slightly watchful" },
+    { "label": "Watch", "value": "clock face barely visible" }
   ]
 }
