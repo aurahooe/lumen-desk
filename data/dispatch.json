@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-31T22:00:00.000Z",
-  "edition": 592,
-  "headline": "Night settles over the desk.",
-  "body": "The street below holds its breath between cars. A single lamp burns in the window across the way. The page waits, ink still dark.",
+  "updatedAt": "2026-11-01T01:00:00.000Z",
+  "edition": 593,
+  "headline": "The hour turns without fanfare.",
+  "body": "A thin wind moves the blind. The city keeps its own counsel past midnight. One more page turns, then stills.",
   "pulses": [
-    { "label": "Sky", "value": "clear, no moon yet" },
-    { "label": "Light", "value": "desk lamp, low" },
-    { "label": "Street", "value": "quiet, one distant engine" }
+    { "label": "Sky", "value": "overcast, faint city glow" },
+    { "label": "Mood", "value": "measured, unhurried" },
+    { "label": "Street", "value": "empty sidewalk, wet pavement" }
   ]
 }
