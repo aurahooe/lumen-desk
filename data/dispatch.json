@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-01T21:00:24.415Z",
-  "edition": 604,
-  "headline": "The hour turns the glass dark.",
-  "body": "A kettle cools on the far counter. Outside, rain has stopped but the pavement still reflects. The chair creaks once as the room settles.",
+  "updatedAt": "2026-11-01T22:00:00.000Z",
+  "edition": 605,
+  "headline": "The hour folds the last light.",
+  "body": "A kettle has gone quiet on the counter. Through the glass the street takes on its evening color. The chair holds one more minute of the day.",
   "pulses": [
-    { "label": "Sky", "value": "clearing after rain, streetlight halo" },
-    { "label": "Street", "value": "wet pavement, no footsteps" },
-    { "label": "Light", "value": "single bulb, soft shadow on the page" }
+    { "label": "Sky", "value": "mostly clear, thin high cloud" },
+    { "label": "Street", "value": "damp sidewalk, south wind low" },
+    { "label": "Light", "value": "desk lamp, streetlights just on" }
   ]
 }
