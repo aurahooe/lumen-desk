@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-01T14:00:00.000Z",
-  "edition": 601,
-  "headline": "Afternoon light crosses the empty sill.",
-  "body": "A thin shadow moves once across the page and holds. Outside the window a bus idles, then pulls away. The kettle has gone cold on the hob.",
+  "updatedAt": "2026-11-01T15:01:00.000Z",
+  "edition": 602,
+  "headline": "Three o’clock holds the room still.",
+  "body": "The clock on the far wall ticks once and forgets. A scrap of paper lifts in the draft from the door and settles. Someone has left the window cracked an inch.",
   "pulses": [
-    { "label": "Sky", "value": "overcast, low and even" },
-    { "label": "Light", "value": "flat across the desk" },
-    { "label": "Watch", "value": "bus gone, street still" }
+    { "label": "Light", "value": "slanted, thinning toward the corner" },
+    { "label": "Street", "value": "two cars, then none" },
+    { "label": "Mood", "value": "quiet as the unturned page" }
   ]
 }
