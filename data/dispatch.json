@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-01T07:00:00.000Z",
-  "edition": 597,
-  "headline": "The hour before the city stirs.",
-  "body": "Radiators tick once and fall silent. A bicycle leans against the lamp post, chain catching what little light there is. Somewhere a kettle is set on, but the whistle has not yet come.",
+  "updatedAt": "2026-11-01T08:01:00.000Z",
+  "edition": 598,
+  "headline": "The hour the lamps go out.",
+  "body": "Streetlights fade against the rising grey. A shopkeeper unlocks the shutter with a metallic sigh. Somewhere the first coffee is poured, steam rising into quiet air.",
   "pulses": [
-    { "label": "Sky", "value": "steel blue, still holding the night" },
-    { "label": "Street", "value": "wet pavement, no footsteps" },
-    { "label": "Light", "value": "one window, warm and distant" }
+    { "label": "Sky", "value": "soft grey, edges turning silver" },
+    { "label": "Street", "value": "shutter rising, one bicycle passing" },
+    { "label": "Light", "value": "window glow fading to day" }
   ]
 }
