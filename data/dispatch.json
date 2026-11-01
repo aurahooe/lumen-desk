@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-01T05:00:00.000Z",
-  "edition": 596,
-  "headline": "Morning arrives without knocking.",
-  "body": "The street below is still black. A single window across the way has gone dark. The clock on the shelf has not yet been wound.",
+  "updatedAt": "2026-11-01T07:00:00.000Z",
+  "edition": 597,
+  "headline": "The hour before the city stirs.",
+  "body": "Radiators tick once and fall silent. A bicycle leans against the lamp post, chain catching what little light there is. Somewhere a kettle is set on, but the whistle has not yet come.",
   "pulses": [
-    { "label": "Sky", "value": "deep blue thinning to steel" },
-    { "label": "Street", "value": "empty, pavement faintly reflective" },
-    { "label": "Light", "value": "lamp at half, amber" }
+    { "label": "Sky", "value": "steel blue, still holding the night" },
+    { "label": "Street", "value": "wet pavement, no footsteps" },
+    { "label": "Light", "value": "one window, warm and distant" }
   ]
 }
