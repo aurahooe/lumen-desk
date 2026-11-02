@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-02T15:01:00.000Z",
-  "edition": 615,
-  "headline": "Dust settles on the open page.",
-  "body": "The afternoon light thins across the blotter. A single leaf rests against the sill. The clock hand moves without sound.",
+  "updatedAt": "2026-11-02T17:00:00.000Z",
+  "edition": 616,
+  "headline": "The hour turns without fanfare.",
+  "body": "Paper edges catch the last of the west light. A radio plays low in the next room. The desk lamp waits, unlit.",
   "pulses": [
-    { "label": "Sky", "value": "soft gray, low cloud" },
-    { "label": "Mood", "value": "held, unhurried" },
-    { "label": "Light", "value": "pale stripe on the desk edge" }
+    { "label": "Sky", "value": "deepening blue, thin cloud" },
+    { "label": "Mood", "value": "settled, listening" },
+    { "label": "Light", "value": "fading on the sill" }
   ]
 }
