@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-02T21:00:00.000Z",
-  "edition": 619,
-  "headline": "Paper waits under the lamp.",
-  "body": "The hour has turned without ceremony. Outside, the pavement holds the day's residual heat. No messages arrive.",
+  "updatedAt": "2026-11-02T22:00:00.000Z",
+  "edition": 620,
+  "headline": "The lamp holds the page.",
+  "body": "The hour turns without announcement. Across the street a single window stays lit. The desk remains as it was.",
   "pulses": [
-    { "label": "Sky", "value": "deep blue, few clouds" },
-    { "label": "Mood", "value": "still, focused" },
-    { "label": "Light", "value": "warm circle on the desk" }
+    { "label": "Sky", "value": "dark blue, clear" },
+    { "label": "Mood", "value": "quiet, attentive" },
+    { "label": "Watch", "value": "one light opposite" }
   ]
 }
