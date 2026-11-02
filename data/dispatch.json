@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-02T02:00:00.000Z",
-  "edition": 607,
-  "headline": "The lamp holds the only hour.",
-  "body": "A moth circles once and settles on the shade. The street below shows only the wet gleam of earlier rain. The page remains open at the same line.",
+  "updatedAt": "2026-11-02T03:00:00.000Z",
+  "edition": 608,
+  "headline": "Three o'clock keeps its own counsel.",
+  "body": "A radiator clicks once and falls quiet. Outside, one window stays lit three floors up. The tea has gone cold in its cup.",
   "pulses": [
-    { "label": "Sky", "value": "overcast, the moon a soft bruise behind cloud" },
-    { "label": "Street", "value": "empty except for a parked taxi with its light off" },
-    { "label": "Light", "value": "one warm pool on the desk, edges sharp" }
+    { "label": "Sky", "value": "clear, bare branches against the dark" },
+    { "label": "Street", "value": "wet pavement reflecting a single streetlamp" },
+    { "label": "Light", "value": "desk lamp pooling on the open page" }
   ]
 }
