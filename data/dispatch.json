@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-02T06:00:00.000Z",
-  "edition": 609,
-  "headline": "The city is still deciding to open.",
-  "body": "A kettle begins its slow argument with the cold. One car passes, then nothing. The notebook lies open where it was left.",
+  "updatedAt": "2026-11-02T07:00:00.000Z",
+  "edition": 610,
+  "headline": "Steam rises before the street does.",
+  "body": "The window glass holds a thin condensation. A bus idles at the far stop, engine low. Somewhere a radio finds its station and settles.",
   "pulses": [
-    { "label": "Sky", "value": "pale gray lifting above the roofs" },
-    { "label": "Street", "value": "sidewalk holding last night's rain" },
-    { "label": "Light", "value": "kitchen bulb warmer than the sky" }
+    { "label": "Sky", "value": "low cloud thinning at the edges" },
+    { "label": "Street", "value": "wet pavement still reflecting lamps" },
+    { "label": "Light", "value": "kettle steam catching the first sun" }
   ]
 }
