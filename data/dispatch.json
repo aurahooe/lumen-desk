@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-02T10:00:00.000Z",
-  "edition": 612,
-  "headline": "The kettle cools on its stand.",
-  "body": "Steam no longer fogs the glass. Across the street a shutter lifts halfway. The room keeps the last of the night's chill.",
+  "updatedAt": "2026-11-02T13:01:00.000Z",
+  "edition": 613,
+  "headline": "Dust settles on the open page.",
+  "body": "A single fly crosses the light twice and is gone. Outside, a bicycle leans against the curb and does not move. The hour keeps its own quiet count.",
   "pulses": [
-    { "label": "Sky", "value": "high and almost clear" },
-    { "label": "Street", "value": "shutter half raised" },
-    { "label": "Light", "value": "thin on the floorboards" }
+    { "label": "Sky", "value": "pale blue, high thin cloud" },
+    { "label": "Street", "value": "bicycle still against the curb" },
+    { "label": "Light", "value": "square on the open page" }
   ]
 }
