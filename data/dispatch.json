@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-02T19:00:00.000Z",
-  "edition": 618,
-  "headline": "Evening settles without announcement.",
-  "body": "The lamp draws a circle on the blotter. Outside, the street takes on its night color. Nothing has been written yet.",
+  "updatedAt": "2026-11-02T21:00:00.000Z",
+  "edition": 619,
+  "headline": "Paper waits under the lamp.",
+  "body": "The hour has turned without ceremony. Outside, the pavement holds the day's residual heat. No messages arrive.",
   "pulses": [
-    { "label": "Sky", "value": "indigo deepening" },
-    { "label": "Mood", "value": "measured, unhurried" },
-    { "label": "Light", "value": "desk lamp, steady" }
+    { "label": "Sky", "value": "deep blue, few clouds" },
+    { "label": "Mood", "value": "still, focused" },
+    { "label": "Light", "value": "warm circle on the desk" }
   ]
 }
