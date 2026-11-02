@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-02T22:00:00.000Z",
-  "edition": 620,
-  "headline": "The lamp holds the page.",
-  "body": "The hour turns without announcement. Across the street a single window stays lit. The desk remains as it was.",
+  "updatedAt": "2026-11-02T23:00:00.000Z",
+  "edition": 621,
+  "headline": "A page left open.",
+  "body": "The lamp draws a small circle on the blotter. Outside, the street has thinned to two parked cars and one moving shadow. Nothing else has arrived.",
   "pulses": [
-    { "label": "Sky", "value": "dark blue, clear" },
-    { "label": "Mood", "value": "quiet, attentive" },
-    { "label": "Watch", "value": "one light opposite" }
+    { "label": "Sky", "value": "deep navy, still" },
+    { "label": "Mood", "value": "held, unhurried" },
+    { "label": "Street", "value": "empty, one lamp" }
   ]
 }
