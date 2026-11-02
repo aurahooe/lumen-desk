@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-02T07:00:00.000Z",
-  "edition": 610,
-  "headline": "Steam rises before the street does.",
-  "body": "The window glass holds a thin condensation. A bus idles at the far stop, engine low. Somewhere a radio finds its station and settles.",
+  "updatedAt": "2026-11-02T09:00:00.000Z",
+  "edition": 611,
+  "headline": "Steam has left the glass.",
+  "body": "The window is clear now. A bicycle leans against the lamp post across the way. The kettle clicks off in the kitchen.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud thinning at the edges" },
-    { "label": "Street", "value": "wet pavement still reflecting lamps" },
-    { "label": "Light", "value": "kettle steam catching the first sun" }
+    { "label": "Sky", "value": "high thin cloud, edges bright" },
+    { "label": "Street", "value": "one bicycle, no rider" },
+    { "label": "Light", "value": "sun on the far brick" }
   ]
 }
