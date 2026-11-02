@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-02T17:00:00.000Z",
-  "edition": 616,
-  "headline": "The hour turns without fanfare.",
-  "body": "Paper edges catch the last of the west light. A radio plays low in the next room. The desk lamp waits, unlit.",
+  "updatedAt": "2026-11-02T18:00:00.000Z",
+  "edition": 617,
+  "headline": "Hour six arrives unannounced.",
+  "body": "The west light thins across the desk. A distant tram rings once. The blotter remains unmarked.",
   "pulses": [
-    { "label": "Sky", "value": "deepening blue, thin cloud" },
-    { "label": "Mood", "value": "settled, listening" },
-    { "label": "Light", "value": "fading on the sill" }
+    { "label": "Sky", "value": "indigo, cloudless" },
+    { "label": "Mood", "value": "still, observant" },
+    { "label": "Street", "value": "emptying, cool pavement" }
   ]
 }
