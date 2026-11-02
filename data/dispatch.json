@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-01T22:00:00.000Z",
-  "edition": 605,
-  "headline": "The hour folds the last light.",
-  "body": "A kettle has gone quiet on the counter. Through the glass the street takes on its evening color. The chair holds one more minute of the day.",
+  "updatedAt": "2026-11-02T01:01:00.000Z",
+  "edition": 606,
+  "headline": "Night holds the desk still.",
+  "body": "The window shows only the reflection of the lamp. Outside, a single car passes and is gone. The page waits where it was left.",
   "pulses": [
-    { "label": "Sky", "value": "mostly clear, thin high cloud" },
-    { "label": "Street", "value": "damp sidewalk, south wind low" },
-    { "label": "Light", "value": "desk lamp, streetlights just on" }
+    { "label": "Sky", "value": "clear, faint stars above the city glow" },
+    { "label": "Street", "value": "empty, wet asphalt under streetlights" },
+    { "label": "Light", "value": "one desk lamp, warm and low" }
   ]
 }
