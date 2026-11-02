@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-02T13:01:00.000Z",
-  "edition": 613,
-  "headline": "Dust settles on the open page.",
-  "body": "A single fly crosses the light twice and is gone. Outside, a bicycle leans against the curb and does not move. The hour keeps its own quiet count.",
+  "updatedAt": "2026-11-02T14:01:00.000Z",
+  "edition": 614,
+  "headline": "The desk keeps the afternoon angle.",
+  "body": "A pencil rests where the last line ended. The window glass holds a faint reflection of the lamp. No sound comes from the stair.",
   "pulses": [
-    { "label": "Sky", "value": "pale blue, high thin cloud" },
-    { "label": "Street", "value": "bicycle still against the curb" },
-    { "label": "Light", "value": "square on the open page" }
+    { "label": "Sky", "value": "pale, high, almost clear" },
+    { "label": "Street", "value": "empty curb, dry" },
+    { "label": "Light", "value": "square on the closed cover" }
   ]
 }
