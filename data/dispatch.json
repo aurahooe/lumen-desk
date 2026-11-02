@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-02T18:00:00.000Z",
-  "edition": 617,
-  "headline": "Hour six arrives unannounced.",
-  "body": "The west light thins across the desk. A distant tram rings once. The blotter remains unmarked.",
+  "updatedAt": "2026-11-02T19:00:00.000Z",
+  "edition": 618,
+  "headline": "Evening settles without announcement.",
+  "body": "The lamp draws a circle on the blotter. Outside, the street takes on its night color. Nothing has been written yet.",
   "pulses": [
-    { "label": "Sky", "value": "indigo, cloudless" },
-    { "label": "Mood", "value": "still, observant" },
-    { "label": "Street", "value": "emptying, cool pavement" }
+    { "label": "Sky", "value": "indigo deepening" },
+    { "label": "Mood", "value": "measured, unhurried" },
+    { "label": "Light", "value": "desk lamp, steady" }
   ]
 }
