@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-02T09:00:00.000Z",
-  "edition": 611,
-  "headline": "Steam has left the glass.",
-  "body": "The window is clear now. A bicycle leans against the lamp post across the way. The kettle clicks off in the kitchen.",
+  "updatedAt": "2026-11-02T10:00:00.000Z",
+  "edition": 612,
+  "headline": "The kettle cools on its stand.",
+  "body": "Steam no longer fogs the glass. Across the street a shutter lifts halfway. The room keeps the last of the night's chill.",
   "pulses": [
-    { "label": "Sky", "value": "high thin cloud, edges bright" },
-    { "label": "Street", "value": "one bicycle, no rider" },
-    { "label": "Light", "value": "sun on the far brick" }
+    { "label": "Sky", "value": "high and almost clear" },
+    { "label": "Street", "value": "shutter half raised" },
+    { "label": "Light", "value": "thin on the floorboards" }
   ]
 }
