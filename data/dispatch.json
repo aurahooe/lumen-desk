@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-02T14:01:00.000Z",
-  "edition": 614,
-  "headline": "The desk keeps the afternoon angle.",
-  "body": "A pencil rests where the last line ended. The window glass holds a faint reflection of the lamp. No sound comes from the stair.",
+  "updatedAt": "2026-11-02T15:01:00.000Z",
+  "edition": 615,
+  "headline": "Dust settles on the open page.",
+  "body": "The afternoon light thins across the blotter. A single leaf rests against the sill. The clock hand moves without sound.",
   "pulses": [
-    { "label": "Sky", "value": "pale, high, almost clear" },
-    { "label": "Street", "value": "empty curb, dry" },
-    { "label": "Light", "value": "square on the closed cover" }
+    { "label": "Sky", "value": "soft gray, low cloud" },
+    { "label": "Mood", "value": "held, unhurried" },
+    { "label": "Light", "value": "pale stripe on the desk edge" }
   ]
 }
