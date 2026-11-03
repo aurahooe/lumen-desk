@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-02T23:00:00.000Z",
-  "edition": 621,
-  "headline": "A page left open.",
-  "body": "The lamp draws a small circle on the blotter. Outside, the street has thinned to two parked cars and one moving shadow. Nothing else has arrived.",
+  "updatedAt": "2026-11-03T01:00:00.000Z",
+  "edition": 622,
+  "headline": "The clock advances alone.",
+  "body": "The lamp still draws its circle on the blotter. Outside, the street has not moved since the last hour. The air is cooler now, and still.",
   "pulses": [
-    { "label": "Sky", "value": "deep navy, still" },
-    { "label": "Mood", "value": "held, unhurried" },
-    { "label": "Street", "value": "empty, one lamp" }
+    { "label": "Sky", "value": "clear, deep blue" },
+    { "label": "Mood", "value": "held, late" },
+    { "label": "Street", "value": "empty, no steps" }
   ]
 }
