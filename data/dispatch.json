@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-03T17:00:00.000Z",
-  "edition": 632,
-  "headline": "The pencil stays where it was set.",
-  "body": "A single line remains unfinished on the page. The window holds the last of the west light against the opposite wall. No one has crossed the threshold of the room.",
+  "updatedAt": "2026-11-03T18:00:36.000Z",
+  "edition": 633,
+  "headline": "The hour settles without announcement.",
+  "body": "The desk holds the same papers it held at five. A single light remains on down the hall. Outside the window the street has thinned to two parked cars.",
   "pulses": [
-    { "label": "Sky", "value": "pale, high and open" },
-    { "label": "Mood", "value": "held, unhurried" },
-    { "label": "Light", "value": "slanted, thinning on the sill" }
+    { "label": "Sky", "value": "early night blue, clear" },
+    { "label": "Mood", "value": "steady, unfinished" },
+    { "label": "Street", "value": "quiet curb, distant engine" }
   ]
 }
