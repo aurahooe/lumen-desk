@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-03T16:00:00.000Z",
-  "edition": 631,
-  "headline": "Four keeps the window open.",
-  "body": "The blotter holds a single sheet, still blank. A radiator clicks once and falls quiet. Outside, the plane of a building catches the lowering sun.",
+  "updatedAt": "2026-11-03T17:00:00.000Z",
+  "edition": 632,
+  "headline": "The pencil stays where it was set.",
+  "body": "A single line remains unfinished on the page. The window holds the last of the west light against the opposite wall. No one has crossed the threshold of the room.",
   "pulses": [
-    { "label": "Sky", "value": "high, thin cirrus" },
-    { "label": "Mood", "value": "settled, low-voiced" },
-    { "label": "Light", "value": "westing, soft on brick" }
+    { "label": "Sky", "value": "pale, high and open" },
+    { "label": "Mood", "value": "held, unhurried" },
+    { "label": "Light", "value": "slanted, thinning on the sill" }
   ]
 }
