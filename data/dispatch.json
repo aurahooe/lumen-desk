@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-03T07:00:00.000Z",
-  "edition": 626,
-  "headline": "Morning arrives without announcement.",
-  "body": "The coffee has gone cold at the rim. One bird crosses the wire outside. The unfinished line remains exactly where it was.",
+  "updatedAt": "2026-11-03T08:00:00.000Z",
+  "edition": 627,
+  "headline": "The window takes the light.",
+  "body": "Steam has left the cup. A truck idles at the corner, then moves on. The sentence waits, unfinished, exactly where it was left.",
   "pulses": [
-    { "label": "Sky", "value": "pale blue under thin cloud" },
-    { "label": "Street", "value": "first buses, almost empty" },
-    { "label": "Mood", "value": "quiet, still deciding" }
+    { "label": "Sky", "value": "clear, low sun through glass" },
+    { "label": "Street", "value": "wet pavement, few walkers" },
+    { "label": "Light", "value": "soft on the paper" }
   ]
 }
