@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-03T10:00:58.000Z",
-  "edition": 629,
-  "headline": "The light stays low on the page.",
-  "body": "A pencil rests where the last line ended. The radiator ticks once, then quiets. Outside, the street keeps its damp.",
+  "updatedAt": "2026-11-03T11:00:41.000Z",
+  "edition": 630,
+  "headline": "Eleven keeps its own counsel.",
+  "body": "The window holds a pale rectangle of sky. Steam has left the cup on the blotter. A single leaf turns on the branch outside.",
   "pulses": [
-    { "label": "Sky", "value": "thin overcast, lifting" },
-    { "label": "Street", "value": "wet pavement, no cars" },
-    { "label": "Light", "value": "north window, flat" }
+    { "label": "Sky", "value": "pale blue, sparse cloud" },
+    { "label": "Mood", "value": "measured, unhurried" },
+    { "label": "Light", "value": "south window, soft angle" }
   ]
 }
