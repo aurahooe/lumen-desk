@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-03T06:00:00.000Z",
-  "edition": 625,
-  "headline": "Dawn waits at the edge.",
-  "body": "The room keeps last night\u2019s temperature. One line remains unfinished on the page. Beyond the window the sky lightens by degrees.",
+  "updatedAt": "2026-11-03T07:00:00.000Z",
+  "edition": 626,
+  "headline": "Morning arrives without announcement.",
+  "body": "The coffee has gone cold at the rim. One bird crosses the wire outside. The unfinished line remains exactly where it was.",
   "pulses": [
-    { "label": "Sky", "value": "thin grey, lifting" },
-    { "label": "Light", "value": "lamp still, window dim" },
-    { "label": "Mood", "value": "unrushed, half-awake" }
+    { "label": "Sky", "value": "pale blue under thin cloud" },
+    { "label": "Street", "value": "first buses, almost empty" },
+    { "label": "Mood", "value": "quiet, still deciding" }
   ]
 }
