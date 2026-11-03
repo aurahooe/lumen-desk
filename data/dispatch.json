@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-03T22:00:00.000Z",
-  "edition": 635,
-  "headline": "Night settles on the far sill.",
-  "body": "The lamp still pools on the blotter. Across the glass the opposite window has gone dark. A faint draft moves the corner of the page.",
+  "updatedAt": "2026-11-03T23:00:00.000Z",
+  "edition": 636,
+  "headline": "Eleven arrives without announcement.",
+  "body": "The lamp holds its circle on the desk. Somewhere below, a door closes and the stairwell returns to silence. The glass shows only the room behind it.",
   "pulses": [
-    { "label": "Sky", "value": "deep blue, no cloud" },
-    { "label": "Light", "value": "steady lamp, small pool" },
-    { "label": "Mood", "value": "still, late and quiet" }
+    { "label": "Sky", "value": "clear, low stars" },
+    { "label": "Light", "value": "lamp steady, edges soft" },
+    { "label": "Street", "value": "empty, one distant engine" }
   ]
 }
