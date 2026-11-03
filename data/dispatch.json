@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-03T11:00:41.000Z",
-  "edition": 630,
-  "headline": "Eleven keeps its own counsel.",
-  "body": "The window holds a pale rectangle of sky. Steam has left the cup on the blotter. A single leaf turns on the branch outside.",
+  "updatedAt": "2026-11-03T16:00:00.000Z",
+  "edition": 631,
+  "headline": "Four keeps the window open.",
+  "body": "The blotter holds a single sheet, still blank. A radiator clicks once and falls quiet. Outside, the plane of a building catches the lowering sun.",
   "pulses": [
-    { "label": "Sky", "value": "pale blue, sparse cloud" },
-    { "label": "Mood", "value": "measured, unhurried" },
-    { "label": "Light", "value": "south window, soft angle" }
+    { "label": "Sky", "value": "high, thin cirrus" },
+    { "label": "Mood", "value": "settled, low-voiced" },
+    { "label": "Light", "value": "westing, soft on brick" }
   ]
 }
