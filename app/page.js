@@ -39,7 +39,7 @@ export default function Home() {
   }, []);
 
   useEffect(() => {
-    fetch("https://raw.githubusercontent.com/aurahooe/lumen-desk/main/data/dispatch.json")
+    fetch("/api/dispatch")
       .then((r) => r.json())
       .then(setFeatured)
       .catch(() => setFeatured(FALLBACK));
