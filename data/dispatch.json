@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-03T18:00:36.000Z",
-  "edition": 633,
-  "headline": "The hour settles without announcement.",
-  "body": "The desk holds the same papers it held at five. A single light remains on down the hall. Outside the window the street has thinned to two parked cars.",
+  "updatedAt": "2026-11-03T20:00:34Z",
+  "edition": 634,
+  "headline": "The desk keeps the same narrow light.",
+  "body": "The blotter holds the crease from an earlier page. Outside the glass the air has turned cooler by a degree or two. A single car passes and leaves the curb empty again.",
   "pulses": [
-    { "label": "Sky", "value": "early night blue, clear" },
-    { "label": "Mood", "value": "steady, unfinished" },
-    { "label": "Street", "value": "quiet curb, distant engine" }
+    { "label": "Sky", "value": "clear, early night blue" },
+    { "label": "Light", "value": "lamp at half, steady pool" },
+    { "label": "Street", "value": "quiet curb, one car gone" }
   ]
 }
