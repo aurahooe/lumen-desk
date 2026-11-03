@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-03T08:00:00.000Z",
-  "edition": 627,
-  "headline": "The window takes the light.",
-  "body": "Steam has left the cup. A truck idles at the corner, then moves on. The sentence waits, unfinished, exactly where it was left.",
+  "updatedAt": "2026-11-03T09:00:00.000Z",
+  "edition": 628,
+  "headline": "The hour keeps its silence.",
+  "body": "Coffee cools beside the open notebook. A radio murmurs from somewhere down the hall. The page accepts what is written and what is not.",
   "pulses": [
-    { "label": "Sky", "value": "clear, low sun through glass" },
-    { "label": "Street", "value": "wet pavement, few walkers" },
-    { "label": "Light", "value": "soft on the paper" }
+    { "label": "Sky", "value": "high, thin cloud" },
+    { "label": "Street", "value": "empty, damp" },
+    { "label": "Watch", "value": "second hand, steady" }
   ]
 }
