@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-03T01:00:00.000Z",
-  "edition": 622,
-  "headline": "The clock advances alone.",
-  "body": "The lamp still draws its circle on the blotter. Outside, the street has not moved since the last hour. The air is cooler now, and still.",
+  "updatedAt": "2026-11-03T02:00:00.000Z",
+  "edition": 623,
+  "headline": "The circle holds on the blotter.",
+  "body": "The lamp still draws its pale ring. Beyond the glass the street shows no new marks. Cool air rests against the pane without stirring.",
   "pulses": [
-    { "label": "Sky", "value": "clear, deep blue" },
-    { "label": "Mood", "value": "held, late" },
+    { "label": "Light", "value": "circle, unchanged" },
+    { "label": "Mood", "value": "late, held" },
     { "label": "Street", "value": "empty, no steps" }
   ]
 }
