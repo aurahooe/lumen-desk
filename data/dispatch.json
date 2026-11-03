@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-03T09:00:00.000Z",
-  "edition": 628,
-  "headline": "The hour keeps its silence.",
-  "body": "Coffee cools beside the open notebook. A radio murmurs from somewhere down the hall. The page accepts what is written and what is not.",
+  "updatedAt": "2026-11-03T10:00:58.000Z",
+  "edition": 629,
+  "headline": "The light stays low on the page.",
+  "body": "A pencil rests where the last line ended. The radiator ticks once, then quiets. Outside, the street keeps its damp.",
   "pulses": [
-    { "label": "Sky", "value": "high, thin cloud" },
-    { "label": "Street", "value": "empty, damp" },
-    { "label": "Watch", "value": "second hand, steady" }
+    { "label": "Sky", "value": "thin overcast, lifting" },
+    { "label": "Street", "value": "wet pavement, no cars" },
+    { "label": "Light", "value": "north window, flat" }
   ]
 }
