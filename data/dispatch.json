@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-04T16:00:00.000Z",
-  "edition": 645,
-  "headline": "Four o’clock and the window dims.",
-  "body": "The pale edge has slipped below the frame. A lamp in the building opposite has just come on. The street holds a single walker now, coat collar up.",
+  "updatedAt": "2026-11-04T17:00:00.000Z",
+  "edition": 646,
+  "headline": "Five o’clock and the room softens.",
+  "body": "The lamp across the way holds steady. A second window has lit further down the street. The walker has turned the corner and is gone.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, no sun" },
-    { "label": "Light", "value": "fading on the near wall" },
-    { "label": "Street", "value": "one walker, collar up" }
+    { "label": "Sky", "value": "low cloud, deepening" },
+    { "label": "Light", "value": "warm against the glass" },
+    { "label": "Street", "value": "empty for a stretch" }
   ]
 }
