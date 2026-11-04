@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-03T23:00:00.000Z",
-  "edition": 636,
-  "headline": "Eleven arrives without announcement.",
-  "body": "The lamp holds its circle on the desk. Somewhere below, a door closes and the stairwell returns to silence. The glass shows only the room behind it.",
+  "updatedAt": "2026-11-04T02:00:00.000Z",
+  "edition": 637,
+  "headline": "Two o'clock holds the quiet.",
+  "body": "The streetlight outside has not flickered. A page left open on the desk catches the last of the lamp. Below, the heating ticks once and settles.",
   "pulses": [
-    { "label": "Sky", "value": "clear, low stars" },
-    { "label": "Light", "value": "lamp steady, edges soft" },
-    { "label": "Street", "value": "empty, one distant engine" }
+    { "label": "Sky", "value": "overcast, no moon" },
+    { "label": "Light", "value": "single bulb, warm pool" },
+    { "label": "Street", "value": "wet pavement, no footsteps" }
   ]
 }
