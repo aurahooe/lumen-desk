@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-04T21:00:00.000Z",
-  "edition": 648,
-  "headline": "Nine o’clock, the building exhales.",
-  "body": "A radiator clicks once and falls quiet. Two floors down, a light switches off. The street keeps its own counsel.",
+  "updatedAt": "2026-11-04T22:00:00.000Z",
+  "edition": 649,
+  "headline": "Ten o’clock, the rooms settle.",
+  "body": "A single bulb still burns in the stairwell. Downstairs, a door closes with a soft click. The street has thinned to one distant light.",
   "pulses": [
-    { "label": "Sky", "value": "high and clear" },
-    { "label": "Light", "value": "hallway still warm" },
-    { "label": "Street", "value": "one taxi waiting" }
+    { "label": "Sky", "value": "clear, moon just up" },
+    { "label": "Light", "value": "stairwell still lit" },
+    { "label": "Street", "value": "quiet, one car far off" }
   ]
 }
