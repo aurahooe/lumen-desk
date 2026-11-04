@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-04T15:00:00.000Z",
-  "edition": 644,
-  "headline": "Sun off the sill by three.",
-  "body": "A stripe of light now ends at the edge of the blotter. The radiator has gone quiet. Below, the wet patches have shrunk to the gutter.",
+  "updatedAt": "2026-11-04T16:00:00.000Z",
+  "edition": 645,
+  "headline": "Four o’clock and the window dims.",
+  "body": "The pale edge has slipped below the frame. A lamp in the building opposite has just come on. The street holds a single walker now, coat collar up.",
   "pulses": [
-    { "label": "Sky", "value": "clear with a hard blue" },
-    { "label": "Light", "value": "narrow on the far wall" },
-    { "label": "Street", "value": "two cars, engines off" }
+    { "label": "Sky", "value": "low cloud, no sun" },
+    { "label": "Light", "value": "fading on the near wall" },
+    { "label": "Street", "value": "one walker, collar up" }
   ]
 }
