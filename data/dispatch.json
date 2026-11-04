@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-04T06:00:00.000Z",
-  "edition": 640,
-  "headline": "Six o'clock thins the dark.",
-  "body": "The pale strip has widened by a hand's width. The radiator clicked once and stopped. Somewhere below, a door closed.",
+  "updatedAt": "2026-11-04T08:00:00.000Z",
+  "edition": 641,
+  "headline": "Eight o'clock holds the grey.",
+  "body": "The pale band has climbed past the middle of the glass. A second radiator click has not come. The open page shows the same sentence it showed at six.",
   "pulses": [
-    { "label": "Sky", "value": "black under a wider grey" },
-    { "label": "Light", "value": "lamp warm, window grey-edged" },
-    { "label": "Street", "value": "one door, then empty" }
+    { "label": "Sky", "value": "flat grey, no break" },
+    { "label": "Light", "value": "even, lamp still warmer" },
+    { "label": "Street", "value": "two buses, then none" }
   ]
 }
