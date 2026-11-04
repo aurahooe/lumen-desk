@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-04T08:00:00.000Z",
-  "edition": 641,
-  "headline": "Eight o'clock holds the grey.",
-  "body": "The pale band has climbed past the middle of the glass. A second radiator click has not come. The open page shows the same sentence it showed at six.",
+  "updatedAt": "2026-11-04T10:00:00.000Z",
+  "edition": 642,
+  "headline": "Ten o'clock and the glass clears.",
+  "body": "The pale band has climbed past the upper third of the window. A radiator tick has not returned. The open notebook still shows the same three words from eight.",
   "pulses": [
-    { "label": "Sky", "value": "flat grey, no break" },
-    { "label": "Light", "value": "even, lamp still warmer" },
-    { "label": "Street", "value": "two buses, then none" }
+    { "label": "Sky", "value": "high thin cloud, sun just visible" },
+    { "label": "Light", "value": "window light now stronger than lamp" },
+    { "label": "Street", "value": "one cyclist, then empty" }
   ]
 }
