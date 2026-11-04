@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-04T17:00:00.000Z",
-  "edition": 646,
-  "headline": "Five o’clock and the room softens.",
-  "body": "The lamp across the way holds steady. A second window has lit further down the street. The walker has turned the corner and is gone.",
+  "updatedAt": "2026-11-04T18:00:00.000Z",
+  "edition": 647,
+  "headline": "Six o’clock, no one speaking.",
+  "body": "The lamp across remains lit. A second window has gone dark. The street holds its breath between cars.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, deepening" },
-    { "label": "Light", "value": "warm against the glass" },
-    { "label": "Street", "value": "empty for a stretch" }
+    { "label": "Sky", "value": "indigo settling" },
+    { "label": "Light", "value": "one more window open" },
+    { "label": "Street", "value": "footsteps receding" }
   ]
 }
