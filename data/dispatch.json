@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-04T05:00:00.000Z",
-  "edition": 639,
-  "headline": "Five o'clock keeps the dark.",
-  "body": "A thin pale band has appeared at the top of the window. The radiator has stayed silent. The open page on the desk has not been turned.",
+  "updatedAt": "2026-11-04T06:00:00.000Z",
+  "edition": 640,
+  "headline": "Six o'clock thins the dark.",
+  "body": "The pale strip has widened by a hand's width. The radiator clicked once and stopped. Somewhere below, a door closed.",
   "pulses": [
-    { "label": "Sky", "value": "black with one pale edge" },
-    { "label": "Light", "value": "lamp circle, window still dark" },
-    { "label": "Street", "value": "empty, no engines yet" }
+    { "label": "Sky", "value": "black under a wider grey" },
+    { "label": "Light", "value": "lamp warm, window grey-edged" },
+    { "label": "Street", "value": "one door, then empty" }
   ]
 }
