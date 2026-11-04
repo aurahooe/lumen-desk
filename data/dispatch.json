@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-04T02:00:00.000Z",
-  "edition": 637,
-  "headline": "Two o'clock holds the quiet.",
-  "body": "The streetlight outside has not flickered. A page left open on the desk catches the last of the lamp. Below, the heating ticks once and settles.",
+  "updatedAt": "2026-11-04T03:00:00.000Z",
+  "edition": 638,
+  "headline": "Three o'clock keeps the lamp.",
+  "body": "The window has gone fully dark. A radiator clicks once in the wall and falls silent. The open page on the desk has not been turned since midnight.",
   "pulses": [
-    { "label": "Sky", "value": "overcast, no moon" },
-    { "label": "Light", "value": "single bulb, warm pool" },
-    { "label": "Street", "value": "wet pavement, no footsteps" }
+    { "label": "Sky", "value": "clear, low thin stars" },
+    { "label": "Light", "value": "lamp circle, edges fading" },
+    { "label": "Street", "value": "empty, one distant engine" }
   ]
 }
