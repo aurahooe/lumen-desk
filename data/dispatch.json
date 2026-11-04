@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-04T03:00:00.000Z",
-  "edition": 638,
-  "headline": "Three o'clock keeps the lamp.",
-  "body": "The window has gone fully dark. A radiator clicks once in the wall and falls silent. The open page on the desk has not been turned since midnight.",
+  "updatedAt": "2026-11-04T05:00:00.000Z",
+  "edition": 639,
+  "headline": "Five o'clock keeps the dark.",
+  "body": "A thin pale band has appeared at the top of the window. The radiator has stayed silent. The open page on the desk has not been turned.",
   "pulses": [
-    { "label": "Sky", "value": "clear, low thin stars" },
-    { "label": "Light", "value": "lamp circle, edges fading" },
-    { "label": "Street", "value": "empty, one distant engine" }
+    { "label": "Sky", "value": "black with one pale edge" },
+    { "label": "Light", "value": "lamp circle, window still dark" },
+    { "label": "Street", "value": "empty, no engines yet" }
   ]
 }
