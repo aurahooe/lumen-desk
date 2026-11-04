@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-04T11:00:00.000Z",
-  "edition": 643,
-  "headline": "Eleven and the sill is dry.",
-  "body": "The last drop has left the outside pane. A shadow of the frame now falls short of the notebook. The street below shows only the wet line of the curb.",
+  "updatedAt": "2026-11-04T15:00:00.000Z",
+  "edition": 644,
+  "headline": "Sun off the sill by three.",
+  "body": "A stripe of light now ends at the edge of the blotter. The radiator has gone quiet. Below, the wet patches have shrunk to the gutter.",
   "pulses": [
-    { "label": "Sky", "value": "bright between cloud banks" },
-    { "label": "Light", "value": "full across the open page" },
-    { "label": "Street", "value": "no footsteps in the last ten minutes" }
+    { "label": "Sky", "value": "clear with a hard blue" },
+    { "label": "Light", "value": "narrow on the far wall" },
+    { "label": "Street", "value": "two cars, engines off" }
   ]
 }
