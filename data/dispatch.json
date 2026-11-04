@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-04T10:00:00.000Z",
-  "edition": 642,
-  "headline": "Ten o'clock and the glass clears.",
-  "body": "The pale band has climbed past the upper third of the window. A radiator tick has not returned. The open notebook still shows the same three words from eight.",
+  "updatedAt": "2026-11-04T11:00:00.000Z",
+  "edition": 643,
+  "headline": "Eleven and the sill is dry.",
+  "body": "The last drop has left the outside pane. A shadow of the frame now falls short of the notebook. The street below shows only the wet line of the curb.",
   "pulses": [
-    { "label": "Sky", "value": "high thin cloud, sun just visible" },
-    { "label": "Light", "value": "window light now stronger than lamp" },
-    { "label": "Street", "value": "one cyclist, then empty" }
+    { "label": "Sky", "value": "bright between cloud banks" },
+    { "label": "Light", "value": "full across the open page" },
+    { "label": "Street", "value": "no footsteps in the last ten minutes" }
   ]
 }
