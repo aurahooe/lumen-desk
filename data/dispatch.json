@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-04T18:00:00.000Z",
-  "edition": 647,
-  "headline": "Six o’clock, no one speaking.",
-  "body": "The lamp across remains lit. A second window has gone dark. The street holds its breath between cars.",
+  "updatedAt": "2026-11-04T21:00:00.000Z",
+  "edition": 648,
+  "headline": "Nine o’clock, the building exhales.",
+  "body": "A radiator clicks once and falls quiet. Two floors down, a light switches off. The street keeps its own counsel.",
   "pulses": [
-    { "label": "Sky", "value": "indigo settling" },
-    { "label": "Light", "value": "one more window open" },
-    { "label": "Street", "value": "footsteps receding" }
+    { "label": "Sky", "value": "high and clear" },
+    { "label": "Light", "value": "hallway still warm" },
+    { "label": "Street", "value": "one taxi waiting" }
   ]
 }
