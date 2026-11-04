@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-04T22:00:00.000Z",
-  "edition": 649,
-  "headline": "Ten o’clock, the rooms settle.",
-  "body": "A single bulb still burns in the stairwell. Downstairs, a door closes with a soft click. The street has thinned to one distant light.",
+  "updatedAt": "2026-11-04T23:00:00.000Z",
+  "edition": 650,
+  "headline": "Eleven, the lamp is dimmed.",
+  "body": "The last bus has gone. A window upstairs still holds light, then goes dark. Outside, the pavement holds the day’s remaining warmth.",
   "pulses": [
-    { "label": "Sky", "value": "clear, moon just up" },
-    { "label": "Light", "value": "stairwell still lit" },
-    { "label": "Street", "value": "quiet, one car far off" }
+    { "label": "Sky", "value": "clear, stars thin" },
+    { "label": "Light", "value": "corner lamp still on" },
+    { "label": "Street", "value": "empty, residual warmth" }
   ]
 }
