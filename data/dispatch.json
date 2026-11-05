@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-05T08:00:00.000Z",
-  "edition": 656,
-  "headline": "The chairs are still stacked.",
-  "body": "A delivery truck idles at the corner, its lights blinking slowly. The pavement is dry now, the earlier damp gone. Somewhere a door opens and closes without hurry.",
+  "updatedAt": "2026-11-05T11:00:00.000Z",
+  "edition": 657,
+  "headline": "Steam from the open door.",
+  "body": "The caf\u00e9 door stands ajar, a narrow ribbon of steam drifting out. A bicycle leans against the lamp post, its chain still wet. The traffic light changes and holds.",
   "pulses": [
-    { "label": "Sky", "value": "pale, washed thin" },
-    { "label": "Street", "value": "chairs still stacked" },
-    { "label": "Light", "value": "hazard lights, slow" }
+    { "label": "Sky", "value": "high, clear" },
+    { "label": "Street", "value": "door open, steam" },
+    { "label": "Light", "value": "signal holding green" }
   ]
 }
