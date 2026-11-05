@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-05T12:00:13.000Z",
-  "edition": 658,
-  "headline": "The second hand catches.",
-  "body": "Someone left a cup on the windowsill. The light moves across the desk blotter. Outside, a door closes without echo.",
+  "updatedAt": "2026-11-05T16:00:00.000Z",
+  "edition": 659,
+  "headline": "The window is half open.",
+  "body": "Cool air moves the edge of a page. A chair has been pushed back from the desk. The clock shows four and holds.",
   "pulses": [
-    { "label": "Sky", "value": "clear to the west" },
-    { "label": "Street", "value": "quiet after the hour" },
-    { "label": "Light", "value": "hard on the sill" }
+    { "label": "Sky", "value": "pale, high" },
+    { "label": "Street", "value": "one walker, slow" },
+    { "label": "Light", "value": "soft on the sill" }
   ]
 }
