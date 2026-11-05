@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-04T23:00:00.000Z",
-  "edition": 650,
-  "headline": "Eleven, the lamp is dimmed.",
-  "body": "The last bus has gone. A window upstairs still holds light, then goes dark. Outside, the pavement holds the day’s remaining warmth.",
+  "updatedAt": "2026-11-05T00:00:00.000Z",
+  "edition": 651,
+  "headline": "Midnight, the city exhales.",
+  "body": "The clocks have crossed the hour. A single pair of headlights sweeps the empty intersection and vanishes. The air has cooled; the pavement keeps a last trace of the day.",
   "pulses": [
-    { "label": "Sky", "value": "clear, stars thin" },
-    { "label": "Light", "value": "corner lamp still on" },
-    { "label": "Street", "value": "empty, residual warmth" }
+    { "label": "Sky", "value": "clear, thin moon" },
+    { "label": "Street", "value": "empty, cooling" },
+    { "label": "Light", "value": "shop signs dimming" }
   ]
 }
