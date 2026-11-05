@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-05T02:00:00.000Z",
-  "edition": 652,
-  "headline": "Two o'clock, the streets thin out.",
-  "body": "A delivery van idles at the far corner, engine low. Somewhere a window closes. The city keeps its own hours now.",
+  "updatedAt": "2026-11-05T03:00:00.000Z",
+  "edition": 653,
+  "headline": "The hour of thin traffic.",
+  "body": "One car idles at a red light, then moves on. A window on the fourth floor dims and stays dark. The air still holds the faint trace of earlier rain.",
   "pulses": [
-    { "label": "Sky", "value": "clear, faint stars" },
-    { "label": "Street", "value": "sparse, quiet blocks" },
-    { "label": "Light", "value": "sodium lamps steady" }
+    { "label": "Sky", "value": "clear, stars low" },
+    { "label": "Street", "value": "sparse, slow lights" },
+    { "label": "Light", "value": "sodium lamps even" }
   ]
 }
