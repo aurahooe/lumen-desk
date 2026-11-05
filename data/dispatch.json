@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-05T04:00:00.000Z",
-  "edition": 654,
-  "headline": "Before the first delivery van.",
-  "body": "The intersection holds empty for a full cycle of the light. A single figure crosses, coat collar up, no bag. Somewhere a heating unit clicks on.",
+  "updatedAt": "2026-11-05T06:00:00.000Z",
+  "edition": 655,
+  "headline": "The hour before the rush.",
+  "body": "A single pair of headlights appears at the far end of the block and turns. The lamp in the bakery window has been on for some time. The pavement holds a faint damp.",
   "pulses": [
-    { "label": "Sky", "value": "still black, one plane" },
-    { "label": "Street", "value": "wet patches, empty" },
-    { "label": "Light", "value": "lamps steady, no flicker" }
+    { "label": "Sky", "value": "clearing, high thin cloud" },
+    { "label": "Street", "value": "one car, turning" },
+    { "label": "Light", "value": "bakery window steady" }
   ]
 }
