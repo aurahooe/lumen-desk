@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-05T03:00:00.000Z",
-  "edition": 653,
-  "headline": "The hour of thin traffic.",
-  "body": "One car idles at a red light, then moves on. A window on the fourth floor dims and stays dark. The air still holds the faint trace of earlier rain.",
+  "updatedAt": "2026-11-05T04:00:00.000Z",
+  "edition": 654,
+  "headline": "Before the first delivery van.",
+  "body": "The intersection holds empty for a full cycle of the light. A single figure crosses, coat collar up, no bag. Somewhere a heating unit clicks on.",
   "pulses": [
-    { "label": "Sky", "value": "clear, stars low" },
-    { "label": "Street", "value": "sparse, slow lights" },
-    { "label": "Light", "value": "sodium lamps even" }
+    { "label": "Sky", "value": "still black, one plane" },
+    { "label": "Street", "value": "wet patches, empty" },
+    { "label": "Light", "value": "lamps steady, no flicker" }
   ]
 }
