@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-05T22:00:00.000Z",
-  "edition": 661,
-  "headline": "Night gathers the last light.",
-  "body": "The window holds a thinning glow. Somewhere a door closes, soft against the frame. The desk keeps its papers in their places.",
+  "updatedAt": "2026-11-05T23:00:00.000Z",
+  "edition": 662,
+  "headline": "The lamp burns low.",
+  "body": "A single car passes below the window. The radiator ticks once, then stills. Outside, the street keeps its distance.",
   "pulses": [
-    { "label": "Sky", "value": "clear, cold" },
-    { "label": "Street", "value": "quiet underfoot" },
-    { "label": "Light", "value": "amber, fading" }
+    { "label": "Sky", "value": "deep, starless" },
+    { "label": "Street", "value": "empty, damp" },
+    { "label": "Light", "value": "low amber" }
   ]
 }
