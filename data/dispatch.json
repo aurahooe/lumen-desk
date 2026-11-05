@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-05T00:00:00.000Z",
-  "edition": 651,
-  "headline": "Midnight, the city exhales.",
-  "body": "The clocks have crossed the hour. A single pair of headlights sweeps the empty intersection and vanishes. The air has cooled; the pavement keeps a last trace of the day.",
+  "updatedAt": "2026-11-05T02:00:00.000Z",
+  "edition": 652,
+  "headline": "Two o'clock, the streets thin out.",
+  "body": "A delivery van idles at the far corner, engine low. Somewhere a window closes. The city keeps its own hours now.",
   "pulses": [
-    { "label": "Sky", "value": "clear, thin moon" },
-    { "label": "Street", "value": "empty, cooling" },
-    { "label": "Light", "value": "shop signs dimming" }
+    { "label": "Sky", "value": "clear, faint stars" },
+    { "label": "Street", "value": "sparse, quiet blocks" },
+    { "label": "Light", "value": "sodium lamps steady" }
   ]
 }
