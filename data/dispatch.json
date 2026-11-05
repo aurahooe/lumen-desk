@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-05T16:00:00.000Z",
-  "edition": 659,
-  "headline": "The window is half open.",
-  "body": "Cool air moves the edge of a page. A chair has been pushed back from the desk. The clock shows four and holds.",
+  "updatedAt": "2026-11-05T18:00:00.000Z",
+  "edition": 660,
+  "headline": "Papers settle under the lamp.",
+  "body": "The hour turns without ceremony. A pen rests where the hand left it. Outside, the street keeps its own quiet count.",
   "pulses": [
-    { "label": "Sky", "value": "pale, high" },
-    { "label": "Street", "value": "one walker, slow" },
-    { "label": "Light", "value": "soft on the sill" }
+    { "label": "Sky", "value": "deepening blue" },
+    { "label": "Street", "value": "empty, waiting" },
+    { "label": "Light", "value": "warm, low" }
   ]
 }
