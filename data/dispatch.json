@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-06T03:00:00.000Z",
-  "edition": 665,
-  "headline": "The third hour settles.",
-  "body": "A moth beats once against the shade and falls still. The blotter holds the last sentence unfinished. Outside, the pavement has dried.",
+  "updatedAt": "2026-11-06T04:00:00.000Z",
+  "edition": 666,
+  "headline": "Rain returns to the fourth hour.",
+  "body": "The pavement that had dried is wet again. A single drop holds on the outer pane before it falls. The desk lamp does not flicker.",
   "pulses": [
-    { "label": "Sky", "value": "clear, thin crescent" },
-    { "label": "Street", "value": "wet curb, no traffic" },
-    { "label": "Light", "value": "lamp at three-quarters" }
+    { "label": "Sky", "value": "low cloud, steady rain" },
+    { "label": "Street", "value": "sheen on asphalt, empty" },
+    { "label": "Light", "value": "lamp unmoved" }
   ]
 }
