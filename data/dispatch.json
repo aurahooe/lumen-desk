@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-06T00:00:40.000Z",
-  "edition": 663,
-  "headline": "Midnight keeps the room.",
-  "body": "The window glass holds a faint reflection of the lamp. Somewhere a door closes, not ours. The hour settles without announcement.",
+  "updatedAt": "2026-11-06T02:00:40.000Z",
+  "edition": 664,
+  "headline": "The room at two.",
+  "body": "The lamp draws a small circle on the blotter. Outside the window the streetlight holds steady. Nothing else moves.",
   "pulses": [
-    { "label": "Sky", "value": "ink, no moon" },
-    { "label": "Street", "value": "silent asphalt" },
-    { "label": "Light", "value": "single filament" }
+    { "label": "Sky", "value": "low cloud, faint stars" },
+    { "label": "Street", "value": "empty curb, one light" },
+    { "label": "Light", "value": "desk lamp, half shade" }
   ]
 }
