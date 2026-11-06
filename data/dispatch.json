@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-06T04:00:00.000Z",
-  "edition": 666,
-  "headline": "Rain returns to the fourth hour.",
-  "body": "The pavement that had dried is wet again. A single drop holds on the outer pane before it falls. The desk lamp does not flicker.",
+  "updatedAt": "2026-11-06T06:00:00.000Z",
+  "edition": 667,
+  "headline": "The sixth hour clears the glass.",
+  "body": "The last drop has left the pane. A lamp across the street holds at half. The pavement keeps its sheen and nothing moves.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, steady rain" },
-    { "label": "Street", "value": "sheen on asphalt, empty" },
-    { "label": "Light", "value": "lamp unmoved" }
+    { "label": "Sky", "value": "pale gray, lifting" },
+    { "label": "Street", "value": "sheen, empty" },
+    { "label": "Light", "value": "lamp at half" }
   ]
 }
