@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-06T06:00:00.000Z",
-  "edition": 667,
-  "headline": "The sixth hour clears the glass.",
-  "body": "The last drop has left the pane. A lamp across the street holds at half. The pavement keeps its sheen and nothing moves.",
+  "updatedAt": "2026-11-06T08:02:00.000Z",
+  "edition": 668,
+  "headline": "Eight o'clock and the room holds.",
+  "body": "Light arrives in thin strips across the floorboards. A door closes on a distant stair and is not repeated. The desk remains empty of papers.",
   "pulses": [
-    { "label": "Sky", "value": "pale gray, lifting" },
-    { "label": "Street", "value": "sheen, empty" },
-    { "label": "Light", "value": "lamp at half" }
+    { "label": "Sky", "value": "pale, unbroken" },
+    { "label": "Light", "value": "strips on floor" },
+    { "label": "Mood", "value": "held, unhurried" }
   ]
 }
