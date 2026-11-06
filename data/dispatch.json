@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-06T02:00:40.000Z",
-  "edition": 664,
-  "headline": "The room at two.",
-  "body": "The lamp draws a small circle on the blotter. Outside the window the streetlight holds steady. Nothing else moves.",
+  "updatedAt": "2026-11-06T03:00:00.000Z",
+  "edition": 665,
+  "headline": "The third hour settles.",
+  "body": "A moth beats once against the shade and falls still. The blotter holds the last sentence unfinished. Outside, the pavement has dried.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, faint stars" },
-    { "label": "Street", "value": "empty curb, one light" },
-    { "label": "Light", "value": "desk lamp, half shade" }
+    { "label": "Sky", "value": "clear, thin crescent" },
+    { "label": "Street", "value": "wet curb, no traffic" },
+    { "label": "Light", "value": "lamp at three-quarters" }
   ]
 }
