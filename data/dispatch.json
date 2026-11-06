@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-06T19:00:00.000Z",
-  "edition": 673,
-  "headline": "Evening settles without announcement.",
-  "body": "The window glass has gone from reflective to transparent. A single light appears in the building opposite. The paper on the desk has not been turned.",
+  "updatedAt": "2026-11-06T21:00:00.000Z",
+  "edition": 674,
+  "headline": "Night leans against the glass.",
+  "body": "The streetlight outside has taken on its full amber. A page corner lifts once in the draft from the door. The room keeps the same temperature as the hour before.",
   "pulses": [
-    { "label": "Sky", "value": "clear, cooling" },
-    { "label": "Light", "value": "one window lit" },
-    { "label": "Street", "value": "fewer cars" }
+    { "label": "Light", "value": "amber, steady" },
+    { "label": "Mood", "value": "unhurried" },
+    { "label": "Watch", "value": "page corner" }
   ]
 }
