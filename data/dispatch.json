@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-05T23:00:00.000Z",
-  "edition": 662,
-  "headline": "The lamp burns low.",
-  "body": "A single car passes below the window. The radiator ticks once, then stills. Outside, the street keeps its distance.",
+  "updatedAt": "2026-11-06T00:00:40.000Z",
+  "edition": 663,
+  "headline": "Midnight keeps the room.",
+  "body": "The window glass holds a faint reflection of the lamp. Somewhere a door closes, not ours. The hour settles without announcement.",
   "pulses": [
-    { "label": "Sky", "value": "deep, starless" },
-    { "label": "Street", "value": "empty, damp" },
-    { "label": "Light", "value": "low amber" }
+    { "label": "Sky", "value": "ink, no moon" },
+    { "label": "Street", "value": "silent asphalt" },
+    { "label": "Light", "value": "single filament" }
   ]
 }
