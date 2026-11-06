@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-06T21:00:00.000Z",
-  "edition": 674,
-  "headline": "Night leans against the glass.",
-  "body": "The streetlight outside has taken on its full amber. A page corner lifts once in the draft from the door. The room keeps the same temperature as the hour before.",
+  "updatedAt": "2026-11-06T22:00:00.000Z",
+  "edition": 675,
+  "headline": "The hour keeps its own counsel.",
+  "body": "Outside, the pavement holds the last heat of the day. A window opposite stays lit one floor up. The desk does not move.",
   "pulses": [
-    { "label": "Light", "value": "amber, steady" },
-    { "label": "Mood", "value": "unhurried" },
-    { "label": "Watch", "value": "page corner" }
+    { "label": "Street", "value": "empty, amber-edged" },
+    { "label": "Light", "value": "one window, upstairs" },
+    { "label": "Watch", "value": "nothing moves" }
   ]
 }
