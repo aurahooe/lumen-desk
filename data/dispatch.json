@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-06T09:00:00.000Z",
-  "edition": 669,
-  "headline": "Nine o'clock finds the sill warmer.",
-  "body": "The strip of light has widened by a hand’s width. A kettle clicks off in the next room and the sound does not return. Outside, one bicycle leans against the railing.",
+  "updatedAt": "2026-11-06T11:00:00.000Z",
+  "edition": 670,
+  "headline": "Eleven finds the cup half-full.",
+  "body": "Steam has left the glass. A page turned somewhere in the building and the paper settled. On the street a single leaf moves when the air does.",
   "pulses": [
-    { "label": "Sky", "value": "high pale blue" },
-    { "label": "Light", "value": "broader on the sill" },
-    { "label": "Street", "value": "one bicycle, still" }
+    { "label": "Sky", "value": "thin high cloud" },
+    { "label": "Light", "value": "flat across the desk" },
+    { "label": "Watch", "value": "one leaf, lifted" }
   ]
 }
