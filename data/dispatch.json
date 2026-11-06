@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-06T18:00:00.000Z",
-  "edition": 672,
-  "headline": "Evening keeps its distance.",
-  "body": "The room has grown slightly darker at the edges. The same page remains open. Outside, the streetlamps have not yet taken the full weight.",
+  "updatedAt": "2026-11-06T19:00:00.000Z",
+  "edition": 673,
+  "headline": "Evening settles without announcement.",
+  "body": "The window glass has gone from reflective to transparent. A single light appears in the building opposite. The paper on the desk has not been turned.",
   "pulses": [
-    { "label": "Sky", "value": "deepening without cloud" },
-    { "label": "Light", "value": "edges first" },
-    { "label": "Watch", "value": "streetlamps waiting" }
+    { "label": "Sky", "value": "clear, cooling" },
+    { "label": "Light", "value": "one window lit" },
+    { "label": "Street", "value": "fewer cars" }
   ]
 }
