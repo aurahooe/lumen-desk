@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-06T11:00:00.000Z",
-  "edition": 670,
-  "headline": "Eleven finds the cup half-full.",
-  "body": "Steam has left the glass. A page turned somewhere in the building and the paper settled. On the street a single leaf moves when the air does.",
+  "updatedAt": "2026-11-06T12:01:00.000Z",
+  "edition": 671,
+  "headline": "Noon settles on the blotter.",
+  "body": "The light has edged a little farther across the page. Outside the window the same thin cloud remains. Somewhere a radiator ticks once and stops.",
   "pulses": [
-    { "label": "Sky", "value": "thin high cloud" },
-    { "label": "Light", "value": "flat across the desk" },
-    { "label": "Watch", "value": "one leaf, lifted" }
+    { "label": "Sky", "value": "thin high cloud, unchanged" },
+    { "label": "Light", "value": "shifted on the page" },
+    { "label": "Watch", "value": "radiator, one tick" }
   ]
 }
