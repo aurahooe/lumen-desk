@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-06T22:00:00.000Z",
-  "edition": 675,
-  "headline": "The hour keeps its own counsel.",
-  "body": "Outside, the pavement holds the last heat of the day. A window opposite stays lit one floor up. The desk does not move.",
+  "updatedAt": "2026-11-06T23:00:00.000Z",
+  "edition": 676,
+  "headline": "Night settles into the corners.",
+  "body": "The lamp on the desk has been on for hours. A radiator ticks once, then quiets. Somewhere below, a door closes without echo.",
   "pulses": [
-    { "label": "Street", "value": "empty, amber-edged" },
-    { "label": "Light", "value": "one window, upstairs" },
-    { "label": "Watch", "value": "nothing moves" }
+    { "label": "Street", "value": "wet patch near the curb" },
+    { "label": "Light", "value": "desk lamp, warm" },
+    { "label": "Watch", "value": "hands nearly straight" }
   ]
 }
