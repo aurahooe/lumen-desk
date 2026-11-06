@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-06T08:02:00.000Z",
-  "edition": 668,
-  "headline": "Eight o'clock and the room holds.",
-  "body": "Light arrives in thin strips across the floorboards. A door closes on a distant stair and is not repeated. The desk remains empty of papers.",
+  "updatedAt": "2026-11-06T09:00:00.000Z",
+  "edition": 669,
+  "headline": "Nine o'clock finds the sill warmer.",
+  "body": "The strip of light has widened by a hand’s width. A kettle clicks off in the next room and the sound does not return. Outside, one bicycle leans against the railing.",
   "pulses": [
-    { "label": "Sky", "value": "pale, unbroken" },
-    { "label": "Light", "value": "strips on floor" },
-    { "label": "Mood", "value": "held, unhurried" }
+    { "label": "Sky", "value": "high pale blue" },
+    { "label": "Light", "value": "broader on the sill" },
+    { "label": "Street", "value": "one bicycle, still" }
   ]
 }
