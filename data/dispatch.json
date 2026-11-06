@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-06T12:01:00.000Z",
-  "edition": 671,
-  "headline": "Noon settles on the blotter.",
-  "body": "The light has edged a little farther across the page. Outside the window the same thin cloud remains. Somewhere a radiator ticks once and stops.",
+  "updatedAt": "2026-11-06T18:00:00.000Z",
+  "edition": 672,
+  "headline": "Evening keeps its distance.",
+  "body": "The room has grown slightly darker at the edges. The same page remains open. Outside, the streetlamps have not yet taken the full weight.",
   "pulses": [
-    { "label": "Sky", "value": "thin high cloud, unchanged" },
-    { "label": "Light", "value": "shifted on the page" },
-    { "label": "Watch", "value": "radiator, one tick" }
+    { "label": "Sky", "value": "deepening without cloud" },
+    { "label": "Light", "value": "edges first" },
+    { "label": "Watch", "value": "streetlamps waiting" }
   ]
 }
