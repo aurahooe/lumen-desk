@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-07T10:00:00.000Z",
-  "edition": 684,
-  "headline": "Ten and the light finds the sill.",
-  "body": "A thin band of brightness lies along the desk edge. Outside the cloud has thinned enough to throw a soft shadow on the pavement. The chair is still, the hour has simply moved on.",
+  "updatedAt": "2026-11-07T11:00:00.000Z",
+  "edition": 685,
+  "headline": "Eleven and the cloud does not lift.",
+  "body": "The pale band on the sill has not widened. A single leaf moves once on the pavement and settles. The room keeps the same low light it had an hour ago.",
   "pulses": [
-    { "label": "Sky", "value": "cloud thinning, pale blue showing" },
-    { "label": "Street", "value": "two figures, one paused at the corner" },
-    { "label": "Light", "value": "desk edge bright, lamp remains off" }
+    { "label": "Sky", "value": "thick overcast, no break" },
+    { "label": "Street", "value": "one leaf shifts, then still" },
+    { "label": "Light", "value": "even, lamp still unused" }
   ]
 }
