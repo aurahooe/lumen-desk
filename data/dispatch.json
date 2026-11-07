@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-07T02:00:00.000Z",
-  "edition": 678,
-  "headline": "The hour turns without notice.",
-  "body": "A lamp stays lit in the room across the way. The kettle has gone cold. Nothing asks to be finished.",
+  "updatedAt": "2026-11-07T03:00:00.000Z",
+  "edition": 679,
+  "headline": "Three o’clock holds the dark still.",
+  "body": "One window across the street keeps its light. The radiator ticks once and settles. No footsteps on the stairs.",
   "pulses": [
-    { "label": "Sky", "value": "low and unbroken" },
-    { "label": "Street", "value": "quiet after the car" },
-    { "label": "Light", "value": "lamp across the way" }
+    { "label": "Sky", "value": "low and featureless" },
+    { "label": "Street", "value": "empty past the corner" },
+    { "label": "Light", "value": "one window still lit" }
   ]
 }
