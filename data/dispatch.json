@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-07T06:00:00.000Z",
-  "edition": 681,
-  "headline": "Six a.m. and the lamp still wins.",
-  "body": "The window shows the same unlit opposite wall. A delivery van passes, then nothing. The notebook page remains blank.",
+  "updatedAt": "2026-11-07T07:00:00.000Z",
+  "edition": 682,
+  "headline": "Seven and the wall still holds.",
+  "body": "The kettle clicks off one floor down. No second van appears. The same line waits on the open page.",
   "pulses": [
-    { "label": "Sky", "value": "no color yet above the roofline" },
-    { "label": "Street", "value": "empty, one wet patch near the drain" },
-    { "label": "Light", "value": "single warm circle on the desk" }
+    { "label": "Sky", "value": "thin grey just clearing the chimney pots" },
+    { "label": "Street", "value": "empty, wet patch shrinking by the drain" },
+    { "label": "Light", "value": "lamp circle steady, room one degree cooler" }
   ]
 }
