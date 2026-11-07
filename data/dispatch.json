@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-07T17:00:00.000Z",
-  "edition": 690,
-  "headline": "The hour turns without fanfare.",
-  "body": "Steam no longer rises from the cup. A chair sits angled toward the window. Somewhere a door closes on the landing.",
+  "updatedAt": "2026-11-07T18:00:00.000Z",
+  "edition": 691,
+  "headline": "Evening settles on the empty chair.",
+  "body": "The cup has gone cold on the blotter. Across the way a window darkens. The floorboard under the desk still holds the day’s warmth.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, dimming edge" },
-    { "label": "Street", "value": "wet pavement, sparse cars" },
-    { "label": "Light", "value": "early lamps, soft yellow" }
+    { "label": "Sky", "value": "high, clear, cooling" },
+    { "label": "Street", "value": "pavement dry, few steps" },
+    { "label": "Light", "value": "one lamp across, unmoving" }
   ]
 }
