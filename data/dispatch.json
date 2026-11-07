@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-07T04:00:00.000Z",
-  "edition": 680,
-  "headline": "Four o’clock keeps the lamp low.",
-  "body": "The window glass has gone cold. A single set of headlights passes and fades. The chair has not moved since the last hour.",
+  "updatedAt": "2026-11-07T06:00:00.000Z",
+  "edition": 681,
+  "headline": "Six a.m. and the lamp still wins.",
+  "body": "The window shows the same unlit opposite wall. A delivery van passes, then nothing. The notebook page remains blank.",
   "pulses": [
-    { "label": "Sky", "value": "featureless, no edge yet" },
-    { "label": "Street", "value": "wet, empty past the corner" },
-    { "label": "Light", "value": "one bulb still across the way" }
+    { "label": "Sky", "value": "no color yet above the roofline" },
+    { "label": "Street", "value": "empty, one wet patch near the drain" },
+    { "label": "Light", "value": "single warm circle on the desk" }
   ]
 }
