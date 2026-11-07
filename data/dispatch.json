@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-07T09:00:00.000Z",
-  "edition": 683,
-  "headline": "Nine and the page holds still.",
-  "body": "The second hand has not yet cleared the glass. A single pane across the street catches a pale edge of sky. The chair remains where the last hour left it.",
+  "updatedAt": "2026-11-07T10:00:00.000Z",
+  "edition": 684,
+  "headline": "Ten and the light finds the sill.",
+  "body": "A thin band of brightness lies along the desk edge. Outside the cloud has thinned enough to throw a soft shadow on the pavement. The chair is still, the hour has simply moved on.",
   "pulses": [
-    { "label": "Sky", "value": "high thin cloud, no colour yet" },
-    { "label": "Street", "value": "one walker past the far corner" },
-    { "label": "Light", "value": "lamp low, circle unchanged" }
+    { "label": "Sky", "value": "cloud thinning, pale blue showing" },
+    { "label": "Street", "value": "two figures, one paused at the corner" },
+    { "label": "Light", "value": "desk edge bright, lamp remains off" }
   ]
 }
