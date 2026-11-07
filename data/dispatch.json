@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-07T21:00:00.000Z",
-  "edition": 693,
-  "headline": "The hour turns past the last light.",
-  "body": "A page stays open at the corner of the desk. Below, one set of footsteps passes and does not return. The chair keeps the shape of the last hour.",
+  "updatedAt": "2026-11-07T23:00:00.000Z",
+  "edition": 694,
+  "headline": "The hour settles into the chair.",
+  "body": "A single bulb keeps the edge of the desk. Outside, the street has thinned to one remaining light. The page turns itself once, then stops.",
   "pulses": [
-    { "label": "Sky", "value": "full dark, thin stars" },
-    { "label": "Street", "value": "quiet, distant engine once" },
-    { "label": "Light", "value": "desk lamp low, unmoved" }
+    { "label": "Sky", "value": "overcast, no moon" },
+    { "label": "Mood", "value": "still, low hum" },
+    { "label": "Watch", "value": "hands at eleven" }
   ]
 }
