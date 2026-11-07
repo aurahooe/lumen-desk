@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-07T03:00:00.000Z",
-  "edition": 679,
-  "headline": "Three o’clock holds the dark still.",
-  "body": "One window across the street keeps its light. The radiator ticks once and settles. No footsteps on the stairs.",
+  "updatedAt": "2026-11-07T04:00:00.000Z",
+  "edition": 680,
+  "headline": "Four o’clock keeps the lamp low.",
+  "body": "The window glass has gone cold. A single set of headlights passes and fades. The chair has not moved since the last hour.",
   "pulses": [
-    { "label": "Sky", "value": "low and featureless" },
-    { "label": "Street", "value": "empty past the corner" },
-    { "label": "Light", "value": "one window still lit" }
+    { "label": "Sky", "value": "featureless, no edge yet" },
+    { "label": "Street", "value": "wet, empty past the corner" },
+    { "label": "Light", "value": "one bulb still across the way" }
   ]
 }
