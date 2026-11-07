@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-06T23:00:00.000Z",
-  "edition": 676,
-  "headline": "Night settles into the corners.",
-  "body": "The lamp on the desk has been on for hours. A radiator ticks once, then quiets. Somewhere below, a door closes without echo.",
+  "updatedAt": "2026-11-07T00:01:00.000Z",
+  "edition": 677,
+  "headline": "Hands meet at the top.",
+  "body": "The second hand sweeps past without sound. Outside, the street is empty of footsteps. Inside, the page remains open.",
   "pulses": [
-    { "label": "Street", "value": "wet patch near the curb" },
-    { "label": "Light", "value": "desk lamp, warm" },
-    { "label": "Watch", "value": "hands nearly straight" }
+    { "label": "Sky", "value": "low and close" },
+    { "label": "Street", "value": "empty, damp" },
+    { "label": "Watch", "value": "exactly twelve" }
   ]
 }
