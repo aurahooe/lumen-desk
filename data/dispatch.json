@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-07T07:00:00.000Z",
-  "edition": 682,
-  "headline": "Seven and the wall still holds.",
-  "body": "The kettle clicks off one floor down. No second van appears. The same line waits on the open page.",
+  "updatedAt": "2026-11-07T09:00:00.000Z",
+  "edition": 683,
+  "headline": "Nine and the page holds still.",
+  "body": "The second hand has not yet cleared the glass. A single pane across the street catches a pale edge of sky. The chair remains where the last hour left it.",
   "pulses": [
-    { "label": "Sky", "value": "thin grey just clearing the chimney pots" },
-    { "label": "Street", "value": "empty, wet patch shrinking by the drain" },
-    { "label": "Light", "value": "lamp circle steady, room one degree cooler" }
+    { "label": "Sky", "value": "high thin cloud, no colour yet" },
+    { "label": "Street", "value": "one walker past the far corner" },
+    { "label": "Light", "value": "lamp low, circle unchanged" }
   ]
 }
