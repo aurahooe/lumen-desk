@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-07T12:00:00.000Z",
-  "edition": 686,
-  "headline": "Twelve and the grey does not break.",
-  "body": "The pale band on the sill stays the same width. A single car pauses at the corner and continues. The room holds the light it had when the hour turned.",
+  "updatedAt": "2026-11-07T13:00:00.000Z",
+  "edition": 687,
+  "headline": "One and the light does not shift.",
+  "body": "The radiator ticks once and settles. A leaf scrapes across the lower pane. Outside, the same grey plane continues.",
   "pulses": [
-    { "label": "Sky", "value": "solid overcast, no lift" },
-    { "label": "Street", "value": "one car, then empty again" },
-    { "label": "Light", "value": "flat, still no lamp" }
+    { "label": "Sky", "value": "uniform grey, no break" },
+    { "label": "Street", "value": "leaf, then silence" },
+    { "label": "Light", "value": "unchanged, no lamp yet" }
   ]
 }
