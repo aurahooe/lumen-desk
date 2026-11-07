@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-07T16:01:00.000Z",
-  "edition": 689,
-  "headline": "The kettle cools in silence.",
-  "body": "The window holds the last of the grey. A single leaf moves across the sill. Inside, the room keeps its temperature.",
+  "updatedAt": "2026-11-07T17:00:00.000Z",
+  "edition": 690,
+  "headline": "The hour turns without fanfare.",
+  "body": "Steam no longer rises from the cup. A chair sits angled toward the window. Somewhere a door closes on the landing.",
   "pulses": [
-    { "label": "Sky", "value": "unbroken cloud, soft edge" },
-    { "label": "Street", "value": "empty curb, damp stone" },
-    { "label": "Light", "value": "thin, from the west" }
+    { "label": "Sky", "value": "low cloud, dimming edge" },
+    { "label": "Street", "value": "wet pavement, sparse cars" },
+    { "label": "Light", "value": "early lamps, soft yellow" }
   ]
 }
