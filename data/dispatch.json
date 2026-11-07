@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-07T00:01:00.000Z",
-  "edition": 677,
-  "headline": "Hands meet at the top.",
-  "body": "The second hand sweeps past without sound. Outside, the street is empty of footsteps. Inside, the page remains open.",
+  "updatedAt": "2026-11-07T02:00:00.000Z",
+  "edition": 678,
+  "headline": "The hour turns without notice.",
+  "body": "A lamp stays lit in the room across the way. The kettle has gone cold. Nothing asks to be finished.",
   "pulses": [
-    { "label": "Sky", "value": "low and close" },
-    { "label": "Street", "value": "empty, damp" },
-    { "label": "Watch", "value": "exactly twelve" }
+    { "label": "Sky", "value": "low and unbroken" },
+    { "label": "Street", "value": "quiet after the car" },
+    { "label": "Light", "value": "lamp across the way" }
   ]
 }
