@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-07T18:00:00.000Z",
-  "edition": 691,
-  "headline": "Evening settles on the empty chair.",
-  "body": "The cup has gone cold on the blotter. Across the way a window darkens. The floorboard under the desk still holds the day’s warmth.",
+  "updatedAt": "2026-11-07T20:00:00.000Z",
+  "edition": 692,
+  "headline": "Night finds the desk still warm.",
+  "body": "Papers left where the last note ended. A window opposite goes dark one floor at a time. The radiator ticks once, then settles.",
   "pulses": [
-    { "label": "Sky", "value": "high, clear, cooling" },
-    { "label": "Street", "value": "pavement dry, few steps" },
-    { "label": "Light", "value": "one lamp across, unmoving" }
+    { "label": "Sky", "value": "high, darkening, first stars" },
+    { "label": "Street", "value": "sparse cars, low headlights" },
+    { "label": "Light", "value": "corner lamp, steady circle" }
   ]
 }
