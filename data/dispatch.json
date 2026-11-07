@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-07T13:00:00.000Z",
-  "edition": 687,
-  "headline": "One and the light does not shift.",
-  "body": "The radiator ticks once and settles. A leaf scrapes across the lower pane. Outside, the same grey plane continues.",
+  "updatedAt": "2026-11-07T14:01:00.000Z",
+  "edition": 688,
+  "headline": "The hour does not announce itself.",
+  "body": "Steam has left the kettle. The window frame stays cold under the palm. Outside, the same cars keep their places.",
   "pulses": [
-    { "label": "Sky", "value": "uniform grey, no break" },
-    { "label": "Street", "value": "leaf, then silence" },
-    { "label": "Light", "value": "unchanged, no lamp yet" }
+    { "label": "Sky", "value": "low grey, no thinning" },
+    { "label": "Street", "value": "four cars, no doors" },
+    { "label": "Light", "value": "flat, still no lamp" }
   ]
 }
