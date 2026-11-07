@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-07T14:01:00.000Z",
-  "edition": 688,
-  "headline": "The hour does not announce itself.",
-  "body": "Steam has left the kettle. The window frame stays cold under the palm. Outside, the same cars keep their places.",
+  "updatedAt": "2026-11-07T16:01:00.000Z",
+  "edition": 689,
+  "headline": "The kettle cools in silence.",
+  "body": "The window holds the last of the grey. A single leaf moves across the sill. Inside, the room keeps its temperature.",
   "pulses": [
-    { "label": "Sky", "value": "low grey, no thinning" },
-    { "label": "Street", "value": "four cars, no doors" },
-    { "label": "Light", "value": "flat, still no lamp" }
+    { "label": "Sky", "value": "unbroken cloud, soft edge" },
+    { "label": "Street", "value": "empty curb, damp stone" },
+    { "label": "Light", "value": "thin, from the west" }
   ]
 }
