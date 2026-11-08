@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-08T04:00:00.000Z",
-  "edition": 698,
-  "headline": "Four o’clock arrives unannounced.",
-  "body": "Steam has left the cup. A truck changes gear somewhere past the intersection. The lamp holds its same small circle.",
+  "updatedAt": "2026-11-08T05:00:00.000Z",
+  "edition": 699,
+  "headline": "Five o’clock, lamps still holding.",
+  "body": "The street below is empty except for one parked car. A single window across the way stays lit. The desk lamp makes a smaller circle on the page.",
   "pulses": [
-    { "label": "Sky", "value": "pale, thinning" },
-    { "label": "Mood", "value": "low, steady" },
-    { "label": "Street", "value": "distant gear, then quiet" }
+    { "label": "Sky", "value": "dark, just thinning" },
+    { "label": "Mood", "value": "quiet, unhurried" },
+    { "label": "Light", "value": "streetlamp, one window" }
   ]
 }
