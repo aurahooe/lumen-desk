@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-08T06:00:00.000Z",
-  "edition": 700,
-  "headline": "Six o’clock, the room still dark.",
-  "body": "The lamp has been on through the night. A thin line of pale appears above the rooftops. The street remains empty.",
+  "updatedAt": "2026-11-08T07:00:00.000Z",
+  "edition": 701,
+  "headline": "Seven, pale light on the sill.",
+  "body": "The lamp still burns, but the window has taken the color of the morning. A bus crosses at the far corner. The page on the desk remains unmarked.",
   "pulses": [
-    { "label": "Sky", "value": "pale gray, lifting" },
-    { "label": "Mood", "value": "still, waiting" },
-    { "label": "Street", "value": "empty, one lamp" }
+    { "label": "Sky", "value": "clear, low pale" },
+    { "label": "Light", "value": "first across the sill" },
+    { "label": "Street", "value": "one bus, distant" }
   ]
 }
