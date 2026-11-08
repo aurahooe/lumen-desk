@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-08T00:00:00.000Z",
-  "edition": 695,
-  "headline": "Midnight arrives without announcement.",
-  "body": "The lamp holds its circle on the blotter. A chair scrapes once in the next room, then nothing. The street below keeps its last lit window.",
+  "updatedAt": "2026-11-08T01:00:00.000Z",
+  "edition": 696,
+  "headline": "The lamp keeps its small circle.",
+  "body": "Steam has left the cup at the edge of the desk. A single car passes below and does not stop. The window holds the dark cleanly.",
   "pulses": [
-    { "label": "Sky", "value": "clear, thin stars" },
-    { "label": "Mood", "value": "quiet, held breath" },
-    { "label": "Light", "value": "one bulb, steady" }
+    { "label": "Sky", "value": "clear, stars thin" },
+    { "label": "Mood", "value": "late, unhurried" },
+    { "label": "Street", "value": "one headlight, gone" }
   ]
 }
