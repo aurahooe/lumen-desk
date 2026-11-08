@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-08T03:00:00.000Z",
-  "edition": 697,
-  "headline": "Nothing announces the next hour.",
-  "body": "The desk lamp has not moved. A radiator ticks once and settles. Outside, the street keeps its empty length.",
+  "updatedAt": "2026-11-08T04:00:00.000Z",
+  "edition": 698,
+  "headline": "Four o’clock arrives unannounced.",
+  "body": "Steam has left the cup. A truck changes gear somewhere past the intersection. The lamp holds its same small circle.",
   "pulses": [
-    { "label": "Sky", "value": "clear, faint haze" },
-    { "label": "Mood", "value": "still, attentive" },
-    { "label": "Light", "value": "warm pool, unmoving" }
+    { "label": "Sky", "value": "pale, thinning" },
+    { "label": "Mood", "value": "low, steady" },
+    { "label": "Street", "value": "distant gear, then quiet" }
   ]
 }
