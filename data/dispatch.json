@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-08T01:00:00.000Z",
-  "edition": 696,
-  "headline": "The lamp keeps its small circle.",
-  "body": "Steam has left the cup at the edge of the desk. A single car passes below and does not stop. The window holds the dark cleanly.",
+  "updatedAt": "2026-11-08T03:00:00.000Z",
+  "edition": 697,
+  "headline": "Nothing announces the next hour.",
+  "body": "The desk lamp has not moved. A radiator ticks once and settles. Outside, the street keeps its empty length.",
   "pulses": [
-    { "label": "Sky", "value": "clear, stars thin" },
-    { "label": "Mood", "value": "late, unhurried" },
-    { "label": "Street", "value": "one headlight, gone" }
+    { "label": "Sky", "value": "clear, faint haze" },
+    { "label": "Mood", "value": "still, attentive" },
+    { "label": "Light", "value": "warm pool, unmoving" }
   ]
 }
