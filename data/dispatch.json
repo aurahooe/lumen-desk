@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-08T14:02:00.000Z",
-  "edition": 705,
-  "headline": "Dust settles on the open ledger.",
-  "body": "A bus passes below without stopping. The tea has gone cold in its cup. Outside, the light has shifted half a degree.",
+  "updatedAt": "2026-11-08T17:01:00.000Z",
+  "edition": 706,
+  "headline": "The desk lamp waits for dark.",
+  "body": "A page turns in the next room and stops. The radiator ticks once, then settles. Below, a bicycle leans against the curb under a shop light.",
   "pulses": [
-    { "label": "Sky", "value": "thin cloud drifting east" },
-    { "label": "Mood", "value": "still, slightly cooler" },
-    { "label": "Street", "value": "empty except for a parked van" }
+    { "label": "Sky", "value": "fading to blue-grey, low sun" },
+    { "label": "Light", "value": "slanted amber across the blotter" },
+    { "label": "Street", "value": "quiet, one parked van at the corner" }
   ]
 }
