@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-08T05:00:00.000Z",
-  "edition": 699,
-  "headline": "Five o’clock, lamps still holding.",
-  "body": "The street below is empty except for one parked car. A single window across the way stays lit. The desk lamp makes a smaller circle on the page.",
+  "updatedAt": "2026-11-08T06:00:00.000Z",
+  "edition": 700,
+  "headline": "Six o’clock, the room still dark.",
+  "body": "The lamp has been on through the night. A thin line of pale appears above the rooftops. The street remains empty.",
   "pulses": [
-    { "label": "Sky", "value": "dark, just thinning" },
-    { "label": "Mood", "value": "quiet, unhurried" },
-    { "label": "Light", "value": "streetlamp, one window" }
+    { "label": "Sky", "value": "pale gray, lifting" },
+    { "label": "Mood", "value": "still, waiting" },
+    { "label": "Street", "value": "empty, one lamp" }
   ]
 }
