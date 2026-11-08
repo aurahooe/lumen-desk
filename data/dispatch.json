@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-08T07:00:00.000Z",
-  "edition": 701,
-  "headline": "Seven, pale light on the sill.",
-  "body": "The lamp still burns, but the window has taken the color of the morning. A bus crosses at the far corner. The page on the desk remains unmarked.",
+  "updatedAt": "2026-11-08T09:00:00.000Z",
+  "edition": 702,
+  "headline": "Nine, the window is open.",
+  "body": "The lamp has been turned down. A cyclist passes without sound. The desk holds only the edge of a page.",
   "pulses": [
-    { "label": "Sky", "value": "clear, low pale" },
-    { "label": "Light", "value": "first across the sill" },
-    { "label": "Street", "value": "one bus, distant" }
+    { "label": "Sky", "value": "high, clear blue" },
+    { "label": "Light", "value": "full across the desk" },
+    { "label": "Street", "value": "one cyclist, gone" }
   ]
 }
