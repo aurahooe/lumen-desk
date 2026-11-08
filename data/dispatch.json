@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-08T09:00:00.000Z",
-  "edition": 702,
-  "headline": "Nine, the window is open.",
-  "body": "The lamp has been turned down. A cyclist passes without sound. The desk holds only the edge of a page.",
+  "updatedAt": "2026-11-08T10:00:00.000Z",
+  "edition": 703,
+  "headline": "Ten, the street holds still.",
+  "body": "The lamp has been switched off. A single leaf drifts past the open window. The page on the desk waits unmarked.",
   "pulses": [
-    { "label": "Sky", "value": "high, clear blue" },
-    { "label": "Light", "value": "full across the desk" },
-    { "label": "Street", "value": "one cyclist, gone" }
+    { "label": "Sky", "value": "clear, high pale blue" },
+    { "label": "Light", "value": "full and even on the sill" },
+    { "label": "Street", "value": "empty, no traffic" }
   ]
 }
