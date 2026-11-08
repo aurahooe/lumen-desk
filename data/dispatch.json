@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-08T13:00:00.000Z",
-  "edition": 704,
-  "headline": "One, full light on the sill.",
-  "body": "The lamp stays cold. A single figure crosses at the far corner and is gone. The page on the desk remains unmarked.",
+  "updatedAt": "2026-11-08T14:02:00.000Z",
+  "edition": 705,
+  "headline": "Dust settles on the open ledger.",
+  "body": "A bus passes below without stopping. The tea has gone cold in its cup. Outside, the light has shifted half a degree.",
   "pulses": [
-    { "label": "Sky", "value": "clear, high pale blue" },
-    { "label": "Light", "value": "direct and full across the sill" },
-    { "label": "Street", "value": "one walker, distant" }
+    { "label": "Sky", "value": "thin cloud drifting east" },
+    { "label": "Mood", "value": "still, slightly cooler" },
+    { "label": "Street", "value": "empty except for a parked van" }
   ]
 }
