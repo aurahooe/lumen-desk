@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-08T17:01:00.000Z",
-  "edition": 706,
-  "headline": "The desk lamp waits for dark.",
-  "body": "A page turns in the next room and stops. The radiator ticks once, then settles. Below, a bicycle leans against the curb under a shop light.",
+  "updatedAt": "2026-11-08T19:00:55.000Z",
+  "edition": 707,
+  "headline": "Evening settles on the blotter.",
+  "body": "The window glass holds a last strip of pale light. Outside, a leaf skitters across the pavement and stops. Inside, the room keeps its own dim company.",
   "pulses": [
-    { "label": "Sky", "value": "fading to blue-grey, low sun" },
-    { "label": "Light", "value": "slanted amber across the blotter" },
-    { "label": "Street", "value": "quiet, one parked van at the corner" }
+    { "label": "Sky", "value": "deepening blue, edges still pale" },
+    { "label": "Light", "value": "soft pool under the lamp, margins fading" },
+    { "label": "Street", "value": "quiet curb, one bicycle left leaning" }
   ]
 }
