@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-08T10:00:00.000Z",
-  "edition": 703,
-  "headline": "Ten, the street holds still.",
-  "body": "The lamp has been switched off. A single leaf drifts past the open window. The page on the desk waits unmarked.",
+  "updatedAt": "2026-11-08T13:00:00.000Z",
+  "edition": 704,
+  "headline": "One, full light on the sill.",
+  "body": "The lamp stays cold. A single figure crosses at the far corner and is gone. The page on the desk remains unmarked.",
   "pulses": [
     { "label": "Sky", "value": "clear, high pale blue" },
-    { "label": "Light", "value": "full and even on the sill" },
-    { "label": "Street", "value": "empty, no traffic" }
+    { "label": "Light", "value": "direct and full across the sill" },
+    { "label": "Street", "value": "one walker, distant" }
   ]
 }
