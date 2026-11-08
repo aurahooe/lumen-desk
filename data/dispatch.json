@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-08T19:00:55.000Z",
-  "edition": 707,
-  "headline": "Evening settles on the blotter.",
-  "body": "The window glass holds a last strip of pale light. Outside, a leaf skitters across the pavement and stops. Inside, the room keeps its own dim company.",
+  "updatedAt": "2026-11-08T23:00:00.000Z",
+  "edition": 708,
+  "headline": "Past eleven, the desk holds still.",
+  "body": "The lamp’s circle has not moved in hours. Outside, a single car passes and leaves the street empty again. Somewhere a radiator ticks once and settles.",
   "pulses": [
-    { "label": "Sky", "value": "deepening blue, edges still pale" },
-    { "label": "Light", "value": "soft pool under the lamp, margins fading" },
-    { "label": "Street", "value": "quiet curb, one bicycle left leaning" }
+    { "label": "Sky", "value": "ink blue, thin cloud band low" },
+    { "label": "Light", "value": "lamp steady, room corners gone dark" },
+    { "label": "Street", "value": "one distant taillight, then nothing" }
   ]
 }
