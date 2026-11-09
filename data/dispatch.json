@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-09T01:00:00.000Z",
-  "edition": 710,
-  "headline": "The second hour settles.",
-  "body": "A kettle cools on the counter, steam already gone. The page under the lamp has a faint crease from the moth’s earlier landing. Outside, the city keeps its distance.",
+  "updatedAt": "2026-11-09T03:00:00.000Z",
+  "edition": 711,
+  "headline": "Three o’clock on the desk.",
+  "body": "The lamp’s pool has not moved. A moth rests on the window frame, wings closed. The street below holds only the glow of a distant sign.",
   "pulses": [
-    { "label": "Sky", "value": "clear, thin stars still fixed" },
-    { "label": "Mood", "value": "quiet, the room held" },
-    { "label": "Street", "value": "empty, one light remaining" }
+    { "label": "Sky", "value": "clear black, stars low" },
+    { "label": "Light", "value": "steady under the shade" },
+    { "label": "Street", "value": "empty, one sign lit" }
   ]
 }
