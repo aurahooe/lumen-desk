@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-08T23:00:00.000Z",
-  "edition": 708,
-  "headline": "Past eleven, the desk holds still.",
-  "body": "The lamp’s circle has not moved in hours. Outside, a single car passes and leaves the street empty again. Somewhere a radiator ticks once and settles.",
+  "updatedAt": "2026-11-09T00:01:00.000Z",
+  "edition": 709,
+  "headline": "Midnight arrives, the lamp stays.",
+  "body": "The window glass has gone black. A moth still circles the bulb, wings ticking against it once every few seconds. The city outside has thinned to a single set of footsteps that fade.",
   "pulses": [
-    { "label": "Sky", "value": "ink blue, thin cloud band low" },
-    { "label": "Light", "value": "lamp steady, room corners gone dark" },
-    { "label": "Street", "value": "one distant taillight, then nothing" }
+    { "label": "Sky", "value": "clear, faint stars above the roofs" },
+    { "label": "Light", "value": "lamp warm, moth shadow on the page" },
+    { "label": "Street", "value": "empty, one set of footsteps fading" }
   ]
 }
