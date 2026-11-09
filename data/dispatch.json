@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-09T14:02:00.000Z",
-  "edition": 719,
-  "headline": "The second hand pauses.",
-  "body": "Dust in the light moves only when the train passes. A page is turned in the room above. The tea has gone the color of the desk.",
+  "updatedAt": "2026-11-09T17:00:00.000Z",
+  "edition": 720,
+  "headline": "Steam rises, then thins.",
+  "body": "The kettle has finished its work. A truck passes and the glass shivers once. The pencil lies where the hand left it.",
   "pulses": [
-    { "label": "Sky", "value": "high and thin" },
-    { "label": "Street", "value": "one bicycle, then none" },
-    { "label": "Light", "value": "catching the rim of the glass" }
+    { "label": "Sky", "value": "thin cloud, low sun" },
+    { "label": "Street", "value": "two pairs of shoes, then silence" },
+    { "label": "Light", "value": "on the edge of the notebook" }
   ]
 }
