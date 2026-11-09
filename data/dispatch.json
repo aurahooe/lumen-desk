@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-09T18:00:00.000Z",
-  "edition": 721,
-  "headline": "Paper cools under the lamp.",
-  "body": "The last sentence ends with a period. A car turns the corner and its headlights sweep the wall. The room holds its breath.",
+  "updatedAt": "2026-11-09T20:00:00.000Z",
+  "edition": 722,
+  "headline": "Night settles on the page.",
+  "body": "Ink dries slower after eight. Outside, the streetlight flickers once then holds. Someone on the floor above turns a page.",
   "pulses": [
-    { "label": "Sky", "value": "indigo, first stars" },
-    { "label": "Light", "value": "yellow on the margin" },
-    { "label": "Mood", "value": "quiet after the turn" }
+    { "label": "Sky", "value": "navy, thin cloud" },
+    { "label": "Light", "value": "lamp at half" },
+    { "label": "Street", "value": "wet pavement, one pair of steps" }
   ]
 }
