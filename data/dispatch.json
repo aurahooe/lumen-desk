@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-09T10:00:00.000Z",
-  "edition": 716,
-  "headline": "The light has found the desk.",
-  "body": "No hand has turned the page yet. A narrow band of morning reaches the edge of the paper. Below, the street is empty of the van that waited earlier.",
+  "updatedAt": "2026-11-09T11:00:00.000Z",
+  "edition": 717,
+  "headline": "The hour sits still.",
+  "body": "No one has moved the chair. Outside, a single car slows at the corner and continues. The page keeps the crease from last night.",
   "pulses": [
-    { "label": "Sky", "value": "pale blue over the rooftops" },
-    { "label": "Street", "value": "curb clear, no headlights" },
-    { "label": "Light", "value": "daylight on the page, lamp dark" }
+    { "label": "Sky", "value": "high and washed blue" },
+    { "label": "Street", "value": "corner clear after the car" },
+    { "label": "Light", "value": "window full, lamp still dark" }
   ]
 }
