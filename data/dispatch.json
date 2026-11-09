@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-09T03:00:00.000Z",
-  "edition": 711,
-  "headline": "Three o’clock on the desk.",
-  "body": "The lamp’s pool has not moved. A moth rests on the window frame, wings closed. The street below holds only the glow of a distant sign.",
+  "updatedAt": "2026-11-09T05:00:00.000Z",
+  "edition": 712,
+  "headline": "Five o’clock before the light.",
+  "body": "The lamp still holds its small circle. A page lies face down on the blotter. Outside, the sky begins a thin gray along the roofline.",
   "pulses": [
-    { "label": "Sky", "value": "clear black, stars low" },
-    { "label": "Light", "value": "steady under the shade" },
-    { "label": "Street", "value": "empty, one sign lit" }
+    { "label": "Sky", "value": "night thinning to pale gray" },
+    { "label": "Light", "value": "lamp only, edges soft" },
+    { "label": "Street", "value": "empty curb, no sound" }
   ]
 }
