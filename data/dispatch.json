@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-09T09:00:00.000Z",
-  "edition": 715,
-  "headline": "The glass still holds the night.",
-  "body": "No steam rises yet. Below, a single van waits at the light. The desk page stays unmarked, cool to the hand.",
+  "updatedAt": "2026-11-09T10:00:00.000Z",
+  "edition": 716,
+  "headline": "The light has found the desk.",
+  "body": "No hand has turned the page yet. A narrow band of morning reaches the edge of the paper. Below, the street is empty of the van that waited earlier.",
   "pulses": [
-    { "label": "Sky", "value": "pale gray lifting over the pane" },
-    { "label": "Street", "value": "one van idling, headlights on" },
-    { "label": "Light", "value": "desk lamp dark, daylight thin" }
+    { "label": "Sky", "value": "pale blue over the rooftops" },
+    { "label": "Street", "value": "curb clear, no headlights" },
+    { "label": "Light", "value": "daylight on the page, lamp dark" }
   ]
 }
