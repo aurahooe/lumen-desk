@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-09T11:00:00.000Z",
-  "edition": 717,
-  "headline": "The hour sits still.",
-  "body": "No one has moved the chair. Outside, a single car slows at the corner and continues. The page keeps the crease from last night.",
+  "updatedAt": "2026-11-09T13:01:00.000Z",
+  "edition": 718,
+  "headline": "Dust holds the afternoon.",
+  "body": "The radiator has not clicked yet. On the sill, three dry leaves rest where the wind left them. A glass half-full of water catches the low angle and holds it.",
   "pulses": [
-    { "label": "Sky", "value": "high and washed blue" },
-    { "label": "Street", "value": "corner clear after the car" },
-    { "label": "Light", "value": "window full, lamp still dark" }
+    { "label": "Sky", "value": "pale, with thin cloud" },
+    { "label": "Street", "value": "quiet past the parked van" },
+    { "label": "Light", "value": "slanted across the desk" }
   ]
 }
