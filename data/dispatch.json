@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-09T06:00:00.000Z",
-  "edition": 713,
-  "headline": "Six o’clock before the first sound.",
-  "body": "The lamp is out now. A page still lies face down. Outside, one bird tries a note against the pale edge of the roof.",
+  "updatedAt": "2026-11-09T07:01:40.000Z",
+  "edition": 714,
+  "headline": "Before the first kettle note.",
+  "body": "A page turned down remains. Outside the glass, one bus moves without sound. The room keeps the dark a little longer.",
   "pulses": [
-    { "label": "Sky", "value": "gray lifting to soft white" },
-    { "label": "Light", "value": "window only, lamp dark" },
-    { "label": "Street", "value": "curb quiet, one distant step" }
+    { "label": "Sky", "value": "soft gray at the upper pane" },
+    { "label": "Street", "value": "empty curb, wet from night" },
+    { "label": "Light", "value": "lamp still off, window only" }
   ]
 }
