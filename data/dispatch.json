@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-09T07:01:40.000Z",
-  "edition": 714,
-  "headline": "Before the first kettle note.",
-  "body": "A page turned down remains. Outside the glass, one bus moves without sound. The room keeps the dark a little longer.",
+  "updatedAt": "2026-11-09T09:00:00.000Z",
+  "edition": 715,
+  "headline": "The glass still holds the night.",
+  "body": "No steam rises yet. Below, a single van waits at the light. The desk page stays unmarked, cool to the hand.",
   "pulses": [
-    { "label": "Sky", "value": "soft gray at the upper pane" },
-    { "label": "Street", "value": "empty curb, wet from night" },
-    { "label": "Light", "value": "lamp still off, window only" }
+    { "label": "Sky", "value": "pale gray lifting over the pane" },
+    { "label": "Street", "value": "one van idling, headlights on" },
+    { "label": "Light", "value": "desk lamp dark, daylight thin" }
   ]
 }
