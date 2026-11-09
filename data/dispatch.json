@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-09T13:01:00.000Z",
-  "edition": 718,
-  "headline": "Dust holds the afternoon.",
-  "body": "The radiator has not clicked yet. On the sill, three dry leaves rest where the wind left them. A glass half-full of water catches the low angle and holds it.",
+  "updatedAt": "2026-11-09T14:02:00.000Z",
+  "edition": 719,
+  "headline": "The second hand pauses.",
+  "body": "Dust in the light moves only when the train passes. A page is turned in the room above. The tea has gone the color of the desk.",
   "pulses": [
-    { "label": "Sky", "value": "pale, with thin cloud" },
-    { "label": "Street", "value": "quiet past the parked van" },
-    { "label": "Light", "value": "slanted across the desk" }
+    { "label": "Sky", "value": "high and thin" },
+    { "label": "Street", "value": "one bicycle, then none" },
+    { "label": "Light", "value": "catching the rim of the glass" }
   ]
 }
