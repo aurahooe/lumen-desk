@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-09T05:00:00.000Z",
-  "edition": 712,
-  "headline": "Five o’clock before the light.",
-  "body": "The lamp still holds its small circle. A page lies face down on the blotter. Outside, the sky begins a thin gray along the roofline.",
+  "updatedAt": "2026-11-09T06:00:00.000Z",
+  "edition": 713,
+  "headline": "Six o’clock before the first sound.",
+  "body": "The lamp is out now. A page still lies face down. Outside, one bird tries a note against the pale edge of the roof.",
   "pulses": [
-    { "label": "Sky", "value": "night thinning to pale gray" },
-    { "label": "Light", "value": "lamp only, edges soft" },
-    { "label": "Street", "value": "empty curb, no sound" }
+    { "label": "Sky", "value": "gray lifting to soft white" },
+    { "label": "Light", "value": "window only, lamp dark" },
+    { "label": "Street", "value": "curb quiet, one distant step" }
   ]
 }
