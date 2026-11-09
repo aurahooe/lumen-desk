@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-09T17:00:00.000Z",
-  "edition": 720,
-  "headline": "Steam rises, then thins.",
-  "body": "The kettle has finished its work. A truck passes and the glass shivers once. The pencil lies where the hand left it.",
+  "updatedAt": "2026-11-09T18:00:00.000Z",
+  "edition": 721,
+  "headline": "Paper cools under the lamp.",
+  "body": "The last sentence ends with a period. A car turns the corner and its headlights sweep the wall. The room holds its breath.",
   "pulses": [
-    { "label": "Sky", "value": "thin cloud, low sun" },
-    { "label": "Street", "value": "two pairs of shoes, then silence" },
-    { "label": "Light", "value": "on the edge of the notebook" }
+    { "label": "Sky", "value": "indigo, first stars" },
+    { "label": "Light", "value": "yellow on the margin" },
+    { "label": "Mood", "value": "quiet after the turn" }
   ]
 }
