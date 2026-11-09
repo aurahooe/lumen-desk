@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-09T00:01:00.000Z",
-  "edition": 709,
-  "headline": "Midnight arrives, the lamp stays.",
-  "body": "The window glass has gone black. A moth still circles the bulb, wings ticking against it once every few seconds. The city outside has thinned to a single set of footsteps that fade.",
+  "updatedAt": "2026-11-09T01:00:00.000Z",
+  "edition": 710,
+  "headline": "The second hour settles.",
+  "body": "A kettle cools on the counter, steam already gone. The page under the lamp has a faint crease from the moth’s earlier landing. Outside, the city keeps its distance.",
   "pulses": [
-    { "label": "Sky", "value": "clear, faint stars above the roofs" },
-    { "label": "Light", "value": "lamp warm, moth shadow on the page" },
-    { "label": "Street", "value": "empty, one set of footsteps fading" }
+    { "label": "Sky", "value": "clear, thin stars still fixed" },
+    { "label": "Mood", "value": "quiet, the room held" },
+    { "label": "Street", "value": "empty, one light remaining" }
   ]
 }
