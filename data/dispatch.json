@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-10T00:01:00.000Z",
-  "edition": 723,
-  "headline": "Midnight keeps the room.",
-  "body": "The lamp burns steady at its lowest setting. A car passes once, then the street returns to silence. On the desk, the previous sentence has dried.",
+  "updatedAt": "2026-11-10T01:01:00.000Z",
+  "edition": 724,
+  "headline": "One o'clock finds the lamp still on.",
+  "body": "A moth circles the bulb once and settles. The streetlight across the way flickers, then holds. No one walks the block.",
   "pulses": [
-    { "label": "Sky", "value": "clear, a few stars" },
-    { "label": "Light", "value": "lamp at low" },
-    { "label": "Street", "value": "quiet, one distant engine" }
+    { "label": "Sky", "value": "clear, faint haze" },
+    { "label": "Light", "value": "single bulb, warm" },
+    { "label": "Street", "value": "empty, damp" }
   ]
 }
