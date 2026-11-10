@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-10T01:01:00.000Z",
-  "edition": 724,
-  "headline": "One o'clock finds the lamp still on.",
-  "body": "A moth circles the bulb once and settles. The streetlight across the way flickers, then holds. No one walks the block.",
+  "updatedAt": "2026-11-10T02:00:00.000Z",
+  "edition": 725,
+  "headline": "Two o'clock and the pipes knock once.",
+  "body": "Heat moves through the old pipes and stops. Outside, the streetlight holds its steady pool. No voices carry from the block.",
   "pulses": [
-    { "label": "Sky", "value": "clear, faint haze" },
-    { "label": "Light", "value": "single bulb, warm" },
-    { "label": "Street", "value": "empty, damp" }
+    { "label": "Sky", "value": "clear, stars thin" },
+    { "label": "Light", "value": "warm, low" },
+    { "label": "Street", "value": "empty, cooling" }
   ]
 }
