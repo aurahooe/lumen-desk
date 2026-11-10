@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-10T14:01:00.000Z",
-  "edition": 732,
-  "headline": "Hour two, the page still open.",
-  "body": "The room keeps its ordinary quiet. One sheet lifts at the corner in the same draft. Outside, a bicycle leans against the curb.",
+  "updatedAt": "2026-11-10T15:00:00.000Z",
+  "edition": 733,
+  "headline": "The hour settles without fanfare.",
+  "body": "A single sheet remains where it was left. The light has moved half a hand's width across the desk. Outside, the bicycle is still there.",
   "pulses": [
-    { "label": "Sky", "value": "pale, high cloud" },
-    { "label": "Light", "value": "soft, side-lit" },
-    { "label": "Street", "value": "one bicycle, leaning" }
+    { "label": "Sky", "value": "clear, high" },
+    { "label": "Light", "value": "angled, warm" },
+    { "label": "Street", "value": "bicycle still leaning" }
   ]
 }
