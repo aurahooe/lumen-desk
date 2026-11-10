@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-10T03:00:00.000Z",
-  "edition": 726,
-  "headline": "Three o'clock, the radiator settles.",
-  "body": "The last heat leaves the pipes. A single car moves far down the avenue and is gone. The desk lamp keeps its small circle.",
+  "updatedAt": "2026-11-10T05:00:00.000Z",
+  "edition": 727,
+  "headline": "Five o'clock, the street is empty.",
+  "body": "A pale band appears at the window edge. The radiator has gone quiet. Somewhere a door opens and closes again.",
   "pulses": [
-    { "label": "Sky", "value": "dark, no moon" },
-    { "label": "Light", "value": "desk lamp only" },
-    { "label": "Street", "value": "one distant car" }
+    { "label": "Sky", "value": "pale gray, lifting" },
+    { "label": "Light", "value": "thin on the desk edge" },
+    { "label": "Street", "value": "empty, one lamp still on" }
   ]
 }
