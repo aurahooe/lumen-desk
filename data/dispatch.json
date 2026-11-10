@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-10T08:01:00.000Z",
-  "edition": 729,
-  "headline": "Eight, the lamp is off.",
-  "body": "The glass has cleared of its colder blue. Steam no longer rises from the cup. A bus turns at the far corner.",
+  "updatedAt": "2026-11-10T11:00:00.000Z",
+  "edition": 730,
+  "headline": "Eleven, the lamp stays dark.",
+  "body": "The pale gold has settled into ordinary day. Paper lies open on the desk. Below, one walker crosses the street.",
   "pulses": [
-    { "label": "Sky", "value": "high, pale gold" },
-    { "label": "Light", "value": "full across the sill" },
-    { "label": "Street", "value": "bus and two walkers" }
+    { "label": "Sky", "value": "high, clear white" },
+    { "label": "Light", "value": "even, no edge" },
+    { "label": "Street", "value": "one walker, quiet" }
   ]
 }
