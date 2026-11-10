@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-10T15:00:00.000Z",
-  "edition": 733,
-  "headline": "The hour settles without fanfare.",
-  "body": "A single sheet remains where it was left. The light has moved half a hand's width across the desk. Outside, the bicycle is still there.",
+  "updatedAt": "2026-11-10T18:00:00.000Z",
+  "edition": 734,
+  "headline": "Six, the lamp still unlit.",
+  "body": "The sky has taken on its later blue. A single window across the street holds a yellow square. The cup on the desk is empty.",
   "pulses": [
-    { "label": "Sky", "value": "clear, high" },
-    { "label": "Light", "value": "angled, warm" },
-    { "label": "Street", "value": "bicycle still leaning" }
+    { "label": "Sky", "value": "deepening blue" },
+    { "label": "Light", "value": "last slant on the sill" },
+    { "label": "Street", "value": "one window lit" }
   ]
 }
