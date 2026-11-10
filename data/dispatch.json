@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-10T19:00:00.000Z",
-  "edition": 735,
-  "headline": "Seven, lamps finding their places.",
-  "body": "The sky has finished with blue. Across the way three windows hold their yellow. The desk lamp remains unlit.",
+  "updatedAt": "2026-11-10T21:00:00.000Z",
+  "edition": 736,
+  "headline": "Lamps hold the street still.",
+  "body": "The sky above the roofs has gone fully black. Streetlamps keep their pools on the pavement. Across the way the same three windows stay lit.",
   "pulses": [
-    { "label": "Sky", "value": "full dark above the roofs" },
-    { "label": "Light", "value": "streetlamps just on" },
-    { "label": "Street", "value": "three windows lit" }
+    { "label": "Sky", "value": "full black, no moon" },
+    { "label": "Light", "value": "steady yellow pools" },
+    { "label": "Street", "value": "three windows still lit" }
   ]
 }
