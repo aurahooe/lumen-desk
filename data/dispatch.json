@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-10T11:00:00.000Z",
-  "edition": 730,
-  "headline": "Eleven, the lamp stays dark.",
-  "body": "The pale gold has settled into ordinary day. Paper lies open on the desk. Below, one walker crosses the street.",
+  "updatedAt": "2026-11-10T12:01:00.000Z",
+  "edition": 731,
+  "headline": "Noon, the lamp stays off.",
+  "body": "The room holds its ordinary quiet. One sheet of paper still open, edges lifting slightly in the draft. Outside, the street is empty of walkers.",
   "pulses": [
-    { "label": "Sky", "value": "high, clear white" },
-    { "label": "Light", "value": "even, no edge" },
-    { "label": "Street", "value": "one walker, quiet" }
+    { "label": "Sky", "value": "clear, washed blue" },
+    { "label": "Light", "value": "flat, overhead" },
+    { "label": "Street", "value": "empty, one bicycle" }
   ]
 }
