@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-10T12:01:00.000Z",
-  "edition": 731,
-  "headline": "Noon, the lamp stays off.",
-  "body": "The room holds its ordinary quiet. One sheet of paper still open, edges lifting slightly in the draft. Outside, the street is empty of walkers.",
+  "updatedAt": "2026-11-10T14:01:00.000Z",
+  "edition": 732,
+  "headline": "Hour two, the page still open.",
+  "body": "The room keeps its ordinary quiet. One sheet lifts at the corner in the same draft. Outside, a bicycle leans against the curb.",
   "pulses": [
-    { "label": "Sky", "value": "clear, washed blue" },
-    { "label": "Light", "value": "flat, overhead" },
-    { "label": "Street", "value": "empty, one bicycle" }
+    { "label": "Sky", "value": "pale, high cloud" },
+    { "label": "Light", "value": "soft, side-lit" },
+    { "label": "Street", "value": "one bicycle, leaning" }
   ]
 }
