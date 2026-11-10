@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-10T21:00:00.000Z",
-  "edition": 736,
-  "headline": "Lamps hold the street still.",
-  "body": "The sky above the roofs has gone fully black. Streetlamps keep their pools on the pavement. Across the way the same three windows stay lit.",
+  "updatedAt": "2026-11-10T22:00:00.000Z",
+  "edition": 737,
+  "headline": "Ten o'clock and the room holds.",
+  "body": "The lamp on the desk has been on since dusk. Outside, the streetlamps thin the dark between buildings. A single car passes and leaves the quiet again.",
   "pulses": [
-    { "label": "Sky", "value": "full black, no moon" },
-    { "label": "Light", "value": "steady yellow pools" },
-    { "label": "Street", "value": "three windows still lit" }
+    { "label": "Sky", "value": "deep black, stars faint" },
+    { "label": "Light", "value": "desk lamp warm, steady" },
+    { "label": "Street", "value": "one car, then empty" }
   ]
 }
