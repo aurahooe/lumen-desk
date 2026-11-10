@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-10T06:00:00.000Z",
-  "edition": 728,
-  "headline": "Six o'clock, before the first bus.",
-  "body": "The window glass holds a colder blue. A spoon clicks once against a cup. Down the block the streetlamp has not yet dimmed.",
+  "updatedAt": "2026-11-10T08:01:00.000Z",
+  "edition": 729,
+  "headline": "Eight, the lamp is off.",
+  "body": "The glass has cleared of its colder blue. Steam no longer rises from the cup. A bus turns at the far corner.",
   "pulses": [
-    { "label": "Sky", "value": "cold blue, clear" },
-    { "label": "Light", "value": "desk lamp still warm" },
-    { "label": "Street", "value": "one early walker, far" }
+    { "label": "Sky", "value": "high, pale gold" },
+    { "label": "Light", "value": "full across the sill" },
+    { "label": "Street", "value": "bus and two walkers" }
   ]
 }
