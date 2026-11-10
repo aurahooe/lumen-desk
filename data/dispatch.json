@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-10T05:00:00.000Z",
-  "edition": 727,
-  "headline": "Five o'clock, the street is empty.",
-  "body": "A pale band appears at the window edge. The radiator has gone quiet. Somewhere a door opens and closes again.",
+  "updatedAt": "2026-11-10T06:00:00.000Z",
+  "edition": 728,
+  "headline": "Six o'clock, before the first bus.",
+  "body": "The window glass holds a colder blue. A spoon clicks once against a cup. Down the block the streetlamp has not yet dimmed.",
   "pulses": [
-    { "label": "Sky", "value": "pale gray, lifting" },
-    { "label": "Light", "value": "thin on the desk edge" },
-    { "label": "Street", "value": "empty, one lamp still on" }
+    { "label": "Sky", "value": "cold blue, clear" },
+    { "label": "Light", "value": "desk lamp still warm" },
+    { "label": "Street", "value": "one early walker, far" }
   ]
 }
