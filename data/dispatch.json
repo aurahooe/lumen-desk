@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-11T03:00:00.000Z",
-  "edition": 741,
-  "headline": "Three o’clock keeps the lamp lit.",
-  "body": "Steam no longer rises from the cup. The pen rests where it was set down. Somewhere a truck gears down on the distant road.",
+  "updatedAt": "2026-11-11T04:00:00.000Z",
+  "edition": 742,
+  "headline": "Four o’clock and the room holds.",
+  "body": "The radiator ticks once and settles. A single car passes below without slowing. The ink in the pen has not dried.",
   "pulses": [
-    { "label": "Sky", "value": "deep blue, thinning stars" },
-    { "label": "Light", "value": "warm pool on the desk" },
-    { "label": "Street", "value": "one set of headlights, then none" }
+    { "label": "Sky", "value": "deep, edges paling" },
+    { "label": "Light", "value": "steady on the page" },
+    { "label": "Street", "value": "empty, damp from earlier" }
   ]
 }
