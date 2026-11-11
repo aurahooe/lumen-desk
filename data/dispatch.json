@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-11T14:02:00.000Z",
-  "edition": 749,
-  "headline": "Afternoon light thins on the sill.",
-  "body": "A thin shadow cuts the edge of the notebook. The glass holds a faint reflection of the opposite roof. Below, the pavement dries in patches.",
+  "updatedAt": "2026-11-11T15:01:00.000Z",
+  "edition": 750,
+  "headline": "The hour settles into the glass.",
+  "body": "A single leaf sticks to the wet pane. The room holds the same temperature as the street outside. Someone turns a page two floors down.",
   "pulses": [
-    { "label": "Sky", "value": "high, pale blue with thin cloud" },
-    { "label": "Light", "value": "slanted, softer toward the wall" },
-    { "label": "Street", "value": "quiet, two walkers distant" }
+    { "label": "Sky", "value": "overcast, low grey, no break" },
+    { "label": "Mood", "value": "quiet, slightly held" },
+    { "label": "Watch", "value": "the second hand, unhurried" }
   ]
 }
