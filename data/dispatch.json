@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-11T10:00:00.000Z",
-  "edition": 746,
-  "headline": "Ten and the room steadies.",
-  "body": "Dust hangs in the beam from the upper window. A kettle clicks off in the next room. The front page remains unmarked.",
+  "updatedAt": "2026-11-11T11:00:00.000Z",
+  "edition": 747,
+  "headline": "Eleven and the light shifts.",
+  "body": "A shadow lengthens across the desk edge. The street below holds a brief pause between cars. The page waits, unturned.",
   "pulses": [
-    { "label": "Sky", "value": "bright, thin veil of cloud" },
-    { "label": "Light", "value": "even across the table" },
-    { "label": "Street", "value": "moving, short gaps" }
+    { "label": "Sky", "value": "clear, high and pale" },
+    { "label": "Light", "value": "angled, sharper on the wall" },
+    { "label": "Street", "value": "sparse, one walker" }
   ]
 }
