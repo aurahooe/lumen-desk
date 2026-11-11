@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-10T22:00:00.000Z",
-  "edition": 737,
-  "headline": "Ten o'clock and the room holds.",
-  "body": "The lamp on the desk has been on since dusk. Outside, the streetlamps thin the dark between buildings. A single car passes and leaves the quiet again.",
+  "updatedAt": "2026-11-11T00:01:00.000Z",
+  "edition": 738,
+  "headline": "Midnight turns the page quietly.",
+  "body": "The clock on the wall has crossed the hour. Outside the window the street holds its last lamps. Inside, the desk lamp remains the only movement in the room.",
   "pulses": [
-    { "label": "Sky", "value": "deep black, stars faint" },
-    { "label": "Light", "value": "desk lamp warm, steady" },
-    { "label": "Street", "value": "one car, then empty" }
+    { "label": "Sky", "value": "full dark, thin stars" },
+    { "label": "Light", "value": "desk lamp alone" },
+    { "label": "Street", "value": "lamps fixed, no traffic" }
   ]
 }
