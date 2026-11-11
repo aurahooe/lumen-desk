@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-11T22:00:00.000Z",
-  "edition": 753,
-  "headline": "The ten o’clock quiet.",
-  "body": "The lamp draws a small circle on the blotter. Across the street a shutter drops. The city has finished speaking for the hour.",
+  "updatedAt": "2026-11-11T23:00:00.000Z",
+  "edition": 754,
+  "headline": "Eleven and the corners empty.",
+  "body": "One window stays yellow three floors up. The wind has left the papers on the sill. A clock strikes and finds no answer.",
   "pulses": [
-    { "label": "Sky", "value": "clear, a few high stars" },
-    { "label": "Light", "value": "warm circle on the desk" },
-    { "label": "Street", "value": "shutter down, no footsteps" }
+    { "label": "Sky", "value": "clear, moon high and thin" },
+    { "label": "Light", "value": "single window still lit" },
+    { "label": "Street", "value": "empty past the last corner" }
   ]
 }
