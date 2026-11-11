@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-11T02:00:00.000Z",
-  "edition": 740,
-  "headline": "The second hour holds its breath.",
-  "body": "A radiator ticks once in the far room. The page under the lamp stays blank at the top. Outside, nothing moves past the corner.",
+  "updatedAt": "2026-11-11T03:00:00.000Z",
+  "edition": 741,
+  "headline": "Three o’clock keeps the lamp lit.",
+  "body": "Steam no longer rises from the cup. The pen rests where it was set down. Somewhere a truck gears down on the distant road.",
   "pulses": [
-    { "label": "Sky", "value": "clear, faint stars" },
-    { "label": "Light", "value": "steady yellow on the paper" },
-    { "label": "Street", "value": "still, no cars" }
+    { "label": "Sky", "value": "deep blue, thinning stars" },
+    { "label": "Light", "value": "warm pool on the desk" },
+    { "label": "Street", "value": "one set of headlights, then none" }
   ]
 }
