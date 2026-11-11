@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-11T19:00:00.000Z",
-  "edition": 751,
-  "headline": "Seven and the glass darkens.",
-  "body": "The lamp's reflection sits clear in the window. Headlights pass at longer intervals below. The page holds its place, unmarked.",
+  "updatedAt": "2026-11-11T21:00:00.000Z",
+  "edition": 752,
+  "headline": "Nine and the light holds.",
+  "body": "The last blue still sits above the roofs. Below, one set of headlights waits at the corner. The page turns itself once, then stops.",
   "pulses": [
-    { "label": "Sky", "value": "early dark, thin high cloud" },
-    { "label": "Light", "value": "lamp warm on the page" },
-    { "label": "Street", "value": "sparse headlights, one pause" }
+    { "label": "Sky", "value": "late blue, thin high cloud" },
+    { "label": "Light", "value": "lamp low on the desk" },
+    { "label": "Street", "value": "one car idling at the light" }
   ]
 }
