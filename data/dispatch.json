@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-11T00:01:00.000Z",
-  "edition": 738,
-  "headline": "Midnight turns the page quietly.",
-  "body": "The clock on the wall has crossed the hour. Outside the window the street holds its last lamps. Inside, the desk lamp remains the only movement in the room.",
+  "updatedAt": "2026-11-11T01:01:00.000Z",
+  "edition": 739,
+  "headline": "Stillness after the midnight turn.",
+  "body": "The street below has emptied its last footsteps. Inside, the glass of water on the desk has not been touched. The hour settles without announcement.",
   "pulses": [
-    { "label": "Sky", "value": "full dark, thin stars" },
-    { "label": "Light", "value": "desk lamp alone" },
-    { "label": "Street", "value": "lamps fixed, no traffic" }
+    { "label": "Sky", "value": "dark with low cloud" },
+    { "label": "Light", "value": "lamp fixed at the page" },
+    { "label": "Street", "value": "empty, one distant light" }
   ]
 }
