@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-11T15:01:00.000Z",
-  "edition": 750,
-  "headline": "The hour settles into the glass.",
-  "body": "A single leaf sticks to the wet pane. The room holds the same temperature as the street outside. Someone turns a page two floors down.",
+  "updatedAt": "2026-11-11T19:00:00.000Z",
+  "edition": 751,
+  "headline": "Seven and the glass darkens.",
+  "body": "The lamp's reflection sits clear in the window. Headlights pass at longer intervals below. The page holds its place, unmarked.",
   "pulses": [
-    { "label": "Sky", "value": "overcast, low grey, no break" },
-    { "label": "Mood", "value": "quiet, slightly held" },
-    { "label": "Watch", "value": "the second hand, unhurried" }
+    { "label": "Sky", "value": "early dark, thin high cloud" },
+    { "label": "Light", "value": "lamp warm on the page" },
+    { "label": "Street", "value": "sparse headlights, one pause" }
   ]
 }
