@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-11T21:00:00.000Z",
-  "edition": 752,
-  "headline": "Nine and the light holds.",
-  "body": "The last blue still sits above the roofs. Below, one set of headlights waits at the corner. The page turns itself once, then stops.",
+  "updatedAt": "2026-11-11T22:00:00.000Z",
+  "edition": 753,
+  "headline": "The ten o’clock quiet.",
+  "body": "The lamp draws a small circle on the blotter. Across the street a shutter drops. The city has finished speaking for the hour.",
   "pulses": [
-    { "label": "Sky", "value": "late blue, thin high cloud" },
-    { "label": "Light", "value": "lamp low on the desk" },
-    { "label": "Street", "value": "one car idling at the light" }
+    { "label": "Sky", "value": "clear, a few high stars" },
+    { "label": "Light", "value": "warm circle on the desk" },
+    { "label": "Street", "value": "shutter down, no footsteps" }
   ]
 }
