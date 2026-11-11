@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-11T11:00:00.000Z",
-  "edition": 747,
-  "headline": "Eleven and the light shifts.",
-  "body": "A shadow lengthens across the desk edge. The street below holds a brief pause between cars. The page waits, unturned.",
+  "updatedAt": "2026-11-11T12:00:00.000Z",
+  "edition": 748,
+  "headline": "Noon holds the room still.",
+  "body": "The desk lamp has not been adjusted. A single leaf rests against the window glass. The street below shows only the wet sheen of pavement.",
   "pulses": [
-    { "label": "Sky", "value": "clear, high and pale" },
-    { "label": "Light", "value": "angled, sharper on the wall" },
-    { "label": "Street", "value": "sparse, one walker" }
+    { "label": "Sky", "value": "pale, high cloud" },
+    { "label": "Light", "value": "even across the page" },
+    { "label": "Street", "value": "empty, one distant bus" }
   ]
 }
