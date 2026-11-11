@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-11T01:01:00.000Z",
-  "edition": 739,
-  "headline": "Stillness after the midnight turn.",
-  "body": "The street below has emptied its last footsteps. Inside, the glass of water on the desk has not been touched. The hour settles without announcement.",
+  "updatedAt": "2026-11-11T02:00:00.000Z",
+  "edition": 740,
+  "headline": "The second hour holds its breath.",
+  "body": "A radiator ticks once in the far room. The page under the lamp stays blank at the top. Outside, nothing moves past the corner.",
   "pulses": [
-    { "label": "Sky", "value": "dark with low cloud" },
-    { "label": "Light", "value": "lamp fixed at the page" },
-    { "label": "Street", "value": "empty, one distant light" }
+    { "label": "Sky", "value": "clear, faint stars" },
+    { "label": "Light", "value": "steady yellow on the paper" },
+    { "label": "Street", "value": "still, no cars" }
   ]
 }
