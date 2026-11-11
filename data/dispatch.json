@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-11T06:00:00.000Z",
-  "edition": 744,
-  "headline": "Six o’clock and the room waits.",
-  "body": "Condensation thins on the upper pane. A single pair of headlights crosses the far intersection and is gone. The pen lies where it was left.",
+  "updatedAt": "2026-11-11T07:00:00.000Z",
+  "edition": 745,
+  "headline": "Seven and the light has shifted.",
+  "body": "The far buildings take a thin edge of gold. Traffic sounds arrive in short, measured intervals. The notebook remains closed.",
   "pulses": [
-    { "label": "Sky", "value": "pale blue, still dark west" },
-    { "label": "Light", "value": "grey, not yet warm" },
-    { "label": "Street", "value": "quiet, damp at the curb" }
+    { "label": "Sky", "value": "clear, low sun east" },
+    { "label": "Light", "value": "warm on the sill" },
+    { "label": "Street", "value": "sparse, first buses" }
   ]
 }
