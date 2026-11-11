@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-11T07:00:00.000Z",
-  "edition": 745,
-  "headline": "Seven and the light has shifted.",
-  "body": "The far buildings take a thin edge of gold. Traffic sounds arrive in short, measured intervals. The notebook remains closed.",
+  "updatedAt": "2026-11-11T10:00:00.000Z",
+  "edition": 746,
+  "headline": "Ten and the room steadies.",
+  "body": "Dust hangs in the beam from the upper window. A kettle clicks off in the next room. The front page remains unmarked.",
   "pulses": [
-    { "label": "Sky", "value": "clear, low sun east" },
-    { "label": "Light", "value": "warm on the sill" },
-    { "label": "Street", "value": "sparse, first buses" }
+    { "label": "Sky", "value": "bright, thin veil of cloud" },
+    { "label": "Light", "value": "even across the table" },
+    { "label": "Street", "value": "moving, short gaps" }
   ]
 }
