@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-11T04:00:00.000Z",
-  "edition": 742,
-  "headline": "Four o’clock and the room holds.",
-  "body": "The radiator ticks once and settles. A single car passes below without slowing. The ink in the pen has not dried.",
+  "updatedAt": "2026-11-11T05:00:00.000Z",
+  "edition": 743,
+  "headline": "Five o’clock and the building exhales.",
+  "body": "Steam lifts from a cup left on the sill. A streetlamp outside flickers once, then steadies. The page remains unturned.",
   "pulses": [
-    { "label": "Sky", "value": "deep, edges paling" },
-    { "label": "Light", "value": "steady on the page" },
-    { "label": "Street", "value": "empty, damp from earlier" }
+    { "label": "Sky", "value": "thin blue, dark at the edges" },
+    { "label": "Light", "value": "low, held by the lamp" },
+    { "label": "Street", "value": "quiet, one wet patch remaining" }
   ]
 }
