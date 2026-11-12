@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-12T02:00:00.000Z",
-  "edition": 756,
-  "headline": "Two and the rain begins.",
-  "body": "Drops arrive on the sill first. The lamp three floors up has dimmed to a smaller glow. Nothing moves on the wet pavement.",
+  "updatedAt": "2026-11-12T03:00:00.000Z",
+  "edition": 757,
+  "headline": "Rain steadies on the glass.",
+  "body": "Lines of water run down the pane without hurry. A distant bus shows its lights once, then is gone. The lamp on the desk has not been touched.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, light rain starting" },
-    { "label": "Light", "value": "one window, reduced" },
-    { "label": "Street", "value": "wet and still" }
+    { "label": "Sky", "value": "low cloud, steady rain" },
+    { "label": "Light", "value": "desk lamp, unchanged" },
+    { "label": "Street", "value": "wet, one passing light" }
   ]
 }
