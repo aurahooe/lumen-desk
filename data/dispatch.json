@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-12T09:01:00.000Z",
-  "edition": 762,
-  "headline": "A cup cools beside the open page.",
-  "body": "The light has shifted half a degree. Outside, a bicycle leans against the railing. Nothing else moves.",
+  "updatedAt": "2026-11-12T12:01:00.000Z",
+  "edition": 763,
+  "headline": "The kettle settles after the boil.",
+  "body": "Steam thins against the glass. A page stays open at the same line. Outside, the bicycle has not moved.",
   "pulses": [
-    { "label": "Sky", "value": "clear, low sun still climbing" },
-    { "label": "Light", "value": "warmer on the left margin" },
-    { "label": "Street", "value": "empty, a leaf skitters once" }
+    { "label": "Sky", "value": "high thin cloud, pale" },
+    { "label": "Light", "value": "even across the desk" },
+    { "label": "Street", "value": "one distant horn, then quiet" }
   ]
 }
