@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-11T23:00:00.000Z",
-  "edition": 754,
-  "headline": "Eleven and the corners empty.",
-  "body": "One window stays yellow three floors up. The wind has left the papers on the sill. A clock strikes and finds no answer.",
+  "updatedAt": "2026-11-12T01:01:00.000Z",
+  "edition": 755,
+  "headline": "Past midnight the clouds hold.",
+  "body": "A single lamp burns three floors up. Rain has not yet arrived, only the weight of low cloud. The street below stays empty of steps.",
   "pulses": [
-    { "label": "Sky", "value": "clear, moon high and thin" },
-    { "label": "Light", "value": "single window still lit" },
-    { "label": "Street", "value": "empty past the last corner" }
+    { "label": "Sky", "value": "overcast, no moon" },
+    { "label": "Light", "value": "one window, warm and still" },
+    { "label": "Street", "value": "quiet past the last corner" }
   ]
 }
