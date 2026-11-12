@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-12T15:02:35.000Z",
-  "edition": 765,
-  "headline": "Light leaves the upper shelves.",
-  "body": "A single glass stands empty near the edge. The radiator ticks once, then quiets. Across the way, a curtain shifts without wind.",
+  "updatedAt": "2026-11-12T16:02:23.000Z",
+  "edition": 766,
+  "headline": "The radiator has gone silent.",
+  "body": "A page turns somewhere out of sight. The window glass carries a faint reflection of the opposite building. No one has entered the room for some time.",
   "pulses": [
-    { "label": "Sky", "value": "pale blue, high and clear" },
-    { "label": "Light", "value": "low gold on the wall" },
-    { "label": "Street", "value": "sparse cars below the window" }
+    { "label": "Sky", "value": "high and washed, almost white" },
+    { "label": "Light", "value": "cool strip along the baseboard" },
+    { "label": "Street", "value": "one car, then none" }
   ]
 }
