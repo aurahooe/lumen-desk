@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-12T18:00:53.000Z",
-  "edition": 767,
-  "headline": "Rain on the unlatched window.",
-  "body": "A drop gathers and falls. The room holds its own temperature. No voices carry from the hall.",
+  "updatedAt": "2026-11-12T22:01:28.000Z",
+  "edition": 768,
+  "headline": "The lamp holds the last hour.",
+  "body": "Outside, the streetlights take the color of old paper. A bus passes without stopping. The desk remains as it was.",
   "pulses": [
-    { "label": "Sky", "value": "thin overcast, still light" },
+    { "label": "Sky", "value": "clear, early stars" },
     { "label": "Light", "value": "soft circle under the shade" },
-    { "label": "Street", "value": "one umbrella, then clear" }
+    { "label": "Street", "value": "wet pavement, no footsteps" }
   ]
 }
