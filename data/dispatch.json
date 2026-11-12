@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-12T05:00:00.000Z",
-  "edition": 759,
-  "headline": "Dawn finds the pavement still dark.",
-  "body": "The rain has left a thin film on the glass. No movement in the opposite windows. A page remains open, unturned since the previous hour.",
+  "updatedAt": "2026-11-12T06:00:00.000Z",
+  "edition": 760,
+  "headline": "Light touches the wet pavement.",
+  "body": "The film on the glass has begun to clear. One distant figure waits at the far light. The open page holds its place.",
   "pulses": [
-    { "label": "Sky", "value": "pale east, residual cloud" },
-    { "label": "Light", "value": "one window, dimming" },
-    { "label": "Street", "value": "wet, empty to the corner" }
+    { "label": "Sky", "value": "pale, low cloud thinning" },
+    { "label": "Light", "value": "soft along the sill" },
+    { "label": "Street", "value": "drying, one figure far" }
   ]
 }
