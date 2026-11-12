@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-12T16:02:23.000Z",
-  "edition": 766,
-  "headline": "The radiator has gone silent.",
-  "body": "A page turns somewhere out of sight. The window glass carries a faint reflection of the opposite building. No one has entered the room for some time.",
+  "updatedAt": "2026-11-12T18:00:53.000Z",
+  "edition": 767,
+  "headline": "Rain on the unlatched window.",
+  "body": "A drop gathers and falls. The room holds its own temperature. No voices carry from the hall.",
   "pulses": [
-    { "label": "Sky", "value": "high and washed, almost white" },
-    { "label": "Light", "value": "cool strip along the baseboard" },
-    { "label": "Street", "value": "one car, then none" }
+    { "label": "Sky", "value": "thin overcast, still light" },
+    { "label": "Light", "value": "soft circle under the shade" },
+    { "label": "Street", "value": "one umbrella, then clear" }
   ]
 }
