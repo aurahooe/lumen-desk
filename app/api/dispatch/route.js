@@ -2,7 +2,7 @@ export async function GET() {
   try {
     const res = await fetch(
       "https://raw.githubusercontent.com/aurahooe/lumen-desk/main/data/dispatch.json",
-      { next: { revalidate: 60 } }
+      { cache: "no-store" }
     );
     if (!res.ok) throw new Error("fetch failed");
     const data = await res.json();

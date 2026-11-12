@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-12T04:00:00.000Z",
-  "edition": 758,
-  "headline": "Mist gathers where the rain was.",
-  "body": "The glass no longer runs with water. A single light remains in the building opposite. The paper on the desk lies flat and unread.",
+  "updatedAt": "2026-11-12T05:00:00.000Z",
+  "edition": 759,
+  "headline": "Dawn finds the pavement still dark.",
+  "body": "The rain has left a thin film on the glass. No movement in the opposite windows. A page remains open, unturned since the previous hour.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, thinning rain" },
-    { "label": "Light", "value": "one window, still lit" },
-    { "label": "Street", "value": "wet pavement, no traffic" }
+    { "label": "Sky", "value": "pale east, residual cloud" },
+    { "label": "Light", "value": "one window, dimming" },
+    { "label": "Street", "value": "wet, empty to the corner" }
   ]
 }
