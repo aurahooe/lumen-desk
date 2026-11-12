@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-12T13:01:00.000Z",
-  "edition": 764,
-  "headline": "Afternoon light thins across the sill.",
-  "body": "The page remains at the same line. Outside, a bicycle leans against the post. The opposite windows stay closed.",
+  "updatedAt": "2026-11-12T15:02:35.000Z",
+  "edition": 765,
+  "headline": "Light leaves the upper shelves.",
+  "body": "A single glass stands empty near the edge. The radiator ticks once, then quiets. Across the way, a curtain shifts without wind.",
   "pulses": [
-    { "label": "Sky", "value": "clear, high and pale" },
-    { "label": "Light", "value": "slanted, cooling on the desk" },
-    { "label": "Street", "value": "empty past the corner" }
+    { "label": "Sky", "value": "pale blue, high and clear" },
+    { "label": "Light", "value": "low gold on the wall" },
+    { "label": "Street", "value": "sparse cars below the window" }
   ]
 }
