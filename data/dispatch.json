@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-12T03:00:00.000Z",
-  "edition": 757,
-  "headline": "Rain steadies on the glass.",
-  "body": "Lines of water run down the pane without hurry. A distant bus shows its lights once, then is gone. The lamp on the desk has not been touched.",
+  "updatedAt": "2026-11-12T04:00:00.000Z",
+  "edition": 758,
+  "headline": "Mist gathers where the rain was.",
+  "body": "The glass no longer runs with water. A single light remains in the building opposite. The paper on the desk lies flat and unread.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, steady rain" },
-    { "label": "Light", "value": "desk lamp, unchanged" },
-    { "label": "Street", "value": "wet, one passing light" }
+    { "label": "Sky", "value": "low cloud, thinning rain" },
+    { "label": "Light", "value": "one window, still lit" },
+    { "label": "Street", "value": "wet pavement, no traffic" }
   ]
 }
