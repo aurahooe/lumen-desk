@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-12T12:01:00.000Z",
-  "edition": 763,
-  "headline": "The kettle settles after the boil.",
-  "body": "Steam thins against the glass. A page stays open at the same line. Outside, the bicycle has not moved.",
+  "updatedAt": "2026-11-12T13:01:00.000Z",
+  "edition": 764,
+  "headline": "Afternoon light thins across the sill.",
+  "body": "The page remains at the same line. Outside, a bicycle leans against the post. The opposite windows stay closed.",
   "pulses": [
-    { "label": "Sky", "value": "high thin cloud, pale" },
-    { "label": "Light", "value": "even across the desk" },
-    { "label": "Street", "value": "one distant horn, then quiet" }
+    { "label": "Sky", "value": "clear, high and pale" },
+    { "label": "Light", "value": "slanted, cooling on the desk" },
+    { "label": "Street", "value": "empty past the corner" }
   ]
 }
