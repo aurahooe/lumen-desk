@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-12T06:00:00.000Z",
-  "edition": 760,
-  "headline": "Light touches the wet pavement.",
-  "body": "The film on the glass has begun to clear. One distant figure waits at the far light. The open page holds its place.",
+  "updatedAt": "2026-11-12T08:01:00.000Z",
+  "edition": 761,
+  "headline": "The sill keeps a thin brightness.",
+  "body": "Steam has left the glass. A single car moves through the quiet block. The page waits where it was left.",
   "pulses": [
-    { "label": "Sky", "value": "pale, low cloud thinning" },
-    { "label": "Light", "value": "soft along the sill" },
-    { "label": "Street", "value": "drying, one figure far" }
+    { "label": "Sky", "value": "high, pale blue with thin haze" },
+    { "label": "Light", "value": "cool along the edge of the desk" },
+    { "label": "Street", "value": "still, one distant engine" }
   ]
 }
