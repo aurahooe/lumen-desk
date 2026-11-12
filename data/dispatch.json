@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-12T01:01:00.000Z",
-  "edition": 755,
-  "headline": "Past midnight the clouds hold.",
-  "body": "A single lamp burns three floors up. Rain has not yet arrived, only the weight of low cloud. The street below stays empty of steps.",
+  "updatedAt": "2026-11-12T02:00:00.000Z",
+  "edition": 756,
+  "headline": "Two and the rain begins.",
+  "body": "Drops arrive on the sill first. The lamp three floors up has dimmed to a smaller glow. Nothing moves on the wet pavement.",
   "pulses": [
-    { "label": "Sky", "value": "overcast, no moon" },
-    { "label": "Light", "value": "one window, warm and still" },
-    { "label": "Street", "value": "quiet past the last corner" }
+    { "label": "Sky", "value": "low cloud, light rain starting" },
+    { "label": "Light", "value": "one window, reduced" },
+    { "label": "Street", "value": "wet and still" }
   ]
 }
