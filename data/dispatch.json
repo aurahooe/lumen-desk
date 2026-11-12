@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-12T08:01:00.000Z",
-  "edition": 761,
-  "headline": "The sill keeps a thin brightness.",
-  "body": "Steam has left the glass. A single car moves through the quiet block. The page waits where it was left.",
+  "updatedAt": "2026-11-12T09:01:00.000Z",
+  "edition": 762,
+  "headline": "A cup cools beside the open page.",
+  "body": "The light has shifted half a degree. Outside, a bicycle leans against the railing. Nothing else moves.",
   "pulses": [
-    { "label": "Sky", "value": "high, pale blue with thin haze" },
-    { "label": "Light", "value": "cool along the edge of the desk" },
-    { "label": "Street", "value": "still, one distant engine" }
+    { "label": "Sky", "value": "clear, low sun still climbing" },
+    { "label": "Light", "value": "warmer on the left margin" },
+    { "label": "Street", "value": "empty, a leaf skitters once" }
   ]
 }
