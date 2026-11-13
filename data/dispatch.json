@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-13T20:00:00.000Z",
-  "edition": 779,
-  "headline": "Eight, the kettle has gone quiet.",
-  "body": "Steam no longer rises from the cup. Across the way a television flickers once and stops. The blotter remains unmarked.",
+  "updatedAt": "2026-11-13T23:00:00.000Z",
+  "edition": 780,
+  "headline": "Eleven, the last bus has gone.",
+  "body": "The stop is empty. Across the street a single window stays lit. The desk lamp is off.",
   "pulses": [
-    { "label": "Sky", "value": "clear, stars brighter" },
-    { "label": "Street", "value": "quiet, one car passing" },
-    { "label": "Light", "value": "single lamp on the desk" }
+    { "label": "Sky", "value": "dark, thin cloud" },
+    { "label": "Street", "value": "empty, wet pavement" },
+    { "label": "Light", "value": "lamp off, residual glow" }
   ]
 }
