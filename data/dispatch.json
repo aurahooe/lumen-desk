@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-13T11:00:00.000Z",
-  "edition": 773,
-  "headline": "Eleven, the light has shifted.",
-  "body": "The blotter holds a new edge of sun. Across the street one window has gone dark. The page stays open at the same line.",
+  "updatedAt": "2026-11-13T12:00:00.000Z",
+  "edition": 774,
+  "headline": "The hour turns without fanfare.",
+  "body": "Dust hangs in the beam above the blotter. One car passes, then none. The page remains unmarked.",
   "pulses": [
-    { "label": "Sky", "value": "high, thin white" },
-    { "label": "Light", "value": "soft, angled on the sill" },
-    { "label": "Street", "value": "one figure, far corner" }
+    { "label": "Sky", "value": "high, washed blue" },
+    { "label": "Street", "value": "empty curb, dry" },
+    { "label": "Light", "value": "even, no shadow edge" }
   ]
 }
