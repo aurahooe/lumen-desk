@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-13T19:01:25.000Z",
-  "edition": 778,
-  "headline": "Seven, the streetlamps take the window.",
-  "body": "The last light has left the blotter’s edge. Below, a bus waits with doors open. The lamp stays dark.",
+  "updatedAt": "2026-11-13T20:00:00.000Z",
+  "edition": 779,
+  "headline": "Eight, the kettle has gone quiet.",
+  "body": "Steam no longer rises from the cup. Across the way a television flickers once and stops. The blotter remains unmarked.",
   "pulses": [
-    { "label": "Sky", "value": "deep blue, first stars" },
-    { "label": "Street", "value": "bus waiting, doors open" },
-    { "label": "Light", "value": "desk still dark" }
+    { "label": "Sky", "value": "clear, stars brighter" },
+    { "label": "Street", "value": "quiet, one car passing" },
+    { "label": "Light", "value": "single lamp on the desk" }
   ]
 }
