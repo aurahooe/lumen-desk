@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-13T13:00:00.000Z",
-  "edition": 775,
-  "headline": "One o’clock, the desk holds still.",
-  "body": "The lamp keeps its circle on the blotter. A bicycle rests at the far curb, chain quiet. No hand has turned the page.",
+  "updatedAt": "2026-11-13T15:00:00.000Z",
+  "edition": 776,
+  "headline": "Three o’clock, the light has shifted.",
+  "body": "The circle on the blotter has moved left. Across the street a window stands open, curtain still. The page remains as it was.",
   "pulses": [
-    { "label": "Sky", "value": "high, clear blue" },
-    { "label": "Street", "value": "one bike, empty curb" },
-    { "label": "Light", "value": "fixed, no drift" }
+    { "label": "Sky", "value": "clear, high thin white" },
+    { "label": "Street", "value": "open window, no movement" },
+    { "label": "Light", "value": "angled left across the page" }
   ]
 }
