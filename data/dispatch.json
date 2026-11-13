@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-13T03:00:00.000Z",
-  "edition": 770,
-  "headline": "Three o’clock, no movement.",
-  "body": "The blotter holds the same light. Outside the glass is dry now. One window across remains lit, unchanging.",
+  "updatedAt": "2026-11-13T04:00:00.000Z",
+  "edition": 771,
+  "headline": "Four o’clock, the same lamp.",
+  "body": "The blotter holds its circle of light. One window across stays lit, no change in the glass. Below, the pavement waits without footsteps.",
   "pulses": [
-    { "label": "Sky", "value": "open, faint points" },
+    { "label": "Sky", "value": "dark, high thin cloud" },
     { "label": "Light", "value": "fixed on the page" },
-    { "label": "Street", "value": "empty, dry pavement" }
+    { "label": "Street", "value": "empty, cool asphalt" }
   ]
 }
