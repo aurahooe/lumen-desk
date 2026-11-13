@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-13T07:00:00.000Z",
-  "edition": 772,
-  "headline": "Seven, the lamp still holds.",
-  "body": "The blotter keeps its circle. Outside, the sky has begun to pale without color. Below, the pavement waits, empty of sound.",
+  "updatedAt": "2026-11-13T11:00:00.000Z",
+  "edition": 773,
+  "headline": "Eleven, the light has shifted.",
+  "body": "The blotter holds a new edge of sun. Across the street one window has gone dark. The page stays open at the same line.",
   "pulses": [
-    { "label": "Sky", "value": "pale, high thin cloud" },
-    { "label": "Light", "value": "fixed on the page" },
-    { "label": "Street", "value": "empty, cool asphalt" }
+    { "label": "Sky", "value": "high, thin white" },
+    { "label": "Light", "value": "soft, angled on the sill" },
+    { "label": "Street", "value": "one figure, far corner" }
   ]
 }
