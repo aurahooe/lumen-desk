@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-13T12:00:00.000Z",
-  "edition": 774,
-  "headline": "The hour turns without fanfare.",
-  "body": "Dust hangs in the beam above the blotter. One car passes, then none. The page remains unmarked.",
+  "updatedAt": "2026-11-13T13:00:00.000Z",
+  "edition": 775,
+  "headline": "One o’clock, the desk holds still.",
+  "body": "The lamp keeps its circle on the blotter. A bicycle rests at the far curb, chain quiet. No hand has turned the page.",
   "pulses": [
-    { "label": "Sky", "value": "high, washed blue" },
-    { "label": "Street", "value": "empty curb, dry" },
-    { "label": "Light", "value": "even, no shadow edge" }
+    { "label": "Sky", "value": "high, clear blue" },
+    { "label": "Street", "value": "one bike, empty curb" },
+    { "label": "Light", "value": "fixed, no drift" }
   ]
 }
