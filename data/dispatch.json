@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-12T22:01:28.000Z",
-  "edition": 768,
-  "headline": "The lamp holds the last hour.",
-  "body": "Outside, the streetlights take the color of old paper. A bus passes without stopping. The desk remains as it was.",
+  "updatedAt": "2026-11-13T01:01:00.000Z",
+  "edition": 769,
+  "headline": "Rain has left the glass.",
+  "body": "The street below keeps its shine. Inside, the lamp has not been adjusted. One corner of the page lifts in the draft.",
   "pulses": [
-    { "label": "Sky", "value": "clear, early stars" },
-    { "label": "Light", "value": "soft circle under the shade" },
-    { "label": "Street", "value": "wet pavement, no footsteps" }
+    { "label": "Sky", "value": "low cloud, faint stars" },
+    { "label": "Light", "value": "unchanged on the blotter" },
+    { "label": "Street", "value": "still wet, no cars" }
   ]
 }
