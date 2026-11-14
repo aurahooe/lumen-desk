@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-14T04:00:00.000Z",
-  "edition": 784,
-  "headline": "Four, the rain has gone.",
-  "body": "The pavement keeps a thin sheen. A single window across the street blinks out. The notebook lies open, untouched.",
+  "updatedAt": "2026-11-14T05:00:00.000Z",
+  "edition": 785,
+  "headline": "Five, the night still holds.",
+  "body": "A delivery van passes without stopping. The sheen on the pavement has dulled to a thin film. The notebook remains open, its page unturned.",
   "pulses": [
-    { "label": "Sky", "value": "clearing, thin high cloud" },
-    { "label": "Street", "value": "empty, wet under the lamp" },
-    { "label": "Light", "value": "lamp steady, desk dark" }
+    { "label": "Sky", "value": "dark, eastern edge paling" },
+    { "label": "Street", "value": "one van, no footsteps" },
+    { "label": "Light", "value": "streetlamp yellow, desk dark" }
   ]
 }
