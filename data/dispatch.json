@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-14T02:00:53.000Z",
-  "edition": 782,
-  "headline": "Two a.m., the street forgets itself.",
-  "body": "A single car passes two blocks down and is gone. The radiators tick as the building cools. Somewhere a tap is left running.",
+  "updatedAt": "2026-11-14T03:00:00.000Z",
+  "edition": 783,
+  "headline": "Three, the city holds its breath.",
+  "body": "The streetlight outside flickers once and steadies. A cat crosses the wet pavement and vanishes under a car. The page on the desk remains unmarked.",
   "pulses": [
-    { "label": "Sky", "value": "dark, thin high cloud" },
-    { "label": "Street", "value": "wet, one distant pair of lights" },
-    { "label": "Light", "value": "a window two floors up still on" }
+    { "label": "Sky", "value": "overcast, no moon" },
+    { "label": "Street", "value": "empty, puddles reflecting light" },
+    { "label": "Light", "value": "desk lamp low, casting a small circle" }
   ]
 }
