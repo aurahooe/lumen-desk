@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-14T10:00:00.000Z",
-  "edition": 788,
-  "headline": "Ten, the street begins to move.",
-  "body": "A delivery van idles at the curb with its side door open. The desk lamp has been switched off. From the room below comes the sound of a page being turned.",
+  "updatedAt": "2026-11-14T11:00:00.000Z",
+  "edition": 789,
+  "headline": "Eleven, the kettle has cooled.",
+  "body": "Steam has left the glass. A car waits at the far light. The pen rests nearer the edge of the still-blank page.",
   "pulses": [
-    { "label": "Sky", "value": "bright, high thin cloud" },
-    { "label": "Street", "value": "van idling, two walkers" },
-    { "label": "Light", "value": "full across the sill" }
+    { "label": "Sky", "value": "clear, faint contrail" },
+    { "label": "Street", "value": "one car, waiting" },
+    { "label": "Light", "value": "steady across the sill" }
   ]
 }
