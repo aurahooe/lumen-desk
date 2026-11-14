@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-14T08:00:00.000Z",
-  "edition": 787,
-  "headline": "Eight, the light finds the sill.",
-  "body": "The window glass has cleared of its last condensation. A bus passes at the far end of the street. The notebook remains open to the same blank page.",
+  "updatedAt": "2026-11-14T10:00:00.000Z",
+  "edition": 788,
+  "headline": "Ten, the street begins to move.",
+  "body": "A delivery van idles at the curb with its side door open. The desk lamp has been switched off. From the room below comes the sound of a page being turned.",
   "pulses": [
-    { "label": "Sky", "value": "pale blue, high thin cloud" },
-    { "label": "Street", "value": "one bus, distant" },
-    { "label": "Light", "value": "rising, soft on the page" }
+    { "label": "Sky", "value": "bright, high thin cloud" },
+    { "label": "Street", "value": "van idling, two walkers" },
+    { "label": "Light", "value": "full across the sill" }
   ]
 }
