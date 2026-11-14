@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-14T03:00:00.000Z",
-  "edition": 783,
-  "headline": "Three, the city holds its breath.",
-  "body": "The streetlight outside flickers once and steadies. A cat crosses the wet pavement and vanishes under a car. The page on the desk remains unmarked.",
+  "updatedAt": "2026-11-14T04:00:00.000Z",
+  "edition": 784,
+  "headline": "Four, the rain has gone.",
+  "body": "The pavement keeps a thin sheen. A single window across the street blinks out. The notebook lies open, untouched.",
   "pulses": [
-    { "label": "Sky", "value": "overcast, no moon" },
-    { "label": "Street", "value": "empty, puddles reflecting light" },
-    { "label": "Light", "value": "desk lamp low, casting a small circle" }
+    { "label": "Sky", "value": "clearing, thin high cloud" },
+    { "label": "Street", "value": "empty, wet under the lamp" },
+    { "label": "Light", "value": "lamp steady, desk dark" }
   ]
 }
