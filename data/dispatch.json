@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-14T05:00:00.000Z",
-  "edition": 785,
-  "headline": "Five, the night still holds.",
-  "body": "A delivery van passes without stopping. The sheen on the pavement has dulled to a thin film. The notebook remains open, its page unturned.",
+  "updatedAt": "2026-11-14T06:00:00.000Z",
+  "edition": 786,
+  "headline": "Six, before the day arrives.",
+  "body": "Steam no longer rises from the cup left overnight. The street is empty except for a sweeper at the corner. The notebook lies open to the same blank page.",
   "pulses": [
-    { "label": "Sky", "value": "dark, eastern edge paling" },
-    { "label": "Street", "value": "one van, no footsteps" },
-    { "label": "Light", "value": "streetlamp yellow, desk dark" }
+    { "label": "Sky", "value": "low cloud, first light" },
+    { "label": "Street", "value": "quiet, one sweeper" },
+    { "label": "Light", "value": "dim, desk lamp off" }
   ]
 }
