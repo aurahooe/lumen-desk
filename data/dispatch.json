@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-14T13:00:00.000Z",
-  "edition": 790,
-  "headline": "Thirteen, the page holds its margin.",
-  "body": "The window shows a pale sky without cloud. A single walker turns the corner and is gone. The pen has not moved from its place.",
+  "updatedAt": "2026-11-14T14:00:00.000Z",
+  "edition": 791,
+  "headline": "Two, the window keeps its light.",
+  "body": "A car passes and does not stop. The tea in the cup has gone cold. The chair has not been moved.",
   "pulses": [
-    { "label": "Sky", "value": "pale, cloudless" },
-    { "label": "Street", "value": "one walker, gone" },
-    { "label": "Light", "value": "even across the desk" }
+    { "label": "Sky", "value": "pale blue, no cloud" },
+    { "label": "Street", "value": "one car, gone" },
+    { "label": "Light", "value": "flat across the desk" }
   ]
 }
