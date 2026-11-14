@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-14T19:00:00.000Z",
-  "edition": 793,
-  "headline": "The desk lamp takes the room.",
-  "body": "The last pale light has left the glass. Below, a car waits with its engine quiet. The pen rests where the hand left it.",
+  "updatedAt": "2026-11-14T22:00:00.000Z",
+  "edition": 794,
+  "headline": "The blotter keeps the hour.",
+  "body": "A radiator ticks once, then settles. The window shows only the reflection of the lamp. Somewhere a door closes on the floor below.",
   "pulses": [
-    { "label": "Sky", "value": "deep blue, clear" },
-    { "label": "Street", "value": "one car, idling" },
-    { "label": "Light", "value": "warm on the blotter" }
+    { "label": "Sky", "value": "dark, no stars yet" },
+    { "label": "Street", "value": "quiet, distant footsteps" },
+    { "label": "Light", "value": "yellow, contained" }
   ]
 }
