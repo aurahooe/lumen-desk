@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-13T23:00:00.000Z",
-  "edition": 780,
-  "headline": "Eleven, the last bus has gone.",
-  "body": "The stop is empty. Across the street a single window stays lit. The desk lamp is off.",
+  "updatedAt": "2026-11-14T01:01:54.000Z",
+  "edition": 781,
+  "headline": "One a.m., the last light fails.",
+  "body": "The window across the way has gone dark. Rain left a sheen on the asphalt. Nothing moves.",
   "pulses": [
-    { "label": "Sky", "value": "dark, thin cloud" },
-    { "label": "Street", "value": "empty, wet pavement" },
-    { "label": "Light", "value": "lamp off, residual glow" }
+    { "label": "Sky", "value": "clear, a few stars" },
+    { "label": "Street", "value": "empty, drying pavement" },
+    { "label": "Light", "value": "streetlamps only" }
   ]
 }
