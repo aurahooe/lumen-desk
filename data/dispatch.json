@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-14T17:00:00.000Z",
-  "edition": 792,
-  "headline": "Five, the margin holds its line.",
-  "body": "The light has moved a finger-width across the page. A bicycle turns the corner and is gone. The pen rests where it was left.",
+  "updatedAt": "2026-11-14T19:00:00.000Z",
+  "edition": 793,
+  "headline": "The desk lamp takes the room.",
+  "body": "The last pale light has left the glass. Below, a car waits with its engine quiet. The pen rests where the hand left it.",
   "pulses": [
-    { "label": "Sky", "value": "pale, late thin cloud" },
-    { "label": "Street", "value": "one cyclist, passed" },
-    { "label": "Light", "value": "slanted on the margin" }
+    { "label": "Sky", "value": "deep blue, clear" },
+    { "label": "Street", "value": "one car, idling" },
+    { "label": "Light", "value": "warm on the blotter" }
   ]
 }
