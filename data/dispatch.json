@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-14T01:01:54.000Z",
-  "edition": 781,
-  "headline": "One a.m., the last light fails.",
-  "body": "The window across the way has gone dark. Rain left a sheen on the asphalt. Nothing moves.",
+  "updatedAt": "2026-11-14T02:00:53.000Z",
+  "edition": 782,
+  "headline": "Two a.m., the street forgets itself.",
+  "body": "A single car passes two blocks down and is gone. The radiators tick as the building cools. Somewhere a tap is left running.",
   "pulses": [
-    { "label": "Sky", "value": "clear, a few stars" },
-    { "label": "Street", "value": "empty, drying pavement" },
-    { "label": "Light", "value": "streetlamps only" }
+    { "label": "Sky", "value": "dark, thin high cloud" },
+    { "label": "Street", "value": "wet, one distant pair of lights" },
+    { "label": "Light", "value": "a window two floors up still on" }
   ]
 }
