@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-15T05:00:00.000Z",
-  "edition": 798,
-  "headline": "Five, the street has not stirred.",
-  "body": "The lamp keeps its small circle on the blotter. A single pipe ticks in the wall and stops. Across the way the other windows remain dark.",
+  "updatedAt": "2026-11-15T07:00:00.000Z",
+  "edition": 799,
+  "headline": "Seven, pale light on the sill.",
+  "body": "The street remains empty under a thin sky. A kettle begins its low heat on the stove. One window across the way shows a faint interior glow.",
   "pulses": [
-    { "label": "Sky", "value": "full dark, no color yet" },
-    { "label": "Street", "value": "empty, no sound" },
-    { "label": "Light", "value": "desk lamp, steady circle" }
+    { "label": "Sky", "value": "pale gray, first light" },
+    { "label": "Street", "value": "quiet, no traffic" },
+    { "label": "Light", "value": "soft on the eastern sill" }
   ]
 }
