@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-14T22:00:00.000Z",
-  "edition": 794,
-  "headline": "The blotter keeps the hour.",
-  "body": "A radiator ticks once, then settles. The window shows only the reflection of the lamp. Somewhere a door closes on the floor below.",
+  "updatedAt": "2026-11-15T00:00:46.000Z",
+  "edition": 795,
+  "headline": "The hour turns without ceremony.",
+  "body": "The radiator has gone quiet. A page turns somewhere in the building. The window holds only the lamp and the dark beyond it.",
   "pulses": [
-    { "label": "Sky", "value": "dark, no stars yet" },
-    { "label": "Street", "value": "quiet, distant footsteps" },
-    { "label": "Light", "value": "yellow, contained" }
+    { "label": "Sky", "value": "clear, stars just appearing" },
+    { "label": "Street", "value": "empty, one distant light" },
+    { "label": "Light", "value": "steady, circle on the desk" }
   ]
 }
