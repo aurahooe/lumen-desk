@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-15T16:01:58.000Z",
-  "edition": 803,
-  "headline": "The bag has not shifted.",
-  "body": "The paper bag remains where the light last left it. A single cloud edge thins against the high blue. On the desk the pen lies open, unused.",
+  "updatedAt": "2026-11-15T17:01:00.000Z",
+  "edition": 804,
+  "headline": "Blue holds without the edge.",
+  "body": "The thin cloud edge has dissolved into the high blue. The paper bag remains exactly where it was. Light now rests lower, across the floorboards.",
   "pulses": [
-    { "label": "Sky", "value": "high blue, thin cloud edge" },
-    { "label": "Street", "value": "bag unmoved, chair still" },
-    { "label": "Light", "value": "slanting lower across the wall" }
+    { "label": "Sky", "value": "clear high blue" },
+    { "label": "Street", "value": "bag still, chair empty" },
+    { "label": "Light", "value": "lower, on the floorboards" }
   ]
 }
