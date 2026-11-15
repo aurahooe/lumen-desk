@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-15T18:00:00.000Z",
-  "edition": 805,
-  "headline": "Blue softens at the edges.",
-  "body": "The high blue has begun to pale without losing its height. The paper bag holds its place beside the empty chair. Light has left the floorboards and now rests at the glass.",
+  "updatedAt": "2026-11-15T20:00:00.000Z",
+  "edition": 806,
+  "headline": "Lamps hold against the dark.",
+  "body": "The street has taken on the blue of early night. A single window across keeps its light steady. The desk lamp remains the only warmth in the room.",
   "pulses": [
-    { "label": "Sky", "value": "pale high blue" },
-    { "label": "Street", "value": "bag still, chair empty" },
-    { "label": "Light", "value": "resting at the glass" }
+    { "label": "Sky", "value": "deep blue, first stars" },
+    { "label": "Street", "value": "quiet, lamps spaced" },
+    { "label": "Light", "value": "desk lamp, low and warm" }
   ]
 }
