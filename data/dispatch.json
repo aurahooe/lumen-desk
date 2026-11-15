@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-15T03:00:00.000Z",
-  "edition": 797,
-  "headline": "Three, the cold finds the sill.",
-  "body": "The radiator ticks once and falls quiet. Frost draws a thin line along the lower pane. A kettle is set on the stove, not yet turned.",
+  "updatedAt": "2026-11-15T05:00:00.000Z",
+  "edition": 798,
+  "headline": "Five, the street has not stirred.",
+  "body": "The lamp keeps its small circle on the blotter. A single pipe ticks in the wall and stops. Across the way the other windows remain dark.",
   "pulses": [
-    { "label": "Sky", "value": "pre-dawn dark, low cloud" },
-    { "label": "Mood", "value": "held, unhurried" },
-    { "label": "Light", "value": "one bulb, steady, low" }
+    { "label": "Sky", "value": "full dark, no color yet" },
+    { "label": "Street", "value": "empty, no sound" },
+    { "label": "Light", "value": "desk lamp, steady circle" }
   ]
 }
