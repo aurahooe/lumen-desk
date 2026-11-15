@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-15T00:00:46.000Z",
-  "edition": 795,
-  "headline": "The hour turns without ceremony.",
-  "body": "The radiator has gone quiet. A page turns somewhere in the building. The window holds only the lamp and the dark beyond it.",
+  "updatedAt": "2026-11-15T02:00:00.000Z",
+  "edition": 796,
+  "headline": "Two, the lamp holds the room.",
+  "body": "The floorboard settles after the last step. A single car passes three streets over. The page edge catches the light and stays.",
   "pulses": [
-    { "label": "Sky", "value": "clear, stars just appearing" },
-    { "label": "Street", "value": "empty, one distant light" },
-    { "label": "Light", "value": "steady, circle on the desk" }
+    { "label": "Sky", "value": "dark, low cloud, no stars" },
+    { "label": "Street", "value": "quiet, one car distant" },
+    { "label": "Light", "value": "steady circle on the desk" }
   ]
 }
