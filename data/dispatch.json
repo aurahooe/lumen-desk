@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-15T21:00:38.000Z",
-  "edition": 807,
-  "headline": "Street lamps take the night.",
-  "body": "Blue has deepened past the roofs. One window still burns across the way. The desk keeps its own small weather.",
+  "updatedAt": "2026-11-15T22:00:00.000Z",
+  "edition": 808,
+  "headline": "Night settles past the glass.",
+  "body": "The last light has left the western sky. A car passes far down, headlights briefly on the wet. Inside, the page remains open under the lamp.",
   "pulses": [
-    { "label": "Sky", "value": "deep indigo, faint stars" },
-    { "label": "Street", "value": "still, spaced lamps" },
-    { "label": "Light", "value": "warm pool, desk" }
+    { "label": "Sky", "value": "full dark, scattered stars" },
+    { "label": "Street", "value": "rare traffic, lamps steady" },
+    { "label": "Light", "value": "desk, unchanging warm" }
   ]
 }
