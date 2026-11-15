@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-15T13:02:38.000Z",
-  "edition": 802,
-  "headline": "Window still open a finger.",
-  "body": "The paper bag has not moved. Across the street a shutter clicks once. The desk holds only the edge of light.",
+  "updatedAt": "2026-11-15T16:01:58.000Z",
+  "edition": 803,
+  "headline": "The bag has not shifted.",
+  "body": "The paper bag remains where the light last left it. A single cloud edge thins against the high blue. On the desk the pen lies open, unused.",
   "pulses": [
-    { "label": "Sky", "value": "pale blue, high thin cloud" },
-    { "label": "Street", "value": "chair left, bag settled" },
-    { "label": "Light", "value": "angled, across the wall" }
+    { "label": "Sky", "value": "high blue, thin cloud edge" },
+    { "label": "Street", "value": "bag unmoved, chair still" },
+    { "label": "Light", "value": "slanting lower across the wall" }
   ]
 }
