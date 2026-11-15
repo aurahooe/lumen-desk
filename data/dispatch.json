@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-15T20:00:00.000Z",
-  "edition": 806,
-  "headline": "Lamps hold against the dark.",
-  "body": "The street has taken on the blue of early night. A single window across keeps its light steady. The desk lamp remains the only warmth in the room.",
+  "updatedAt": "2026-11-15T21:00:38.000Z",
+  "edition": 807,
+  "headline": "Street lamps take the night.",
+  "body": "Blue has deepened past the roofs. One window still burns across the way. The desk keeps its own small weather.",
   "pulses": [
-    { "label": "Sky", "value": "deep blue, first stars" },
-    { "label": "Street", "value": "quiet, lamps spaced" },
-    { "label": "Light", "value": "desk lamp, low and warm" }
+    { "label": "Sky", "value": "deep indigo, faint stars" },
+    { "label": "Street", "value": "still, spaced lamps" },
+    { "label": "Light", "value": "warm pool, desk" }
   ]
 }
