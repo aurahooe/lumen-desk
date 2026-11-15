@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-15T10:00:57.000Z",
-  "edition": 801,
-  "headline": "Ten, the lamp is out.",
-  "body": "The chair remains on the sidewalk. A paper bag has settled against the curb. Upstairs a window stays open a finger’s width.",
+  "updatedAt": "2026-11-15T13:02:38.000Z",
+  "edition": 802,
+  "headline": "Window still open a finger.",
+  "body": "The paper bag has not moved. Across the street a shutter clicks once. The desk holds only the edge of light.",
   "pulses": [
-    { "label": "Sky", "value": "clear, thin high cloud" },
-    { "label": "Street", "value": "empty, chair left out" },
-    { "label": "Light", "value": "stronger, across the wall" }
+    { "label": "Sky", "value": "pale blue, high thin cloud" },
+    { "label": "Street", "value": "chair left, bag settled" },
+    { "label": "Light", "value": "angled, across the wall" }
   ]
 }
