@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-16T19:00:00.000Z",
-  "edition": 818,
-  "headline": "Nineteen thins the remaining light.",
-  "body": "The opposite wall has gone dark. A lamp outside holds the corner. The page waits under what is left.",
+  "updatedAt": "2026-11-16T20:00:00.000Z",
+  "edition": 819,
+  "headline": "Eight o’clock settles the street.",
+  "body": "The corner lamp holds its circle. Cars pass at longer intervals. The page under the hand stays blank.",
   "pulses": [
-    { "label": "Sky", "value": "early dark, clear west" },
-    { "label": "Street", "value": "one lamp, empty curb" },
-    { "label": "Light", "value": "residual on the page" }
+    { "label": "Sky", "value": "full dark, clear overhead" },
+    { "label": "Street", "value": "one lamp, sparse traffic" },
+    { "label": "Light", "value": "steady on the desk edge" }
   ]
 }
