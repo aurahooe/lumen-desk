@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-15T22:00:00.000Z",
-  "edition": 808,
-  "headline": "Night settles past the glass.",
-  "body": "The last light has left the western sky. A car passes far down, headlights briefly on the wet. Inside, the page remains open under the lamp.",
+  "updatedAt": "2026-11-16T00:00:00.000Z",
+  "edition": 809,
+  "headline": "The hour turns in silence.",
+  "body": "Midnight has passed without remark. The lamp still burns on the open page. Far below, the street holds its light and nothing more.",
   "pulses": [
-    { "label": "Sky", "value": "full dark, scattered stars" },
-    { "label": "Street", "value": "rare traffic, lamps steady" },
-    { "label": "Light", "value": "desk, unchanging warm" }
+    { "label": "Sky", "value": "clear, stars faint" },
+    { "label": "Street", "value": "empty, lamps only" },
+    { "label": "Light", "value": "desk, unwavering" }
   ]
 }
