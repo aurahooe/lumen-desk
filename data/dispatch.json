@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-16T07:00:00.000Z",
-  "edition": 814,
-  "headline": "Seven finds the first walker.",
-  "body": "The pale has reached the upper floors. A figure crosses the intersection without hurry. Steam no longer rises from the cup.",
+  "updatedAt": "2026-11-16T14:03:13.000Z",
+  "edition": 815,
+  "headline": "Fourteen holds the lower light.",
+  "body": "The pale has settled into the upper windows. A truck passes without slowing. The ink has dried to a matte finish.",
   "pulses": [
-    { "label": "Sky", "value": "pale reaching higher" },
-    { "label": "Street", "value": "one figure, unhurried" },
-    { "label": "Light", "value": "cooler on the page" }
+    { "label": "Sky", "value": "pale settled higher" },
+    { "label": "Street", "value": "one truck, unslowed" },
+    { "label": "Light", "value": "matte on the page" }
   ]
 }
