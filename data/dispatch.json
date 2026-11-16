@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-16T22:00:00.000Z",
-  "edition": 820,
-  "headline": "Ten o’clock keeps its own counsel.",
-  "body": "The desk lamp draws a small island. Outside, headlights pass at long intervals. One page remains unmarked under the hand.",
+  "updatedAt": "2026-11-16T23:01:12.000Z",
+  "edition": 821,
+  "headline": "Eleven draws a quiet circle.",
+  "body": "Traffic has thinned to single cars. The lamp stays on the open page. Outside, a siren fades two blocks away.",
   "pulses": [
-    { "label": "Sky", "value": "full dark, stars thin overhead" },
-    { "label": "Street", "value": "quiet, occasional traffic" },
-    { "label": "Light", "value": "warm circle on the blotter" }
+    { "label": "Sky", "value": "clear, stars sparse" },
+    { "label": "Street", "value": "sparse headlights, no voices" },
+    { "label": "Light", "value": "desk lamp, warm and still" }
   ]
 }
