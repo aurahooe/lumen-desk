@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-16T04:00:00.000Z",
-  "edition": 811,
-  "headline": "The frost thins on the glass.",
-  "body": "Four o’clock and the room has not shifted. A single streetlamp still burns at the far corner. The paper under the lamp shows no new mark.",
+  "updatedAt": "2026-11-16T05:00:00.000Z",
+  "edition": 812,
+  "headline": "Five o’clock holds the room.",
+  "body": "The lamp has not moved. Outside the glass the street remains empty. A thin line of pale appears along the eastern edge.",
   "pulses": [
-    { "label": "Sky", "value": "clear, stars fading" },
-    { "label": "Street", "value": "empty, lamp at the end" },
-    { "label": "Light", "value": "soft, fixed on the desk" }
+    { "label": "Sky", "value": "pale edge, stars gone" },
+    { "label": "Street", "value": "empty, lamp still burning" },
+    { "label": "Light", "value": "fixed, soft on the paper" }
   ]
 }
