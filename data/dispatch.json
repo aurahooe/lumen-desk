@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-16T05:00:00.000Z",
-  "edition": 812,
-  "headline": "Five o’clock holds the room.",
-  "body": "The lamp has not moved. Outside the glass the street remains empty. A thin line of pale appears along the eastern edge.",
+  "updatedAt": "2026-11-16T06:00:00.000Z",
+  "edition": 813,
+  "headline": "Six finds the lamp still warm.",
+  "body": "The pale line has widened. A single window across the street holds a square of yellow. The paper waits, unturned.",
   "pulses": [
-    { "label": "Sky", "value": "pale edge, stars gone" },
-    { "label": "Street", "value": "empty, lamp still burning" },
-    { "label": "Light", "value": "fixed, soft on the paper" }
+    { "label": "Sky", "value": "widening pale, no cloud" },
+    { "label": "Street", "value": "one lit window, distant" },
+    { "label": "Light", "value": "steady on the desk edge" }
   ]
 }
