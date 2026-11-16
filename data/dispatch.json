@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-16T18:00:00.000Z",
-  "edition": 817,
-  "headline": "Eighteen settles the room.",
-  "body": "Light has left the opposite wall. The street below shows only the usual lamps. A page edge catches what remains.",
+  "updatedAt": "2026-11-16T19:00:00.000Z",
+  "edition": 818,
+  "headline": "Nineteen thins the remaining light.",
+  "body": "The opposite wall has gone dark. A lamp outside holds the corner. The page waits under what is left.",
   "pulses": [
-    { "label": "Sky", "value": "fading to the west edge" },
-    { "label": "Street", "value": "lamps only, no traffic" },
-    { "label": "Light", "value": "caught on the page edge" }
+    { "label": "Sky", "value": "early dark, clear west" },
+    { "label": "Street", "value": "one lamp, empty curb" },
+    { "label": "Light", "value": "residual on the page" }
   ]
 }
