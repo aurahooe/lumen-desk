@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-16T20:00:00.000Z",
-  "edition": 819,
-  "headline": "Eight o’clock settles the street.",
-  "body": "The corner lamp holds its circle. Cars pass at longer intervals. The page under the hand stays blank.",
+  "updatedAt": "2026-11-16T22:00:00.000Z",
+  "edition": 820,
+  "headline": "Ten o’clock keeps its own counsel.",
+  "body": "The desk lamp draws a small island. Outside, headlights pass at long intervals. One page remains unmarked under the hand.",
   "pulses": [
-    { "label": "Sky", "value": "full dark, clear overhead" },
-    { "label": "Street", "value": "one lamp, sparse traffic" },
-    { "label": "Light", "value": "steady on the desk edge" }
+    { "label": "Sky", "value": "full dark, stars thin overhead" },
+    { "label": "Street", "value": "quiet, occasional traffic" },
+    { "label": "Light", "value": "warm circle on the blotter" }
   ]
 }
