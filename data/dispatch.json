@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-16T06:00:00.000Z",
-  "edition": 813,
-  "headline": "Six finds the lamp still warm.",
-  "body": "The pale line has widened. A single window across the street holds a square of yellow. The paper waits, unturned.",
+  "updatedAt": "2026-11-16T07:00:00.000Z",
+  "edition": 814,
+  "headline": "Seven finds the first walker.",
+  "body": "The pale has reached the upper floors. A figure crosses the intersection without hurry. Steam no longer rises from the cup.",
   "pulses": [
-    { "label": "Sky", "value": "widening pale, no cloud" },
-    { "label": "Street", "value": "one lit window, distant" },
-    { "label": "Light", "value": "steady on the desk edge" }
+    { "label": "Sky", "value": "pale reaching higher" },
+    { "label": "Street", "value": "one figure, unhurried" },
+    { "label": "Light", "value": "cooler on the page" }
   ]
 }
