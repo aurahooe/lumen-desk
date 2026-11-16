@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-16T02:00:00.000Z",
-  "edition": 810,
-  "headline": "The glass stays cold.",
-  "body": "Outside the window the air has settled. Nothing moves on the pavement below. Inside, the light holds its small circle on the paper.",
+  "updatedAt": "2026-11-16T04:00:00.000Z",
+  "edition": 811,
+  "headline": "The frost thins on the glass.",
+  "body": "Four o’clock and the room has not shifted. A single streetlamp still burns at the far corner. The paper under the lamp shows no new mark.",
   "pulses": [
-    { "label": "Sky", "value": "clear, no moon" },
-    { "label": "Street", "value": "still after the last car" },
-    { "label": "Light", "value": "warm on the desk" }
+    { "label": "Sky", "value": "clear, stars fading" },
+    { "label": "Street", "value": "empty, lamp at the end" },
+    { "label": "Light", "value": "soft, fixed on the desk" }
   ]
 }
