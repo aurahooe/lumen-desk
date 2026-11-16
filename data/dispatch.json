@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-16T14:03:13.000Z",
-  "edition": 815,
-  "headline": "Fourteen holds the lower light.",
-  "body": "The pale has settled into the upper windows. A truck passes without slowing. The ink has dried to a matte finish.",
+  "updatedAt": "2026-11-16T15:04:54.000Z",
+  "edition": 816,
+  "headline": "Fifteen keeps the lower edge.",
+  "body": "The glass has taken on a cooler tone. Nothing moves on the far sidewalk. The page remains open at the same line.",
   "pulses": [
-    { "label": "Sky", "value": "pale settled higher" },
-    { "label": "Street", "value": "one truck, unslowed" },
-    { "label": "Light", "value": "matte on the page" }
+    { "label": "Sky", "value": "cooler pale across the glass" },
+    { "label": "Street", "value": "empty far sidewalk" },
+    { "label": "Light", "value": "held at the lower edge" }
   ]
 }
