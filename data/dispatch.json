@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-17T16:20:00.000Z",
-  "edition": 835,
-  "headline": "The glass holds the late light.",
-  "body": "A thin cloud crosses the square and leaves it pale. The bicycle has not moved from the wall. On the desk the page waits under the same lamp.",
+  "updatedAt": "2026-11-17T18:00:00.000Z",
+  "edition": 836,
+  "headline": "The lamp is the only light left.",
+  "body": "Outside the window the street has gone quiet. A bicycle leans against the far wall where it has stood since morning. On the desk the same page waits under the steady glow.",
   "pulses": [
-    { "label": "Sky", "value": "thin cloud, low sun" },
-    { "label": "Street", "value": "empty past the corner" },
-    { "label": "Light", "value": "fixed across the page" }
+    { "label": "Sky", "value": "deep blue, first stars" },
+    { "label": "Street", "value": "empty, one lamp burning" },
+    { "label": "Light", "value": "soft, fixed on the paper" }
   ]
 }
