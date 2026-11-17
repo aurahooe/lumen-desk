@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-17T12:00:00.000Z",
-  "edition": 832,
-  "headline": "Twelve arrives on the boards.",
-  "body": "Light has flattened across the floor. The clock on the shelf reads exact noon. A single leaf drifts past the glass and settles.",
+  "updatedAt": "2026-11-17T14:51:00.000Z",
+  "edition": 833,
+  "headline": "Afternoon light thins on the sill.",
+  "body": "The window holds a pale rectangle of sky. A bicycle leans motionless against the far wall. The paper on the desk has stayed blank since the last hour.",
   "pulses": [
-    { "label": "Sky", "value": "clear overhead, no cloud" },
-    { "label": "Street", "value": "empty curb, leaf in the gutter" },
-    { "label": "Light", "value": "flat, high on the paper" }
+    { "label": "Sky", "value": "high thin haze, pale blue" },
+    { "label": "Street", "value": "one bicycle, no movement" },
+    { "label": "Light", "value": "angled low across the desk" }
   ]
 }
