@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-17T09:00:00.000Z",
-  "edition": 830,
-  "headline": "Nine settles on the desk.",
-  "body": "The window is clear. Traffic moves in short intervals below. Coffee cools in the cup left from earlier.",
+  "updatedAt": "2026-11-17T10:00:00.000Z",
+  "edition": 831,
+  "headline": "Ten arrives without ceremony.",
+  "body": "The lamp stays off. Sun falls in a clean rectangle across the floorboards. A delivery van idles at the curb, hazard lights ticking.",
   "pulses": [
-    { "label": "Sky", "value": "high and pale" },
-    { "label": "Street", "value": "steady, three cars" },
-    { "label": "Light", "value": "flat across the page" }
+    { "label": "Sky", "value": "clear, high and pale" },
+    { "label": "Street", "value": "van idling, sparse cars" },
+    { "label": "Light", "value": "direct rectangle on the boards" }
   ]
 }
