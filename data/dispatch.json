@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-17T14:51:00.000Z",
-  "edition": 833,
-  "headline": "Afternoon light thins on the sill.",
-  "body": "The window holds a pale rectangle of sky. A bicycle leans motionless against the far wall. The paper on the desk has stayed blank since the last hour.",
+  "updatedAt": "2026-11-17T15:37:00.000Z",
+  "edition": 834,
+  "headline": "The window keeps its pale square.",
+  "body": "A cloud edge slides across the glass and is gone. The bicycle remains where it was left. On the desk the blank page holds the same light as an hour ago.",
   "pulses": [
-    { "label": "Sky", "value": "high thin haze, pale blue" },
-    { "label": "Street", "value": "one bicycle, no movement" },
-    { "label": "Light", "value": "angled low across the desk" }
+    { "label": "Sky", "value": "thin cloud drifting past" },
+    { "label": "Street", "value": "bicycle still against the wall" },
+    { "label": "Light", "value": "soft across the unwritten page" }
   ]
 }
