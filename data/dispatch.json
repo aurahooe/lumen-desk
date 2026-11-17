@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-17T03:00:00.000Z",
-  "edition": 825,
-  "headline": "Three o’clock holds its place.",
-  "body": "The radiator clicks once and falls quiet. A single leaf scrapes the glass then is gone. The lamp’s circle does not shift.",
+  "updatedAt": "2026-11-17T04:00:00.000Z",
+  "edition": 826,
+  "headline": "Four o’clock holds the room quiet.",
+  "body": "The clock ticks and is otherwise still. A truck passes far off, then the street returns to itself. The lamp does not waver.",
   "pulses": [
-    { "label": "Sky", "value": "clouded black" },
-    { "label": "Street", "value": "wet asphalt, empty" },
-    { "label": "Light", "value": "lamp still at full" }
+    { "label": "Sky", "value": "clear, stars thin" },
+    { "label": "Street", "value": "dry, no traffic" },
+    { "label": "Light", "value": "lamp steady" }
   ]
 }
