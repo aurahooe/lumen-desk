@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-17T07:00:53.000Z",
-  "edition": 828,
-  "headline": "Seven arrives without announcement.",
-  "body": "Steam rises from a cup left on the sill. Outside, the pavement holds the night a little longer. A bird calls once and does not answer itself.",
+  "updatedAt": "2026-11-17T08:00:00.000Z",
+  "edition": 829,
+  "headline": "Eight o’clock crosses the sill.",
+  "body": "The lamp is off. Pale light now covers the page that was left open. A single car passes and does not return.",
   "pulses": [
-    { "label": "Sky", "value": "low, unbroken grey" },
-    { "label": "Street", "value": "quiet, one distant engine" },
-    { "label": "Light", "value": "not yet decided" }
+    { "label": "Sky", "value": "lifting, almost blue" },
+    { "label": "Street", "value": "damp, one walker" },
+    { "label": "Light", "value": "low and even" }
   ]
 }
