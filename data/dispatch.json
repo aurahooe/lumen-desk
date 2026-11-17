@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-17T04:00:00.000Z",
-  "edition": 826,
-  "headline": "Four o’clock holds the room quiet.",
-  "body": "The clock ticks and is otherwise still. A truck passes far off, then the street returns to itself. The lamp does not waver.",
+  "updatedAt": "2026-11-17T06:00:00.000Z",
+  "edition": 827,
+  "headline": "Six o’clock and the light is thin.",
+  "body": "The sky carries a thin edge of day. A radiator ticks once, then quiets. The street outside remains undecided.",
   "pulses": [
-    { "label": "Sky", "value": "clear, stars thin" },
-    { "label": "Street", "value": "dry, no traffic" },
-    { "label": "Light", "value": "lamp steady" }
+    { "label": "Sky", "value": "thin light, no cloud" },
+    { "label": "Street", "value": "still, empty" },
+    { "label": "Light", "value": "pale, rising" }
   ]
 }
