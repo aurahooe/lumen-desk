@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-17T00:00:00.000Z",
-  "edition": 822,
-  "headline": "Midnight draws the blinds.",
-  "body": "The last car has passed. The lamp holds its circle on the open page. Somewhere a radiator ticks once and settles.",
+  "updatedAt": "2026-11-17T01:00:54.000Z",
+  "edition": 823,
+  "headline": "One o'clock and the blinds hold.",
+  "body": "The streetlight outside has not blinked. A page turns somewhere in the building. The cup on the desk has gone cold.",
   "pulses": [
-    { "label": "Sky", "value": "clear, stars thin" },
-    { "label": "Street", "value": "empty, no headlights" },
-    { "label": "Light", "value": "desk lamp, unmoved" }
+    { "label": "Sky", "value": "black, no moon" },
+    { "label": "Street", "value": "still, no footsteps" },
+    { "label": "Light", "value": "desk lamp, unchanged" }
   ]
 }
