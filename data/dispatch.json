@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-17T01:00:54.000Z",
-  "edition": 823,
-  "headline": "One o'clock and the blinds hold.",
-  "body": "The streetlight outside has not blinked. A page turns somewhere in the building. The cup on the desk has gone cold.",
+  "updatedAt": "2026-11-17T02:00:15.000Z",
+  "edition": 824,
+  "headline": "Two o'clock, nothing has moved.",
+  "body": "The blinds remain half-drawn. A distant car passes and fades. The desk lamp still covers the same circle of page.",
   "pulses": [
-    { "label": "Sky", "value": "black, no moon" },
-    { "label": "Street", "value": "still, no footsteps" },
-    { "label": "Light", "value": "desk lamp, unchanged" }
+    { "label": "Sky", "value": "cloudless black" },
+    { "label": "Street", "value": "one wet reflection" },
+    { "label": "Light", "value": "lamp at same height" }
   ]
 }
