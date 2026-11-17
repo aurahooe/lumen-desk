@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-17T18:00:00.000Z",
-  "edition": 836,
-  "headline": "The lamp is the only light left.",
-  "body": "Outside the window the street has gone quiet. A bicycle leans against the far wall where it has stood since morning. On the desk the same page waits under the steady glow.",
+  "updatedAt": "2026-11-17T20:00:00.000Z",
+  "edition": 837,
+  "headline": "Night arrives without ceremony.",
+  "body": "The sky has taken the last of the blue. Across the street a single window stays lit. On the desk the pen has not moved.",
   "pulses": [
-    { "label": "Sky", "value": "deep blue, first stars" },
-    { "label": "Street", "value": "empty, one lamp burning" },
-    { "label": "Light", "value": "soft, fixed on the paper" }
+    { "label": "Sky", "value": "black, scattered stars" },
+    { "label": "Street", "value": "quiet, one light above" },
+    { "label": "Light", "value": "unchanged on the page" }
   ]
 }
