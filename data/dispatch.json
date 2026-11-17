@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-17T10:00:00.000Z",
-  "edition": 831,
-  "headline": "Ten arrives without ceremony.",
-  "body": "The lamp stays off. Sun falls in a clean rectangle across the floorboards. A delivery van idles at the curb, hazard lights ticking.",
+  "updatedAt": "2026-11-17T12:00:00.000Z",
+  "edition": 832,
+  "headline": "Twelve arrives on the boards.",
+  "body": "Light has flattened across the floor. The clock on the shelf reads exact noon. A single leaf drifts past the glass and settles.",
   "pulses": [
-    { "label": "Sky", "value": "clear, high and pale" },
-    { "label": "Street", "value": "van idling, sparse cars" },
-    { "label": "Light", "value": "direct rectangle on the boards" }
+    { "label": "Sky", "value": "clear overhead, no cloud" },
+    { "label": "Street", "value": "empty curb, leaf in the gutter" },
+    { "label": "Light", "value": "flat, high on the paper" }
   ]
 }
