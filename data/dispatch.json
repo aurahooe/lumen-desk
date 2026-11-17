@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-17T15:37:00.000Z",
-  "edition": 834,
-  "headline": "The window keeps its pale square.",
-  "body": "A cloud edge slides across the glass and is gone. The bicycle remains where it was left. On the desk the blank page holds the same light as an hour ago.",
+  "updatedAt": "2026-11-17T16:20:00.000Z",
+  "edition": 835,
+  "headline": "The glass holds the late light.",
+  "body": "A thin cloud crosses the square and leaves it pale. The bicycle has not moved from the wall. On the desk the page waits under the same lamp.",
   "pulses": [
-    { "label": "Sky", "value": "thin cloud drifting past" },
-    { "label": "Street", "value": "bicycle still against the wall" },
-    { "label": "Light", "value": "soft across the unwritten page" }
+    { "label": "Sky", "value": "thin cloud, low sun" },
+    { "label": "Street", "value": "empty past the corner" },
+    { "label": "Light", "value": "fixed across the page" }
   ]
 }
