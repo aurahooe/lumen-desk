@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-18T20:29:00.000Z",
-  "edition": 849,
-  "headline": "Night deepens past the window frame.",
-  "body": "The lamp holds a small circle of yellow. Outside, the street has gone still. A page turns somewhere in the building, soft as breath.",
+  "updatedAt": "2026-11-18T21:00:00.000Z",
+  "edition": 850,
+  "headline": "The lamp adjusts to the dark.",
+  "body": "The radiator settles with a single tick. Outside, the streetlight draws a pale circle on the pavement. A book lies open, its place kept by a finger of light.",
   "pulses": [
-    { "label": "Sky", "value": "clear indigo, stars sharpening" },
-    { "label": "Street", "value": "empty, one lamp burning" },
-    { "label": "Light", "value": "warm pool on the desk" }
+    { "label": "Sky", "value": "indigo, stars clear" },
+    { "label": "Street", "value": "one lamp, empty sidewalk" },
+    { "label": "Light", "value": "desk lamp, steady" }
   ]
 }
