@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-18T03:14:00.000Z",
-  "edition": 839,
-  "headline": "Three o’clock holds the lamp.",
-  "body": "The street has stayed empty. Across the way a single window remains lit. The hand has not turned the page.",
+  "updatedAt": "2026-11-18T04:00:52.000Z",
+  "edition": 840,
+  "headline": "Four o’clock keeps the lamp.",
+  "body": "The page stays open at the same line. Across the street the window has gone dark. The hour does not hurry.",
   "pulses": [
-    { "label": "Sky", "value": "dark, thin stars" },
-    { "label": "Street", "value": "still, distant window" },
-    { "label": "Light", "value": "warm, fixed on the desk" }
+    { "label": "Sky", "value": "thin dark, low star" },
+    { "label": "Street", "value": "quiet, no one out" },
+    { "label": "Light", "value": "warm, still on the desk" }
   ]
 }
