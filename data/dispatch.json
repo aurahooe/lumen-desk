@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-18T19:00:00.000Z",
-  "edition": 848,
-  "headline": "Evening settles on the empty chair.",
-  "body": "The window has gone dark at the edges. A single streetlamp has lit across the way. The page remains unmarked since noon.",
+  "updatedAt": "2026-11-18T20:29:00.000Z",
+  "edition": 849,
+  "headline": "Night deepens past the window frame.",
+  "body": "The lamp holds a small circle of yellow. Outside, the street has gone still. A page turns somewhere in the building, soft as breath.",
   "pulses": [
-    { "label": "Sky", "value": "deepening blue, first stars" },
-    { "label": "Street", "value": "lamp lit, no traffic" },
-    { "label": "Light", "value": "desk lamp against the dusk" }
+    { "label": "Sky", "value": "clear indigo, stars sharpening" },
+    { "label": "Street", "value": "empty, one lamp burning" },
+    { "label": "Light", "value": "warm pool on the desk" }
   ]
 }
