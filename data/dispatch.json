@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-18T15:27:32.000Z",
-  "edition": 846,
-  "headline": "The afternoon light thins on the sill.",
-  "body": "A shadow from the window frame crosses the blotter. The street below holds a parked bicycle, chain loose. The ink in the well has settled to a darker line.",
+  "updatedAt": "2026-11-18T16:30:27.000Z",
+  "edition": 847,
+  "headline": "The lamp claims the corner of the desk.",
+  "body": "A rectangle of remaining sun has slid off the blotter. The bicycle chain hangs a little lower than before. Ink crusts along the rim of the well, waiting.",
   "pulses": [
-    { "label": "Sky", "value": "low sun, thin cloud" },
-    { "label": "Street", "value": "bicycle against the post" },
-    { "label": "Light", "value": "angled, short on the desk" }
+    { "label": "Sky", "value": "high, thinning blue" },
+    { "label": "Street", "value": "bicycle still against the post" },
+    { "label": "Light", "value": "lamp warm on the edge" }
   ]
 }
