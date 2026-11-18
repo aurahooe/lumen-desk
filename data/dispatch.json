@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-18T08:00:00.000Z",
-  "edition": 842,
-  "headline": "Eight finds the window first.",
-  "body": "The blind is raised a hand’s width. Steam lifts once from the radiator and is gone. A single bicycle leans against the far curb.",
+  "updatedAt": "2026-11-18T09:00:00.000Z",
+  "edition": 843,
+  "headline": "Nine leaves the lamp cold.",
+  "body": "Condensation clings low on the window glass. Across the street the shop awning stays rolled. The page on the desk remains unmarked.",
   "pulses": [
-    { "label": "Sky", "value": "pale, high, no cloud" },
-    { "label": "Street", "value": "wet, one bicycle" },
-    { "label": "Light", "value": "low across the desk edge" }
+    { "label": "Sky", "value": "high, clear, cool blue" },
+    { "label": "Street", "value": "quiet, one parked car" },
+    { "label": "Light", "value": "thin across the desk corner" }
   ]
 }
