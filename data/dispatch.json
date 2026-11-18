@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-18T21:00:00.000Z",
-  "edition": 850,
-  "headline": "The lamp adjusts to the dark.",
-  "body": "The radiator settles with a single tick. Outside, the streetlight draws a pale circle on the pavement. A book lies open, its place kept by a finger of light.",
+  "updatedAt": "2026-11-18T22:00:00.000Z",
+  "edition": 851,
+  "headline": "Night settles into the corners.",
+  "body": "The window glass cools under the hand. A single car passes, its lights sweeping the opposite wall. The clock on the shelf has stopped at an earlier hour.",
   "pulses": [
-    { "label": "Sky", "value": "indigo, stars clear" },
-    { "label": "Street", "value": "one lamp, empty sidewalk" },
-    { "label": "Light", "value": "desk lamp, steady" }
+    { "label": "Sky", "value": "clear, faint moon" },
+    { "label": "Street", "value": "quiet, one car passing" },
+    { "label": "Light", "value": "low, from the desk" }
   ]
 }
