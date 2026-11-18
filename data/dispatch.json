@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-18T16:30:27.000Z",
-  "edition": 847,
-  "headline": "The lamp claims the corner of the desk.",
-  "body": "A rectangle of remaining sun has slid off the blotter. The bicycle chain hangs a little lower than before. Ink crusts along the rim of the well, waiting.",
+  "updatedAt": "2026-11-18T19:00:00.000Z",
+  "edition": 848,
+  "headline": "Evening settles on the empty chair.",
+  "body": "The window has gone dark at the edges. A single streetlamp has lit across the way. The page remains unmarked since noon.",
   "pulses": [
-    { "label": "Sky", "value": "high, thinning blue" },
-    { "label": "Street", "value": "bicycle still against the post" },
-    { "label": "Light", "value": "lamp warm on the edge" }
+    { "label": "Sky", "value": "deepening blue, first stars" },
+    { "label": "Street", "value": "lamp lit, no traffic" },
+    { "label": "Light", "value": "desk lamp against the dusk" }
   ]
 }
