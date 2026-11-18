@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-18T04:00:52.000Z",
-  "edition": 840,
-  "headline": "Four o’clock keeps the lamp.",
-  "body": "The page stays open at the same line. Across the street the window has gone dark. The hour does not hurry.",
+  "updatedAt": "2026-11-18T07:01:00.000Z",
+  "edition": 841,
+  "headline": "Seven arrives without notice.",
+  "body": "The room holds the same quiet. A thin line of light has appeared at the edge of the blind. Nothing else has moved.",
   "pulses": [
-    { "label": "Sky", "value": "thin dark, low star" },
-    { "label": "Street", "value": "quiet, no one out" },
-    { "label": "Light", "value": "warm, still on the desk" }
+    { "label": "Sky", "value": "low pale, no color yet" },
+    { "label": "Street", "value": "wet pavement, no footsteps" },
+    { "label": "Light", "value": "desk lamp still, softer" }
   ]
 }
