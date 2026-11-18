@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-18T09:00:00.000Z",
-  "edition": 843,
-  "headline": "Nine leaves the lamp cold.",
-  "body": "Condensation clings low on the window glass. Across the street the shop awning stays rolled. The page on the desk remains unmarked.",
+  "updatedAt": "2026-11-18T10:00:00.000Z",
+  "edition": 844,
+  "headline": "Ten settles on the empty chair.",
+  "body": "The radiator ticks once and falls silent. Outside, a bicycle leans against the lamp post, chain loose. The mug on the desk has cooled completely.",
   "pulses": [
-    { "label": "Sky", "value": "high, clear, cool blue" },
-    { "label": "Street", "value": "quiet, one parked car" },
-    { "label": "Light", "value": "thin across the desk corner" }
+    { "label": "Sky", "value": "high, pale, no cloud" },
+    { "label": "Street", "value": "one bicycle, chain loose" },
+    { "label": "Light", "value": "thin across the blotter edge" }
   ]
 }
