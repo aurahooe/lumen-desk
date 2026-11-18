@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-18T10:00:00.000Z",
-  "edition": 844,
-  "headline": "Ten settles on the empty chair.",
-  "body": "The radiator ticks once and falls silent. Outside, a bicycle leans against the lamp post, chain loose. The mug on the desk has cooled completely.",
+  "updatedAt": "2026-11-18T11:00:00.000Z",
+  "edition": 845,
+  "headline": "Eleven holds the window open.",
+  "body": "The top sheet lifts at one corner and settles. A van idles at the curb, headlights off. The pencil near the blotter has a broken tip.",
   "pulses": [
-    { "label": "Sky", "value": "high, pale, no cloud" },
-    { "label": "Street", "value": "one bicycle, chain loose" },
-    { "label": "Light", "value": "thin across the blotter edge" }
+    { "label": "Sky", "value": "flat grey, unbroken" },
+    { "label": "Street", "value": "van idling, lights off" },
+    { "label": "Light", "value": "thin on the hinge pin" }
   ]
 }
