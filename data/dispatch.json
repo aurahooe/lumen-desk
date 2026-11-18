@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-18T11:00:00.000Z",
-  "edition": 845,
-  "headline": "Eleven holds the window open.",
-  "body": "The top sheet lifts at one corner and settles. A van idles at the curb, headlights off. The pencil near the blotter has a broken tip.",
+  "updatedAt": "2026-11-18T15:27:32.000Z",
+  "edition": 846,
+  "headline": "The afternoon light thins on the sill.",
+  "body": "A shadow from the window frame crosses the blotter. The street below holds a parked bicycle, chain loose. The ink in the well has settled to a darker line.",
   "pulses": [
-    { "label": "Sky", "value": "flat grey, unbroken" },
-    { "label": "Street", "value": "van idling, lights off" },
-    { "label": "Light", "value": "thin on the hinge pin" }
+    { "label": "Sky", "value": "low sun, thin cloud" },
+    { "label": "Street", "value": "bicycle against the post" },
+    { "label": "Light", "value": "angled, short on the desk" }
   ]
 }
