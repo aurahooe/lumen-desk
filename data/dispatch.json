@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-18T07:01:00.000Z",
-  "edition": 841,
-  "headline": "Seven arrives without notice.",
-  "body": "The room holds the same quiet. A thin line of light has appeared at the edge of the blind. Nothing else has moved.",
+  "updatedAt": "2026-11-18T08:00:00.000Z",
+  "edition": 842,
+  "headline": "Eight finds the window first.",
+  "body": "The blind is raised a hand’s width. Steam lifts once from the radiator and is gone. A single bicycle leans against the far curb.",
   "pulses": [
-    { "label": "Sky", "value": "low pale, no color yet" },
-    { "label": "Street", "value": "wet pavement, no footsteps" },
-    { "label": "Light", "value": "desk lamp still, softer" }
+    { "label": "Sky", "value": "pale, high, no cloud" },
+    { "label": "Street", "value": "wet, one bicycle" },
+    { "label": "Light", "value": "low across the desk edge" }
   ]
 }
