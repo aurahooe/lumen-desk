@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-17T21:00:00.000Z",
-  "edition": 838,
-  "headline": "Nine holds the quiet desk.",
-  "body": "The street has emptied of footsteps. A single lamp burns in the building opposite. The paper under the hand has not been turned.",
+  "updatedAt": "2026-11-18T03:14:00.000Z",
+  "edition": 839,
+  "headline": "Three o’clock holds the lamp.",
+  "body": "The street has stayed empty. Across the way a single window remains lit. The hand has not turned the page.",
   "pulses": [
-    { "label": "Sky", "value": "dark, low stars" },
-    { "label": "Street", "value": "still, distant light" },
-    { "label": "Light", "value": "warm, fixed on the page" }
+    { "label": "Sky", "value": "dark, thin stars" },
+    { "label": "Street", "value": "still, distant window" },
+    { "label": "Light", "value": "warm, fixed on the desk" }
   ]
 }
