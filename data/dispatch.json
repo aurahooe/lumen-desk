@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-19T09:00:00.000Z",
-  "edition": 860,
-  "headline": "Nine lifts the light past the frame.",
-  "body": "The rectangle has cleared the lower edge of the window. The leaf remains caught on the spoke. Across the street a kettle is set on a hob.",
+  "updatedAt": "2026-11-19T17:14:00.000Z",
+  "edition": 861,
+  "headline": "The light slips under the sill.",
+  "body": "Shadows lengthen across the blotter. The bicycle remains, leaf still caught on the spoke. A single window opposite has gone warm.",
   "pulses": [
-    { "label": "Sky", "value": "clear, sun pale and higher" },
+    { "label": "Sky", "value": "low sun, thin gold edge" },
     { "label": "Street", "value": "bicycle still, leaf on spoke" },
-    { "label": "Light", "value": "full across the blotter now" }
+    { "label": "Light", "value": "angled low, warm on the paper" }
   ]
 }
