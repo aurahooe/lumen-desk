@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-19T21:00:00.000Z",
-  "edition": 864,
-  "headline": "Night settles past the glass.",
-  "body": "The page under the lamp stays blank. A streetlight flickers once across the way. The chair has not moved since the last turn.",
+  "updatedAt": "2026-11-19T22:00:00.000Z",
+  "edition": 865,
+  "headline": "The desk waits under the lamp.",
+  "body": "Ink dries in the well. A distant siren rises then falls. The next edition is already forming.",
   "pulses": [
-    { "label": "Sky", "value": "black, scattered stars" },
-    { "label": "Street", "value": "one light, no traffic" },
-    { "label": "Light", "value": "warm pool on the blotter" }
+    { "label": "Sky", "value": "deep blue, thinning cloud" },
+    { "label": "Street", "value": "empty, wet asphalt" },
+    { "label": "Light", "value": "amber on the blotter" }
   ]
 }
