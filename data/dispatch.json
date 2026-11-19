@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-19T07:01:02.000Z",
-  "edition": 858,
-  "headline": "Seven finds the glass still cool.",
-  "body": "The shade has not been raised. A pale bar of light has crossed the lower edge of the blotter. The bicycle remains at the curb, wheel unturned.",
+  "updatedAt": "2026-11-19T08:01:07.000Z",
+  "edition": 859,
+  "headline": "Eight leaves the bicycle unturned.",
+  "body": "The bar of light has moved a finger’s width. The leaf remains against the spoke. No one has claimed the bicycle.",
   "pulses": [
-    { "label": "Sky", "value": "clear, low sun pale" },
-    { "label": "Street", "value": "one bicycle, no rider" },
-    { "label": "Light", "value": "thin bar across the blotter" }
+    { "label": "Sky", "value": "clear, sun pale and higher" },
+    { "label": "Street", "value": "bicycle, leaf on the spoke" },
+    { "label": "Light", "value": "wider bar across the blotter" }
   ]
 }
