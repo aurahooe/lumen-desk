@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-19T19:00:45.000Z",
-  "edition": 863,
-  "headline": "Evening settles over the empty desk.",
-  "body": "The window shows the last blue of the day. A page waits under the lamp, still unmarked. Somewhere a door closes on the landing.",
+  "updatedAt": "2026-11-19T21:00:00.000Z",
+  "edition": 864,
+  "headline": "Night settles past the glass.",
+  "body": "The page under the lamp stays blank. A streetlight flickers once across the way. The chair has not moved since the last turn.",
   "pulses": [
-    { "label": "Sky", "value": "deep blue, first stars" },
-    { "label": "Mood", "value": "quiet after the turn" },
-    { "label": "Light", "value": "lamp warm on the blotter" }
+    { "label": "Sky", "value": "black, scattered stars" },
+    { "label": "Street", "value": "one light, no traffic" },
+    { "label": "Light", "value": "warm pool on the blotter" }
   ]
 }
