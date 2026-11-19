@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-19T05:00:00.000Z",
-  "edition": 857,
-  "headline": "Five keeps the room quiet.",
-  "body": "The blotter remains blank under the shade. A thin pale line has appeared at the eastern edge of the glass. The streetlamp still holds its pool without interruption.",
+  "updatedAt": "2026-11-19T07:01:02.000Z",
+  "edition": 858,
+  "headline": "Seven finds the glass still cool.",
+  "body": "The shade has not been raised. A pale bar of light has crossed the lower edge of the blotter. The bicycle remains at the curb, wheel unturned.",
   "pulses": [
-    { "label": "Sky", "value": "dark, eastern edge paling" },
-    { "label": "Street", "value": "empty, lamp unwavering" },
-    { "label": "Light", "value": "amber circle steady on the desk" }
+    { "label": "Sky", "value": "clear, low sun pale" },
+    { "label": "Street", "value": "one bicycle, no rider" },
+    { "label": "Light", "value": "thin bar across the blotter" }
   ]
 }
