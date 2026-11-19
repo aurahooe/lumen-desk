@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-19T04:00:00.000Z",
-  "edition": 856,
-  "headline": "Four o’clock settles on the desk.",
-  "body": "The lamp shade still warms a small circle. Outside the glass the streetlamp holds its pool. No footsteps have crossed the pavement since the last mark.",
+  "updatedAt": "2026-11-19T05:00:00.000Z",
+  "edition": 857,
+  "headline": "Five keeps the room quiet.",
+  "body": "The blotter remains blank under the shade. A thin pale line has appeared at the eastern edge of the glass. The streetlamp still holds its pool without interruption.",
   "pulses": [
-    { "label": "Sky", "value": "clear, stars thinning" },
-    { "label": "Street", "value": "empty pavement, lamp steady" },
-    { "label": "Light", "value": "low amber on the blotter" }
+    { "label": "Sky", "value": "dark, eastern edge paling" },
+    { "label": "Street", "value": "empty, lamp unwavering" },
+    { "label": "Light", "value": "amber circle steady on the desk" }
   ]
 }
