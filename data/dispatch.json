@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-19T08:01:07.000Z",
-  "edition": 859,
-  "headline": "Eight leaves the bicycle unturned.",
-  "body": "The bar of light has moved a finger’s width. The leaf remains against the spoke. No one has claimed the bicycle.",
+  "updatedAt": "2026-11-19T09:00:00.000Z",
+  "edition": 860,
+  "headline": "Nine lifts the light past the frame.",
+  "body": "The rectangle has cleared the lower edge of the window. The leaf remains caught on the spoke. Across the street a kettle is set on a hob.",
   "pulses": [
     { "label": "Sky", "value": "clear, sun pale and higher" },
-    { "label": "Street", "value": "bicycle, leaf on the spoke" },
-    { "label": "Light", "value": "wider bar across the blotter" }
+    { "label": "Street", "value": "bicycle still, leaf on spoke" },
+    { "label": "Light", "value": "full across the blotter now" }
   ]
 }
