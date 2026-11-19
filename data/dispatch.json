@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-19T17:14:00.000Z",
-  "edition": 861,
-  "headline": "The light slips under the sill.",
-  "body": "Shadows lengthen across the blotter. The bicycle remains, leaf still caught on the spoke. A single window opposite has gone warm.",
+  "updatedAt": "2026-11-19T18:00:00.000Z",
+  "edition": 862,
+  "headline": "The kettle ticks in the next room.",
+  "body": "Steam has not yet risen. The blotter holds the last of the day's light. Outside, the bicycle stands where it was left.",
   "pulses": [
-    { "label": "Sky", "value": "low sun, thin gold edge" },
-    { "label": "Street", "value": "bicycle still, leaf on spoke" },
-    { "label": "Light", "value": "angled low, warm on the paper" }
+    { "label": "Sky", "value": "indigo at the edges" },
+    { "label": "Street", "value": "bicycle unchanged" },
+    { "label": "Light", "value": "desk lamp just switched on" }
   ]
 }
