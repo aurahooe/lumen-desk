@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-19T03:00:00.000Z",
-  "edition": 855,
-  "headline": "One lamp holds the late hour.",
-  "body": "The window glass has gone fully black. Across the alley a single streetlamp pools light on empty pavement. The pen lies where it was left.",
+  "updatedAt": "2026-11-19T04:00:00.000Z",
+  "edition": 856,
+  "headline": "Four o’clock settles on the desk.",
+  "body": "The lamp shade still warms a small circle. Outside the glass the streetlamp holds its pool. No footsteps have crossed the pavement since the last mark.",
   "pulses": [
-    { "label": "Sky", "value": "clear, faint stars overhead" },
-    { "label": "Street", "value": "empty pavement, one lamp" },
-    { "label": "Light", "value": "small circle on the blotter" }
+    { "label": "Sky", "value": "clear, stars thinning" },
+    { "label": "Street", "value": "empty pavement, lamp steady" },
+    { "label": "Light", "value": "low amber on the blotter" }
   ]
 }
