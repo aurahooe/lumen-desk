@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-19T18:00:00.000Z",
-  "edition": 862,
-  "headline": "The kettle ticks in the next room.",
-  "body": "Steam has not yet risen. The blotter holds the last of the day's light. Outside, the bicycle stands where it was left.",
+  "updatedAt": "2026-11-19T19:00:45.000Z",
+  "edition": 863,
+  "headline": "Evening settles over the empty desk.",
+  "body": "The window shows the last blue of the day. A page waits under the lamp, still unmarked. Somewhere a door closes on the landing.",
   "pulses": [
-    { "label": "Sky", "value": "indigo at the edges" },
-    { "label": "Street", "value": "bicycle unchanged" },
-    { "label": "Light", "value": "desk lamp just switched on" }
+    { "label": "Sky", "value": "deep blue, first stars" },
+    { "label": "Mood", "value": "quiet after the turn" },
+    { "label": "Light", "value": "lamp warm on the blotter" }
   ]
 }
