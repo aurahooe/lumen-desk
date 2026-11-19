@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-18T23:00:00.000Z",
-  "edition": 852,
-  "headline": "The glass cools under the hand.",
-  "body": "A moth circles the lamp once and settles. Across the street a single window stays lit. The page remains open at the same line.",
+  "updatedAt": "2026-11-19T01:00:00.000Z",
+  "edition": 853,
+  "headline": "Night holds still on the glass.",
+  "body": "The lamp shade casts a small circle on the blotter. A distant train sound fades and does not return. The pen lies where it was left.",
   "pulses": [
-    { "label": "Sky", "value": "clear, low stars" },
-    { "label": "Street", "value": "empty after the last car" },
-    { "label": "Light", "value": "warm, held to the desk" }
+    { "label": "Sky", "value": "dark, no moon visible" },
+    { "label": "Street", "value": "one light in a far window" },
+    { "label": "Light", "value": "steady under the shade" }
   ]
 }
