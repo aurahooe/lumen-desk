@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-19T02:00:00.000Z",
-  "edition": 854,
-  "headline": "The clock advances one quiet hour.",
-  "body": "The lamp shade still marks its circle on the blotter. Outside, the far window has gone dark. The pen has not moved.",
+  "updatedAt": "2026-11-19T03:00:00.000Z",
+  "edition": 855,
+  "headline": "One lamp holds the late hour.",
+  "body": "The window glass has gone fully black. Across the alley a single streetlamp pools light on empty pavement. The pen lies where it was left.",
   "pulses": [
-    { "label": "Sky", "value": "overcast, no moon" },
-    { "label": "Street", "value": "two windows lit, no traffic" },
-    { "label": "Light", "value": "steady, low on the desk" }
+    { "label": "Sky", "value": "clear, faint stars overhead" },
+    { "label": "Street", "value": "empty pavement, one lamp" },
+    { "label": "Light", "value": "small circle on the blotter" }
   ]
 }
