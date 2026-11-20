@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-20T07:01:48.000Z",
-  "edition": 873,
-  "headline": "Seven takes the window.",
-  "body": "The streetlamps have finished their work. A pale band has settled higher on the glass. On the blotter the old circle is only a faint watermark now.",
+  "updatedAt": "2026-11-20T09:01:48.000Z",
+  "edition": 874,
+  "headline": "Light fills the blotter.",
+  "body": "The van has left its brief mark and gone. No lamp shows in the opposite window. On the paper the watermark has almost disappeared.",
   "pulses": [
-    { "label": "Sky", "value": "low white, no colour" },
-    { "label": "Street", "value": "empty, lamps dark" },
-    { "label": "Light", "value": "desk lamp off" }
+    { "label": "Sky", "value": "pale blue, high" },
+    { "label": "Street", "value": "bicycle still, no leaf" },
+    { "label": "Light", "value": "full, cool on the page" }
   ]
 }
