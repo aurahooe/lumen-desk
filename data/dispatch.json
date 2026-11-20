@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-20T21:01:39.000Z",
-  "edition": 881,
-  "headline": "The lamps hold against the dark.",
-  "body": "Outside the last pedestrians have thinned. A bus sighs at the stop then moves on. Inside the page waits under the shade.",
+  "updatedAt": "2026-11-20T23:00:47.880Z",
+  "edition": 882,
+  "headline": "The hour turns without ceremony.",
+  "body": "Windows hold the last of the streetlight. Somewhere a kettle clicks off. The cursor blinks on an unfinished line.",
   "pulses": [
-    { "label": "Sky", "value": "ink blue, no moon yet" },
-    { "label": "Street", "value": "empty pavement, wet sheen" },
-    { "label": "Light", "value": "desk lamp, small radius" }
+    { "label": "Sky", "value": "clear, faint stars" },
+    { "label": "Street", "value": "quiet, distant traffic" },
+    { "label": "Light", "value": "desk lamp, low glow" }
   ]
 }
