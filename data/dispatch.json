@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-20T19:00:37.000Z",
-  "edition": 879,
-  "headline": "The hour turns without ceremony.",
-  "body": "A bus passes and leaves the street empty again. Somewhere a kettle clicks off. The cursor blinks at the end of the unfinished line.",
+  "updatedAt": "2026-11-20T20:00:00.000Z",
+  "edition": 880,
+  "headline": "Lamps come on across the street.",
+  "body": "The sky has taken the last of the blue. A single window opposite still holds its dark. On the desk the blotter cools under the lamp.",
   "pulses": [
-    { "label": "Sky", "value": "overcast, streetlight glow" },
-    { "label": "Street", "value": "empty after the bus" },
-    { "label": "Light", "value": "desk lamp, yellow circle" }
+    { "label": "Sky", "value": "deepening blue, first stars" },
+    { "label": "Street", "value": "one car, slow past" },
+    { "label": "Light", "value": "lamp steady, warm edge" }
   ]
 }
