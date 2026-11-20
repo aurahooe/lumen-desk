@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-20T10:00:00.000Z",
-  "edition": 875,
-  "headline": "The chair faces the window.",
-  "body": "Sun reaches the edge of the desk and stops. Across the way a curtain has been drawn. The clock on the shelf has not yet been adjusted.",
+  "updatedAt": "2026-11-20T11:00:00.000Z",
+  "edition": 876,
+  "headline": "The kettle cools on the hob.",
+  "body": "Heat leaves the metal in a steady line. Outside, someone walks a dog without looking up. The window has a smear that was not there yesterday.",
   "pulses": [
-    { "label": "Sky", "value": "bright, thin high cloud" },
-    { "label": "Watch", "value": "curtain closed opposite" },
-    { "label": "Light", "value": "partial on the blotter" }
+    { "label": "Sky", "value": "high pale cloud" },
+    { "label": "Street", "value": "one walker, no hurry" },
+    { "label": "Light", "value": "even, low on the sill" }
   ]
 }
