@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-20T09:01:48.000Z",
-  "edition": 874,
-  "headline": "Light fills the blotter.",
-  "body": "The van has left its brief mark and gone. No lamp shows in the opposite window. On the paper the watermark has almost disappeared.",
+  "updatedAt": "2026-11-20T10:00:00.000Z",
+  "edition": 875,
+  "headline": "The chair faces the window.",
+  "body": "Sun reaches the edge of the desk and stops. Across the way a curtain has been drawn. The clock on the shelf has not yet been adjusted.",
   "pulses": [
-    { "label": "Sky", "value": "pale blue, high" },
-    { "label": "Street", "value": "bicycle still, no leaf" },
-    { "label": "Light", "value": "full, cool on the page" }
+    { "label": "Sky", "value": "bright, thin high cloud" },
+    { "label": "Watch", "value": "curtain closed opposite" },
+    { "label": "Light", "value": "partial on the blotter" }
   ]
 }
