@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-20T03:00:00.000Z",
-  "edition": 869,
-  "headline": "The hour holds its breath.",
-  "body": "Outside, the streetlamp sways once in a wind that does not reach the window. The radiator has gone quiet. A page turns somewhere in the building, then stops.",
+  "updatedAt": "2026-11-20T04:00:00.000Z",
+  "edition": 870,
+  "headline": "Four o’clock holds the room quiet.",
+  "body": "The window has cooled to the touch. A single pair of headlights crosses the far intersection and is gone. The lamp still marks its circle on the blotter.",
   "pulses": [
-    { "label": "Sky", "value": "clear, thin stars above the roof" },
-    { "label": "Street", "value": "empty, one distant engine" },
-    { "label": "Light", "value": "steady amber on the blotter" }
+    { "label": "Sky", "value": "dark, one thin cloud low" },
+    { "label": "Street", "value": "empty, wet and silent" },
+    { "label": "Light", "value": "steady amber, low on the page" }
   ]
 }
