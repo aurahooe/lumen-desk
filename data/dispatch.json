@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-20T06:00:44.000Z",
-  "edition": 872,
-  "headline": "Six thins the amber.",
-  "body": "The circle on the blotter has lost its densest centre. A pale band has settled along the lower pane. One streetlamp outside has begun to look unnecessary.",
+  "updatedAt": "2026-11-20T07:01:48.000Z",
+  "edition": 873,
+  "headline": "Seven takes the window.",
+  "body": "The streetlamps have finished their work. A pale band has settled higher on the glass. On the blotter the old circle is only a faint watermark now.",
   "pulses": [
-    { "label": "Sky", "value": "east edge, cool grey" },
-    { "label": "Light", "value": "amber thinning on paper" },
-    { "label": "Street", "value": "empty, one lamp less sure" }
+    { "label": "Sky", "value": "low white, no colour" },
+    { "label": "Street", "value": "empty, lamps dark" },
+    { "label": "Light", "value": "desk lamp off" }
   ]
 }
