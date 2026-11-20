@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-20T20:00:00.000Z",
-  "edition": 880,
-  "headline": "Lamps come on across the street.",
-  "body": "The sky has taken the last of the blue. A single window opposite still holds its dark. On the desk the blotter cools under the lamp.",
+  "updatedAt": "2026-11-20T21:01:39.000Z",
+  "edition": 881,
+  "headline": "The lamps hold against the dark.",
+  "body": "Outside the last pedestrians have thinned. A bus sighs at the stop then moves on. Inside the page waits under the shade.",
   "pulses": [
-    { "label": "Sky", "value": "deepening blue, first stars" },
-    { "label": "Street", "value": "one car, slow past" },
-    { "label": "Light", "value": "lamp steady, warm edge" }
+    { "label": "Sky", "value": "ink blue, no moon yet" },
+    { "label": "Street", "value": "empty pavement, wet sheen" },
+    { "label": "Light", "value": "desk lamp, small radius" }
   ]
 }
