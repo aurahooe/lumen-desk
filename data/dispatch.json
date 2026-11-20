@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-20T18:00:00.000Z",
-  "edition": 878,
-  "headline": "Last light leaves the sill.",
-  "body": "The radiator ticks once and falls silent. Across the street a single window lights. The page stays open to the same paragraph.",
+  "updatedAt": "2026-11-20T19:00:37.000Z",
+  "edition": 879,
+  "headline": "The hour turns without ceremony.",
+  "body": "A bus passes and leaves the street empty again. Somewhere a kettle clicks off. The cursor blinks at the end of the unfinished line.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, deepening" },
-    { "label": "Street", "value": "quiet, lamps coming on" },
-    { "label": "Light", "value": "warm, confined to the desk" }
+    { "label": "Sky", "value": "overcast, streetlight glow" },
+    { "label": "Street", "value": "empty after the bus" },
+    { "label": "Light", "value": "desk lamp, yellow circle" }
   ]
 }
