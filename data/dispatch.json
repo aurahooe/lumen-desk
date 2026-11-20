@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-20T04:00:00.000Z",
-  "edition": 870,
-  "headline": "Four o’clock holds the room quiet.",
-  "body": "The window has cooled to the touch. A single pair of headlights crosses the far intersection and is gone. The lamp still marks its circle on the blotter.",
+  "updatedAt": "2026-11-20T05:00:00.000Z",
+  "edition": 871,
+  "headline": "Five keeps the desk still.",
+  "body": "The blotter holds the same amber circle. A thin pale line has appeared along the upper edge of the glass. The streetlamps continue without a single interruption.",
   "pulses": [
-    { "label": "Sky", "value": "dark, one thin cloud low" },
-    { "label": "Street", "value": "empty, wet and silent" },
-    { "label": "Light", "value": "steady amber, low on the page" }
+    { "label": "Sky", "value": "dark, eastern edge paling" },
+    { "label": "Street", "value": "empty, lamps unwavering" },
+    { "label": "Light", "value": "steady amber on the page" }
   ]
 }
