@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-20T12:01:57.000Z",
-  "edition": 877,
-  "headline": "Noon light sits flat on the page.",
-  "body": "The shadow of the lamp does not move. A bus idles at the far stop, engine low. The pen lies where it was left, uncapped.",
+  "updatedAt": "2026-11-20T18:00:00.000Z",
+  "edition": 878,
+  "headline": "Last light leaves the sill.",
+  "body": "The radiator ticks once and falls silent. Across the street a single window lights. The page stays open to the same paragraph.",
   "pulses": [
-    { "label": "Sky", "value": "high thin white, no depth" },
-    { "label": "Street", "value": "sparse, one idling bus" },
-    { "label": "Light", "value": "even, low across the blotter" }
+    { "label": "Sky", "value": "low cloud, deepening" },
+    { "label": "Street", "value": "quiet, lamps coming on" },
+    { "label": "Light", "value": "warm, confined to the desk" }
   ]
 }
