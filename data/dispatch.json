@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-20T05:00:00.000Z",
-  "edition": 871,
-  "headline": "Five keeps the desk still.",
-  "body": "The blotter holds the same amber circle. A thin pale line has appeared along the upper edge of the glass. The streetlamps continue without a single interruption.",
+  "updatedAt": "2026-11-20T06:00:44.000Z",
+  "edition": 872,
+  "headline": "Six thins the amber.",
+  "body": "The circle on the blotter has lost its densest centre. A pale band has settled along the lower pane. One streetlamp outside has begun to look unnecessary.",
   "pulses": [
-    { "label": "Sky", "value": "dark, eastern edge paling" },
-    { "label": "Street", "value": "empty, lamps unwavering" },
-    { "label": "Light", "value": "steady amber on the page" }
+    { "label": "Sky", "value": "east edge, cool grey" },
+    { "label": "Light", "value": "amber thinning on paper" },
+    { "label": "Street", "value": "empty, one lamp less sure" }
   ]
 }
