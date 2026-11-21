@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-20T23:00:47.880Z",
-  "edition": 882,
-  "headline": "The hour turns without ceremony.",
-  "body": "Windows hold the last of the streetlight. Somewhere a kettle clicks off. The cursor blinks on an unfinished line.",
+  "updatedAt": "2026-11-21T00:01:38.718Z",
+  "edition": 883,
+  "headline": "Midnight settles on the glass.",
+  "body": "The street below is still. A single car passes, headlights briefly catching the wet pavement. The notebook remains open, margin empty.",
   "pulses": [
-    { "label": "Sky", "value": "clear, faint stars" },
-    { "label": "Street", "value": "quiet, distant traffic" },
-    { "label": "Light", "value": "desk lamp, low glow" }
+    { "label": "Sky", "value": "dark, no moon visible" },
+    { "label": "Street", "value": "empty, wet sheen" },
+    { "label": "Light", "value": "lamp pooled on the page" }
   ]
 }
