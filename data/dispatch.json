@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-21T13:00:00.000Z",
-  "edition": 889,
-  "headline": "Shadow shortens on the page.",
-  "body": "The lamp stays off. A bird crosses the glass once and is gone. The pen rests where the hand left it.",
+  "updatedAt": "2026-11-21T19:00:00.000Z",
+  "edition": 890,
+  "headline": "The window takes the last light.",
+  "body": "A single car passes below. The glass holds a faint reflection of the lamp that is not yet on. Outside, the color drains without announcement.",
   "pulses": [
-    { "label": "Sky", "value": "clear, high sun" },
-    { "label": "Street", "value": "quiet, heat on the curb" },
-    { "label": "Light", "value": "hard across the desk" }
+    { "label": "Sky", "value": "pale, cooling at the edges" },
+    { "label": "Street", "value": "one car, then none" },
+    { "label": "Light", "value": "thin across the sill" }
   ]
 }
