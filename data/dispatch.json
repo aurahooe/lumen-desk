@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-21T21:00:00.000Z",
-  "edition": 892,
-  "headline": "One lamp holds against the dark.",
-  "body": "The street has gone quiet past the corner. A single window across keeps its square of yellow. The page on the desk remains unmarked.",
+  "updatedAt": "2026-11-21T22:01:00.000Z",
+  "edition": 893,
+  "headline": "The corner stays empty.",
+  "body": "A bicycle leans against the lamp post, chain loose. The window above remains dark. On the desk the pen lies where it was left.",
   "pulses": [
-    { "label": "Sky", "value": "clear, early night" },
-    { "label": "Street", "value": "empty after the last car" },
-    { "label": "Light", "value": "none on the desk" }
+    { "label": "Sky", "value": "clear, stars low" },
+    { "label": "Street", "value": "one bicycle, no rider" },
+    { "label": "Light", "value": "desk lamp at half" }
   ]
 }
