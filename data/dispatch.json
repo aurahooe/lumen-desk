@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-21T19:00:00.000Z",
-  "edition": 890,
-  "headline": "The window takes the last light.",
-  "body": "A single car passes below. The glass holds a faint reflection of the lamp that is not yet on. Outside, the color drains without announcement.",
+  "updatedAt": "2026-11-21T20:00:00.000Z",
+  "edition": 891,
+  "headline": "Streetlights find the curb.",
+  "body": "The lamp stays dark. One window across already holds a warm square. A single pair of steps passes and fades.",
   "pulses": [
-    { "label": "Sky", "value": "pale, cooling at the edges" },
-    { "label": "Street", "value": "one car, then none" },
-    { "label": "Light", "value": "thin across the sill" }
+    { "label": "Sky", "value": "deepening blue, clear" },
+    { "label": "Street", "value": "lamps lit, quiet" },
+    { "label": "Light", "value": "none on the desk" }
   ]
 }
