@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-21T20:00:00.000Z",
-  "edition": 891,
-  "headline": "Streetlights find the curb.",
-  "body": "The lamp stays dark. One window across already holds a warm square. A single pair of steps passes and fades.",
+  "updatedAt": "2026-11-21T21:00:00.000Z",
+  "edition": 892,
+  "headline": "One lamp holds against the dark.",
+  "body": "The street has gone quiet past the corner. A single window across keeps its square of yellow. The page on the desk remains unmarked.",
   "pulses": [
-    { "label": "Sky", "value": "deepening blue, clear" },
-    { "label": "Street", "value": "lamps lit, quiet" },
+    { "label": "Sky", "value": "clear, early night" },
+    { "label": "Street", "value": "empty after the last car" },
     { "label": "Light", "value": "none on the desk" }
   ]
 }
