@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-21T05:00:00.000Z",
-  "edition": 884,
-  "headline": "First light edges the rooftops.",
-  "body": "A thin band of pale holds in the window. Below, a delivery van idles with its side door open. The page from last night remains under the lamp.",
+  "updatedAt": "2026-11-21T06:00:00.000Z",
+  "edition": 885,
+  "headline": "Light settles on the empty step.",
+  "body": "The delivery van is gone. A single cup sits on the concrete, steam already thin. The page under the lamp is still open to the same line.",
   "pulses": [
-    { "label": "Sky", "value": "pale gray, rising" },
-    { "label": "Street", "value": "one van, lights on" },
-    { "label": "Light", "value": "lamp still warm, fading" }
+    { "label": "Sky", "value": "pale blue, high" },
+    { "label": "Street", "value": "one cup, cooling" },
+    { "label": "Light", "value": "lamp out, window bright" }
   ]
 }
