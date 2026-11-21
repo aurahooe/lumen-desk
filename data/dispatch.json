@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-21T22:01:00.000Z",
-  "edition": 893,
-  "headline": "The corner stays empty.",
-  "body": "A bicycle leans against the lamp post, chain loose. The window above remains dark. On the desk the pen lies where it was left.",
+  "updatedAt": "2026-11-21T23:00:00.000Z",
+  "edition": 894,
+  "headline": "The glass holds the dark.",
+  "body": "A moth circles the bulb and leaves. The pen rests in its groove. Outside, the pavement has gone still.",
   "pulses": [
-    { "label": "Sky", "value": "clear, stars low" },
-    { "label": "Street", "value": "one bicycle, no rider" },
-    { "label": "Light", "value": "desk lamp at half" }
+    { "label": "Sky", "value": "clear, stars high" },
+    { "label": "Street", "value": "empty to the corner" },
+    { "label": "Light", "value": "soft on the paper" }
   ]
 }
