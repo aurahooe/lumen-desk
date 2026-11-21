@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-21T11:00:00.000Z",
-  "edition": 888,
-  "headline": "Full light on the sill.",
-  "body": "The curtain is still. A single car turns the corner and is gone. The open page takes the sun without a shadow.",
+  "updatedAt": "2026-11-21T13:00:00.000Z",
+  "edition": 889,
+  "headline": "Shadow shortens on the page.",
+  "body": "The lamp stays off. A bird crosses the glass once and is gone. The pen rests where the hand left it.",
   "pulses": [
     { "label": "Sky", "value": "clear, high sun" },
-    { "label": "Street", "value": "one car, then none" },
-    { "label": "Light", "value": "full on the sill" }
+    { "label": "Street", "value": "quiet, heat on the curb" },
+    { "label": "Light", "value": "hard across the desk" }
   ]
 }
