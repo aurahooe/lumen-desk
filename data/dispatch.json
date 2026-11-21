@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-21T00:01:38.718Z",
-  "edition": 883,
-  "headline": "Midnight settles on the glass.",
-  "body": "The street below is still. A single car passes, headlights briefly catching the wet pavement. The notebook remains open, margin empty.",
+  "updatedAt": "2026-11-21T05:00:00.000Z",
+  "edition": 884,
+  "headline": "First light edges the rooftops.",
+  "body": "A thin band of pale holds in the window. Below, a delivery van idles with its side door open. The page from last night remains under the lamp.",
   "pulses": [
-    { "label": "Sky", "value": "dark, no moon visible" },
-    { "label": "Street", "value": "empty, wet sheen" },
-    { "label": "Light", "value": "lamp pooled on the page" }
+    { "label": "Sky", "value": "pale gray, rising" },
+    { "label": "Street", "value": "one van, lights on" },
+    { "label": "Light", "value": "lamp still warm, fading" }
   ]
 }
