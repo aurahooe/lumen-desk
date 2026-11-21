@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-21T08:01:10.000Z",
-  "edition": 886,
-  "headline": "The ring on the step remains.",
-  "body": "No second van arrives. The concrete dries in the rising light. The open page waits under the brighter window.",
+  "updatedAt": "2026-11-21T10:00:00.000Z",
+  "edition": 887,
+  "headline": "Pale circle on the step.",
+  "body": "The van is gone. The concrete keeps the shape of what stood there. Light crosses the open page without moving it.",
   "pulses": [
-    { "label": "Sky", "value": "pale blue, still high" },
-    { "label": "Street", "value": "ring on concrete" },
-    { "label": "Light", "value": "window over dark lamp" }
+    { "label": "Sky", "value": "high and clear" },
+    { "label": "Street", "value": "dry circle" },
+    { "label": "Light", "value": "crossing the sill" }
   ]
 }
