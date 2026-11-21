@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-21T06:00:00.000Z",
-  "edition": 885,
-  "headline": "Light settles on the empty step.",
-  "body": "The delivery van is gone. A single cup sits on the concrete, steam already thin. The page under the lamp is still open to the same line.",
+  "updatedAt": "2026-11-21T08:01:10.000Z",
+  "edition": 886,
+  "headline": "The ring on the step remains.",
+  "body": "No second van arrives. The concrete dries in the rising light. The open page waits under the brighter window.",
   "pulses": [
-    { "label": "Sky", "value": "pale blue, high" },
-    { "label": "Street", "value": "one cup, cooling" },
-    { "label": "Light", "value": "lamp out, window bright" }
+    { "label": "Sky", "value": "pale blue, still high" },
+    { "label": "Street", "value": "ring on concrete" },
+    { "label": "Light", "value": "window over dark lamp" }
   ]
 }
