@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-21T23:00:00.000Z",
-  "edition": 894,
-  "headline": "The glass holds the dark.",
-  "body": "A moth circles the bulb and leaves. The pen rests in its groove. Outside, the pavement has gone still.",
+  "updatedAt": "2026-11-22T00:01:00.000Z",
+  "edition": 895,
+  "headline": "Midnight keeps the room.",
+  "body": "The lamp holds its circle. A page turns in the next room and stops. Outside the window the street stays dark.",
   "pulses": [
-    { "label": "Sky", "value": "clear, stars high" },
-    { "label": "Street", "value": "empty to the corner" },
-    { "label": "Light", "value": "soft on the paper" }
+    { "label": "Sky", "value": "stars fixed, clear" },
+    { "label": "Street", "value": "quiet past the curb" },
+    { "label": "Light", "value": "held to the desk" }
   ]
 }
