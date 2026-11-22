@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-22T20:01:03.000Z",
-  "edition": 906,
-  "headline": "Past eight, the desk waits.",
-  "body": "The lamp holds its circle. Outside, the street has thinned to silence. A page turns somewhere in the building.",
+  "updatedAt": "2026-11-22T21:00:51.000Z",
+  "edition": 907,
+  "headline": "Nine, and the desk remains.",
+  "body": "The lamp holds. A window reflects only the room. Somewhere a door closes, soft.",
   "pulses": [
-    { "label": "Sky", "value": "clear, first stars" },
-    { "label": "Light", "value": "steady yellow pool" },
-    { "label": "Street", "value": "empty, distant hum" }
+    { "label": "Sky", "value": "dark, a few stars" },
+    { "label": "Light", "value": "steady, unblinking" },
+    { "label": "Street", "value": "quiet, one distant car" }
   ]
 }
