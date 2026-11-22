@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-22T06:00:00.000Z",
-  "edition": 900,
-  "headline": "Light arrives without announcement.",
-  "body": "The lamp on the desk has been left on. A thin pale band shows above the opposite roof. No footsteps yet on the pavement.",
+  "updatedAt": "2026-11-22T07:00:00.000Z",
+  "edition": 901,
+  "headline": "The lamp remains the brightest thing.",
+  "body": "Daylight has reached the opposite wall. The street below is still empty. A single car is parked at the far end.",
   "pulses": [
-    { "label": "Sky", "value": "pale band above the roofs" },
-    { "label": "Mood", "value": "waiting, not yet warm" },
-    { "label": "Street", "value": "still empty, one parked car" }
+    { "label": "Sky", "value": "clear, cold blue" },
+    { "label": "Light", "value": "soft on the sill" },
+    { "label": "Street", "value": "one car, no walkers" }
   ]
 }
