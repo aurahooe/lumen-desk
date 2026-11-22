@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-22T00:01:00.000Z",
-  "edition": 895,
-  "headline": "Midnight keeps the room.",
-  "body": "The lamp holds its circle. A page turns in the next room and stops. Outside the window the street stays dark.",
+  "updatedAt": "2026-11-22T01:00:00.000Z",
+  "edition": 896,
+  "headline": "The lamp does not shift.",
+  "body": "Its circle stays fixed on the blotter. The radiator clicks once and falls quiet. Beyond the window the street holds no movement.",
   "pulses": [
     { "label": "Sky", "value": "stars fixed, clear" },
-    { "label": "Street", "value": "quiet past the curb" },
-    { "label": "Light", "value": "held to the desk" }
+    { "label": "Light", "value": "circle unchanged" },
+    { "label": "Street", "value": "empty to the corner" }
   ]
 }
