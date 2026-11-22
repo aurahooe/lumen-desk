@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-22T09:01:26.000Z",
-  "edition": 902,
-  "headline": "The radiator has gone quiet.",
-  "body": "A pale rectangle of light lies on the floor. Outside, one bicycle rests against the curb. The street remains empty of walkers.",
+  "updatedAt": "2026-11-22T11:00:00.000Z",
+  "edition": 903,
+  "headline": "Sun reaches the far corner.",
+  "body": "The lamp has been switched off. A narrow band of light now crosses the floorboards. Outside, the bicycle remains against the curb.",
   "pulses": [
-    { "label": "Sky", "value": "high and clear" },
-    { "label": "Light", "value": "pale on the boards" },
-    { "label": "Street", "value": "one bicycle, no walkers" }
+    { "label": "Sky", "value": "clear, high blue" },
+    { "label": "Light", "value": "full across the boards" },
+    { "label": "Street", "value": "bicycle still there" }
   ]
 }
