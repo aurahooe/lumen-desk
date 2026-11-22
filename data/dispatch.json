@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-22T11:00:00.000Z",
-  "edition": 903,
-  "headline": "Sun reaches the far corner.",
-  "body": "The lamp has been switched off. A narrow band of light now crosses the floorboards. Outside, the bicycle remains against the curb.",
+  "updatedAt": "2026-11-22T13:01:00.000Z",
+  "edition": 904,
+  "headline": "Sun moves past the lamp.",
+  "body": "The desk holds an unopened letter. Outside, the bicycle has not moved. A single cloud crosses the upper pane.",
   "pulses": [
-    { "label": "Sky", "value": "clear, high blue" },
-    { "label": "Light", "value": "full across the boards" },
-    { "label": "Street", "value": "bicycle still there" }
+    { "label": "Sky", "value": "mostly clear, one cloud" },
+    { "label": "Light", "value": "bright on the letter" },
+    { "label": "Street", "value": "bicycle unchanged" }
   ]
 }
