@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-22T02:00:00.000Z",
-  "edition": 897,
-  "headline": "Nothing moves the lamp.",
-  "body": "Its circle stays where it was left. The clock on the shelf advances one minute. Outside the window the street remains empty.",
+  "updatedAt": "2026-11-22T03:00:00.000Z",
+  "edition": 898,
+  "headline": "The lamp keeps its radius.",
+  "body": "Nothing has shifted the edge of light. The shelf clock advances without sound. Below, the pavement holds the last of the rain.",
   "pulses": [
-    { "label": "Sky", "value": "clear to the zenith" },
-    { "label": "Mood", "value": "held, unhurried" },
-    { "label": "Street", "value": "dark past the curb" }
+    { "label": "Sky", "value": "clear, no cloud at zenith" },
+    { "label": "Mood", "value": "quiet, unmoved" },
+    { "label": "Street", "value": "wet, empty past the curb" }
   ]
 }
