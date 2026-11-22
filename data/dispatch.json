@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-22T21:00:51.000Z",
-  "edition": 907,
-  "headline": "Nine, and the desk remains.",
-  "body": "The lamp holds. A window reflects only the room. Somewhere a door closes, soft.",
+  "updatedAt": "2026-11-22T22:00:00.000Z",
+  "edition": 908,
+  "headline": "Ten, and the lamp stays on.",
+  "body": "The page remains unturned. A distant window keeps its light. No sound reaches the sill.",
   "pulses": [
-    { "label": "Sky", "value": "dark, a few stars" },
-    { "label": "Light", "value": "steady, unblinking" },
-    { "label": "Street", "value": "quiet, one distant car" }
+    { "label": "Sky", "value": "dark, city haze low" },
+    { "label": "Light", "value": "warm, steady on the desk" },
+    { "label": "Street", "value": "quiet, no one passing" }
   ]
 }
