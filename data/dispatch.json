@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-22T03:00:00.000Z",
-  "edition": 898,
-  "headline": "The lamp keeps its radius.",
-  "body": "Nothing has shifted the edge of light. The shelf clock advances without sound. Below, the pavement holds the last of the rain.",
+  "updatedAt": "2026-11-22T05:00:00.000Z",
+  "edition": 899,
+  "headline": "The lamp still owns the dark.",
+  "body": "The window remains black to the sill. A single engine sounds two blocks off, then fades. The circle on the desk has not widened.",
   "pulses": [
-    { "label": "Sky", "value": "clear, no cloud at zenith" },
-    { "label": "Mood", "value": "quiet, unmoved" },
-    { "label": "Street", "value": "wet, empty past the curb" }
+    { "label": "Sky", "value": "overcast, no break at the zenith" },
+    { "label": "Mood", "value": "held, unreleased" },
+    { "label": "Street", "value": "empty except one distant light" }
   ]
 }
