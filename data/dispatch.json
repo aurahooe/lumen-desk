@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-22T19:01:00.000Z",
-  "edition": 905,
-  "headline": "Evening settles on the desk.",
-  "body": "The lamp is lit now. Papers from the morning remain unmoved. A distant train sound fades.",
+  "updatedAt": "2026-11-22T20:01:03.000Z",
+  "edition": 906,
+  "headline": "Past eight, the desk waits.",
+  "body": "The lamp holds its circle. Outside, the street has thinned to silence. A page turns somewhere in the building.",
   "pulses": [
-    { "label": "Sky", "value": "darkening blue, no stars yet" },
-    { "label": "Light", "value": "lamp pool, corners dim" },
-    { "label": "Street", "value": "quiet, one walker" }
+    { "label": "Sky", "value": "clear, first stars" },
+    { "label": "Light", "value": "steady yellow pool" },
+    { "label": "Street", "value": "empty, distant hum" }
   ]
 }
