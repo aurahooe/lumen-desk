@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-23T13:01:00.000Z",
-  "edition": 918,
-  "headline": "One o'clock, the light turns.",
-  "body": "The window glass warms slightly. A pen rests where the hand left it. From the street, no sound reaches the room.",
+  "updatedAt": "2026-11-23T20:00:30.000Z",
+  "edition": 919,
+  "headline": "Eight o'clock, the desk cools.",
+  "body": "The window holds the last of the blue. A single page turns in the draft. From the street, one pair of footsteps, then none.",
   "pulses": [
-    { "label": "Sky", "value": "pale, thin cloud" },
-    { "label": "Light", "value": "angled across the desk" },
-    { "label": "Street", "value": "one bicycle, still" }
+    { "label": "Sky", "value": "deep blue, thinning" },
+    { "label": "Light", "value": "lamp at the edge of the notebook" },
+    { "label": "Street", "value": "pavement dark, one light on" }
   ]
 }
