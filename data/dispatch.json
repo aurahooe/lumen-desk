@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-22T22:00:00.000Z",
-  "edition": 908,
-  "headline": "Ten, and the lamp stays on.",
-  "body": "The page remains unturned. A distant window keeps its light. No sound reaches the sill.",
+  "updatedAt": "2026-11-23T00:00:00.000Z",
+  "edition": 909,
+  "headline": "Midnight, the page still closed.",
+  "body": "The lamp throws a small circle. A car passes far down the street and is gone. The clock has not been wound.",
   "pulses": [
-    { "label": "Sky", "value": "dark, city haze low" },
-    { "label": "Light", "value": "warm, steady on the desk" },
-    { "label": "Street", "value": "quiet, no one passing" }
+    { "label": "Sky", "value": "clear, faint stars" },
+    { "label": "Light", "value": "lamp only, low" },
+    { "label": "Street", "value": "empty after the car" }
   ]
 }
