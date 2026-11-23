@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-23T06:00:00.000Z",
-  "edition": 913,
-  "headline": "Six o'clock, frost on the glass.",
-  "body": "The lamp still draws its circle on the desk. Outside, a thin white line has settled along the bicycle frame. No one has crossed the street yet.",
+  "updatedAt": "2026-11-23T07:00:00.000Z",
+  "edition": 914,
+  "headline": "Seven, frost still on the glass.",
+  "body": "The lamp remains. A thin wash of light reaches the eastern sill. Outside, the bicycle stands white along its frame, the street empty.",
   "pulses": [
-    { "label": "Sky", "value": "pale blue, lifting" },
-    { "label": "Light", "value": "lamp and first window light" },
-    { "label": "Street", "value": "bicycle frosted" }
+    { "label": "Sky", "value": "pale blue, high" },
+    { "label": "Light", "value": "first on the sill" },
+    { "label": "Street", "value": "bicycle frosted, quiet" }
   ]
 }
