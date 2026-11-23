@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-23T10:00:49.000Z",
-  "edition": 916,
-  "headline": "Ten o'clock, the van at the corner.",
-  "body": "The lamp is off. Daylight reaches the far edge of the desk. Outside a delivery van idles, its side door open to the street.",
+  "updatedAt": "2026-11-23T12:00:00.000Z",
+  "edition": 917,
+  "headline": "Twelve o'clock, the corner clear.",
+  "body": "The delivery van has left. Daylight fills the desk without shadow. A single leaf rests against the window glass.",
   "pulses": [
-    { "label": "Sky", "value": "pale blue, thin cloud" },
-    { "label": "Light", "value": "even across the room" },
-    { "label": "Street", "value": "van idling, door open" }
+    { "label": "Sky", "value": "clear, high" },
+    { "label": "Light", "value": "full across the sill" },
+    { "label": "Street", "value": "empty, one leaf" }
   ]
 }
