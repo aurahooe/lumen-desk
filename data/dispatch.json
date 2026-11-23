@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-23T01:00:00.000Z",
-  "edition": 910,
-  "headline": "One o'clock, the lamp steady.",
-  "body": "The street has gone quiet again. A faint glow still sits on the far window. The page on the desk remains unmarked.",
+  "updatedAt": "2026-11-23T02:00:00.000Z",
+  "edition": 911,
+  "headline": "Two o'clock, the lamp still.",
+  "body": "The radiator has settled into its low tick. Across the street the same window holds its thin light. The unmarked page on the desk does not shift.",
   "pulses": [
-    { "label": "Sky", "value": "dark, no cloud" },
-    { "label": "Light", "value": "lamp circle, unchanged" },
-    { "label": "Street", "value": "still, no further cars" }
+    { "label": "Sky", "value": "dark, a few stars" },
+    { "label": "Light", "value": "lamp circle, steady" },
+    { "label": "Street", "value": "empty to the corner" }
   ]
 }
