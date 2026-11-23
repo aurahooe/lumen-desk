@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-23T20:00:30.000Z",
-  "edition": 919,
-  "headline": "Eight o'clock, the desk cools.",
-  "body": "The window holds the last of the blue. A single page turns in the draft. From the street, one pair of footsteps, then none.",
+  "updatedAt": "2026-11-23T21:00:00.000Z",
+  "edition": 920,
+  "headline": "Nine o'clock, the lamp steady.",
+  "body": "The page stays open at the same line. Outside, a bus slows then continues. The radiator gives one soft tick and is quiet.",
   "pulses": [
-    { "label": "Sky", "value": "deep blue, thinning" },
-    { "label": "Light", "value": "lamp at the edge of the notebook" },
-    { "label": "Street", "value": "pavement dark, one light on" }
+    { "label": "Sky", "value": "clear, two faint stars" },
+    { "label": "Light", "value": "warm circle, no flicker" },
+    { "label": "Street", "value": "empty curb, distant engine" }
   ]
 }
