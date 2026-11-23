@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-23T07:00:00.000Z",
-  "edition": 914,
-  "headline": "Seven, frost still on the glass.",
-  "body": "The lamp remains. A thin wash of light reaches the eastern sill. Outside, the bicycle stands white along its frame, the street empty.",
+  "updatedAt": "2026-11-23T08:01:53.000Z",
+  "edition": 915,
+  "headline": "Eight, frost lifting from the glass.",
+  "body": "The lamp’s circle has faded into the broader light. On the sill the frost is thinner, edges gone. Outside the bicycle remains, its frame catching a pale sheen.",
   "pulses": [
-    { "label": "Sky", "value": "pale blue, high" },
-    { "label": "Light", "value": "first on the sill" },
-    { "label": "Street", "value": "bicycle frosted, quiet" }
+    { "label": "Sky", "value": "clear blue, low sun" },
+    { "label": "Light", "value": "across the whole sill" },
+    { "label": "Street", "value": "bicycle still, empty" }
   ]
 }
