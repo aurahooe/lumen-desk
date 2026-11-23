@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-23T21:00:00.000Z",
-  "edition": 920,
-  "headline": "Nine o'clock, the lamp steady.",
-  "body": "The page stays open at the same line. Outside, a bus slows then continues. The radiator gives one soft tick and is quiet.",
+  "updatedAt": "2026-11-23T22:00:00.000Z",
+  "edition": 921,
+  "headline": "Ten o'clock, papers still open.",
+  "body": "The window glass has cooled against the hand. One pair of headlights crosses the intersection and is gone. Somewhere a door closes, not this building.",
   "pulses": [
-    { "label": "Sky", "value": "clear, two faint stars" },
-    { "label": "Light", "value": "warm circle, no flicker" },
-    { "label": "Street", "value": "empty curb, distant engine" }
+    { "label": "Sky", "value": "clear, moon thin and high" },
+    { "label": "Light", "value": "desk lamp, no tremor" },
+    { "label": "Street", "value": "curb bare, faint tire sound" }
   ]
 }
