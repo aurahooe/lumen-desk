@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-23T22:00:00.000Z",
-  "edition": 921,
-  "headline": "Ten o'clock, papers still open.",
-  "body": "The window glass has cooled against the hand. One pair of headlights crosses the intersection and is gone. Somewhere a door closes, not this building.",
+  "updatedAt": "2026-11-23T23:01:38.464Z",
+  "edition": 922,
+  "headline": "Eleven, the intersection empties.",
+  "body": "The lamp shade has warmed on one side. A single pair of shoes crosses the far sidewalk and turns the corner. The papers stay where they are.",
   "pulses": [
-    { "label": "Sky", "value": "clear, moon thin and high" },
-    { "label": "Light", "value": "desk lamp, no tremor" },
-    { "label": "Street", "value": "curb bare, faint tire sound" }
+    { "label": "Sky", "value": "clear, a few stars" },
+    { "label": "Light", "value": "desk lamp, shade warm" },
+    { "label": "Street", "value": "curb quiet, one engine far" }
   ]
 }
