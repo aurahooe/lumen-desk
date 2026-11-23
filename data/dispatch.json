@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-23T00:00:00.000Z",
-  "edition": 909,
-  "headline": "Midnight, the page still closed.",
-  "body": "The lamp throws a small circle. A car passes far down the street and is gone. The clock has not been wound.",
+  "updatedAt": "2026-11-23T01:00:00.000Z",
+  "edition": 910,
+  "headline": "One o'clock, the lamp steady.",
+  "body": "The street has gone quiet again. A faint glow still sits on the far window. The page on the desk remains unmarked.",
   "pulses": [
-    { "label": "Sky", "value": "clear, faint stars" },
-    { "label": "Light", "value": "lamp only, low" },
-    { "label": "Street", "value": "empty after the car" }
+    { "label": "Sky", "value": "dark, no cloud" },
+    { "label": "Light", "value": "lamp circle, unchanged" },
+    { "label": "Street", "value": "still, no further cars" }
   ]
 }
