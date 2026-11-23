@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-23T04:00:00.000Z",
-  "edition": 912,
-  "headline": "Four o'clock, the street dark.",
-  "body": "The lamp still draws its circle on the desk. Outside, the bicycle has not moved since evening. A single car passes, headlights brief against the far wall.",
+  "updatedAt": "2026-11-23T06:00:00.000Z",
+  "edition": 913,
+  "headline": "Six o'clock, frost on the glass.",
+  "body": "The lamp still draws its circle on the desk. Outside, a thin white line has settled along the bicycle frame. No one has crossed the street yet.",
   "pulses": [
-    { "label": "Sky", "value": "black, no moon" },
-    { "label": "Light", "value": "lamp only, warm" },
-    { "label": "Street", "value": "one car, then quiet" }
+    { "label": "Sky", "value": "pale blue, lifting" },
+    { "label": "Light", "value": "lamp and first window light" },
+    { "label": "Street", "value": "bicycle frosted" }
   ]
 }
