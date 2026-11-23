@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-23T12:00:00.000Z",
-  "edition": 917,
-  "headline": "Twelve o'clock, the corner clear.",
-  "body": "The delivery van has left. Daylight fills the desk without shadow. A single leaf rests against the window glass.",
+  "updatedAt": "2026-11-23T13:01:00.000Z",
+  "edition": 918,
+  "headline": "One o'clock, the light turns.",
+  "body": "The window glass warms slightly. A pen rests where the hand left it. From the street, no sound reaches the room.",
   "pulses": [
-    { "label": "Sky", "value": "clear, high" },
-    { "label": "Light", "value": "full across the sill" },
-    { "label": "Street", "value": "empty, one leaf" }
+    { "label": "Sky", "value": "pale, thin cloud" },
+    { "label": "Light", "value": "angled across the desk" },
+    { "label": "Street", "value": "one bicycle, still" }
   ]
 }
