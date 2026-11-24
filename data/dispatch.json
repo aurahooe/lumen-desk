@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-24T11:00:00.000Z",
-  "edition": 932,
-  "headline": "Eleven, the coffee has gone cold.",
-  "body": "The window glass has warmed under the sun. A single leaf rests on the sill. Somewhere a radio plays low, then stops.",
+  "updatedAt": "2026-11-24T12:01:50.000Z",
+  "edition": 933,
+  "headline": "Noon, the shadows shorten.",
+  "body": "The lamp stays off. A page turns in the next room. Outside the pavement holds the last of the morning cool.",
   "pulses": [
-    { "label": "Sky", "value": "bright, almost white at the edges" },
-    { "label": "Light", "value": "direct, cutting the desk in half" },
-    { "label": "Street", "value": "still, a dog crossing far down" }
+    { "label": "Sky", "value": "high, nearly white" },
+    { "label": "Light", "value": "overhead, flat across the desk" },
+    { "label": "Street", "value": "two walkers, unhurried" }
   ]
 }
