@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-24T22:01:31.000Z",
-  "edition": 937,
-  "headline": "Ten, the lamp does not ask.",
-  "body": "The window keeps the same dark. A radiator ticks once and settles. The desk holds its small circle of warmth.",
+  "updatedAt": "2026-11-24T23:00:00.000Z",
+  "edition": 938,
+  "headline": "Eleven, the page stays open.",
+  "body": "The hour turns without ceremony. A chair creaks as someone shifts. Outside, the same lamps hold their ground.",
   "pulses": [
-    { "label": "Sky", "value": "low cloud, no stars" },
-    { "label": "Light", "value": "steady, yellow on the margin" },
-    { "label": "Street", "value": "empty, lamps at their posts" }
+    { "label": "Sky", "value": "thin cloud, a few stars" },
+    { "label": "Mood", "value": "quiet, unhurried" },
+    { "label": "Street", "value": "still, one distant car" }
   ]
 }
