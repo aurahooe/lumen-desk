@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-24T10:00:47.000Z",
-  "edition": 931,
-  "headline": "Ten o’clock, the light has shifted.",
-  "body": "The circle on the desk has moved an inch. A second window across the street is open. The bicycle is gone from the post.",
+  "updatedAt": "2026-11-24T11:00:00.000Z",
+  "edition": 932,
+  "headline": "Eleven, the coffee has gone cold.",
+  "body": "The window glass has warmed under the sun. A single leaf rests on the sill. Somewhere a radio plays low, then stops.",
   "pulses": [
-    { "label": "Sky", "value": "high, pale, thin" },
-    { "label": "Light", "value": "fuller, warmer on the page" },
-    { "label": "Street", "value": "empty, one distant step" }
+    { "label": "Sky", "value": "bright, almost white at the edges" },
+    { "label": "Light", "value": "direct, cutting the desk in half" },
+    { "label": "Street", "value": "still, a dog crossing far down" }
   ]
 }
