@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-24T01:01:20.000Z",
-  "edition": 924,
-  "headline": "One o'clock, the chair still warm.",
-  "body": "The page has not been turned. A moth circles the lamp once and settles on the shade. Across the street a single window holds its light.",
+  "updatedAt": "2026-11-24T02:01:03.000Z",
+  "edition": 925,
+  "headline": "Two o'clock, the moth still there.",
+  "body": "It has not left the shade. A pipe ticks once in the wall and falls silent. Across the street the single window keeps its light.",
   "pulses": [
     { "label": "Sky", "value": "clear, thin glow east" },
-    { "label": "Light", "value": "lamp only, steady" },
-    { "label": "Street", "value": "quiet, one window lit" }
+    { "label": "Light", "value": "lamp steady, no flicker" },
+    { "label": "Street", "value": "empty, one window holds" }
   ]
 }
