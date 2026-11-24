@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-24T14:01:00.000Z",
-  "edition": 934,
-  "headline": "Two o'clock, the window holds.",
-  "body": "A single car passes below. The page stays open to the same paragraph. Light slides a little farther along the sill.",
+  "updatedAt": "2026-11-24T20:00:00.000Z",
+  "edition": 935,
+  "headline": "Eight o'clock, the lamp takes over.",
+  "body": "The page remains on the same line. Outside the pavement cools under the first lamps. A bicycle leans against the far wall.",
   "pulses": [
-    { "label": "Sky", "value": "pale blue, thin cloud" },
-    { "label": "Light", "value": "angled, catching the edge of the desk" },
-    { "label": "Street", "value": "quiet, one parked bicycle" }
+    { "label": "Sky", "value": "indigo, stars just visible" },
+    { "label": "Light", "value": "warm, pooled on the desk" },
+    { "label": "Street", "value": "quiet, lamps lit at intervals" }
   ]
 }
