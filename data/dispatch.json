@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-23T23:01:38.464Z",
-  "edition": 922,
-  "headline": "Eleven, the intersection empties.",
-  "body": "The lamp shade has warmed on one side. A single pair of shoes crosses the far sidewalk and turns the corner. The papers stay where they are.",
+  "updatedAt": "2026-11-24T00:01:37.712Z",
+  "edition": 923,
+  "headline": "Midnight, the window holds still.",
+  "body": "The desk clock ticks once and stops counting out loud. Outside, a taxi light slides past and is gone. The page remains open on the same line.",
   "pulses": [
-    { "label": "Sky", "value": "clear, a few stars" },
-    { "label": "Light", "value": "desk lamp, shade warm" },
-    { "label": "Street", "value": "curb quiet, one engine far" }
+    { "label": "Sky", "value": "deep blue, thin cloud" },
+    { "label": "Light", "value": "monitor glow, low" },
+    { "label": "Street", "value": "wet asphalt, no traffic" }
   ]
 }
