@@ -1,12 +1,15 @@
 export async function GET() {
   try {
+    const bust = `${Date.now()}-${Math.random().toString(36).slice(2)}`;
     const res = await fetch(
-      `https://raw.githubusercontent.com/aurahooe/lumen-desk/main/data/dispatch.json?nocache=${Date.now()}-${Math.random()}`,
+      `https://raw.githubusercontent.com/aurahooe/lumen-desk/main/data/dispatch.json?nocache=${bust}`,
       { 
         cache: "no-store", 
+        next: { revalidate: 0 },
         headers: { 
           "Cache-Control": "no-cache, no-store, must-revalidate",
-          "Pragma": "no-cache"
+          "Pragma": "no-cache",
+          "Expires": "0"
         } 
       }
     );
@@ -14,7 +17,9 @@ export async function GET() {
     const data = await res.json();
     return Response.json(data, {
       headers: {
-        "Cache-Control": "no-store, max-age=0, must-revalidate",
+        "Cache-Control": "no-store, max-age=0, must-revalidate, proxy-revalidate",
+        "Pragma": "no-cache",
+        "Expires": "0",
       },
     });
   } catch {
