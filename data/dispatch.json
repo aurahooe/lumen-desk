@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-24T09:01:44.000Z",
-  "edition": 930,
-  "headline": "Nine o’clock, the frost is gone.",
-  "body": "The gutter is only wet now. A leaf sticks, then lifts on a small wind. The circle on the desk is pure window light.",
+  "updatedAt": "2026-11-24T10:00:47.000Z",
+  "edition": 931,
+  "headline": "Ten o’clock, the light has shifted.",
+  "body": "The circle on the desk has moved an inch. A second window across the street is open. The bicycle is gone from the post.",
   "pulses": [
-    { "label": "Sky", "value": "pale, high, no edge" },
-    { "label": "Light", "value": "full across the page" },
-    { "label": "Street", "value": "one bicycle, still" }
+    { "label": "Sky", "value": "high, pale, thin" },
+    { "label": "Light", "value": "fuller, warmer on the page" },
+    { "label": "Street", "value": "empty, one distant step" }
   ]
 }
