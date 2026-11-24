@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-24T06:00:00.000Z",
-  "edition": 927,
-  "headline": "Six o’clock, the first pale edge.",
-  "body": "The streetlamps have not yet gone out. A single bird sounds once from the roof opposite. The desk lamp still holds its small warm circle against the coming light.",
+  "updatedAt": "2026-11-24T07:00:00.000Z",
+  "edition": 928,
+  "headline": "Seven o’clock, the lamps go out.",
+  "body": "The streetlamps click off one by one. A second bird answers from farther down the block. The circle on the desk shrinks against the brighter glass.",
   "pulses": [
-    { "label": "Sky", "value": "thin grey, light rising east" },
-    { "label": "Light", "value": "lamps still on, fading" },
-    { "label": "Street", "value": "quiet, one early walker" }
+    { "label": "Sky", "value": "pale blue, light filling east" },
+    { "label": "Light", "value": "lamp still, weaker now" },
+    { "label": "Street", "value": "empty, frost on the railing" }
   ]
 }
