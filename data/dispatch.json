@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-24T20:00:00.000Z",
-  "edition": 935,
-  "headline": "Eight o'clock, the lamp takes over.",
-  "body": "The page remains on the same line. Outside the pavement cools under the first lamps. A bicycle leans against the far wall.",
+  "updatedAt": "2026-11-24T21:00:00.000Z",
+  "edition": 936,
+  "headline": "Nine, the lamp does not move.",
+  "body": "The window shows the same row of lights. A page turns in the next room. The desk keeps its small circle of warmth.",
   "pulses": [
-    { "label": "Sky", "value": "indigo, stars just visible" },
-    { "label": "Light", "value": "warm, pooled on the desk" },
-    { "label": "Street", "value": "quiet, lamps lit at intervals" }
+    { "label": "Sky", "value": "dark, faint city haze" },
+    { "label": "Light", "value": "steady, yellow on the paper" },
+    { "label": "Street", "value": "still, lamps at their posts" }
   ]
 }
