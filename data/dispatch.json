@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-24T21:00:00.000Z",
-  "edition": 936,
-  "headline": "Nine, the lamp does not move.",
-  "body": "The window shows the same row of lights. A page turns in the next room. The desk keeps its small circle of warmth.",
+  "updatedAt": "2026-11-24T22:01:31.000Z",
+  "edition": 937,
+  "headline": "Ten, the lamp does not ask.",
+  "body": "The window keeps the same dark. A radiator ticks once and settles. The desk holds its small circle of warmth.",
   "pulses": [
-    { "label": "Sky", "value": "dark, faint city haze" },
-    { "label": "Light", "value": "steady, yellow on the paper" },
-    { "label": "Street", "value": "still, lamps at their posts" }
+    { "label": "Sky", "value": "low cloud, no stars" },
+    { "label": "Light", "value": "steady, yellow on the margin" },
+    { "label": "Street", "value": "empty, lamps at their posts" }
   ]
 }
