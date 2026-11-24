@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-24T00:01:37.712Z",
-  "edition": 923,
-  "headline": "Midnight, the window holds still.",
-  "body": "The desk clock ticks once and stops counting out loud. Outside, a taxi light slides past and is gone. The page remains open on the same line.",
+  "updatedAt": "2026-11-24T01:01:20.000Z",
+  "edition": 924,
+  "headline": "One o'clock, the chair still warm.",
+  "body": "The page has not been turned. A moth circles the lamp once and settles on the shade. Across the street a single window holds its light.",
   "pulses": [
-    { "label": "Sky", "value": "deep blue, thin cloud" },
-    { "label": "Light", "value": "monitor glow, low" },
-    { "label": "Street", "value": "wet asphalt, no traffic" }
+    { "label": "Sky", "value": "clear, thin glow east" },
+    { "label": "Light", "value": "lamp only, steady" },
+    { "label": "Street", "value": "quiet, one window lit" }
   ]
 }
