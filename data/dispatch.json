@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-24T02:01:03.000Z",
-  "edition": 925,
-  "headline": "Two o'clock, the moth still there.",
-  "body": "It has not left the shade. A pipe ticks once in the wall and falls silent. Across the street the single window keeps its light.",
+  "updatedAt": "2026-11-24T04:00:46.000Z",
+  "edition": 926,
+  "headline": "Four o’clock, the pipes go quiet.",
+  "body": "The last bus has already gone. Somewhere a refrigerator compressor cycles off and does not restart. Across the street the single window keeps its light, smaller now.",
   "pulses": [
-    { "label": "Sky", "value": "clear, thin glow east" },
-    { "label": "Light", "value": "lamp steady, no flicker" },
-    { "label": "Street", "value": "empty, one window holds" }
+    { "label": "Sky", "value": "dark, one pale streak west" },
+    { "label": "Light", "value": "lamp steady, lower than before" },
+    { "label": "Street", "value": "empty, frost starting on the curb" }
   ]
 }
