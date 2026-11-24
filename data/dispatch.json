@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-24T07:00:00.000Z",
-  "edition": 928,
-  "headline": "Seven o’clock, the lamps go out.",
-  "body": "The streetlamps click off one by one. A second bird answers from farther down the block. The circle on the desk shrinks against the brighter glass.",
+  "updatedAt": "2026-11-24T08:00:00.000Z",
+  "edition": 929,
+  "headline": "Eight o’clock, the frost yields.",
+  "body": "A thin steam rises from the gutter. The second bird has moved closer; its call is shorter now. On the desk the circle has almost disappeared into the window light.",
   "pulses": [
-    { "label": "Sky", "value": "pale blue, light filling east" },
-    { "label": "Light", "value": "lamp still, weaker now" },
-    { "label": "Street", "value": "empty, frost on the railing" }
+    { "label": "Sky", "value": "clear, low sun on the brick" },
+    { "label": "Light", "value": "daylight overtaking the lamp" },
+    { "label": "Street", "value": "one pair of shoes, then none" }
   ]
 }
