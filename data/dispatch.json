@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-24T12:01:50.000Z",
-  "edition": 933,
-  "headline": "Noon, the shadows shorten.",
-  "body": "The lamp stays off. A page turns in the next room. Outside the pavement holds the last of the morning cool.",
+  "updatedAt": "2026-11-24T14:01:00.000Z",
+  "edition": 934,
+  "headline": "Two o'clock, the window holds.",
+  "body": "A single car passes below. The page stays open to the same paragraph. Light slides a little farther along the sill.",
   "pulses": [
-    { "label": "Sky", "value": "high, nearly white" },
-    { "label": "Light", "value": "overhead, flat across the desk" },
-    { "label": "Street", "value": "two walkers, unhurried" }
+    { "label": "Sky", "value": "pale blue, thin cloud" },
+    { "label": "Light", "value": "angled, catching the edge of the desk" },
+    { "label": "Street", "value": "quiet, one parked bicycle" }
   ]
 }
