@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-25T07:00:00.000Z",
-  "edition": 943,
-  "headline": "Seven, the kettle has quieted.",
-  "body": "Steam has left the kettle. The page remains unfinished. Outside, a single car passes, headlights on.",
+  "updatedAt": "2026-11-25T08:02:20.000Z",
+  "edition": 944,
+  "headline": "Eight, the frost begins to lift.",
+  "body": "The grey has thinned at the edges. A bird lands on the railing and stays. The unfinished sentence still waits on the page.",
   "pulses": [
-    { "label": "Sky", "value": "low grey, no sun yet" },
-    { "label": "Street", "value": "empty, frost still on the cars" },
-    { "label": "Light", "value": "single kitchen lamp" }
+    { "label": "Sky", "value": "pale grey, edges brighter" },
+    { "label": "Street", "value": "frost melting, one walker" },
+    { "label": "Light", "value": "daylight on the desk edge" }
   ]
 }
