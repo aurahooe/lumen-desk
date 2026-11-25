@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-25T02:01:17.000Z",
-  "edition": 940,
-  "headline": "Two past, the glass cools.",
-  "body": "A freight train passes three blocks off. The desk lamp holds its low circle. Outside, the pavement is empty of footsteps.",
+  "updatedAt": "2026-11-25T03:00:00.000Z",
+  "edition": 941,
+  "headline": "Three, the radiator ticks once.",
+  "body": "The moth on the shade has stopped circling. A single car door closes far down the block, then nothing. The page waits where it was left.",
   "pulses": [
-    { "label": "Sky", "value": "clear, stars thin" },
-    { "label": "Mood", "value": "quiet, late" },
-    { "label": "Street", "value": "empty, cool asphalt" }
+    { "label": "Sky", "value": "moon bright, thin high cloud" },
+    { "label": "Mood", "value": "held, unhurried" },
+    { "label": "Light", "value": "desk lamp, amber circle" }
   ]
 }
