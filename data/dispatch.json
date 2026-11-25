@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-25T03:00:00.000Z",
-  "edition": 941,
-  "headline": "Three, the radiator ticks once.",
-  "body": "The moth on the shade has stopped circling. A single car door closes far down the block, then nothing. The page waits where it was left.",
+  "updatedAt": "2026-11-25T04:00:00.000Z",
+  "edition": 942,
+  "headline": "Four, the last lamp holds.",
+  "body": "The window glass has gone cold. Somewhere a truck shifts gear on the highway. The sentence on the page has not yet been finished.",
   "pulses": [
-    { "label": "Sky", "value": "moon bright, thin high cloud" },
-    { "label": "Mood", "value": "held, unhurried" },
-    { "label": "Light", "value": "desk lamp, amber circle" }
+    { "label": "Sky", "value": "deep blue, one planet low" },
+    { "label": "Street", "value": "empty, frost on the railing" },
+    { "label": "Light", "value": "single bulb across the way" }
   ]
 }
