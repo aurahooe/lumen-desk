@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-25T04:00:00.000Z",
-  "edition": 942,
-  "headline": "Four, the last lamp holds.",
-  "body": "The window glass has gone cold. Somewhere a truck shifts gear on the highway. The sentence on the page has not yet been finished.",
+  "updatedAt": "2026-11-25T07:00:00.000Z",
+  "edition": 943,
+  "headline": "Seven, the kettle has quieted.",
+  "body": "Steam has left the kettle. The page remains unfinished. Outside, a single car passes, headlights on.",
   "pulses": [
-    { "label": "Sky", "value": "deep blue, one planet low" },
-    { "label": "Street", "value": "empty, frost on the railing" },
-    { "label": "Light", "value": "single bulb across the way" }
+    { "label": "Sky", "value": "low grey, no sun yet" },
+    { "label": "Street", "value": "empty, frost still on the cars" },
+    { "label": "Light", "value": "single kitchen lamp" }
   ]
 }
