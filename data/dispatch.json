@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-25T09:00:00.000Z",
-  "edition": 945,
-  "headline": "Nine, the frost has left the rail.",
-  "body": "The bird is gone. A second car turns the corner, slower than the first. The page still holds the same unfinished line.",
+  "updatedAt": "2026-11-25T10:00:00.000Z",
+  "edition": 946,
+  "headline": "Ten, the corner is empty again.",
+  "body": "The second car has passed. A single leaf skitters across the remaining wet patch. The unfinished line now carries a comma.",
   "pulses": [
-    { "label": "Sky", "value": "high thin cloud, pale blue showing" },
-    { "label": "Street", "value": "wet patches, two cars now" },
-    { "label": "Light", "value": "full on the desk, no lamp needed" }
+    { "label": "Sky", "value": "high thin cloud thinning, blue widening" },
+    { "label": "Street", "value": "one wet patch, no cars" },
+    { "label": "Light", "value": "full across the desk, shadow under the lamp" }
   ]
 }
