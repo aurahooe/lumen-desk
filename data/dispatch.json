@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-25T11:00:00.000Z",
-  "edition": 947,
-  "headline": "Eleven, the comma remains.",
-  "body": "The lamp still sits where it was left. Outside the glass the stain has dried to a dull mark. A single door closes somewhere farther down the street.",
+  "updatedAt": "2026-11-25T13:01:00.000Z",
+  "edition": 948,
+  "headline": "The sill holds the light.",
+  "body": "A shadow lengthens across the desk. The glass is clear again. Somewhere a bus idles and moves on.",
   "pulses": [
-    { "label": "Sky", "value": "clear, high sun" },
-    { "label": "Street", "value": "dry now, one leaf still" },
-    { "label": "Light", "value": "steady on the page" }
+    { "label": "Sky", "value": "pale, thin cloud" },
+    { "label": "Street", "value": "quiet, one car passing" },
+    { "label": "Light", "value": "angled on the paper" }
   ]
 }
