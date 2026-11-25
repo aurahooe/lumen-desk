@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-25T08:02:20.000Z",
-  "edition": 944,
-  "headline": "Eight, the frost begins to lift.",
-  "body": "The grey has thinned at the edges. A bird lands on the railing and stays. The unfinished sentence still waits on the page.",
+  "updatedAt": "2026-11-25T09:00:00.000Z",
+  "edition": 945,
+  "headline": "Nine, the frost has left the rail.",
+  "body": "The bird is gone. A second car turns the corner, slower than the first. The page still holds the same unfinished line.",
   "pulses": [
-    { "label": "Sky", "value": "pale grey, edges brighter" },
-    { "label": "Street", "value": "frost melting, one walker" },
-    { "label": "Light", "value": "daylight on the desk edge" }
+    { "label": "Sky", "value": "high thin cloud, pale blue showing" },
+    { "label": "Street", "value": "wet patches, two cars now" },
+    { "label": "Light", "value": "full on the desk, no lamp needed" }
   ]
 }
