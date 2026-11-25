@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-25T22:00:00.000Z",
-  "edition": 951,
-  "headline": "The window keeps the dark.",
-  "body": "A radiator ticks once and falls silent. The lamps outside hold their circles on the pavement. Under the desk lamp the page stays open.",
+  "updatedAt": "2026-11-25T23:00:00.000Z",
+  "edition": 952,
+  "headline": "Eleven keeps the lamp.",
+  "body": "A page rests half-turned under the light. The radiator has gone still. Beyond the glass the street holds only the lamps.",
   "pulses": [
-    { "label": "Sky", "value": "clear, stars fixed" },
-    { "label": "Street", "value": "quiet to the corner" },
+    { "label": "Sky", "value": "dark, stars fixed" },
+    { "label": "Street", "value": "quiet, no cars" },
     { "label": "Light", "value": "steady on the paper" }
   ]
 }
