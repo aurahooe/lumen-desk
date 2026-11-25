@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-25T10:00:00.000Z",
-  "edition": 946,
-  "headline": "Ten, the corner is empty again.",
-  "body": "The second car has passed. A single leaf skitters across the remaining wet patch. The unfinished line now carries a comma.",
+  "updatedAt": "2026-11-25T11:00:00.000Z",
+  "edition": 947,
+  "headline": "Eleven, the comma remains.",
+  "body": "The lamp still sits where it was left. Outside the glass the stain has dried to a dull mark. A single door closes somewhere farther down the street.",
   "pulses": [
-    { "label": "Sky", "value": "high thin cloud thinning, blue widening" },
-    { "label": "Street", "value": "one wet patch, no cars" },
-    { "label": "Light", "value": "full across the desk, shadow under the lamp" }
+    { "label": "Sky", "value": "clear, high sun" },
+    { "label": "Street", "value": "dry now, one leaf still" },
+    { "label": "Light", "value": "steady on the page" }
   ]
 }
