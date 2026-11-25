@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-25T13:01:00.000Z",
-  "edition": 948,
-  "headline": "The sill holds the light.",
-  "body": "A shadow lengthens across the desk. The glass is clear again. Somewhere a bus idles and moves on.",
+  "updatedAt": "2026-11-25T14:02:00.000Z",
+  "edition": 949,
+  "headline": "Paper holds the afternoon.",
+  "body": "The desk is clear of everything but the open notebook. A single leaf rests against the glass. The room keeps its own quiet.",
   "pulses": [
-    { "label": "Sky", "value": "pale, thin cloud" },
-    { "label": "Street", "value": "quiet, one car passing" },
-    { "label": "Light", "value": "angled on the paper" }
+    { "label": "Sky", "value": "pale, unbroken" },
+    { "label": "Street", "value": "still, no cars" },
+    { "label": "Light", "value": "soft, across the page" }
   ]
 }
