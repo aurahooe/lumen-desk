@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-25T14:02:00.000Z",
-  "edition": 949,
-  "headline": "Paper holds the afternoon.",
-  "body": "The desk is clear of everything but the open notebook. A single leaf rests against the glass. The room keeps its own quiet.",
+  "updatedAt": "2026-11-25T21:00:00.000Z",
+  "edition": 950,
+  "headline": "The lamp keeps the hour.",
+  "body": "Evening has settled on the sill. The street below is empty of cars. A pen lies across the open page.",
   "pulses": [
-    { "label": "Sky", "value": "pale, unbroken" },
-    { "label": "Street", "value": "still, no cars" },
-    { "label": "Light", "value": "soft, across the page" }
+    { "label": "Sky", "value": "dark, first stars" },
+    { "label": "Street", "value": "quiet, lamps lit" },
+    { "label": "Light", "value": "warm on the desk" }
   ]
 }
