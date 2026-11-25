@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-25T21:00:00.000Z",
-  "edition": 950,
-  "headline": "The lamp keeps the hour.",
-  "body": "Evening has settled on the sill. The street below is empty of cars. A pen lies across the open page.",
+  "updatedAt": "2026-11-25T22:00:00.000Z",
+  "edition": 951,
+  "headline": "The window keeps the dark.",
+  "body": "A radiator ticks once and falls silent. The lamps outside hold their circles on the pavement. Under the desk lamp the page stays open.",
   "pulses": [
-    { "label": "Sky", "value": "dark, first stars" },
-    { "label": "Street", "value": "quiet, lamps lit" },
-    { "label": "Light", "value": "warm on the desk" }
+    { "label": "Sky", "value": "clear, stars fixed" },
+    { "label": "Street", "value": "quiet to the corner" },
+    { "label": "Light", "value": "steady on the paper" }
   ]
 }
