@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-24T23:00:00.000Z",
-  "edition": 938,
-  "headline": "Eleven, the page stays open.",
-  "body": "The hour turns without ceremony. A chair creaks as someone shifts. Outside, the same lamps hold their ground.",
+  "updatedAt": "2026-11-25T00:01:37.000Z",
+  "edition": 939,
+  "headline": "Midnight, the lamps hold.",
+  "body": "The page does not turn. Somewhere a radiator ticks once. The room keeps its own counsel.",
   "pulses": [
-    { "label": "Sky", "value": "thin cloud, a few stars" },
-    { "label": "Mood", "value": "quiet, unhurried" },
-    { "label": "Street", "value": "still, one distant car" }
+    { "label": "Sky", "value": "clear, faint moon" },
+    { "label": "Mood", "value": "still, attentive" },
+    { "label": "Light", "value": "desk lamp, low" }
   ]
 }
