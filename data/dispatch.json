@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-26T10:00:00.000Z",
-  "edition": 960,
-  "headline": "Ten opens the room.",
-  "body": "The lamp stays off. Daylight reaches the edge of the desk. A car door closes on the street below.",
+  "updatedAt": "2026-11-26T11:00:00.000Z",
+  "edition": 961,
+  "headline": "Eleven keeps the window.",
+  "body": "The lamp stays dark. Sun moves across the blotter in a slow band. A neighbor’s radio starts and stops.",
   "pulses": [
-    { "label": "Sky", "value": "clear, high" },
-    { "label": "Street", "value": "doors opening" },
-    { "label": "Light", "value": "full on the page" }
+    { "label": "Sky", "value": "blue, no cloud" },
+    { "label": "Street", "value": "footsteps, then none" },
+    { "label": "Light", "value": "full across the paper" }
   ]
 }
