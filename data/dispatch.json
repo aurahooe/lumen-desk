@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-26T07:01:21.000Z",
-  "edition": 958,
-  "headline": "Seven lifts a grey edge.",
-  "body": "The window has taken on a thin light that is not yet day. The lamp still holds its small circle on the page. Outside, a single bus waits with its doors closed.",
+  "updatedAt": "2026-11-26T09:00:00.000Z",
+  "edition": 959,
+  "headline": "Nine fills the glass.",
+  "body": "The lamp has cooled against the day. An open page keeps the last line of night. Outside the window a bicycle passes and is gone.",
   "pulses": [
-    { "label": "Sky", "value": "pale rim, no sun" },
-    { "label": "Street", "value": "one bus, engine low" },
-    { "label": "Light", "value": "lamp thinning against glass" }
+    { "label": "Sky", "value": "pale blue, high" },
+    { "label": "Street", "value": "early motion, light" },
+    { "label": "Light", "value": "full across the desk" }
   ]
 }
