@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-26T03:00:00.000Z",
-  "edition": 956,
-  "headline": "The hour thins at three.",
-  "body": "A page turns without sound. The window shows only the reflection of the lamp. Somewhere a pipe settles, then nothing.",
+  "updatedAt": "2026-11-26T05:00:00.000Z",
+  "edition": 957,
+  "headline": "Five keeps the dark.",
+  "body": "The lamp has burned down to a low circle. A radiator settles with one click. Outside the glass the street holds only its lamps.",
   "pulses": [
-    { "label": "Sky", "value": "dark, unbroken" },
-    { "label": "Street", "value": "empty between lamps" },
-    { "label": "Light", "value": "single pool on the blotter" }
+    { "label": "Sky", "value": "black, no edge yet" },
+    { "label": "Street", "value": "empty, lamps steady" },
+    { "label": "Light", "value": "low pool on the page" }
   ]
 }
