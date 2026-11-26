@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-26T22:01:23.000Z",
-  "edition": 965,
-  "headline": "The radiator ticks once.",
-  "body": "The radiator ticks once and settles. Outside, a single pair of footsteps fades toward the river. The page is blank except for the date.",
+  "updatedAt": "2026-11-26T23:00:00.000Z",
+  "edition": 966,
+  "headline": "The glass cools against the night.",
+  "body": "A radiator clicks once and falls quiet. Footsteps pass and do not return. The page remains open to the same line.",
   "pulses": [
-    { "label": "Sky", "value": "clear, cold" },
-    { "label": "Street", "value": "quiet, frost" },
-    { "label": "Light", "value": "low on the sill" }
+    { "label": "Sky", "value": "clear, stars thin" },
+    { "label": "Street", "value": "frost on the pavement" },
+    { "label": "Light", "value": "low across the desk" }
   ]
 }
