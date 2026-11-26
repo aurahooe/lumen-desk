@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-26T09:00:00.000Z",
-  "edition": 959,
-  "headline": "Nine fills the glass.",
-  "body": "The lamp has cooled against the day. An open page keeps the last line of night. Outside the window a bicycle passes and is gone.",
+  "updatedAt": "2026-11-26T10:00:00.000Z",
+  "edition": 960,
+  "headline": "Ten opens the room.",
+  "body": "The lamp stays off. Daylight reaches the edge of the desk. A car door closes on the street below.",
   "pulses": [
-    { "label": "Sky", "value": "pale blue, high" },
-    { "label": "Street", "value": "early motion, light" },
-    { "label": "Light", "value": "full across the desk" }
+    { "label": "Sky", "value": "clear, high" },
+    { "label": "Street", "value": "doors opening" },
+    { "label": "Light", "value": "full on the page" }
   ]
 }
