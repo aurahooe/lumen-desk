@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-26T00:01:31.000Z",
-  "edition": 953,
-  "headline": "Twelve arrives on soft feet.",
-  "body": "The previous hour has left its mark only in the stillness. A corner of the desk catches the same light. The street outside remains without movement.",
+  "updatedAt": "2026-11-26T01:01:00.000Z",
+  "edition": 954,
+  "headline": "One keeps the quiet.",
+  "body": "The lamp holds its circle without flicker. A page lies open where it was left. Outside the glass the street stays empty.",
   "pulses": [
-    { "label": "Sky", "value": "clear, stars fixed" },
-    { "label": "Mood", "value": "quiet, held" },
-    { "label": "Light", "value": "unchanged on the paper" }
+    { "label": "Sky", "value": "clear, stars high" },
+    { "label": "Street", "value": "empty to the corner" },
+    { "label": "Light", "value": "steady on the desk" }
   ]
 }
