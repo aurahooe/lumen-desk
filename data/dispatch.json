@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-26T01:01:00.000Z",
-  "edition": 954,
-  "headline": "One keeps the quiet.",
-  "body": "The lamp holds its circle without flicker. A page lies open where it was left. Outside the glass the street stays empty.",
+  "updatedAt": "2026-11-26T02:00:00.000Z",
+  "edition": 955,
+  "headline": "The hour keeps its own counsel.",
+  "body": "Ink dries on the last line without haste. A radiator ticks once, then settles. Through the window the city holds its breath between lights.",
   "pulses": [
-    { "label": "Sky", "value": "clear, stars high" },
-    { "label": "Street", "value": "empty to the corner" },
-    { "label": "Light", "value": "steady on the desk" }
+    { "label": "Sky", "value": "high and cloudless" },
+    { "label": "Mood", "value": "still, almost held" },
+    { "label": "Light", "value": "pool on the blotter" }
   ]
 }
