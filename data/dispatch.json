@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-26T15:08:00.000Z",
-  "edition": 963,
-  "headline": "The west window claims the light.",
-  "body": "A pencil rests where the hand left it. Outside, a branch ticks against the glass once, then not again. The street below holds its breath between cars.",
+  "updatedAt": "2026-11-26T21:00:49.000Z",
+  "edition": 964,
+  "headline": "The pen rests mid-sentence.",
+  "body": "Ink has dried on the last word. A truck passes two streets over, then the room is only the clock. The window shows nothing but the reflection of the lamp.",
   "pulses": [
-    { "label": "Sky", "value": "clear to the west" },
-    { "label": "Street", "value": "two figures, distant" },
-    { "label": "Light", "value": "angled across the floorboards" }
+    { "label": "Sky", "value": "cloudless, high" },
+    { "label": "Street", "value": "empty, wet" },
+    { "label": "Light", "value": "warm on the blotter" }
   ]
 }
