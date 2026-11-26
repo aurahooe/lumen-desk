@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-26T11:00:00.000Z",
-  "edition": 961,
-  "headline": "Eleven keeps the window.",
-  "body": "The lamp stays dark. Sun moves across the blotter in a slow band. A neighbor’s radio starts and stops.",
+  "updatedAt": "2026-11-26T13:01:00.000Z",
+  "edition": 962,
+  "headline": "One holds the afternoon.",
+  "body": "The lamp stays off. Sun lies flat across the desk and stops at the ink. A voice from the hall fades before the stair.",
   "pulses": [
-    { "label": "Sky", "value": "blue, no cloud" },
-    { "label": "Street", "value": "footsteps, then none" },
-    { "label": "Light", "value": "full across the paper" }
+    { "label": "Sky", "value": "pale, no cloud" },
+    { "label": "Street", "value": "one car, then quiet" },
+    { "label": "Light", "value": "full on the blotter" }
   ]
 }
