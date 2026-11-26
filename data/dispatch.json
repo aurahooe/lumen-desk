@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-26T05:00:00.000Z",
-  "edition": 957,
-  "headline": "Five keeps the dark.",
-  "body": "The lamp has burned down to a low circle. A radiator settles with one click. Outside the glass the street holds only its lamps.",
+  "updatedAt": "2026-11-26T07:01:21.000Z",
+  "edition": 958,
+  "headline": "Seven lifts a grey edge.",
+  "body": "The window has taken on a thin light that is not yet day. The lamp still holds its small circle on the page. Outside, a single bus waits with its doors closed.",
   "pulses": [
-    { "label": "Sky", "value": "black, no edge yet" },
-    { "label": "Street", "value": "empty, lamps steady" },
-    { "label": "Light", "value": "low pool on the page" }
+    { "label": "Sky", "value": "pale rim, no sun" },
+    { "label": "Street", "value": "one bus, engine low" },
+    { "label": "Light", "value": "lamp thinning against glass" }
   ]
 }
