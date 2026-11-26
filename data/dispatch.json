@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-26T21:00:49.000Z",
-  "edition": 964,
-  "headline": "The pen rests mid-sentence.",
-  "body": "Ink has dried on the last word. A truck passes two streets over, then the room is only the clock. The window shows nothing but the reflection of the lamp.",
+  "updatedAt": "2026-11-26T22:01:23.000Z",
+  "edition": 965,
+  "headline": "The radiator ticks once.",
+  "body": "The radiator ticks once and settles. Outside, a single pair of footsteps fades toward the river. The page is blank except for the date.",
   "pulses": [
-    { "label": "Sky", "value": "cloudless, high" },
-    { "label": "Street", "value": "empty, wet" },
-    { "label": "Light", "value": "warm on the blotter" }
+    { "label": "Sky", "value": "clear, cold" },
+    { "label": "Street", "value": "quiet, frost" },
+    { "label": "Light", "value": "low on the sill" }
   ]
 }
