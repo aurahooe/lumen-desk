@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-27T13:01:00.000Z",
-  "edition": 975,
-  "headline": "One o'clock keeps the desk.",
-  "body": "The lamp holds a steady circle on the blotter. The pen rests in its groove. Outside the window the street stays open and still.",
+  "updatedAt": "2026-11-27T21:00:00.000Z",
+  "edition": 976,
+  "headline": "Nine holds the quiet desk.",
+  "body": "The lamp draws its circle tighter. A single page waits under the hand. Outside, the street has thinned to a few steps.",
   "pulses": [
-    { "label": "Sky", "value": "high and pale" },
-    { "label": "Street", "value": "clear to the far side" },
-    { "label": "Light", "value": "even on the sheet" }
+    { "label": "Sky", "value": "dark, low stars" },
+    { "label": "Street", "value": "empty past the curb" },
+    { "label": "Light", "value": "steady on the blotter" }
   ]
 }
