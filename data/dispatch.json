@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-27T21:00:00.000Z",
-  "edition": 976,
-  "headline": "Nine holds the quiet desk.",
-  "body": "The lamp draws its circle tighter. A single page waits under the hand. Outside, the street has thinned to a few steps.",
+  "updatedAt": "2026-11-27T22:00:00.000Z",
+  "edition": 977,
+  "headline": "Ten closes the outer door.",
+  "body": "The blotter holds one more margin. Footsteps outside have gone. The lamp does not ask for more.",
   "pulses": [
-    { "label": "Sky", "value": "dark, low stars" },
-    { "label": "Street", "value": "empty past the curb" },
-    { "label": "Light", "value": "steady on the blotter" }
+    { "label": "Sky", "value": "dark, one faint star" },
+    { "label": "Street", "value": "still to the corner" },
+    { "label": "Light", "value": "low over the page" }
   ]
 }
