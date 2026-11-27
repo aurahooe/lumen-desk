@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-27T01:00:00.000Z",
-  "edition": 968,
-  "headline": "The second hour finds the same desk.",
-  "body": "The lamp holds its circle of light. No one has entered the room. Outside the glass the street remains empty.",
+  "updatedAt": "2026-11-27T02:00:00.000Z",
+  "edition": 969,
+  "headline": "Two o'clock keeps the lamp lit.",
+  "body": "The chair stays empty. A thin line of light crosses the blotter. Outside, the street holds its silence.",
   "pulses": [
-    { "label": "Sky", "value": "clear with faint stars" },
-    { "label": "Street", "value": "still after midnight" },
-    { "label": "Watch", "value": "one o'clock" }
+    { "label": "Sky", "value": "black with scattered stars" },
+    { "label": "Street", "value": "empty to the far corner" },
+    { "label": "Light", "value": "steady on the desk" }
   ]
 }
