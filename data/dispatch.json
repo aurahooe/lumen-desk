@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-27T11:00:00.000Z",
-  "edition": 973,
-  "headline": "Eleven o'clock keeps the desk quiet.",
-  "body": "The lamp has cooled to a steady glow. A single sheet lies unmarked. Outside, the pale light has leveled across the street.",
+  "updatedAt": "2026-11-27T12:00:00.000Z",
+  "edition": 974,
+  "headline": "Noon holds the page unmarked.",
+  "body": "The lamp keeps its circle on the blotter. The pen rests where it was left. Outside the window the street stays open and quiet.",
   "pulses": [
-    { "label": "Sky", "value": "even pale, no cloud" },
-    { "label": "Street", "value": "empty to the far curb" },
-    { "label": "Light", "value": "steady on the blotter" }
+    { "label": "Sky", "value": "high and even" },
+    { "label": "Street", "value": "clear to the corner" },
+    { "label": "Light", "value": "steady on the sheet" }
   ]
 }
