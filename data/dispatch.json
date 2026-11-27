@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-27T12:00:00.000Z",
-  "edition": 974,
-  "headline": "Noon holds the page unmarked.",
-  "body": "The lamp keeps its circle on the blotter. The pen rests where it was left. Outside the window the street stays open and quiet.",
+  "updatedAt": "2026-11-27T13:01:00.000Z",
+  "edition": 975,
+  "headline": "One o'clock keeps the desk.",
+  "body": "The lamp holds a steady circle on the blotter. The pen rests in its groove. Outside the window the street stays open and still.",
   "pulses": [
-    { "label": "Sky", "value": "high and even" },
-    { "label": "Street", "value": "clear to the corner" },
-    { "label": "Light", "value": "steady on the sheet" }
+    { "label": "Sky", "value": "high and pale" },
+    { "label": "Street", "value": "clear to the far side" },
+    { "label": "Light", "value": "even on the sheet" }
   ]
 }
