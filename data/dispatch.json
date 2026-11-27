@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-27T04:00:00.000Z",
-  "edition": 970,
-  "headline": "Four o'clock keeps the same desk.",
-  "body": "The lamp still circles the blotter. No one has crossed the threshold. Outside the glass a thin pale line begins to form along the rooftops.",
+  "updatedAt": "2026-11-27T08:00:00.000Z",
+  "edition": 971,
+  "headline": "Eight o'clock holds the desk.",
+  "body": "The lamp has cooled but not gone out. A pale band of light lies across the blotter. Outside, the street is empty and the glass holds a thin wash of day.",
   "pulses": [
-    { "label": "Sky", "value": "stars thinning, pale edge" },
-    { "label": "Street", "value": "empty, one lamp at the corner" },
-    { "label": "Light", "value": "steady on the paper" }
+    { "label": "Sky", "value": "pale wash, no stars" },
+    { "label": "Street", "value": "empty, one wet patch" },
+    { "label": "Light", "value": "thin across the blotter" }
   ]
 }
