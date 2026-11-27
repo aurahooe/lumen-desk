@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-27T02:00:00.000Z",
-  "edition": 969,
-  "headline": "Two o'clock keeps the lamp lit.",
-  "body": "The chair stays empty. A thin line of light crosses the blotter. Outside, the street holds its silence.",
+  "updatedAt": "2026-11-27T04:00:00.000Z",
+  "edition": 970,
+  "headline": "Four o'clock keeps the same desk.",
+  "body": "The lamp still circles the blotter. No one has crossed the threshold. Outside the glass a thin pale line begins to form along the rooftops.",
   "pulses": [
-    { "label": "Sky", "value": "black with scattered stars" },
-    { "label": "Street", "value": "empty to the far corner" },
-    { "label": "Light", "value": "steady on the desk" }
+    { "label": "Sky", "value": "stars thinning, pale edge" },
+    { "label": "Street", "value": "empty, one lamp at the corner" },
+    { "label": "Light", "value": "steady on the paper" }
   ]
 }
