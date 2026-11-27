@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-26T23:00:00.000Z",
-  "edition": 966,
-  "headline": "The glass cools against the night.",
-  "body": "A radiator clicks once and falls quiet. Footsteps pass and do not return. The page remains open to the same line.",
+  "updatedAt": "2026-11-27T00:00:00.000Z",
+  "edition": 967,
+  "headline": "One more hour in the same chair.",
+  "body": "The tea has gone cold in the cup. A page turns somewhere in the building. The night does not comment.",
   "pulses": [
-    { "label": "Sky", "value": "clear, stars thin" },
-    { "label": "Street", "value": "frost on the pavement" },
-    { "label": "Light", "value": "low across the desk" }
+    { "label": "Sky", "value": "clear and high" },
+    { "label": "Street", "value": "quiet after the last bus" },
+    { "label": "Light", "value": "warm on the blotter" }
   ]
 }
