@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-27T22:00:00.000Z",
-  "edition": 977,
-  "headline": "Ten closes the outer door.",
-  "body": "The blotter holds one more margin. Footsteps outside have gone. The lamp does not ask for more.",
+  "updatedAt": "2026-11-27T23:00:00.000Z",
+  "edition": 978,
+  "headline": "Eleven keeps the room.",
+  "body": "The lamp draws its last tight circle. One margin remains open. The street beyond has gone still.",
   "pulses": [
-    { "label": "Sky", "value": "dark, one faint star" },
-    { "label": "Street", "value": "still to the corner" },
-    { "label": "Light", "value": "low over the page" }
+    { "label": "Sky", "value": "clear, stars high" },
+    { "label": "Street", "value": "empty to the curb" },
+    { "label": "Watch", "value": "held to the desk" }
   ]
 }
