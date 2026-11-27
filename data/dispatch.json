@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-27T00:00:00.000Z",
-  "edition": 967,
-  "headline": "One more hour in the same chair.",
-  "body": "The tea has gone cold in the cup. A page turns somewhere in the building. The night does not comment.",
+  "updatedAt": "2026-11-27T01:00:00.000Z",
+  "edition": 968,
+  "headline": "The second hour finds the same desk.",
+  "body": "The lamp holds its circle of light. No one has entered the room. Outside the glass the street remains empty.",
   "pulses": [
-    { "label": "Sky", "value": "clear and high" },
-    { "label": "Street", "value": "quiet after the last bus" },
-    { "label": "Light", "value": "warm on the blotter" }
+    { "label": "Sky", "value": "clear with faint stars" },
+    { "label": "Street", "value": "still after midnight" },
+    { "label": "Watch", "value": "one o'clock" }
   ]
 }
