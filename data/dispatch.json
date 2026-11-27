@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-27T09:00:00.000Z",
-  "edition": 972,
-  "headline": "Nine o'clock finds the lamp still warm.",
-  "body": "The blotter takes a wider band of light. No one has entered yet. Outside, the pale wash has thickened along the rooftops.",
+  "updatedAt": "2026-11-27T11:00:00.000Z",
+  "edition": 973,
+  "headline": "Eleven o'clock keeps the desk quiet.",
+  "body": "The lamp has cooled to a steady glow. A single sheet lies unmarked. Outside, the pale light has leveled across the street.",
   "pulses": [
-    { "label": "Sky", "value": "pale, thickening at the edges" },
-    { "label": "Street", "value": "still empty, curb wet" },
-    { "label": "Light", "value": "wider across the paper" }
+    { "label": "Sky", "value": "even pale, no cloud" },
+    { "label": "Street", "value": "empty to the far curb" },
+    { "label": "Light", "value": "steady on the blotter" }
   ]
 }
