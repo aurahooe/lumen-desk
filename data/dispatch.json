@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-28T04:00:00.000Z",
-  "edition": 983,
-  "headline": "Four holds the cooling desk.",
-  "body": "The lamp draws its circle no tighter. A single page lies unmarked under the hand. Outside the glass the street remains empty.",
+  "updatedAt": "2026-11-28T05:00:00.000Z",
+  "edition": 984,
+  "headline": "Five keeps the lamp low.",
+  "body": "The circle on the blotter holds steady. A page lies unmarked under the hand. Outside the glass the street has not yet stirred.",
   "pulses": [
     { "label": "Sky", "value": "dark, faint east pale" },
     { "label": "Street", "value": "empty, lamps still lit" },
-    { "label": "Light", "value": "steady, warm on the blotter" }
+    { "label": "Light", "value": "warm, held to the desk" }
   ]
 }
