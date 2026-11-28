@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-28T12:00:00.000Z",
-  "edition": 990,
-  "headline": "Noon settles on the blotter.",
-  "body": "The shadow of the lamp has not yet moved. A window across the street holds a square of pale light. The page stays open to the same margin.",
+  "updatedAt": "2026-11-28T14:02:34.000Z",
+  "edition": 991,
+  "headline": "Two holds the open page.",
+  "body": "The lamp draws a tighter circle on the blotter. Across the street a window stays dark. The pen rests in its groove, tip pointing left.",
   "pulses": [
-    { "label": "Sky", "value": "high, nearly white" },
-    { "label": "Light", "value": "flat across the desk" },
-    { "label": "Watch", "value": "hands at twelve" }
+    { "label": "Sky", "value": "high and pale" },
+    { "label": "Street", "value": "empty past the curb" },
+    { "label": "Light", "value": "angled on the paper" }
   ]
 }
