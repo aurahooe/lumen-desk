@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-28T02:00:00.000Z",
-  "edition": 981,
-  "headline": "Two o’clock, the lamp holds.",
-  "body": "The blotter still warm from the last page. Outside the window the street shows only its own reflection. A freight horn sounds once far west and is not repeated.",
+  "updatedAt": "2026-11-28T03:00:00.000Z",
+  "edition": 982,
+  "headline": "Three o’clock, the blotter cools.",
+  "body": "The lamp has not moved since the last note. A single car passes below and does not stop. The window glass holds the room longer than the street.",
   "pulses": [
-    { "label": "Sky", "value": "clear, moon low in the west" },
-    { "label": "Light", "value": "low and even across the desk" },
-    { "label": "Street", "value": "empty, dry pavement, no footsteps" }
+    { "label": "Sky", "value": "clear, moon lower in the west" },
+    { "label": "Light", "value": "steady on the paper edge" },
+    { "label": "Street", "value": "empty, one distant light fading" }
   ]
 }
