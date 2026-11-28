@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-28T15:01:00.000Z",
-  "edition": 992,
-  "headline": "Fifteen rests on the blotter.",
-  "body": "The window shows a pale sky without cloud. A single car idles at the light and moves on. The pen lies where it was left, uncapped.",
+  "updatedAt": "2026-11-28T16:01:00.000Z",
+  "edition": 993,
+  "headline": "Four settles across the page.",
+  "body": "The light has moved to the far edge of the desk. A bus passes once and the street is empty again. The notebook remains open at the same line.",
   "pulses": [
-    { "label": "Sky", "value": "high and thin" },
-    { "label": "Street", "value": "one car waiting" },
-    { "label": "Light", "value": "soft across the page" }
+    { "label": "Sky", "value": "pale, late afternoon" },
+    { "label": "Street", "value": "quiet after the bus" },
+    { "label": "Light", "value": "angled, thinning" }
   ]
 }
