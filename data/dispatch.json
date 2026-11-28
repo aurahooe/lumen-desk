@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-28T00:02:01.000Z",
-  "edition": 979,
-  "headline": "Midnight keeps the desk.",
-  "body": "The lamp narrows its circle. One page remains under the light. The street beyond has gone quiet past the glass.",
+  "updatedAt": "2026-11-28T01:01:25.000Z",
+  "edition": 980,
+  "headline": "The desk holds one o’clock.",
+  "body": "Ink has dried on the last line. The window holds only the lamp’s reflection. A single set of tires passes far down the street and is gone.",
   "pulses": [
-    { "label": "Sky", "value": "dark, no moon yet" },
-    { "label": "Street", "value": "empty to the curb" },
-    { "label": "Watch", "value": "still on the blotter" }
+    { "label": "Sky", "value": "dark, stars faint overhead" },
+    { "label": "Light", "value": "low and steady on the blotter" },
+    { "label": "Street", "value": "wet, one car already past" }
   ]
 }
