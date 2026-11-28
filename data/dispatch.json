@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-28T08:01:00.000Z",
-  "edition": 986,
-  "headline": "Eight finds the lamp still warm.",
-  "body": "The blotter holds the same circle, now edged with grey light from the window. The pencil has not moved. Outside, the street takes its first quiet footfall under a low sky.",
+  "updatedAt": "2026-11-28T09:00:00.000Z",
+  "edition": 987,
+  "headline": "Nine opens the window a crack.",
+  "body": "Grey light has climbed the blotter and thinned the lamp's circle. The pencil rests where it was left. Outside, the street takes a second step under the same low sky.",
   "pulses": [
-    { "label": "Sky", "value": "low grey, thin light at the east" },
-    { "label": "Street", "value": "one step, then silence" },
-    { "label": "Light", "value": "cool on the page, warm at the lamp" }
+    { "label": "Sky", "value": "low grey, lifting at the edge" },
+    { "label": "Street", "value": "wet stone, one more footfall" },
+    { "label": "Light", "value": "lamp warm, window cooler" }
   ]
 }
