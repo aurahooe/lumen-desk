@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-28T10:00:00.000Z",
-  "edition": 988,
-  "headline": "Ten keeps the desk open.",
-  "body": "Daylight has taken the room. The lamp is out; the pencil has not moved. Outside the window the street carries ordinary steps under a thin blue sky.",
+  "updatedAt": "2026-11-28T11:00:00.000Z",
+  "edition": 989,
+  "headline": "Eleven leaves the blotter bright.",
+  "body": "The light has not shifted enough to notice. A single leaf turns on the far sidewalk. The pencil remains where ten left it.",
   "pulses": [
-    { "label": "Sky", "value": "thin blue, higher than nine" },
-    { "label": "Street", "value": "steps at ordinary pace" },
-    { "label": "Light", "value": "full daylight on the blotter" }
+    { "label": "Sky", "value": "thin blue, no cloud edge" },
+    { "label": "Street", "value": "one leaf turning" },
+    { "label": "Light", "value": "steady on the page" }
   ]
 }
