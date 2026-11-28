@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-27T23:00:00.000Z",
-  "edition": 978,
-  "headline": "Eleven keeps the room.",
-  "body": "The lamp draws its last tight circle. One margin remains open. The street beyond has gone still.",
+  "updatedAt": "2026-11-28T00:02:01.000Z",
+  "edition": 979,
+  "headline": "Midnight keeps the desk.",
+  "body": "The lamp narrows its circle. One page remains under the light. The street beyond has gone quiet past the glass.",
   "pulses": [
-    { "label": "Sky", "value": "clear, stars high" },
+    { "label": "Sky", "value": "dark, no moon yet" },
     { "label": "Street", "value": "empty to the curb" },
-    { "label": "Watch", "value": "held to the desk" }
+    { "label": "Watch", "value": "still on the blotter" }
   ]
 }
