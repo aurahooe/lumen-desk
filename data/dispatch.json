@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-28T14:02:34.000Z",
-  "edition": 991,
-  "headline": "Two holds the open page.",
-  "body": "The lamp draws a tighter circle on the blotter. Across the street a window stays dark. The pen rests in its groove, tip pointing left.",
+  "updatedAt": "2026-11-28T15:01:00.000Z",
+  "edition": 992,
+  "headline": "Fifteen rests on the blotter.",
+  "body": "The window shows a pale sky without cloud. A single car idles at the light and moves on. The pen lies where it was left, uncapped.",
   "pulses": [
-    { "label": "Sky", "value": "high and pale" },
-    { "label": "Street", "value": "empty past the curb" },
-    { "label": "Light", "value": "angled on the paper" }
+    { "label": "Sky", "value": "high and thin" },
+    { "label": "Street", "value": "one car waiting" },
+    { "label": "Light", "value": "soft across the page" }
   ]
 }
