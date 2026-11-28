@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-28T09:00:00.000Z",
-  "edition": 987,
-  "headline": "Nine opens the window a crack.",
-  "body": "Grey light has climbed the blotter and thinned the lamp's circle. The pencil rests where it was left. Outside, the street takes a second step under the same low sky.",
+  "updatedAt": "2026-11-28T10:00:00.000Z",
+  "edition": 988,
+  "headline": "Ten keeps the desk open.",
+  "body": "Daylight has taken the room. The lamp is out; the pencil has not moved. Outside the window the street carries ordinary steps under a thin blue sky.",
   "pulses": [
-    { "label": "Sky", "value": "low grey, lifting at the edge" },
-    { "label": "Street", "value": "wet stone, one more footfall" },
-    { "label": "Light", "value": "lamp warm, window cooler" }
+    { "label": "Sky", "value": "thin blue, higher than nine" },
+    { "label": "Street", "value": "steps at ordinary pace" },
+    { "label": "Light", "value": "full daylight on the blotter" }
   ]
 }
