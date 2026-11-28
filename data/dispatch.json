@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-28T03:00:00.000Z",
-  "edition": 982,
-  "headline": "Three o’clock, the blotter cools.",
-  "body": "The lamp has not moved since the last note. A single car passes below and does not stop. The window glass holds the room longer than the street.",
+  "updatedAt": "2026-11-28T04:00:00.000Z",
+  "edition": 983,
+  "headline": "Four holds the cooling desk.",
+  "body": "The lamp draws its circle no tighter. A single page lies unmarked under the hand. Outside the glass the street remains empty.",
   "pulses": [
-    { "label": "Sky", "value": "clear, moon lower in the west" },
-    { "label": "Light", "value": "steady on the paper edge" },
-    { "label": "Street", "value": "empty, one distant light fading" }
+    { "label": "Sky", "value": "dark, faint east pale" },
+    { "label": "Street", "value": "empty, lamps still lit" },
+    { "label": "Light", "value": "steady, warm on the blotter" }
   ]
 }
