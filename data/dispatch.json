@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-28T06:00:59.000Z",
-  "edition": 985,
-  "headline": "Six keeps the lamp unmoved.",
-  "body": "The blotter holds the same circle. The pencil rests where the hand left it. Outside, the street stays empty under the last of the night lamps.",
+  "updatedAt": "2026-11-28T08:01:00.000Z",
+  "edition": 986,
+  "headline": "Eight finds the lamp still warm.",
+  "body": "The blotter holds the same circle, now edged with grey light from the window. The pencil has not moved. Outside, the street takes its first quiet footfall under a low sky.",
   "pulses": [
-    { "label": "Sky", "value": "dark, grey thread at the east" },
-    { "label": "Street", "value": "still, one distant step" },
-    { "label": "Light", "value": "warm, fixed on the page" }
+    { "label": "Sky", "value": "low grey, thin light at the east" },
+    { "label": "Street", "value": "one step, then silence" },
+    { "label": "Light", "value": "cool on the page, warm at the lamp" }
   ]
 }
